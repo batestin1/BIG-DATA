@@ -26,12 +26,13 @@ Projects                                                  | Type  	             
 ----------------------------------------------------------|:---------------------------:|:-----------------------------------------------------------------------------------------------------:|
 Iron Bank Braavos                          				  |Financial Bank 	            | Simulation of what the Braavos iron bank system would be like                                         |
 Harry Potter											  |Academic System              | Simulation of what a Hoghwarts World Wizarding Exam would be like                                     |
-Nasa													  |Scientific System            | Simulation of NASA Exoplanet Exploratory Analysis Archives                                            |
+Nasa Exoplanets								    		  |Scientific System            | Simulation of NASA Exoplanet Exploratory Analysis Archives                                            |
+Nasa Asteroids								    		  |Scientific System            | Simulation of NASA Space Observatory in Search of NEO                                            |
 One Piece												  |Population Census System     | Simulation of what the ONE PIECE anime population census would be like if it were real                |
 Sandman													  |Library File System          | System for controlling books and catalogs from the Library of Dreams from the Sandman literary series |
 
 
->> <h3> How to Start </h3>
 -------------------------
+>> <h3> How to Start </h3>
 
 <p> To run the project run the shell script "run_script.sh". </p>

@@ -30,9 +30,10 @@ echo -choose """which project to start
 
 [1] - Game Of Thrones
 [2] - Harry Potter
-[3] - Nasa
-[4] - One Piece
-[5] - Sandman"""
+[3] - Nasa Exoplanets
+[4] - Nasa Asteroids
+[5] - One Piece
+[6] - Sandman"""
 read choose
 
 if [ $choose -eq 1 ]
@@ -60,7 +61,7 @@ then
       pip install -r requeriments.txt
       cd ..
       sh run_script.sh
-elif [ $choose -eq 4 ]
+elif [ $choose -eq 5 ]
 then
       echo "Expand Your Maps with One Piece Project"
       cd one_piece
@@ -68,7 +69,7 @@ then
       pip install -r requeriments.txt
       cd ..
       sh run_script.sh 
-elif [ $choose -eq 5 ]
+elif [ $choose -eq 6 ]
 then
       echo "Dream a litle dream about books with Sandman Project"
       cd sandman
@@ -76,6 +77,14 @@ then
       pip install -r requeriments.txt
       cd ..
       sh run.sh
+elif [ $choose -eq 4 ]
+then
+      echo "Explore the Asteroids with Nasa Asteroids Project"
+      cd ASTEROIDS
+      cd dependencies
+      pip install -r requeriments.txt
+      cd ..
+      sh run_script.sh
 else
       echo "Enter the right answer"
 fi
