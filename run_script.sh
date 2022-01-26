@@ -80,7 +80,7 @@ then
 elif [ $choose -eq 4 ]
 then
       echo "Explore the Asteroids with Nasa Asteroids Project"
-      cd ASTEROIDS
+      cd ASTEROID
       cd dependencies
       pip install -r requeriments.txt
       cd ..
