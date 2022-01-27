@@ -27,7 +27,8 @@ Projects                                                  | Type  	             
 Iron Bank Braavos                          				  |Financial Bank 	            | Simulation of what the Braavos iron bank system would be like                                         |
 Harry Potter											  |Academic System              | Simulation of what a Hoghwarts World Wizarding Exam would be like                                     |
 Nasa Exoplanets								    		  |Scientific System            | Simulation of NASA Exoplanet Exploratory Analysis Archives                                            |
-Nasa Asteroids								    		  |Scientific System            | Simulation of NASA Space Observatory in Search of NEO                                            |
+Nasa Asteroids								    		  |Scientific System            | Simulation of NASA Space Observatory in Search of NEO                                                 |
+Nasa MARS Craters								    	  |Scientific System            | Simulation of NASA Rovers Walking in solo Mars                                                        |
 One Piece												  |Population Census System     | Simulation of what the ONE PIECE anime population census would be like if it were real                |
 Sandman													  |Library File System          | System for controlling books and catalogs from the Library of Dreams from the Sandman literary series |
 
