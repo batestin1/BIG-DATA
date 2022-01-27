@@ -76,6 +76,7 @@ elif [ $choose -eq 4 ]
 then
       echo "Explore the Asteroids with Nasa Asteroids Project"
       cd ASTEROID
+<<<<<<< HEAD
       cd dependencies
       pip install -r requeriments.txt
       cd ..
@@ -84,6 +85,8 @@ elif [ $choose -eq 5 ]
 then
       echo "Explore Mars Craters with Opportunity"
       cd MARS
+=======
+>>>>>>> 78d543ec18c27f3c6e60c91f4c32d83271e09fe8
       cd dependencies
       pip install -r requeriments.txt
       cd ..
