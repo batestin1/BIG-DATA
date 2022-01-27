@@ -1,63 +1,63 @@
 {
  "spk_id":2003681,
- "object_id":"s0000003680",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"408562251m/s",
+ "object_id":"c0000003680",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"296810180m/s",
  "object_fullname":{
-  "fullname":"2017 ME",
-  "prefix":"2017 ",
-  "name":"HUGHDOWNS"
+  "fullname":"2001 CE",
+  "prefix":"2001 ",
+  "name":"EUGENEMAR"
  },
- "pdes":381,
+ "pdes":574,
  "diameter_full":{
-  "diameter":37.37290465782,
-  "diameter_sigma":5.8256179415
+  "diameter":81.783318543,
+  "diameter_sigma":6.5666
  },
- "h":1.5,
- "albedo":0.671586,
- "orbit_id":"ACM 35",
+ "h":1.125,
+ "albedo":0.43,
+ "orbit_id":"ONS 18",
  "epoch_full":{
-  "epoch":4724168.0,
-  "epoch_mjd":99336,
-  "epoch_cal":20220131.0
+  "epoch":7761971.0,
+  "epoch_mjd":69973,
+  "epoch_cal":20220206.0
  },
- "equinox":"P4033",
- "om":9.8249416288617,
- "e":0.0,
- "a":12343973962.3,
- "q":71281722.21,
- "i":45.6,
- "w":58.36414,
- "ad":0.6,
- "ma":55.238762,
- "n":3.425,
+ "equinox":"A6005",
+ "om":42.604,
+ "e":0.6,
+ "a":602925720.139,
+ "q":7053156514159.0,
+ "i":327818982.0,
+ "w":31.0,
+ "ad":0.0,
+ "ma":52.17387507507578,
+ "n":83.947504768058,
  "tp_full":{
-  "tp_cal":39.7433656207551,
-  "tp":99.0
+  "tp_cal":59.83,
+  "tp":97.60762079565
  },
  "per_full":{
-  "per":54.5510020536,
-  "per_y":80.1527
+  "per":12.1445137,
+  "per_y":8.74047124
  },
  "sigma_full":{
-  "sigma_e":"3.30H-10",
-  "sigma_a":"9.44A-46",
-  "sigma_q":"4.87B-15",
-  "sigma_i":"6.52D-35",
-  "sigma_om":"8.91P-47",
-  "sigma_w":"9.97U-92",
-  "sigma_ma":"9.48I-14",
-  "sigma_ad":"4.55F-13",
-  "sigma_n":"2.81S-72",
-  "sigma_tp":"2.15F-63",
-  "sigma_per":"5.95W-75"
+  "sigma_e":"6.58H-59",
+  "sigma_a":"8.90T-30",
+  "sigma_q":"9.70R-84",
+  "sigma_i":"7.61D-36",
+  "sigma_om":"9.89A-80",
+  "sigma_w":"3.95K-89",
+  "sigma_ma":"7.35S-50",
+  "sigma_ad":"2.27W-59",
+  "sigma_n":"3.92N-68",
+  "sigma_tp":"7.21P-76",
+  "sigma_per":"9.41C-30"
  },
- "rms":0.2,
+ "rms":0.9718,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":82.6522679
+  "moid":0.15383193,
+  "moid_id":79.4273
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

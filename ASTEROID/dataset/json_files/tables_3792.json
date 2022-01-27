@@ -1,63 +1,63 @@
 {
  "spk_id":2003793,
- "object_id":"r0000003792",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"163105304m/s",
+ "object_id":"d0000003792",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"723094231m/s",
  "object_fullname":{
-  "fullname":"2001 GR",
-  "prefix":"2001 ",
-  "name":"JAROFF"
+  "fullname":"2010 MO",
+  "prefix":"2010 ",
+  "name":"CASTELLO"
  },
- "pdes":492,
+ "pdes":105,
  "diameter_full":{
-  "diameter":53.5759,
-  "diameter_sigma":8.21767109262209
+  "diameter":97.8,
+  "diameter_sigma":4.95
  },
- "h":0.23076923076923078,
+ "h":1.3333333333333333,
  "albedo":0.0,
- "orbit_id":"RSS 50",
+ "orbit_id":"ACK 52",
  "epoch_full":{
-  "epoch":3768594.0,
-  "epoch_mjd":11084,
-  "epoch_cal":20220209.0
+  "epoch":8916078.0,
+  "epoch_mjd":96252,
+  "epoch_cal":20220127.0
  },
- "equinox":"G7904",
- "om":75.86,
- "e":0.0,
- "a":89564626681.8966,
- "q":3152911.0,
- "i":187523639.617,
- "w":66.87284522747,
- "ad":0.4495944055,
- "ma":91.5803231,
- "n":86.364589386,
+ "equinox":"R9269",
+ "om":63.862514,
+ "e":0.18,
+ "a":195826.318733,
+ "q":61.5,
+ "i":854114184235.521,
+ "w":49.5296418,
+ "ad":0.96762,
+ "ma":43.2,
+ "n":84.273,
  "tp_full":{
-  "tp_cal":85.15994866694,
-  "tp":55.6305516924
+  "tp_cal":94.2320815348,
+  "tp":67.0
  },
  "per_full":{
-  "per":28.8319157927907,
-  "per_y":13.64926743671
+  "per":25.861834182935,
+  "per_y":60.9387419281931
  },
  "sigma_full":{
-  "sigma_e":"7.17U-31",
-  "sigma_a":"9.23E-73",
-  "sigma_q":"7.84P-40",
-  "sigma_i":"1.21H-85",
-  "sigma_om":"3.10S-32",
-  "sigma_w":"6.30A-48",
-  "sigma_ma":"4.25N-17",
-  "sigma_ad":"6.38D-47",
-  "sigma_n":"1.74T-74",
-  "sigma_tp":"6.94P-66",
-  "sigma_per":"7.16P-87"
+  "sigma_e":"2.20P-89",
+  "sigma_a":"2.54F-85",
+  "sigma_q":"1.65D-12",
+  "sigma_i":"3.93P-93",
+  "sigma_om":"2.33M-19",
+  "sigma_w":"9.73S-60",
+  "sigma_ma":"6.50N-78",
+  "sigma_ad":"5.98S-51",
+  "sigma_n":"2.73R-74",
+  "sigma_tp":"4.22S-47",
+  "sigma_per":"7.74I-54"
  },
- "rms":0.2,
+ "rms":0.46222,
  "moid_full":{
-  "moid":0.705,
-  "moid_id":48.0
+  "moid":0.293,
+  "moid_id":90.457066266528
  },
  "class_asteroid":"Other Types"
 }

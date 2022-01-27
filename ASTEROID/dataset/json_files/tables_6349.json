@@ -1,63 +1,63 @@
 {
  "spk_id":2006350,
- "object_id":"p0000006349",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"156578715m/s",
+ "object_id":"c0000006349",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"796585901m/s",
  "object_fullname":{
-  "fullname":"2007 ST",
+  "fullname":"2007 DE",
   "prefix":"2007 ",
-  "name":"BRADSHAW"
+  "name":"APAN"
  },
- "pdes":125,
+ "pdes":196,
  "diameter_full":{
-  "diameter":13.4604,
-  "diameter_sigma":9.653106614417
+  "diameter":66.896919680638,
+  "diameter_sigma":4.591542
  },
- "h":0.65,
- "albedo":0.0,
- "orbit_id":"IRR 99",
+ "h":1.0,
+ "albedo":0.87646,
+ "orbit_id":"SWE 66",
  "epoch_full":{
-  "epoch":7881406.0,
-  "epoch_mjd":25225,
-  "epoch_cal":20220221.0
+  "epoch":9723015.0,
+  "epoch_mjd":32841,
+  "epoch_cal":20220212.0
  },
- "equinox":"S8158",
- "om":26.0,
- "e":0.288,
- "a":361059620424.73,
- "q":82805265586521.0,
- "i":94860.77559643,
- "w":34.6629,
- "ad":0.67162,
- "ma":33.99727915798,
- "n":7.6702,
+ "equinox":"G4872",
+ "om":81.154921713398,
+ "e":0.854,
+ "a":98420047813.7539,
+ "q":18396.246842986,
+ "i":9678813113154.4,
+ "w":78.24111530477,
+ "ad":0.605,
+ "ma":14.0,
+ "n":82.65,
  "tp_full":{
-  "tp_cal":19.73350141,
-  "tp":14.494
+  "tp_cal":33.36,
+  "tp":87.6123563453
  },
  "per_full":{
-  "per":34.0,
-  "per_y":32.11099188536
+  "per":77.0,
+  "per_y":49.90397
  },
  "sigma_full":{
-  "sigma_e":"7.74L-33",
-  "sigma_a":"1.70R-45",
-  "sigma_q":"7.75P-14",
-  "sigma_i":"5.95T-97",
-  "sigma_om":"7.33R-51",
-  "sigma_w":"9.81M-14",
-  "sigma_ma":"9.47L-74",
-  "sigma_ad":"4.43C-43",
-  "sigma_n":"9.91O-82",
-  "sigma_tp":"7.72L-44",
-  "sigma_per":"4.94H-89"
+  "sigma_e":"5.49A-18",
+  "sigma_a":"4.10T-71",
+  "sigma_q":"1.73T-39",
+  "sigma_i":"7.63G-83",
+  "sigma_om":"1.80M-57",
+  "sigma_w":"3.20T-77",
+  "sigma_ma":"5.97S-38",
+  "sigma_ad":"5.45O-93",
+  "sigma_n":"2.56A-31",
+  "sigma_tp":"7.13F-14",
+  "sigma_per":"8.41L-81"
  },
- "rms":0.0,
+ "rms":0.6,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":89.448
+  "moid":0.7182,
+  "moid_id":12.49
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

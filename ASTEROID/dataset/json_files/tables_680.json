@@ -1,63 +1,63 @@
 {
  "spk_id":2000681,
  "object_id":"l000000680",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"470089503m/s",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"20777244m/s",
  "object_fullname":{
-  "fullname":"2000 FO",
-  "prefix":"2000 ",
-  "name":"ALBANESE"
+  "fullname":"2019 SP",
+  "prefix":"2019 ",
+  "name":"JUSTINO"
  },
- "pdes":958,
+ "pdes":546,
  "diameter_full":{
-  "diameter":16.21003407,
-  "diameter_sigma":5.0
+  "diameter":28.82592981,
+  "diameter_sigma":9.3520892
  },
- "h":2.2,
- "albedo":0.3,
- "orbit_id":"SML 24",
+ "h":0.6111111111111112,
+ "albedo":0.0,
+ "orbit_id":"TPE 78",
  "epoch_full":{
-  "epoch":2177169.0,
-  "epoch_mjd":99458,
-  "epoch_cal":20220219.0
+  "epoch":6423671.0,
+  "epoch_mjd":52299,
+  "epoch_cal":20220203.0
  },
- "equinox":"P1512",
- "om":84.56942300979243,
- "e":0.8904,
- "a":28861684866775.0,
- "q":1011029275629.3,
- "i":795082888496.1,
- "w":59.39,
- "ad":0.0,
- "ma":90.270753,
- "n":19.1250522626,
+ "equinox":"C5240",
+ "om":77.89342139,
+ "e":0.0,
+ "a":9398338.2815548,
+ "q":89.0,
+ "i":42.79428485872,
+ "w":31.8128701714071,
+ "ad":0.2331,
+ "ma":23.209225799,
+ "n":69.4655,
  "tp_full":{
-  "tp_cal":1.52221236,
-  "tp":69.4592
+  "tp_cal":24.64451773861,
+  "tp":47.62392177889
  },
  "per_full":{
-  "per":68.8777590585,
-  "per_y":93.38731
+  "per":12.817690459,
+  "per_y":2.8185311
  },
  "sigma_full":{
-  "sigma_e":"4.86S-10",
-  "sigma_a":"9.56L-20",
-  "sigma_q":"8.42S-20",
-  "sigma_i":"9.78D-28",
-  "sigma_om":"1.16S-19",
-  "sigma_w":"6.20E-97",
-  "sigma_ma":"7.79A-91",
-  "sigma_ad":"2.66C-41",
-  "sigma_n":"5.83M-99",
-  "sigma_tp":"7.46O-59",
-  "sigma_per":"1.68M-52"
+  "sigma_e":"1.41A-47",
+  "sigma_a":"3.47O-55",
+  "sigma_q":"9.16M-17",
+  "sigma_i":"1.57I-77",
+  "sigma_om":"4.89S-91",
+  "sigma_w":"3.57H-97",
+  "sigma_ma":"2.40S-26",
+  "sigma_ad":"4.16A-39",
+  "sigma_n":"2.92M-37",
+  "sigma_tp":"4.48T-43",
+  "sigma_per":"2.42C-68"
  },
- "rms":0.16,
+ "rms":0.1481,
  "moid_full":{
-  "moid":0.851,
-  "moid_id":25.887732
+  "moid":0.0,
+  "moid_id":14.95867
  },
- "class_asteroid":"S-"
+ "class_asteroid":"C-"
 }

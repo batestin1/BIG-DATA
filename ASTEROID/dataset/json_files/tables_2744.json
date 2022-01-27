@@ -1,63 +1,63 @@
 {
  "spk_id":2002745,
- "object_id":"a0000002744",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"686418886m/s",
+ "object_id":"m0000002744",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"197165116m/s",
  "object_fullname":{
-  "fullname":"2002 BY",
-  "prefix":"2002 ",
-  "name":"FARNHAM"
+  "fullname":"2011 DO",
+  "prefix":"2011 ",
+  "name":"EUPRAKSIA"
  },
- "pdes":114,
+ "pdes":354,
  "diameter_full":{
-  "diameter":35.7527707,
-  "diameter_sigma":9.4
+  "diameter":46.676216544994,
+  "diameter_sigma":7.8
  },
- "h":1.0,
- "albedo":0.0,
- "orbit_id":"LDH 55",
+ "h":0.375,
+ "albedo":0.5,
+ "orbit_id":"TMS 29",
  "epoch_full":{
-  "epoch":7049404.0,
-  "epoch_mjd":31692,
-  "epoch_cal":20220203.0
+  "epoch":8383224.0,
+  "epoch_mjd":82005,
+  "epoch_cal":20220206.0
  },
- "equinox":"E6248",
- "om":5.5,
- "e":0.21452,
- "a":308161063119621.0,
- "q":579500678114.5,
- "i":9978891575.7,
- "w":16.41435688,
+ "equinox":"S2801",
+ "om":21.4529952,
+ "e":0.3844,
+ "a":729238900129.7,
+ "q":4758.12282922193,
+ "i":4238708.52939,
+ "w":85.86821136533,
  "ad":0.8,
- "ma":50.0,
- "n":38.2506097412,
+ "ma":92.4549,
+ "n":18.193907707038,
  "tp_full":{
-  "tp_cal":23.94,
-  "tp":57.70029675
+  "tp_cal":98.3654202,
+  "tp":78.916739
  },
  "per_full":{
-  "per":13.0,
-  "per_y":34.6131
+  "per":80.96189709,
+  "per_y":91.9138
  },
  "sigma_full":{
-  "sigma_e":"7.83S-97",
-  "sigma_a":"3.82B-29",
-  "sigma_q":"4.80T-48",
-  "sigma_i":"4.61V-34",
-  "sigma_om":"2.32T-46",
-  "sigma_w":"2.72S-25",
-  "sigma_ma":"5.36W-94",
-  "sigma_ad":"4.31D-87",
-  "sigma_n":"8.25P-14",
-  "sigma_tp":"1.41S-87",
-  "sigma_per":"6.42S-93"
+  "sigma_e":"6.75N-80",
+  "sigma_a":"3.99M-59",
+  "sigma_q":"7.37H-66",
+  "sigma_i":"2.63L-91",
+  "sigma_om":"9.85P-78",
+  "sigma_w":"2.41M-40",
+  "sigma_ma":"4.32V-68",
+  "sigma_ad":"3.19R-39",
+  "sigma_n":"9.67O-99",
+  "sigma_tp":"9.72C-95",
+  "sigma_per":"3.48W-34"
  },
- "rms":0.5,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.89,
-  "moid_id":34.9265806850957
+  "moid":0.1,
+  "moid_id":45.60742
  },
  "class_asteroid":"M-types"
 }

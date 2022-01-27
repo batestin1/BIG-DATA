@@ -1,63 +1,63 @@
 {
  "spk_id":2006760,
- "object_id":"u0000006759",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"49594907m/s",
+ "object_id":"m0000006759",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"6047874m/s",
  "object_fullname":{
-  "fullname":"2022 GO",
+  "fullname":"2022 JO",
   "prefix":"2022 ",
-  "name":"JOHNWEIRICH"
+  "name":"JUSTINEHENIN"
  },
- "pdes":317,
+ "pdes":157,
  "diameter_full":{
-  "diameter":21.94555248,
-  "diameter_sigma":5.98491
+  "diameter":83.38,
+  "diameter_sigma":1.6472957537156
  },
- "h":3.2,
- "albedo":0.9,
- "orbit_id":"SSA 31",
+ "h":0.8421052631578947,
+ "albedo":0.0,
+ "orbit_id":"FSI 33",
  "epoch_full":{
-  "epoch":7768197.0,
-  "epoch_mjd":16087,
-  "epoch_cal":20220126.0
+  "epoch":6982587.0,
+  "epoch_mjd":98093,
+  "epoch_cal":20220224.0
  },
- "equinox":"D9595",
- "om":19.47893643,
- "e":0.3,
- "a":14217213757.82,
- "q":4381217436.74,
- "i":359097395.68441,
- "w":71.36,
- "ad":0.9302,
- "ma":88.994078,
- "n":42.452841,
+ "equinox":"W8496",
+ "om":17.35207,
+ "e":0.7,
+ "a":4338513.375113,
+ "q":6583635.51368858,
+ "i":169763401.0,
+ "w":29.311,
+ "ad":0.6,
+ "ma":39.2666544303,
+ "n":30.98604835991,
  "tp_full":{
-  "tp_cal":88.2866094683,
-  "tp":71.0
+  "tp_cal":69.0,
+  "tp":12.57
  },
  "per_full":{
-  "per":4.104588246503,
-  "per_y":63.76216822796366
+  "per":96.505125,
+  "per_y":14.21870061804
  },
  "sigma_full":{
-  "sigma_e":"2.46S-76",
-  "sigma_a":"1.89S-32",
-  "sigma_q":"5.23D-28",
-  "sigma_i":"7.46S-76",
-  "sigma_om":"5.22L-26",
-  "sigma_w":"4.97T-93",
-  "sigma_ma":"3.71R-87",
-  "sigma_ad":"8.46W-60",
-  "sigma_n":"3.69D-59",
-  "sigma_tp":"1.23N-74",
-  "sigma_per":"8.92D-69"
+  "sigma_e":"4.61D-38",
+  "sigma_a":"3.10E-33",
+  "sigma_q":"8.57S-36",
+  "sigma_i":"6.92U-17",
+  "sigma_om":"6.73M-16",
+  "sigma_w":"7.45B-54",
+  "sigma_ma":"5.84A-44",
+  "sigma_ad":"1.97R-52",
+  "sigma_n":"9.50H-43",
+  "sigma_tp":"3.76S-16",
+  "sigma_per":"5.46T-17"
  },
- "rms":0.14,
+ "rms":0.306,
  "moid_full":{
-  "moid":0.889,
-  "moid_id":23.96192
+  "moid":0.1,
+  "moid_id":53.96474
  },
  "class_asteroid":"S-"
 }

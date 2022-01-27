@@ -1,63 +1,63 @@
 {
  "spk_id":2002538,
- "object_id":"m0000002537",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"346617728m/s",
+ "object_id":"d0000002537",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"768844452m/s",
  "object_fullname":{
-  "fullname":"2016 PO",
-  "prefix":"2016 ",
-  "name":"CADDELL"
+  "fullname":"2021 MA",
+  "prefix":"2021 ",
+  "name":"HARRYSTINE"
  },
- "pdes":794,
+ "pdes":362,
  "diameter_full":{
-  "diameter":68.9236726200336,
-  "diameter_sigma":6.671
+  "diameter":89.858629526,
+  "diameter_sigma":6.884107546209
  },
- "h":1.6666666666666667,
- "albedo":0.52181,
- "orbit_id":"RVS 83",
+ "h":20.0,
+ "albedo":0.7784615671441,
+ "orbit_id":"ISW 67",
  "epoch_full":{
-  "epoch":2616267.0,
-  "epoch_mjd":44094,
-  "epoch_cal":20220205.0
+  "epoch":2409156.0,
+  "epoch_mjd":89729,
+  "epoch_cal":20220219.0
  },
- "equinox":"C4121",
- "om":59.9,
- "e":0.1618570383,
- "a":7489666796469.1,
- "q":119.5925091361,
- "i":8709.59,
- "w":68.1314541,
- "ad":0.56,
- "ma":98.6,
- "n":65.569637182,
+ "equinox":"C2290",
+ "om":89.9852163,
+ "e":0.64,
+ "a":33.1052942088,
+ "q":8039.9574521134,
+ "i":47.635676,
+ "w":81.76531912,
+ "ad":0.907,
+ "ma":41.91876384,
+ "n":22.9,
  "tp_full":{
-  "tp_cal":33.0,
-  "tp":97.94759804424
+  "tp_cal":46.406413958985,
+  "tp":93.8181793
  },
  "per_full":{
-  "per":49.46673277605,
-  "per_y":38.81381292674407
+  "per":42.7818796808127,
+  "per_y":56.356
  },
  "sigma_full":{
-  "sigma_e":"7.25I-57",
-  "sigma_a":"1.42F-85",
-  "sigma_q":"5.38H-53",
-  "sigma_i":"5.11T-15",
-  "sigma_om":"7.31F-22",
-  "sigma_w":"3.40H-52",
-  "sigma_ma":"7.69E-44",
-  "sigma_ad":"2.93P-18",
-  "sigma_n":"4.64P-59",
-  "sigma_tp":"5.86W-30",
-  "sigma_per":"7.40E-57"
+  "sigma_e":"2.56B-84",
+  "sigma_a":"7.26Y-61",
+  "sigma_q":"9.42M-73",
+  "sigma_i":"2.46Y-19",
+  "sigma_om":"7.15Q-65",
+  "sigma_w":"1.11K-94",
+  "sigma_ma":"9.26M-79",
+  "sigma_ad":"1.11H-97",
+  "sigma_n":"5.75L-45",
+  "sigma_tp":"7.91T-86",
+  "sigma_per":"4.13C-19"
  },
- "rms":0.2736884018,
+ "rms":0.78,
  "moid_full":{
-  "moid":0.111261,
-  "moid_id":97.7
+  "moid":0.240956,
+  "moid_id":81.866604205345
  },
  "class_asteroid":"M-types"
 }

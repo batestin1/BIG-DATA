@@ -1,63 +1,63 @@
 {
  "spk_id":2003574,
- "object_id":"i0000003573",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"680558704m/s",
+ "object_id":"c0000003573",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"284775293m/s",
  "object_fullname":{
-  "fullname":"2021 WO",
-  "prefix":"2021 ",
-  "name":"GASE"
+  "fullname":"2004 RE",
+  "prefix":"2004 ",
+  "name":"ALASKA"
  },
- "pdes":813,
+ "pdes":339,
  "diameter_full":{
-  "diameter":99.64422801,
-  "diameter_sigma":3.621413425
+  "diameter":99.36734076698,
+  "diameter_sigma":7.340273147714
  },
- "h":1.1818181818181819,
- "albedo":0.0,
- "orbit_id":"TAW 75",
+ "h":0.18181818181818182,
+ "albedo":0.55,
+ "orbit_id":"BCC 51",
  "epoch_full":{
-  "epoch":3156064.0,
-  "epoch_mjd":35959,
-  "epoch_cal":20220203.0
+  "epoch":4941655.0,
+  "epoch_mjd":57787,
+  "epoch_cal":20220209.0
  },
- "equinox":"E6348",
- "om":95.60471205674675,
- "e":0.591917,
- "a":577021.3259,
- "q":81636569718131.4,
- "i":127489626370.2,
- "w":32.8365,
- "ad":0.288,
- "ma":66.1152617555,
- "n":58.677,
+ "equinox":"N3093",
+ "om":49.0,
+ "e":0.67,
+ "a":679045.42,
+ "q":55.166,
+ "i":16656326240.0,
+ "w":46.0,
+ "ad":0.0,
+ "ma":30.8825665,
+ "n":28.6485,
  "tp_full":{
-  "tp_cal":88.4289,
-  "tp":2.28
+  "tp_cal":5.4431675206178,
+  "tp":96.1164857240574
  },
  "per_full":{
-  "per":82.5,
-  "per_y":60.512
+  "per":44.46856061889,
+  "per_y":25.6405863100628
  },
  "sigma_full":{
-  "sigma_e":"5.78Y-24",
-  "sigma_a":"9.56L-69",
-  "sigma_q":"4.86A-16",
-  "sigma_i":"9.20M-88",
-  "sigma_om":"8.89P-39",
-  "sigma_w":"6.56E-55",
-  "sigma_ma":"8.88A-34",
-  "sigma_ad":"7.88L-19",
-  "sigma_n":"7.82H-39",
-  "sigma_tp":"8.68M-28",
-  "sigma_per":"4.91S-91"
+  "sigma_e":"9.35I-17",
+  "sigma_a":"4.16W-46",
+  "sigma_q":"8.33C-31",
+  "sigma_i":"1.22L-37",
+  "sigma_om":"5.82A-21",
+  "sigma_w":"2.41C-66",
+  "sigma_ma":"9.46I-59",
+  "sigma_ad":"2.30M-84",
+  "sigma_n":"1.55S-51",
+  "sigma_tp":"4.53G-44",
+  "sigma_per":"6.62F-84"
  },
- "rms":0.0,
+ "rms":0.48,
  "moid_full":{
-  "moid":0.4967,
-  "moid_id":40.168295971399
+  "moid":0.19,
+  "moid_id":83.8
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

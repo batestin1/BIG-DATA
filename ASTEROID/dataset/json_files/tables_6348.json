@@ -1,63 +1,63 @@
 {
  "spk_id":2006349,
- "object_id":"e0000006348",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"598832867m/s",
+ "object_id":"p0000006348",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"51379765m/s",
  "object_fullname":{
-  "fullname":"2021 CI",
-  "prefix":"2021 ",
-  "name":"CHANGHSIANGTUNG"
+  "fullname":"2002 HA",
+  "prefix":"2002 ",
+  "name":"AUSTINCUMMINGS"
  },
- "pdes":223,
+ "pdes":383,
  "diameter_full":{
-  "diameter":11.56519,
-  "diameter_sigma":5.663
+  "diameter":40.77,
+  "diameter_sigma":7.593512
  },
- "h":0.6923076923076923,
- "albedo":0.88,
- "orbit_id":"LRR 55",
+ "h":4.333333333333333,
+ "albedo":0.72,
+ "orbit_id":"STY 81",
  "epoch_full":{
-  "epoch":6572998.0,
-  "epoch_mjd":16112,
-  "epoch_cal":20220204.0
+  "epoch":4359944.0,
+  "epoch_mjd":95786,
+  "epoch_cal":20220205.0
  },
- "equinox":"P1684",
- "om":11.72,
- "e":0.4653,
- "a":369.1,
- "q":2205182971.3,
- "i":29162774.841,
- "w":1.6106996403,
- "ad":0.53,
- "ma":55.20956421273,
- "n":4.5261112577,
+ "equinox":"N3002",
+ "om":64.205592,
+ "e":0.9439,
+ "a":4226.341243,
+ "q":1.538521995188,
+ "i":2207.7921194,
+ "w":93.6905,
+ "ad":0.1479,
+ "ma":52.0,
+ "n":60.514145603,
  "tp_full":{
-  "tp_cal":9.540808,
-  "tp":43.561570482
+  "tp_cal":91.1330441707646,
+  "tp":66.964
  },
  "per_full":{
-  "per":55.788954,
-  "per_y":12.38
+  "per":1.0,
+  "per_y":1.5
  },
  "sigma_full":{
-  "sigma_e":"1.69O-93",
-  "sigma_a":"5.41D-66",
-  "sigma_q":"5.64H-25",
-  "sigma_i":"1.38R-66",
-  "sigma_om":"1.41C-40",
-  "sigma_w":"7.20S-26",
-  "sigma_ma":"2.86D-57",
-  "sigma_ad":"2.68A-72",
-  "sigma_n":"6.53E-27",
-  "sigma_tp":"9.28T-84",
-  "sigma_per":"8.45W-98"
+  "sigma_e":"1.31G-80",
+  "sigma_a":"1.46S-99",
+  "sigma_q":"1.34L-57",
+  "sigma_i":"7.20O-76",
+  "sigma_om":"2.71W-41",
+  "sigma_w":"4.84A-66",
+  "sigma_ma":"7.37A-23",
+  "sigma_ad":"9.68T-55",
+  "sigma_n":"1.18D-94",
+  "sigma_tp":"2.12P-20",
+  "sigma_per":"9.25S-58"
  },
- "rms":0.33,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":29.3788
+  "moid":0.27542751,
+  "moid_id":91.7
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

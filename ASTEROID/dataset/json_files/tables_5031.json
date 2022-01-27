@@ -1,63 +1,63 @@
 {
  "spk_id":2005032,
- "object_id":"p0000005031",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"149350221m/s",
+ "object_id":"r0000005031",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"583730062m/s",
  "object_fullname":{
-  "fullname":"2003 AD",
-  "prefix":"2003 ",
-  "name":"BOKOR"
+  "fullname":"2008 WE",
+  "prefix":"2008 ",
+  "name":"ELCALAFATE"
  },
- "pdes":589,
+ "pdes":115,
  "diameter_full":{
-  "diameter":54.811,
-  "diameter_sigma":3.39
+  "diameter":32.668771,
+  "diameter_sigma":4.2667907
  },
- "h":4.0,
- "albedo":0.378842349,
- "orbit_id":"BCP 33",
+ "h":0.3076923076923077,
+ "albedo":0.63,
+ "orbit_id":"WPD 37",
  "epoch_full":{
-  "epoch":6881852.0,
-  "epoch_mjd":38102,
-  "epoch_cal":20220212.0
+  "epoch":7723983.0,
+  "epoch_mjd":14672,
+  "epoch_cal":20220223.0
  },
- "equinox":"G8869",
- "om":74.315,
+ "equinox":"T4192",
+ "om":32.88,
  "e":0.0,
- "a":241631045929.53,
- "q":39021113.1979,
- "i":84807554927.79,
- "w":89.0,
- "ad":0.5,
- "ma":76.23145475472154,
- "n":80.267407406122,
+ "a":1137817647.1235,
+ "q":5759519.8121,
+ "i":737067.37,
+ "w":76.4,
+ "ad":0.370698,
+ "ma":26.5970577184,
+ "n":25.923,
  "tp_full":{
-  "tp_cal":38.3411492580941,
-  "tp":4.1725513
+  "tp_cal":10.80628,
+  "tp":90.9
  },
  "per_full":{
-  "per":91.684,
-  "per_y":15.54104542108
+  "per":19.44,
+  "per_y":99.0
  },
  "sigma_full":{
-  "sigma_e":"2.61M-56",
-  "sigma_a":"5.44L-34",
-  "sigma_q":"1.47S-55",
-  "sigma_i":"1.48U-56",
-  "sigma_om":"4.92F-45",
-  "sigma_w":"8.49O-56",
-  "sigma_ma":"7.67F-74",
-  "sigma_ad":"1.93C-19",
-  "sigma_n":"9.88M-43",
-  "sigma_tp":"6.70W-76",
-  "sigma_per":"4.92H-27"
+  "sigma_e":"7.38D-49",
+  "sigma_a":"8.31S-34",
+  "sigma_q":"4.35L-95",
+  "sigma_i":"1.13D-34",
+  "sigma_om":"8.18B-22",
+  "sigma_w":"7.27C-11",
+  "sigma_ma":"9.22H-68",
+  "sigma_ad":"5.62N-31",
+  "sigma_n":"3.63M-12",
+  "sigma_tp":"5.27F-31",
+  "sigma_per":"1.40N-53"
  },
- "rms":0.236,
+ "rms":0.22,
  "moid_full":{
-  "moid":0.5,
-  "moid_id":69.56268790403
+  "moid":0.2111795019,
+  "moid_id":54.3178787835
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

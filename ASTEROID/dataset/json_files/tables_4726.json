@@ -1,63 +1,63 @@
 {
  "spk_id":2004727,
- "object_id":"l0000004726",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"241758025m/s",
+ "object_id":"c0000004726",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"398755886m/s",
  "object_fullname":{
-  "fullname":"2004 SC",
-  "prefix":"2004 ",
-  "name":"CARFREKAHL"
+  "fullname":"2021 AL",
+  "prefix":"2021 ",
+  "name":"BRAGARIA"
  },
- "pdes":778,
+ "pdes":200,
  "diameter_full":{
-  "diameter":70.803232979,
-  "diameter_sigma":1.679111252
+  "diameter":76.9212854039,
+  "diameter_sigma":1.15461431
  },
- "h":4.0,
- "albedo":0.0,
- "orbit_id":"GOS 68",
+ "h":2.0,
+ "albedo":0.621146902,
+ "orbit_id":"RTA 82",
  "epoch_full":{
-  "epoch":1527342.0,
-  "epoch_mjd":61226,
-  "epoch_cal":20220216.0
+  "epoch":9579273.0,
+  "epoch_mjd":40990,
+  "epoch_cal":20220224.0
  },
- "equinox":"P6633",
- "om":24.8069,
- "e":0.0,
- "a":9.2008252,
- "q":64795802738.0,
- "i":27820298.42,
- "w":42.593851356,
+ "equinox":"T7231",
+ "om":99.2755556029622,
+ "e":0.5197,
+ "a":79.0,
+ "q":966.3071834587,
+ "i":58617.49016,
+ "w":57.413,
  "ad":0.0,
- "ma":31.349036137631,
- "n":7.391,
+ "ma":31.1273730027355,
+ "n":77.9,
  "tp_full":{
-  "tp_cal":10.86,
-  "tp":88.29
+  "tp_cal":11.1,
+  "tp":95.57264806558
  },
  "per_full":{
-  "per":38.14066,
-  "per_y":6.18604218352958
+  "per":92.0,
+  "per_y":84.249892
  },
  "sigma_full":{
-  "sigma_e":"7.21L-60",
-  "sigma_a":"2.65M-34",
-  "sigma_q":"1.41P-78",
-  "sigma_i":"2.97P-63",
-  "sigma_om":"8.73S-76",
-  "sigma_w":"4.93W-72",
-  "sigma_ma":"4.41C-61",
-  "sigma_ad":"5.47B-26",
-  "sigma_n":"9.74M-45",
-  "sigma_tp":"5.31H-41",
-  "sigma_per":"1.49W-25"
+  "sigma_e":"8.68S-74",
+  "sigma_a":"4.92C-32",
+  "sigma_q":"4.62F-67",
+  "sigma_i":"9.53M-22",
+  "sigma_om":"8.55B-87",
+  "sigma_w":"8.48A-73",
+  "sigma_ma":"8.88M-27",
+  "sigma_ad":"6.49L-44",
+  "sigma_n":"9.74B-31",
+  "sigma_tp":"6.89I-92",
+  "sigma_per":"6.23W-57"
  },
- "rms":0.548,
+ "rms":0.54,
  "moid_full":{
-  "moid":0.9942,
-  "moid_id":11.53744523499
+  "moid":0.50645,
+  "moid_id":27.42626989828409
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"S-"
 }

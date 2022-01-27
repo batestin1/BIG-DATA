@@ -1,63 +1,63 @@
 {
  "spk_id":2000498,
- "object_id":"f000000497",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"193049654m/s",
+ "object_id":"e000000497",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"61671508m/s",
  "object_fullname":{
-  "fullname":"2018 TR",
-  "prefix":"2018 ",
-  "name":"ERICCRAINE"
+  "fullname":"2017 LI",
+  "prefix":"2017 ",
+  "name":"HANUS"
  },
- "pdes":864,
+ "pdes":609,
  "diameter_full":{
-  "diameter":17.73969186381098,
-  "diameter_sigma":4.72
+  "diameter":85.9973393904019,
+  "diameter_sigma":3.6123921739516
  },
- "h":0.35294117647058826,
+ "h":1.125,
  "albedo":0.0,
- "orbit_id":"CVP 79",
+ "orbit_id":"BWS 10",
  "epoch_full":{
-  "epoch":7526816.0,
-  "epoch_mjd":14286,
-  "epoch_cal":20220131.0
+  "epoch":3326051.0,
+  "epoch_mjd":23937,
+  "epoch_cal":20220207.0
  },
- "equinox":"A5099",
- "om":57.94043956072,
- "e":0.88,
- "a":179069419181257.0,
- "q":8.77681821912269,
- "i":2066025135718.84,
- "w":18.97633103,
- "ad":0.60616,
- "ma":47.165,
- "n":59.55400962,
+ "equinox":"M7628",
+ "om":36.6275950093,
+ "e":0.0,
+ "a":41347435449.0,
+ "q":518602914.5,
+ "i":1872159.9238,
+ "w":75.67,
+ "ad":0.0,
+ "ma":83.8,
+ "n":10.0,
  "tp_full":{
-  "tp_cal":92.5846689216224,
-  "tp":46.759182867256
+  "tp_cal":9.978,
+  "tp":41.2
  },
  "per_full":{
-  "per":56.0,
-  "per_y":26.365
+  "per":62.48966204,
+  "per_y":25.5243413
  },
  "sigma_full":{
-  "sigma_e":"8.75L-96",
-  "sigma_a":"5.88T-45",
-  "sigma_q":"3.37C-38",
-  "sigma_i":"3.60W-24",
-  "sigma_om":"8.96B-51",
-  "sigma_w":"2.56T-26",
-  "sigma_ma":"9.94C-44",
-  "sigma_ad":"9.61R-63",
-  "sigma_n":"5.18N-97",
-  "sigma_tp":"5.85E-89",
-  "sigma_per":"3.12E-31"
+  "sigma_e":"9.59S-94",
+  "sigma_a":"5.99W-66",
+  "sigma_q":"7.25T-56",
+  "sigma_i":"4.58T-75",
+  "sigma_om":"2.47D-80",
+  "sigma_w":"4.93A-19",
+  "sigma_ma":"7.81D-81",
+  "sigma_ad":"7.30P-51",
+  "sigma_n":"5.56A-47",
+  "sigma_tp":"8.34R-92",
+  "sigma_per":"3.17N-78"
  },
- "rms":0.5,
+ "rms":0.492860197,
  "moid_full":{
   "moid":0.0,
-  "moid_id":42.4326
+  "moid_id":82.204
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2000940,
- "object_id":"c000000939",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"46182360m/s",
+ "object_id":"w000000939",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"316770621m/s",
  "object_fullname":{
-  "fullname":"2015 CA",
+  "fullname":"2015 LA",
   "prefix":"2015 ",
-  "name":"BORODINO"
+  "name":"ERIKOLSSON"
  },
- "pdes":313,
+ "pdes":634,
  "diameter_full":{
-  "diameter":17.0,
-  "diameter_sigma":5.7804
+  "diameter":13.3586999952639,
+  "diameter_sigma":2.4
  },
- "h":0.3,
- "albedo":0.68,
- "orbit_id":"LGH 22",
+ "h":0.07142857142857142,
+ "albedo":0.7,
+ "orbit_id":"MOP 70",
  "epoch_full":{
-  "epoch":8197203.0,
-  "epoch_mjd":95508,
-  "epoch_cal":20220210.0
+  "epoch":8446760.0,
+  "epoch_mjd":48953,
+  "epoch_cal":20220224.0
  },
- "equinox":"C5802",
- "om":49.0,
- "e":0.0,
- "a":52485532930.5795,
- "q":66865894.47,
- "i":78357638.659,
- "w":33.9476000984,
- "ad":0.8935035,
- "ma":55.96709704013,
- "n":70.77799,
+ "equinox":"S9832",
+ "om":34.87,
+ "e":0.6,
+ "a":9857.45,
+ "q":30500309450764.0,
+ "i":199635542859702.0,
+ "w":2.883,
+ "ad":0.51457311,
+ "ma":63.514414114,
+ "n":84.49463197413283,
  "tp_full":{
-  "tp_cal":38.18246873,
-  "tp":66.73
+  "tp_cal":51.23,
+  "tp":73.33682996442
  },
  "per_full":{
-  "per":93.99,
-  "per_y":91.0
+  "per":78.85990570155,
+  "per_y":21.29512928
  },
  "sigma_full":{
-  "sigma_e":"6.59T-60",
-  "sigma_a":"7.31T-89",
-  "sigma_q":"8.73F-70",
-  "sigma_i":"1.10W-29",
-  "sigma_om":"6.43P-47",
-  "sigma_w":"9.96E-49",
-  "sigma_ma":"8.34R-49",
-  "sigma_ad":"5.46D-46",
-  "sigma_n":"5.75G-59",
-  "sigma_tp":"8.27S-53",
-  "sigma_per":"3.92P-56"
+  "sigma_e":"8.98M-34",
+  "sigma_a":"4.14J-92",
+  "sigma_q":"2.23R-80",
+  "sigma_i":"3.91W-77",
+  "sigma_om":"5.28E-30",
+  "sigma_w":"9.70M-72",
+  "sigma_ma":"5.14O-75",
+  "sigma_ad":"1.50C-29",
+  "sigma_n":"5.15S-37",
+  "sigma_tp":"5.27G-15",
+  "sigma_per":"4.79G-84"
  },
- "rms":0.5695,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.1,
-  "moid_id":84.4945572
+  "moid":0.2,
+  "moid_id":3.931051531
  },
  "class_asteroid":"C-"
 }

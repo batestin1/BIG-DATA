@@ -1,63 +1,63 @@
 {
  "spk_id":2006482,
- "object_id":"n0000006481",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"635009915m/s",
+ "object_id":"r0000006481",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"400667641m/s",
  "object_fullname":{
-  "fullname":"2001 FE",
-  "prefix":"2001 ",
-  "name":"DALIYA"
+  "fullname":"2002 AN",
+  "prefix":"2002 ",
+  "name":"FUKUCHAN"
  },
- "pdes":158,
+ "pdes":290,
  "diameter_full":{
-  "diameter":89.5216271,
-  "diameter_sigma":9.421728
+  "diameter":24.4,
+  "diameter_sigma":5.56
  },
- "h":0.7142857142857143,
- "albedo":0.1,
- "orbit_id":"BEC 19",
+ "h":5.0,
+ "albedo":0.0,
+ "orbit_id":"ATS 96",
  "epoch_full":{
-  "epoch":3536959.0,
-  "epoch_mjd":63495,
-  "epoch_cal":20220206.0
+  "epoch":7634077.0,
+  "epoch_mjd":35735,
+  "epoch_cal":20220208.0
  },
- "equinox":"W4753",
- "om":63.4678,
- "e":0.9123703,
- "a":2595235383.0,
- "q":427383066851730.0,
- "i":10.168,
- "w":35.405706643563,
+ "equinox":"I4393",
+ "om":55.35070063,
+ "e":0.26,
+ "a":51916416.159076,
+ "q":440934399.13331,
+ "i":5597779837692.58,
+ "w":88.6912444051,
  "ad":0.0,
- "ma":72.0,
- "n":56.3168343523,
+ "ma":87.875,
+ "n":6.848,
  "tp_full":{
-  "tp_cal":80.87434459398416,
-  "tp":52.644597
+  "tp_cal":46.0,
+  "tp":83.91369452
  },
  "per_full":{
-  "per":6.259,
-  "per_y":42.29
+  "per":5.704919774218,
+  "per_y":25.4150738
  },
  "sigma_full":{
-  "sigma_e":"1.63D-87",
-  "sigma_a":"7.59D-81",
-  "sigma_q":"4.72E-39",
-  "sigma_i":"4.33T-26",
-  "sigma_om":"2.96H-56",
-  "sigma_w":"4.81B-46",
-  "sigma_ma":"3.91A-14",
-  "sigma_ad":"8.47R-91",
-  "sigma_n":"4.70W-95",
-  "sigma_tp":"4.86L-28",
-  "sigma_per":"4.60R-63"
+  "sigma_e":"4.22C-51",
+  "sigma_a":"8.78S-65",
+  "sigma_q":"3.85E-43",
+  "sigma_i":"9.72W-91",
+  "sigma_om":"9.73L-38",
+  "sigma_w":"5.39N-53",
+  "sigma_ma":"2.32H-95",
+  "sigma_ad":"5.97E-63",
+  "sigma_n":"1.59T-62",
+  "sigma_tp":"7.59E-78",
+  "sigma_per":"7.72P-21"
  },
- "rms":0.86700812,
+ "rms":0.32818472,
  "moid_full":{
-  "moid":0.78581702,
-  "moid_id":83.175
+  "moid":0.806,
+  "moid_id":51.5978487107
  },
  "class_asteroid":"S-"
 }

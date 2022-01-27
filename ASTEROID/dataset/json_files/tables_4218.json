@@ -1,63 +1,63 @@
 {
  "spk_id":2004219,
- "object_id":"a0000004218",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"817932639m/s",
+ "object_id":"w0000004218",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"460602059m/s",
  "object_fullname":{
-  "fullname":"2022 ST",
-  "prefix":"2022 ",
-  "name":"BARNOWL"
+  "fullname":"2001 QU",
+  "prefix":"2001 ",
+  "name":"FRANZTHALER"
  },
- "pdes":108,
+ "pdes":308,
  "diameter_full":{
-  "diameter":30.5149529,
-  "diameter_sigma":5.0
+  "diameter":37.503488,
+  "diameter_sigma":1.3886592
  },
- "h":2.0,
- "albedo":0.21962,
- "orbit_id":"SST 93",
+ "h":3.0,
+ "albedo":0.5943146135,
+ "orbit_id":"LIT 11",
  "epoch_full":{
-  "epoch":7580999.0,
-  "epoch_mjd":78981,
-  "epoch_cal":20220129.0
+  "epoch":8841808.0,
+  "epoch_mjd":22894,
+  "epoch_cal":20220218.0
  },
- "equinox":"M8238",
- "om":78.1875132055,
- "e":0.0,
- "a":673256325710770.0,
- "q":6.0,
- "i":8479941967037.0,
- "w":6.28,
- "ad":0.10139701,
- "ma":87.94443201720362,
- "n":90.2,
+ "equinox":"P6512",
+ "om":29.283684,
+ "e":0.8,
+ "a":84285766459351.0,
+ "q":63498.0,
+ "i":153687.653750121,
+ "w":63.9,
+ "ad":0.93,
+ "ma":40.71,
+ "n":76.222739,
  "tp_full":{
-  "tp_cal":69.5992,
-  "tp":95.185
+  "tp_cal":79.0,
+  "tp":85.0
  },
  "per_full":{
-  "per":1.64113101728,
-  "per_y":80.2789
+  "per":66.9785416789,
+  "per_y":53.44169
  },
  "sigma_full":{
-  "sigma_e":"2.98R-64",
-  "sigma_a":"1.99C-15",
-  "sigma_q":"3.97W-67",
-  "sigma_i":"9.27P-12",
-  "sigma_om":"3.98I-88",
-  "sigma_w":"3.79T-84",
-  "sigma_ma":"6.99F-40",
-  "sigma_ad":"2.11A-29",
-  "sigma_n":"6.48H-34",
-  "sigma_tp":"9.22P-47",
-  "sigma_per":"2.29H-97"
+  "sigma_e":"9.82T-36",
+  "sigma_a":"5.78M-75",
+  "sigma_q":"9.40Q-78",
+  "sigma_i":"4.14F-60",
+  "sigma_om":"3.13B-19",
+  "sigma_w":"2.13B-80",
+  "sigma_ma":"4.39L-41",
+  "sigma_ad":"6.75P-36",
+  "sigma_n":"4.17D-74",
+  "sigma_tp":"5.93B-17",
+  "sigma_per":"4.88S-19"
  },
- "rms":0.6,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.67821,
-  "moid_id":44.851
+  "moid":0.2,
+  "moid_id":68.494572
  },
- "class_asteroid":"S-"
+ "class_asteroid":"Other Types"
 }

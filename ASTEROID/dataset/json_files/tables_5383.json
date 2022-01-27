@@ -1,63 +1,63 @@
 {
  "spk_id":2005384,
- "object_id":"r0000005383",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"181364627m/s",
+ "object_id":"c0000005383",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"118435659m/s",
  "object_fullname":{
-  "fullname":"2004 CL",
-  "prefix":"2004 ",
-  "name":"GENEVIEVE"
+  "fullname":"2008 AG",
+  "prefix":"2008 ",
+  "name":"EOTVOS"
  },
- "pdes":740,
+ "pdes":521,
  "diameter_full":{
-  "diameter":63.80838,
-  "diameter_sigma":2.29103633606242
+  "diameter":28.9725582165498,
+  "diameter_sigma":7.916188
  },
- "h":0.375,
- "albedo":0.0,
- "orbit_id":"ASD 82",
+ "h":16.0,
+ "albedo":0.9,
+ "orbit_id":"ACS 66",
  "epoch_full":{
-  "epoch":3134214.0,
-  "epoch_mjd":99381,
-  "epoch_cal":20220215.0
+  "epoch":1027892.0,
+  "epoch_mjd":58041,
+  "epoch_cal":20220201.0
  },
- "equinox":"C6819",
- "om":64.6,
- "e":0.2,
- "a":3441777881085.5,
- "q":36424960.141,
- "i":258067006455124.0,
- "w":77.5740883269616,
- "ad":0.1,
- "ma":19.4628,
- "n":37.57775752208,
+ "equinox":"N5828",
+ "om":11.18907514,
+ "e":0.5718903304,
+ "a":21964902.91,
+ "q":789.3,
+ "i":450158141.66,
+ "w":57.207617749285,
+ "ad":0.44733315404,
+ "ma":74.27621840402,
+ "n":77.78780767,
  "tp_full":{
-  "tp_cal":55.473472855859,
-  "tp":82.0
+  "tp_cal":73.473909,
+  "tp":61.8
  },
  "per_full":{
-  "per":1.1,
-  "per_y":90.3
+  "per":95.4715212473222,
+  "per_y":88.215797573487
  },
  "sigma_full":{
-  "sigma_e":"4.67A-21",
-  "sigma_a":"2.13W-41",
-  "sigma_q":"8.58M-47",
-  "sigma_i":"2.79P-18",
-  "sigma_om":"2.56C-77",
-  "sigma_w":"5.83W-59",
-  "sigma_ma":"4.93P-65",
-  "sigma_ad":"9.75P-69",
-  "sigma_n":"6.20I-19",
-  "sigma_tp":"3.30T-17",
-  "sigma_per":"4.46P-29"
+  "sigma_e":"5.84A-36",
+  "sigma_a":"1.91G-91",
+  "sigma_q":"5.74P-87",
+  "sigma_i":"2.15C-59",
+  "sigma_om":"8.77S-46",
+  "sigma_w":"8.12I-75",
+  "sigma_ma":"5.50R-15",
+  "sigma_ad":"7.28S-48",
+  "sigma_n":"2.66P-47",
+  "sigma_tp":"5.52T-59",
+  "sigma_per":"3.25C-60"
  },
- "rms":0.7,
+ "rms":0.473,
  "moid_full":{
-  "moid":0.778582,
-  "moid_id":37.9
+  "moid":0.91,
+  "moid_id":50.314728812241
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

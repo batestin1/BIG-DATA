@@ -1,63 +1,63 @@
 {
  "spk_id":2001827,
- "object_id":"c0000001826",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"539387471m/s",
+ "object_id":"h0000001826",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"590155700m/s",
  "object_fullname":{
-  "fullname":"2020 BA",
+  "fullname":"2020 EV",
   "prefix":"2020 ",
-  "name":"JOSHWENTZEL"
+  "name":"DONSKOJ"
  },
- "pdes":336,
+ "pdes":106,
  "diameter_full":{
-  "diameter":4.9,
-  "diameter_sigma":5.7601
+  "diameter":82.35714381373,
+  "diameter_sigma":7.3
  },
- "h":0.625,
- "albedo":0.11,
- "orbit_id":"ISW 97",
+ "h":0.45454545454545453,
+ "albedo":0.32,
+ "orbit_id":"OGM 84",
  "epoch_full":{
-  "epoch":4754347.0,
-  "epoch_mjd":55513,
-  "epoch_cal":20220208.0
+  "epoch":1762908.0,
+  "epoch_mjd":65742,
+  "epoch_cal":20220130.0
  },
- "equinox":"M1290",
- "om":59.35155783829295,
- "e":0.2,
- "a":21994.65816694,
- "q":7.35954872487,
- "i":3949023.38641214,
- "w":65.53307845,
+ "equinox":"L3357",
+ "om":87.959690031199,
+ "e":0.85492,
+ "a":5695123159909.9,
+ "q":172196513366117.0,
+ "i":130.6943595983,
+ "w":63.218,
  "ad":0.0,
- "ma":85.1399189302111,
- "n":4.575718865,
+ "ma":11.71945,
+ "n":98.553422528,
  "tp_full":{
-  "tp_cal":43.6,
-  "tp":13.3002
+  "tp_cal":63.128,
+  "tp":16.9
  },
  "per_full":{
-  "per":94.0,
-  "per_y":70.504
+  "per":39.88039,
+  "per_y":96.1231986949
  },
  "sigma_full":{
-  "sigma_e":"8.32A-17",
-  "sigma_a":"2.13O-40",
-  "sigma_q":"6.49E-59",
-  "sigma_i":"2.30P-48",
-  "sigma_om":"5.42N-37",
-  "sigma_w":"6.36G-77",
-  "sigma_ma":"5.93S-55",
-  "sigma_ad":"1.70C-18",
-  "sigma_n":"1.28S-68",
-  "sigma_tp":"7.87D-61",
-  "sigma_per":"6.71R-58"
+  "sigma_e":"4.15S-41",
+  "sigma_a":"4.32O-30",
+  "sigma_q":"6.74H-28",
+  "sigma_i":"8.49T-85",
+  "sigma_om":"2.17S-94",
+  "sigma_w":"6.83P-94",
+  "sigma_ma":"5.85W-48",
+  "sigma_ad":"8.53A-29",
+  "sigma_n":"1.14W-62",
+  "sigma_tp":"1.36V-38",
+  "sigma_per":"8.94R-87"
  },
- "rms":0.0,
+ "rms":0.1485918984,
  "moid_full":{
-  "moid":0.343939753,
-  "moid_id":43.51548366597
+  "moid":0.0,
+  "moid_id":40.184707722398
  },
- "class_asteroid":"S-"
+ "class_asteroid":"Other Types"
 }

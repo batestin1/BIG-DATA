@@ -1,63 +1,63 @@
 {
  "spk_id":2006824,
- "object_id":"e0000006823",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"515811813m/s",
+ "object_id":"s0000006823",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"351541490m/s",
  "object_fullname":{
-  "fullname":"2014 NI",
-  "prefix":"2014 ",
-  "name":"GRAUBUNDEN"
+  "fullname":"2017 CO",
+  "prefix":"2017 ",
+  "name":"AITKEN"
  },
- "pdes":815,
+ "pdes":692,
  "diameter_full":{
-  "diameter":85.7,
-  "diameter_sigma":3.384563895466
+  "diameter":25.385608847829,
+  "diameter_sigma":9.609
  },
- "h":8.5,
- "albedo":0.0,
- "orbit_id":"CEE 52",
+ "h":1.875,
+ "albedo":0.20762,
+ "orbit_id":"EPV 35",
  "epoch_full":{
-  "epoch":5235633.0,
-  "epoch_mjd":69676,
-  "epoch_cal":20220210.0
+  "epoch":4578952.0,
+  "epoch_mjd":43952,
+  "epoch_cal":20220213.0
  },
- "equinox":"T2659",
- "om":8.7,
- "e":0.0,
- "a":53943451.4815,
- "q":52476746368912.2,
- "i":706239.780597277,
- "w":81.528,
- "ad":0.64,
- "ma":83.74138555144947,
- "n":37.7238869,
+ "equinox":"S9203",
+ "om":76.3914530434,
+ "e":0.1151,
+ "a":935.292965,
+ "q":2166572.2,
+ "i":9.527,
+ "w":32.95,
+ "ad":0.545,
+ "ma":60.4190233436,
+ "n":15.92,
  "tp_full":{
-  "tp_cal":88.71,
-  "tp":12.85176911
+  "tp_cal":64.2,
+  "tp":17.996
  },
  "per_full":{
-  "per":95.71033,
-  "per_y":74.72509157
+  "per":97.41163,
+  "per_y":80.342035052325
  },
  "sigma_full":{
-  "sigma_e":"1.80P-74",
-  "sigma_a":"4.85B-24",
-  "sigma_q":"4.89V-73",
-  "sigma_i":"6.28R-65",
-  "sigma_om":"7.27S-27",
-  "sigma_w":"3.22A-40",
-  "sigma_ma":"4.81S-31",
-  "sigma_ad":"9.97G-88",
-  "sigma_n":"4.23E-69",
-  "sigma_tp":"1.89O-32",
-  "sigma_per":"5.89F-39"
+  "sigma_e":"9.27S-80",
+  "sigma_a":"4.21C-12",
+  "sigma_q":"8.57T-12",
+  "sigma_i":"3.13A-72",
+  "sigma_om":"9.97S-48",
+  "sigma_w":"4.73R-41",
+  "sigma_ma":"2.82S-35",
+  "sigma_ad":"9.35F-29",
+  "sigma_n":"5.74H-76",
+  "sigma_tp":"1.34H-34",
+  "sigma_per":"8.31E-98"
  },
- "rms":0.66,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.245,
-  "moid_id":26.67592
+  "moid":0.0,
+  "moid_id":73.33
  },
  "class_asteroid":"M-types"
 }

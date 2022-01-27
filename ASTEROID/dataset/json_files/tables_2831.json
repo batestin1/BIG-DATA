@@ -1,63 +1,63 @@
 {
  "spk_id":2002832,
  "object_id":"b0000002831",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"623476330m/s",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"458724796m/s",
  "object_fullname":{
-  "fullname":"2005 YA",
-  "prefix":"2005 ",
-  "name":"HERGET"
+  "fullname":"2009 PR",
+  "prefix":"2009 ",
+  "name":"KATHRYNMARSH"
  },
- "pdes":421,
+ "pdes":578,
  "diameter_full":{
-  "diameter":67.6,
-  "diameter_sigma":1.3702463063
+  "diameter":67.58,
+  "diameter_sigma":8.646712
  },
- "h":2.0,
- "albedo":0.93,
- "orbit_id":"SEF 63",
+ "h":0.5,
+ "albedo":0.0,
+ "orbit_id":"AOM 51",
  "epoch_full":{
-  "epoch":7089904.0,
-  "epoch_mjd":69983,
-  "epoch_cal":20220220.0
+  "epoch":1325646.0,
+  "epoch_mjd":40560,
+  "epoch_cal":20220218.0
  },
- "equinox":"S3051",
- "om":50.8033,
- "e":0.9,
- "a":94824.75775,
- "q":351.877,
- "i":5383844.0,
- "w":30.616,
- "ad":0.538,
- "ma":43.92467,
- "n":39.57174,
+ "equinox":"O4798",
+ "om":83.43505193,
+ "e":0.7,
+ "a":415389501618.2,
+ "q":5.777955,
+ "i":59.233,
+ "w":42.17676,
+ "ad":0.27933307,
+ "ma":80.28585259716434,
+ "n":95.342585,
  "tp_full":{
-  "tp_cal":7.29126026013,
-  "tp":58.25285128
+  "tp_cal":17.1,
+  "tp":33.8
  },
  "per_full":{
-  "per":39.761,
-  "per_y":59.918
+  "per":58.82299169115,
+  "per_y":24.166675496657
  },
  "sigma_full":{
-  "sigma_e":"1.67H-85",
-  "sigma_a":"4.84L-71",
-  "sigma_q":"2.29I-54",
-  "sigma_i":"1.18R-68",
-  "sigma_om":"6.41N-55",
-  "sigma_w":"8.15L-97",
-  "sigma_ma":"8.88R-16",
-  "sigma_ad":"7.97T-98",
-  "sigma_n":"2.68O-44",
-  "sigma_tp":"4.10E-88",
-  "sigma_per":"9.49R-97"
+  "sigma_e":"2.57M-75",
+  "sigma_a":"5.27M-84",
+  "sigma_q":"3.22K-54",
+  "sigma_i":"9.17L-61",
+  "sigma_om":"5.17W-63",
+  "sigma_w":"4.23B-46",
+  "sigma_ma":"8.72T-84",
+  "sigma_ad":"3.83M-61",
+  "sigma_n":"1.19T-51",
+  "sigma_tp":"5.51W-34",
+  "sigma_per":"9.37I-70"
  },
- "rms":0.5,
+ "rms":0.54692,
  "moid_full":{
-  "moid":0.56403786303937,
-  "moid_id":88.89531903882
+  "moid":0.0,
+  "moid_id":95.65527088406533
  },
  "class_asteroid":"C-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2005470,
- "object_id":"w0000005469",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"122099814m/s",
+ "object_id":"m0000005469",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"864635637m/s",
  "object_fullname":{
-  "fullname":"2014 EN",
-  "prefix":"2014 ",
-  "name":"BERNACCA"
+  "fullname":"2016 EX",
+  "prefix":"2016 ",
+  "name":"GENUA"
  },
- "pdes":816,
+ "pdes":632,
  "diameter_full":{
-  "diameter":7.144,
-  "diameter_sigma":9.589465
+  "diameter":63.38961364791,
+  "diameter_sigma":8.0
  },
- "h":2.5,
- "albedo":0.991794329,
- "orbit_id":"ORT 77",
+ "h":2.8333333333333335,
+ "albedo":0.1,
+ "orbit_id":"FDS 88",
  "epoch_full":{
-  "epoch":5432717.0,
-  "epoch_mjd":78580,
-  "epoch_cal":20220222.0
+  "epoch":4630041.0,
+  "epoch_mjd":61085,
+  "epoch_cal":20220218.0
  },
- "equinox":"Y9865",
- "om":75.98,
- "e":0.8,
- "a":627725538.57,
- "q":35496742341630.0,
- "i":3789.15939,
- "w":69.64,
- "ad":0.2056970704,
- "ma":91.8,
- "n":4.9,
+ "equinox":"F7226",
+ "om":22.6,
+ "e":0.0,
+ "a":65942509.0,
+ "q":819.5691287968,
+ "i":202.245,
+ "w":67.71,
+ "ad":0.2,
+ "ma":45.531301222,
+ "n":21.92189,
  "tp_full":{
-  "tp_cal":27.7269123,
-  "tp":74.0
+  "tp_cal":96.709564475,
+  "tp":83.952723987
  },
  "per_full":{
-  "per":31.874859412,
-  "per_y":31.247145
+  "per":36.5782229759424,
+  "per_y":77.96
  },
  "sigma_full":{
-  "sigma_e":"1.60P-45",
-  "sigma_a":"4.51O-12",
-  "sigma_q":"1.63V-11",
-  "sigma_i":"7.93B-15",
-  "sigma_om":"4.88Q-19",
-  "sigma_w":"5.68I-25",
-  "sigma_ma":"4.39P-49",
-  "sigma_ad":"4.98O-51",
-  "sigma_n":"4.89N-47",
-  "sigma_tp":"1.83S-67",
-  "sigma_per":"9.33C-54"
+  "sigma_e":"2.60M-36",
+  "sigma_a":"6.20H-16",
+  "sigma_q":"5.36W-20",
+  "sigma_i":"1.44T-98",
+  "sigma_om":"9.16I-72",
+  "sigma_w":"1.94R-72",
+  "sigma_ma":"7.20S-68",
+  "sigma_ad":"1.50S-67",
+  "sigma_n":"4.72S-70",
+  "sigma_tp":"8.38P-88",
+  "sigma_per":"7.20S-32"
  },
- "rms":0.25251741,
+ "rms":0.6,
  "moid_full":{
-  "moid":0.36,
-  "moid_id":54.4380159856
+  "moid":0.60025,
+  "moid_id":99.0
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2000129,
- "object_id":"a000000128",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"273448746m/s",
+ "object_id":"r000000128",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"595059615m/s",
  "object_fullname":{
-  "fullname":"2017 CO",
-  "prefix":"2017 ",
-  "name":"ARIANE"
+  "fullname":"2004 HA",
+  "prefix":"2004 ",
+  "name":"BANKS"
  },
- "pdes":609,
+ "pdes":999,
  "diameter_full":{
-  "diameter":3.0,
-  "diameter_sigma":9.6300941
+  "diameter":46.216,
+  "diameter_sigma":2.91
  },
- "h":0.1111111111111111,
- "albedo":0.39739494921,
- "orbit_id":"TFS 87",
+ "h":1.125,
+ "albedo":0.1,
+ "orbit_id":"TMA 97",
  "epoch_full":{
-  "epoch":3838442.0,
-  "epoch_mjd":32767,
-  "epoch_cal":20220126.0
+  "epoch":4450367.0,
+  "epoch_mjd":69996,
+  "epoch_cal":20220221.0
  },
- "equinox":"N2938",
- "om":71.55575766123,
- "e":0.0,
- "a":67954207.323,
- "q":712229.98304,
- "i":9194794.82,
- "w":64.653842,
- "ad":0.68,
- "ma":50.671379747101,
- "n":46.68,
+ "equinox":"U6773",
+ "om":62.5,
+ "e":0.175,
+ "a":14878212.5,
+ "q":6722.97,
+ "i":6564410068389.0,
+ "w":45.302,
+ "ad":0.0,
+ "ma":3.150085953,
+ "n":23.3054165,
  "tp_full":{
-  "tp_cal":20.9084639,
-  "tp":93.7
+  "tp_cal":9.14440051934,
+  "tp":12.718722
  },
  "per_full":{
-  "per":89.8605404,
-  "per_y":62.96
+  "per":94.6,
+  "per_y":45.2132872
  },
  "sigma_full":{
-  "sigma_e":"1.73R-29",
-  "sigma_a":"2.27C-41",
-  "sigma_q":"8.66E-78",
-  "sigma_i":"7.15W-50",
-  "sigma_om":"2.34P-48",
-  "sigma_w":"8.45I-94",
-  "sigma_ma":"9.75F-71",
-  "sigma_ad":"8.97C-46",
-  "sigma_n":"4.28S-89",
-  "sigma_tp":"3.82T-60",
-  "sigma_per":"9.77L-99"
+  "sigma_e":"5.60O-55",
+  "sigma_a":"1.10S-35",
+  "sigma_q":"5.96C-86",
+  "sigma_i":"1.78S-37",
+  "sigma_om":"5.88C-55",
+  "sigma_w":"8.82R-68",
+  "sigma_ma":"9.14G-21",
+  "sigma_ad":"7.99H-73",
+  "sigma_n":"6.42O-86",
+  "sigma_tp":"2.28T-28",
+  "sigma_per":"2.16P-67"
  },
- "rms":0.9380574,
+ "rms":0.876496,
  "moid_full":{
-  "moid":0.55,
-  "moid_id":78.7229
+  "moid":0.655,
+  "moid_id":9.643539893
  },
  "class_asteroid":"Other Types"
 }

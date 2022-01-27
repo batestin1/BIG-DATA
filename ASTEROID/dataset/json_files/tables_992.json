@@ -1,63 +1,63 @@
 {
  "spk_id":2000993,
- "object_id":"g000000992",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"354329384m/s",
+ "object_id":"s000000992",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"185145807m/s",
  "object_fullname":{
-  "fullname":"2010 AL",
-  "prefix":"2010 ",
-  "name":"GISELA"
+  "fullname":"2012 ST",
+  "prefix":"2012 ",
+  "name":"HENKOLTHOF"
  },
- "pdes":686,
+ "pdes":891,
  "diameter_full":{
-  "diameter":78.973,
-  "diameter_sigma":2.8
+  "diameter":72.4,
+  "diameter_sigma":7.28535
  },
- "h":0.5,
- "albedo":0.9,
- "orbit_id":"RBE 36",
+ "h":1.4285714285714286,
+ "albedo":0.0,
+ "orbit_id":"WBH 47",
  "epoch_full":{
-  "epoch":6638578.0,
-  "epoch_mjd":14008,
-  "epoch_cal":20220206.0
+  "epoch":7280261.0,
+  "epoch_mjd":36934,
+  "epoch_cal":20220128.0
  },
- "equinox":"G2832",
- "om":51.0,
- "e":0.2376186,
- "a":7475815888.0,
- "q":2022973.6,
- "i":22358061636.8,
- "w":70.68,
- "ad":0.886,
- "ma":18.1283568,
- "n":14.805266554,
+ "equinox":"E6016",
+ "om":19.95671947,
+ "e":0.44407749,
+ "a":88.0,
+ "q":31.577049,
+ "i":187605816359.86,
+ "w":79.0,
+ "ad":0.348,
+ "ma":68.82550217318882,
+ "n":85.45596195469525,
  "tp_full":{
-  "tp_cal":21.8950605,
-  "tp":63.740056
+  "tp_cal":82.513,
+  "tp":29.353
  },
  "per_full":{
-  "per":80.3,
-  "per_y":15.9730756737
+  "per":56.82245,
+  "per_y":89.6
  },
  "sigma_full":{
-  "sigma_e":"4.72A-85",
-  "sigma_a":"2.31P-64",
-  "sigma_q":"7.82F-57",
-  "sigma_i":"9.73E-29",
-  "sigma_om":"8.64R-48",
-  "sigma_w":"1.84A-97",
-  "sigma_ma":"4.39N-31",
-  "sigma_ad":"9.69T-21",
-  "sigma_n":"6.92N-65",
-  "sigma_tp":"4.70N-44",
-  "sigma_per":"8.89M-37"
+  "sigma_e":"6.18H-13",
+  "sigma_a":"2.42W-28",
+  "sigma_q":"1.60F-89",
+  "sigma_i":"3.74D-48",
+  "sigma_om":"4.70D-39",
+  "sigma_w":"5.84V-22",
+  "sigma_ma":"1.58S-99",
+  "sigma_ad":"3.44H-40",
+  "sigma_n":"3.85F-57",
+  "sigma_tp":"1.34S-94",
+  "sigma_per":"8.18F-51"
  },
- "rms":0.371175122,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.35056938412,
-  "moid_id":57.4901745667942
+  "moid":0.0,
+  "moid_id":52.6
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2002860,
- "object_id":"t0000002859",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"191689042m/s",
+ "object_id":"s0000002859",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"739013318m/s",
  "object_fullname":{
-  "fullname":"2005 LO",
-  "prefix":"2005 ",
-  "name":"AL-KHWARISMI"
+  "fullname":"2017 AN",
+  "prefix":"2017 ",
+  "name":"BARBARAAKEY"
  },
- "pdes":887,
+ "pdes":801,
  "diameter_full":{
-  "diameter":46.9058683458,
-  "diameter_sigma":3.7784919
+  "diameter":49.1091328928057,
+  "diameter_sigma":1.61497402
  },
- "h":0.3,
- "albedo":0.0,
- "orbit_id":"PWL 27",
+ "h":0.6,
+ "albedo":0.169,
+ "orbit_id":"EBG 36",
  "epoch_full":{
-  "epoch":7734917.0,
-  "epoch_mjd":55345,
-  "epoch_cal":20220211.0
+  "epoch":8758046.0,
+  "epoch_mjd":43447,
+  "epoch_cal":20220203.0
  },
- "equinox":"P6077",
- "om":73.882,
- "e":0.0,
- "a":46667041183951.0,
- "q":84239359317.5,
- "i":278164796946903.0,
- "w":14.1185253,
- "ad":0.6961,
- "ma":2.2,
- "n":26.96656,
+ "equinox":"N9110",
+ "om":20.9621179753,
+ "e":0.5,
+ "a":7.2547,
+ "q":600246869524.0,
+ "i":538080524.1923,
+ "w":65.6,
+ "ad":0.0,
+ "ma":45.9198643,
+ "n":78.92731899,
  "tp_full":{
-  "tp_cal":68.0,
-  "tp":86.2980835
+  "tp_cal":35.668258852509,
+  "tp":5.896172564
  },
  "per_full":{
-  "per":20.22,
-  "per_y":23.130161234
+  "per":33.238241346,
+  "per_y":89.4
  },
  "sigma_full":{
-  "sigma_e":"5.92M-76",
-  "sigma_a":"2.81A-56",
-  "sigma_q":"4.21B-90",
-  "sigma_i":"3.17P-20",
-  "sigma_om":"2.60W-57",
-  "sigma_w":"6.98F-19",
-  "sigma_ma":"3.26F-73",
-  "sigma_ad":"9.42H-57",
-  "sigma_n":"7.58A-21",
-  "sigma_tp":"3.11A-69",
-  "sigma_per":"6.72S-63"
+  "sigma_e":"2.23M-78",
+  "sigma_a":"7.78B-74",
+  "sigma_q":"1.48M-48",
+  "sigma_i":"9.50P-22",
+  "sigma_om":"4.84V-47",
+  "sigma_w":"2.69I-19",
+  "sigma_ma":"8.74E-30",
+  "sigma_ad":"8.30V-76",
+  "sigma_n":"2.22P-60",
+  "sigma_tp":"3.64A-48",
+  "sigma_per":"2.64N-76"
  },
- "rms":0.0,
+ "rms":0.732,
  "moid_full":{
-  "moid":0.3176,
-  "moid_id":49.49436876915446
+  "moid":0.5,
+  "moid_id":86.6307059239
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2004109,
- "object_id":"t0000004108",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"776570562m/s",
+ "object_id":"c0000004108",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"752566693m/s",
  "object_fullname":{
-  "fullname":"2005 WO",
-  "prefix":"2005 ",
-  "name":"HERBA"
+  "fullname":"2021 MA",
+  "prefix":"2021 ",
+  "name":"DAVIDBOWIE"
  },
- "pdes":700,
+ "pdes":365,
  "diameter_full":{
-  "diameter":46.1554,
-  "diameter_sigma":2.14322750011034
+  "diameter":60.0,
+  "diameter_sigma":1.9047123
  },
- "h":0.8,
- "albedo":0.0,
- "orbit_id":"DMC 27",
+ "h":5.0,
+ "albedo":0.2568,
+ "orbit_id":"TAC 87",
  "epoch_full":{
-  "epoch":9712009.0,
-  "epoch_mjd":83557,
-  "epoch_cal":20220129.0
+  "epoch":4113775.0,
+  "epoch_mjd":33937,
+  "epoch_cal":20220128.0
  },
- "equinox":"T6842",
- "om":40.2,
- "e":0.933019,
- "a":2847958638616.62,
- "q":4.343,
- "i":63001.5,
- "w":38.6811897,
- "ad":0.377,
- "ma":14.4,
- "n":50.98863139787,
+ "equinox":"D5485",
+ "om":13.795,
+ "e":0.2,
+ "a":972579.8423609,
+ "q":36.53233,
+ "i":7797.1587644597,
+ "w":29.16353,
+ "ad":0.22413,
+ "ma":76.431233326346,
+ "n":31.693008,
  "tp_full":{
-  "tp_cal":63.878453,
-  "tp":11.8062
+  "tp_cal":72.90614,
+  "tp":62.537296433904
  },
  "per_full":{
-  "per":54.43,
-  "per_y":22.28356188883987
+  "per":63.385,
+  "per_y":77.4
  },
  "sigma_full":{
-  "sigma_e":"6.30C-58",
-  "sigma_a":"3.86R-53",
-  "sigma_q":"4.61B-49",
-  "sigma_i":"1.69P-93",
-  "sigma_om":"4.86P-21",
-  "sigma_w":"5.19B-73",
-  "sigma_ma":"7.67L-90",
-  "sigma_ad":"2.41M-23",
-  "sigma_n":"6.53G-42",
-  "sigma_tp":"3.45H-83",
-  "sigma_per":"8.37W-46"
+  "sigma_e":"6.83L-37",
+  "sigma_a":"6.48P-69",
+  "sigma_q":"5.25S-88",
+  "sigma_i":"5.14T-47",
+  "sigma_om":"1.70S-79",
+  "sigma_w":"5.35M-99",
+  "sigma_ma":"8.59T-60",
+  "sigma_ad":"2.11T-63",
+  "sigma_n":"3.51F-69",
+  "sigma_tp":"4.95M-38",
+  "sigma_per":"4.42W-81"
  },
- "rms":0.63432675176,
+ "rms":0.97776,
  "moid_full":{
   "moid":0.0,
-  "moid_id":48.39158
+  "moid_id":13.83850163
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

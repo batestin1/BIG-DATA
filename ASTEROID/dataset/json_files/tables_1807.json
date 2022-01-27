@@ -1,63 +1,63 @@
 {
  "spk_id":2001808,
- "object_id":"h0000001807",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"497632704m/s",
+ "object_id":"c0000001807",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"111584274m/s",
  "object_fullname":{
-  "fullname":"2020 CA",
+  "fullname":"2020 SP",
   "prefix":"2020 ",
-  "name":"DAUDET"
+  "name":"HONDURAS"
  },
- "pdes":232,
+ "pdes":758,
  "diameter_full":{
-  "diameter":66.6107,
-  "diameter_sigma":2.78
+  "diameter":23.63136150455,
+  "diameter_sigma":6.4
  },
- "h":1.125,
- "albedo":0.0,
- "orbit_id":"KSP 65",
+ "h":0.5714285714285714,
+ "albedo":0.6425,
+ "orbit_id":"CFT 60",
  "epoch_full":{
-  "epoch":5718135.0,
-  "epoch_mjd":96112,
-  "epoch_cal":20220206.0
+  "epoch":9450174.0,
+  "epoch_mjd":31860,
+  "epoch_cal":20220224.0
  },
- "equinox":"S5016",
- "om":52.48,
- "e":0.0,
- "a":39572.443,
- "q":80859.7572569,
- "i":9672250941.33827,
- "w":8.18850042,
- "ad":0.3,
- "ma":4.0,
- "n":99.6,
+ "equinox":"A3724",
+ "om":26.9835,
+ "e":0.85,
+ "a":478778008913.0,
+ "q":2.2387243,
+ "i":72576535806963.0,
+ "w":97.817964526034,
+ "ad":0.325274227,
+ "ma":16.0,
+ "n":77.8,
  "tp_full":{
-  "tp_cal":18.0,
-  "tp":9.6326235
+  "tp_cal":30.76,
+  "tp":59.5328749508
  },
  "per_full":{
-  "per":76.675123598,
-  "per_y":22.45862491311663
+  "per":42.40791364,
+  "per_y":8.630908162417
  },
  "sigma_full":{
-  "sigma_e":"6.60A-12",
-  "sigma_a":"8.39D-70",
-  "sigma_q":"9.38H-53",
-  "sigma_i":"7.24B-44",
-  "sigma_om":"1.50M-10",
-  "sigma_w":"6.97H-88",
-  "sigma_ma":"3.79L-37",
-  "sigma_ad":"4.18A-88",
-  "sigma_n":"6.74D-45",
-  "sigma_tp":"5.10V-93",
-  "sigma_per":"7.46G-17"
+  "sigma_e":"9.83S-83",
+  "sigma_a":"7.88H-70",
+  "sigma_q":"2.94S-46",
+  "sigma_i":"5.47O-15",
+  "sigma_om":"1.48M-64",
+  "sigma_w":"9.28Y-21",
+  "sigma_ma":"3.30C-38",
+  "sigma_ad":"6.28S-55",
+  "sigma_n":"4.17B-68",
+  "sigma_tp":"9.92O-91",
+  "sigma_per":"9.91P-31"
  },
- "rms":0.35177,
+ "rms":0.358,
  "moid_full":{
-  "moid":0.7958,
-  "moid_id":56.4504448
+  "moid":0.367,
+  "moid_id":96.25
  },
  "class_asteroid":"C-"
 }

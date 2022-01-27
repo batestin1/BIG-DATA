@@ -1,63 +1,63 @@
 {
  "spk_id":2006539,
- "object_id":"s0000006538",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"837228999m/s",
+ "object_id":"p0000006538",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"492263991m/s",
  "object_fullname":{
-  "fullname":"2020 RI",
-  "prefix":"2020 ",
-  "name":"HARTBEESPOORTDAM"
+  "fullname":"2002 AL",
+  "prefix":"2002 ",
+  "name":"KATTERFELD"
  },
- "pdes":977,
+ "pdes":432,
  "diameter_full":{
-  "diameter":16.82346333496,
-  "diameter_sigma":7.9701372212
+  "diameter":5.36792,
+  "diameter_sigma":6.66141
  },
- "h":1.7,
- "albedo":0.31500822,
- "orbit_id":"RSD 34",
+ "h":1.0833333333333333,
+ "albedo":0.28792613397,
+ "orbit_id":"CCW 48",
  "epoch_full":{
-  "epoch":2687324.0,
-  "epoch_mjd":84426,
-  "epoch_cal":20220131.0
+  "epoch":7661358.0,
+  "epoch_mjd":72375,
+  "epoch_cal":20220221.0
  },
- "equinox":"E1838",
- "om":96.6698512746202,
- "e":0.65881701509,
- "a":73660102472451.0,
- "q":4490027337.93038,
- "i":211.8523796,
- "w":96.91694,
- "ad":0.1745,
- "ma":85.5312,
- "n":62.0,
+ "equinox":"R4727",
+ "om":51.6850026717,
+ "e":0.4,
+ "a":14329025986.0,
+ "q":3973781.0,
+ "i":61446.3,
+ "w":27.40838588978,
+ "ad":0.6838089,
+ "ma":45.948,
+ "n":68.3926,
  "tp_full":{
-  "tp_cal":33.3,
-  "tp":56.81636
+  "tp_cal":12.24453,
+  "tp":31.96
  },
  "per_full":{
-  "per":84.14060261235521,
-  "per_y":3.7439205504
+  "per":91.0,
+  "per_y":8.4
  },
  "sigma_full":{
-  "sigma_e":"8.20C-59",
-  "sigma_a":"1.56W-91",
-  "sigma_q":"2.52T-77",
-  "sigma_i":"6.35N-10",
-  "sigma_om":"4.13B-63",
-  "sigma_w":"6.47T-18",
-  "sigma_ma":"8.25L-24",
-  "sigma_ad":"4.27G-38",
-  "sigma_n":"2.30S-88",
-  "sigma_tp":"7.80K-24",
-  "sigma_per":"2.20B-90"
+  "sigma_e":"6.18P-43",
+  "sigma_a":"2.39M-43",
+  "sigma_q":"4.50L-54",
+  "sigma_i":"5.35E-74",
+  "sigma_om":"3.85P-38",
+  "sigma_w":"9.43S-41",
+  "sigma_ma":"9.46P-21",
+  "sigma_ad":"6.65R-29",
+  "sigma_n":"9.81R-25",
+  "sigma_tp":"6.78G-49",
+  "sigma_per":"6.99N-69"
  },
- "rms":0.2,
+ "rms":0.3,
  "moid_full":{
-  "moid":0.33,
-  "moid_id":91.17778186
+  "moid":0.0,
+  "moid_id":24.22
  },
  "class_asteroid":"Other Types"
 }

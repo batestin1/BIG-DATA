@@ -1,63 +1,63 @@
 {
  "spk_id":2004147,
- "object_id":"r0000004146",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"206526425m/s",
+ "object_id":"a0000004146",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"602880923m/s",
  "object_fullname":{
-  "fullname":"2013 DO",
+  "fullname":"2013 RE",
   "prefix":"2013 ",
-  "name":"IZANAMI"
+  "name":"HEINRICHKAYSER"
  },
- "pdes":426,
+ "pdes":981,
  "diameter_full":{
-  "diameter":15.212001939,
-  "diameter_sigma":5.85072549561366
+  "diameter":84.9457432536489,
+  "diameter_sigma":4.6841
  },
- "h":0.2,
- "albedo":0.1234303683,
- "orbit_id":"ARO 10",
+ "h":0.4,
+ "albedo":0.15038204,
+ "orbit_id":"PNO 35",
  "epoch_full":{
-  "epoch":4252729.0,
-  "epoch_mjd":19873,
-  "epoch_cal":20220130.0
+  "epoch":6678726.0,
+  "epoch_mjd":32493,
+  "epoch_cal":20220131.0
  },
- "equinox":"M1188",
- "om":19.8317,
- "e":0.7,
- "a":59071448283.0,
- "q":6924608.62421,
- "i":6186249779654.4,
- "w":68.696641993,
- "ad":0.63415,
- "ma":50.27767,
- "n":7.42591868157,
+ "equinox":"R1271",
+ "om":50.93,
+ "e":0.5,
+ "a":4319403.0,
+ "q":9557.78444,
+ "i":59484.15,
+ "w":13.380929,
+ "ad":0.628124,
+ "ma":7.1445721,
+ "n":46.139038,
  "tp_full":{
-  "tp_cal":74.1,
-  "tp":48.265595
+  "tp_cal":86.1985515,
+  "tp":30.806758
  },
  "per_full":{
-  "per":27.86438654,
-  "per_y":86.0
+  "per":74.0,
+  "per_y":33.13
  },
  "sigma_full":{
-  "sigma_e":"8.39A-94",
-  "sigma_a":"7.21I-19",
-  "sigma_q":"7.76M-84",
-  "sigma_i":"6.54A-19",
-  "sigma_om":"9.79A-59",
-  "sigma_w":"4.50D-70",
-  "sigma_ma":"2.63B-16",
-  "sigma_ad":"2.78N-11",
-  "sigma_n":"9.28M-83",
-  "sigma_tp":"2.89N-64",
-  "sigma_per":"2.55M-84"
+  "sigma_e":"7.14T-50",
+  "sigma_a":"9.73A-60",
+  "sigma_q":"2.30L-91",
+  "sigma_i":"3.15S-56",
+  "sigma_om":"4.32P-43",
+  "sigma_w":"6.93P-95",
+  "sigma_ma":"9.74B-13",
+  "sigma_ad":"3.49G-37",
+  "sigma_n":"2.40S-67",
+  "sigma_tp":"3.21S-18",
+  "sigma_per":"5.10B-58"
  },
- "rms":0.9247,
+ "rms":0.1222926448,
  "moid_full":{
-  "moid":0.634373074,
-  "moid_id":2.845827
+  "moid":0.21447553,
+  "moid_id":19.76
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

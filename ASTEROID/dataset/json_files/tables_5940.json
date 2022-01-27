@@ -1,63 +1,63 @@
 {
  "spk_id":2005941,
- "object_id":"r0000005940",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"136162566m/s",
+ "object_id":"t0000005940",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"24875631m/s",
  "object_fullname":{
-  "fullname":"2014 DE",
-  "prefix":"2014 ",
-  "name":"CHAOKUANGPIU"
+  "fullname":"2002 HE",
+  "prefix":"2002 ",
+  "name":"GRISSOM"
  },
- "pdes":714,
+ "pdes":256,
  "diameter_full":{
-  "diameter":75.67249663249736,
-  "diameter_sigma":2.7223704001
+  "diameter":81.5,
+  "diameter_sigma":3.68908297
  },
- "h":1.0,
- "albedo":0.0,
- "orbit_id":"PGL 37",
+ "h":0.625,
+ "albedo":0.649,
+ "orbit_id":"LSR 11",
  "epoch_full":{
-  "epoch":6355660.0,
-  "epoch_mjd":30569,
-  "epoch_cal":20220127.0
+  "epoch":9445995.0,
+  "epoch_mjd":99203,
+  "epoch_cal":20220128.0
  },
- "equinox":"T4001",
- "om":56.273761,
- "e":0.0,
- "a":882152664949.87,
- "q":21515.5923792507,
- "i":228655178.5,
- "w":52.8519277,
- "ad":0.452694,
- "ma":30.11125536534,
- "n":51.796985557,
+ "equinox":"H6627",
+ "om":83.4426,
+ "e":0.8,
+ "a":63944.7396136556,
+ "q":7603180601.38,
+ "i":78553819.3,
+ "w":97.8676440843327,
+ "ad":0.2722467,
+ "ma":75.176947252,
+ "n":44.7686220721,
  "tp_full":{
-  "tp_cal":4.256780713,
-  "tp":73.99992156391
+  "tp_cal":93.0,
+  "tp":29.88
  },
  "per_full":{
-  "per":10.24728306,
-  "per_y":32.39530835
+  "per":42.0,
+  "per_y":75.37236286
  },
  "sigma_full":{
-  "sigma_e":"4.58P-97",
-  "sigma_a":"7.20L-75",
-  "sigma_q":"2.55W-78",
-  "sigma_i":"7.75L-60",
-  "sigma_om":"2.55S-58",
-  "sigma_w":"8.62R-97",
-  "sigma_ma":"6.42W-34",
-  "sigma_ad":"5.55A-59",
-  "sigma_n":"4.37H-92",
-  "sigma_tp":"3.97L-22",
-  "sigma_per":"5.70H-98"
+  "sigma_e":"5.39C-59",
+  "sigma_a":"9.73W-60",
+  "sigma_q":"8.80B-53",
+  "sigma_i":"4.38O-17",
+  "sigma_om":"9.94R-22",
+  "sigma_w":"2.68A-38",
+  "sigma_ma":"7.73G-88",
+  "sigma_ad":"9.57T-55",
+  "sigma_n":"6.98P-35",
+  "sigma_tp":"6.15B-27",
+  "sigma_per":"3.14S-31"
  },
- "rms":0.7,
+ "rms":0.254343998,
  "moid_full":{
   "moid":0.0,
-  "moid_id":75.50126501512
+  "moid_id":30.7059631481022
  },
- "class_asteroid":"S-"
+ "class_asteroid":"Other Types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2000547,
- "object_id":"s000000546",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"510968377m/s",
+ "object_id":"t000000546",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"683021489m/s",
  "object_fullname":{
-  "fullname":"2003 AD",
+  "fullname":"2003 LE",
   "prefix":"2003 ",
-  "name":"BITTESINI"
+  "name":"GUNEUS"
  },
- "pdes":730,
+ "pdes":544,
  "diameter_full":{
-  "diameter":70.374981885,
-  "diameter_sigma":6.348631752007
+  "diameter":29.685829289,
+  "diameter_sigma":5.9843836
  },
- "h":1.8333333333333333,
- "albedo":0.4429011,
- "orbit_id":"VEF 56",
+ "h":0.5,
+ "albedo":0.91101811,
+ "orbit_id":"PCT 57",
  "epoch_full":{
-  "epoch":2066457.0,
-  "epoch_mjd":66397,
-  "epoch_cal":20220129.0
+  "epoch":7657075.0,
+  "epoch_mjd":57441,
+  "epoch_cal":20220204.0
  },
- "equinox":"P1694",
- "om":68.568927,
- "e":0.3529,
- "a":8.74,
- "q":98.0,
- "i":528.485355316108,
- "w":88.7975414977,
- "ad":0.38897,
- "ma":63.91833,
- "n":70.909688806411,
+ "equinox":"G2037",
+ "om":29.884015086304,
+ "e":0.3,
+ "a":70234.912795435,
+ "q":6169652216497.6,
+ "i":731040387599.8,
+ "w":8.282092081,
+ "ad":0.987,
+ "ma":4.7,
+ "n":33.1815979,
  "tp_full":{
-  "tp_cal":30.9427344005906,
-  "tp":49.93772625
+  "tp_cal":78.5,
+  "tp":26.3964751226
  },
  "per_full":{
-  "per":55.93699138,
-  "per_y":8.424204736
+  "per":28.732588743794,
+  "per_y":70.5956799
  },
  "sigma_full":{
-  "sigma_e":"3.75C-64",
-  "sigma_a":"2.55R-81",
-  "sigma_q":"1.95F-87",
-  "sigma_i":"6.51C-69",
-  "sigma_om":"2.66W-26",
-  "sigma_w":"2.61F-23",
-  "sigma_ma":"4.27P-83",
-  "sigma_ad":"8.54L-93",
-  "sigma_n":"9.51T-36",
-  "sigma_tp":"3.67C-66",
-  "sigma_per":"3.41R-80"
+  "sigma_e":"4.45O-60",
+  "sigma_a":"9.83P-58",
+  "sigma_q":"3.61S-66",
+  "sigma_i":"9.84C-66",
+  "sigma_om":"9.59H-86",
+  "sigma_w":"9.76I-44",
+  "sigma_ma":"7.77Y-42",
+  "sigma_ad":"9.87A-76",
+  "sigma_n":"5.88Q-87",
+  "sigma_tp":"2.69D-21",
+  "sigma_per":"7.14A-19"
  },
  "rms":0.0,
  "moid_full":{
-  "moid":0.6384,
-  "moid_id":8.882934114801
+  "moid":0.0,
+  "moid_id":38.96149
  },
  "class_asteroid":"C-"
 }

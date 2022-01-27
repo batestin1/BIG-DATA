@@ -1,63 +1,63 @@
 {
  "spk_id":2003057,
- "object_id":"p0000003056",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"459628795m/s",
+ "object_id":"r0000003056",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"669333587m/s",
  "object_fullname":{
-  "fullname":"2022 CR",
-  "prefix":"2022 ",
-  "name":"AGATA"
+  "fullname":"2007 WA",
+  "prefix":"2007 ",
+  "name":"GOROSHKY"
  },
- "pdes":347,
+ "pdes":446,
  "diameter_full":{
-  "diameter":54.48147282977,
-  "diameter_sigma":5.1876
+  "diameter":36.322,
+  "diameter_sigma":2.0
  },
- "h":1.8,
- "albedo":0.835,
- "orbit_id":"SAM 44",
+ "h":0.07692307692307693,
+ "albedo":0.5839981045,
+ "orbit_id":"BTS 98",
  "epoch_full":{
-  "epoch":7381406.0,
-  "epoch_mjd":97617,
+  "epoch":4360005.0,
+  "epoch_mjd":11903,
   "epoch_cal":20220202.0
  },
- "equinox":"H1448",
- "om":1.29944,
- "e":0.6,
- "a":707579348394.67,
- "q":6739583369.431,
- "i":6282007158186.0,
- "w":68.8001,
- "ad":0.75,
- "ma":90.537,
- "n":51.32945,
+ "equinox":"L7201",
+ "om":91.77,
+ "e":0.924,
+ "a":89695380203.8,
+ "q":16.88,
+ "i":778984981489.0,
+ "w":22.0,
+ "ad":0.2120094967628,
+ "ma":98.844448,
+ "n":54.7938300593953,
  "tp_full":{
-  "tp_cal":51.722519923,
-  "tp":3.23095871668095
+  "tp_cal":12.456809,
+  "tp":94.630576
  },
  "per_full":{
-  "per":73.89196066274,
-  "per_y":69.46638
+  "per":71.469242409736,
+  "per_y":6.3683514229407
  },
  "sigma_full":{
-  "sigma_e":"8.13E-75",
-  "sigma_a":"6.16S-37",
-  "sigma_q":"4.41P-45",
-  "sigma_i":"4.39R-13",
-  "sigma_om":"9.40A-83",
-  "sigma_w":"8.39P-86",
-  "sigma_ma":"2.25C-67",
-  "sigma_ad":"5.66D-23",
-  "sigma_n":"7.39F-24",
-  "sigma_tp":"2.63C-42",
-  "sigma_per":"1.55S-49"
+  "sigma_e":"6.54H-60",
+  "sigma_a":"6.75M-21",
+  "sigma_q":"5.67R-14",
+  "sigma_i":"4.89K-44",
+  "sigma_om":"7.46F-62",
+  "sigma_w":"6.35M-87",
+  "sigma_ma":"5.29I-36",
+  "sigma_ad":"9.37L-78",
+  "sigma_n":"5.90R-45",
+  "sigma_tp":"8.83T-35",
+  "sigma_per":"3.16M-50"
  },
- "rms":0.6,
+ "rms":0.246495,
  "moid_full":{
-  "moid":0.37300041,
-  "moid_id":11.17358
+  "moid":0.4088,
+  "moid_id":16.1
  },
  "class_asteroid":"Other Types"
 }

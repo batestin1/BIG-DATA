@@ -1,63 +1,63 @@
 {
  "spk_id":2006534,
- "object_id":"t0000006533",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"711764103m/s",
+ "object_id":"s0000006533",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"270913219m/s",
  "object_fullname":{
-  "fullname":"2008 CU",
-  "prefix":"2008 ",
-  "name":"CERAGIOLI"
+  "fullname":"2006 SE",
+  "prefix":"2006 ",
+  "name":"CAMILLO"
  },
- "pdes":552,
+ "pdes":767,
  "diameter_full":{
-  "diameter":82.5101,
-  "diameter_sigma":5.519471365584
+  "diameter":76.4,
+  "diameter_sigma":2.44661261904
  },
- "h":1.6666666666666667,
- "albedo":0.7737890191,
- "orbit_id":"TSS 58",
+ "h":0.95,
+ "albedo":0.0,
+ "orbit_id":"SHP 64",
  "epoch_full":{
-  "epoch":3774950.0,
-  "epoch_mjd":50382,
-  "epoch_cal":20220203.0
+  "epoch":4990262.0,
+  "epoch_mjd":16058,
+  "epoch_cal":20220127.0
  },
- "equinox":"T9414",
- "om":41.9817051,
- "e":0.3001365,
- "a":87.145,
- "q":37.9107145430673,
- "i":616217.5215,
- "w":49.38435200542,
- "ad":0.9,
- "ma":60.814616556,
- "n":15.63927629,
+ "equinox":"I6842",
+ "om":70.618,
+ "e":0.6275928,
+ "a":1989.4638,
+ "q":8996902975906.1,
+ "i":87491931648878.0,
+ "w":64.436,
+ "ad":0.29768,
+ "ma":74.547216,
+ "n":38.8898328176,
  "tp_full":{
-  "tp_cal":50.68991437587,
-  "tp":25.0
+  "tp_cal":51.893,
+  "tp":6.9639137982
  },
  "per_full":{
-  "per":43.11,
-  "per_y":73.6
+  "per":40.888004116597,
+  "per_y":93.64928594
  },
  "sigma_full":{
-  "sigma_e":"5.57N-26",
-  "sigma_a":"7.74C-53",
-  "sigma_q":"3.95T-19",
-  "sigma_i":"5.76F-64",
-  "sigma_om":"4.15T-35",
-  "sigma_w":"5.50C-43",
-  "sigma_ma":"4.11H-55",
-  "sigma_ad":"4.14T-71",
-  "sigma_n":"4.45L-75",
-  "sigma_tp":"5.97M-71",
-  "sigma_per":"6.14C-61"
+  "sigma_e":"6.31N-87",
+  "sigma_a":"7.35R-65",
+  "sigma_q":"7.78R-74",
+  "sigma_i":"3.24W-46",
+  "sigma_om":"3.88D-64",
+  "sigma_w":"3.57V-17",
+  "sigma_ma":"6.85R-31",
+  "sigma_ad":"3.65O-67",
+  "sigma_n":"9.78R-58",
+  "sigma_tp":"4.49S-12",
+  "sigma_per":"3.58P-16"
  },
- "rms":0.94349,
+ "rms":0.62108621,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":99.4839
+  "moid":0.319314,
+  "moid_id":45.76740526345
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

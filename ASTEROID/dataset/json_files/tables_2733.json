@@ -1,63 +1,63 @@
 {
  "spk_id":2002734,
- "object_id":"p0000002733",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"463836688m/s",
+ "object_id":"n0000002733",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"303166913m/s",
  "object_fullname":{
-  "fullname":"2015 TH",
-  "prefix":"2015 ",
-  "name":"CANADA-ASSANDRI"
+  "fullname":"2009 HO",
+  "prefix":"2009 ",
+  "name":"BAGDASARIAN"
  },
- "pdes":689,
+ "pdes":962,
  "diameter_full":{
-  "diameter":85.0,
-  "diameter_sigma":4.0
+  "diameter":74.43,
+  "diameter_sigma":8.1623447018
  },
- "h":0.8421052631578947,
- "albedo":0.8903265554362,
- "orbit_id":"TPW 68",
+ "h":2.5,
+ "albedo":0.0,
+ "orbit_id":"TSC 87",
  "epoch_full":{
-  "epoch":1858735.0,
-  "epoch_mjd":40627,
-  "epoch_cal":20220131.0
+  "epoch":6046302.0,
+  "epoch_mjd":22795,
+  "epoch_cal":20220207.0
  },
- "equinox":"T7962",
- "om":88.856,
+ "equinox":"T3300",
+ "om":61.80035588,
  "e":0.0,
- "a":7430.0,
- "q":451043.843,
- "i":679679861.338417,
- "w":29.8174,
- "ad":0.0,
- "ma":86.1893584159,
- "n":3.815,
+ "a":9339491260.0,
+ "q":74437884549.446,
+ "i":7518625494.7,
+ "w":75.3555,
+ "ad":0.91,
+ "ma":19.36785813,
+ "n":16.1598920583169,
  "tp_full":{
-  "tp_cal":2.643399,
-  "tp":6.810804
+  "tp_cal":31.8976672366754,
+  "tp":94.0
  },
  "per_full":{
-  "per":5.4746,
-  "per_y":92.5077913
+  "per":1.80096333023174,
+  "per_y":54.875533234
  },
  "sigma_full":{
-  "sigma_e":"2.76M-29",
-  "sigma_a":"8.41V-20",
-  "sigma_q":"5.95F-92",
-  "sigma_i":"4.24W-82",
-  "sigma_om":"9.76M-76",
-  "sigma_w":"2.11R-20",
-  "sigma_ma":"2.32P-40",
-  "sigma_ad":"1.63R-76",
-  "sigma_n":"9.13C-68",
-  "sigma_tp":"6.16S-72",
-  "sigma_per":"9.22E-16"
+  "sigma_e":"5.40O-69",
+  "sigma_a":"4.20S-80",
+  "sigma_q":"3.10T-39",
+  "sigma_i":"7.20N-62",
+  "sigma_om":"3.75H-72",
+  "sigma_w":"8.85K-44",
+  "sigma_ma":"6.62R-22",
+  "sigma_ad":"9.79S-53",
+  "sigma_n":"4.57D-24",
+  "sigma_tp":"9.70S-32",
+  "sigma_per":"3.84G-74"
  },
- "rms":0.0,
+ "rms":0.3,
  "moid_full":{
-  "moid":0.370097892,
-  "moid_id":23.87355510887
+  "moid":0.60208539,
+  "moid_id":15.54614034
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

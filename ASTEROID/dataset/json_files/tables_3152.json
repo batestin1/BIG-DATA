@@ -1,63 +1,63 @@
 {
  "spk_id":2003153,
- "object_id":"r0000003152",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"156440790m/s",
+ "object_id":"t0000003152",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"782850093m/s",
  "object_fullname":{
-  "fullname":"2007 CO",
-  "prefix":"2007 ",
-  "name":"AGATHE"
+  "fullname":"2015 SE",
+  "prefix":"2015 ",
+  "name":"ALTENRATH"
  },
- "pdes":856,
+ "pdes":229,
  "diameter_full":{
-  "diameter":67.586716,
-  "diameter_sigma":8.99062629210151
+  "diameter":28.85469587290227,
+  "diameter_sigma":7.917058929
  },
- "h":2.6666666666666665,
- "albedo":0.5304062,
- "orbit_id":"MMB 25",
+ "h":2.7142857142857144,
+ "albedo":0.35,
+ "orbit_id":"FSP 35",
  "epoch_full":{
-  "epoch":6464946.0,
-  "epoch_mjd":98505,
-  "epoch_cal":20220131.0
+  "epoch":4928886.0,
+  "epoch_mjd":58737,
+  "epoch_cal":20220127.0
  },
- "equinox":"D7539",
- "om":62.3,
- "e":0.0,
- "a":58.154162407,
- "q":8023198468.418,
- "i":399696631058.0,
- "w":64.3395356661,
- "ad":0.29060568292,
- "ma":82.6071,
- "n":92.6,
+ "equinox":"S9781",
+ "om":49.18331,
+ "e":0.5471627,
+ "a":9666715.8,
+ "q":14510.3949423767,
+ "i":226957900598.4,
+ "w":94.9665663,
+ "ad":0.416775585,
+ "ma":99.820915614,
+ "n":71.4,
  "tp_full":{
-  "tp_cal":67.6,
-  "tp":28.698
+  "tp_cal":3.0,
+  "tp":84.530362401
  },
  "per_full":{
-  "per":24.44568,
-  "per_y":49.1101625276841
+  "per":27.21281,
+  "per_y":50.52089339675238
  },
  "sigma_full":{
-  "sigma_e":"6.30B-80",
-  "sigma_a":"3.22L-67",
-  "sigma_q":"4.89A-53",
-  "sigma_i":"4.70T-96",
-  "sigma_om":"7.83P-95",
-  "sigma_w":"7.27S-39",
-  "sigma_ma":"9.55S-14",
-  "sigma_ad":"2.41F-24",
-  "sigma_n":"2.69F-51",
-  "sigma_tp":"4.77W-96",
-  "sigma_per":"6.57L-91"
+  "sigma_e":"6.74T-38",
+  "sigma_a":"9.65C-62",
+  "sigma_q":"4.16I-74",
+  "sigma_i":"1.66L-66",
+  "sigma_om":"6.47I-61",
+  "sigma_w":"6.28W-48",
+  "sigma_ma":"5.65U-36",
+  "sigma_ad":"1.51I-36",
+  "sigma_n":"3.44A-84",
+  "sigma_tp":"5.68I-29",
+  "sigma_per":"4.83W-93"
  },
- "rms":0.47,
+ "rms":0.13704357,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":31.3283763251266
+  "moid":0.86,
+  "moid_id":69.769265683313
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2000033,
- "object_id":"f00000032",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"31650792m/s",
+ "object_id":"b00000032",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"9962510m/s",
  "object_fullname":{
-  "fullname":"2022 GU",
+  "fullname":"2022 TH",
   "prefix":"2022 ",
-  "name":"EUTERPE"
+  "name":"HERGIANI"
  },
- "pdes":751,
+ "pdes":437,
  "diameter_full":{
-  "diameter":32.41753,
-  "diameter_sigma":8.67
+  "diameter":89.0,
+  "diameter_sigma":1.9913502
  },
- "h":0.5454545454545454,
- "albedo":0.0,
- "orbit_id":"PEA 62",
+ "h":1.4,
+ "albedo":0.707,
+ "orbit_id":"YSI 83",
  "epoch_full":{
-  "epoch":6090114.0,
-  "epoch_mjd":77239,
-  "epoch_cal":20220129.0
+  "epoch":7667861.0,
+  "epoch_mjd":96772,
+  "epoch_cal":20220201.0
  },
- "equinox":"L2760",
- "om":36.905,
- "e":0.5,
- "a":95675782.5,
- "q":482.612109174,
- "i":7012848094103.0,
- "w":74.0,
- "ad":0.5175,
- "ma":90.0,
- "n":81.6785478958261,
+ "equinox":"C4413",
+ "om":48.92,
+ "e":0.482,
+ "a":7921549983133.0,
+ "q":7623.6,
+ "i":92956472540.0,
+ "w":49.267593,
+ "ad":0.84,
+ "ma":80.5669895076956,
+ "n":37.83,
  "tp_full":{
-  "tp_cal":2.1,
-  "tp":92.16310042
+  "tp_cal":66.1,
+  "tp":53.6826440567
  },
  "per_full":{
-  "per":21.411808,
-  "per_y":92.4
+  "per":6.13343236796,
+  "per_y":8.155080703429
  },
  "sigma_full":{
-  "sigma_e":"5.78C-54",
-  "sigma_a":"4.32V-70",
-  "sigma_q":"5.80T-32",
-  "sigma_i":"6.91D-16",
-  "sigma_om":"4.33C-53",
-  "sigma_w":"5.50T-72",
-  "sigma_ma":"4.53M-53",
-  "sigma_ad":"4.18M-17",
-  "sigma_n":"2.72R-81",
-  "sigma_tp":"5.88C-85",
-  "sigma_per":"3.31E-88"
+  "sigma_e":"6.53A-32",
+  "sigma_a":"9.85H-94",
+  "sigma_q":"6.97O-58",
+  "sigma_i":"4.78H-11",
+  "sigma_om":"4.53S-82",
+  "sigma_w":"1.31T-81",
+  "sigma_ma":"3.18N-53",
+  "sigma_ad":"3.95E-53",
+  "sigma_n":"2.29O-84",
+  "sigma_tp":"4.29B-14",
+  "sigma_per":"4.94A-75"
  },
- "rms":0.807604,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.2,
-  "moid_id":97.2211700469
+  "moid":0.1,
+  "moid_id":62.78
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

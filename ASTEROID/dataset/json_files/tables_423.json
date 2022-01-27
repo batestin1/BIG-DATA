@@ -1,63 +1,63 @@
 {
  "spk_id":2000424,
- "object_id":"h000000423",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"248438051m/s",
+ "object_id":"b000000423",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"821247878m/s",
  "object_fullname":{
-  "fullname":"2020 LO",
-  "prefix":"2020 ",
-  "name":"ELMERREESE"
+  "fullname":"2006 LE",
+  "prefix":"2006 ",
+  "name":"BYKOV"
  },
- "pdes":843,
+ "pdes":604,
  "diameter_full":{
-  "diameter":72.7,
-  "diameter_sigma":9.35339
+  "diameter":12.104462927,
+  "diameter_sigma":4.6141348978
  },
- "h":0.6,
- "albedo":0.0,
- "orbit_id":"FPM 34",
+ "h":4.25,
+ "albedo":0.956452962545,
+ "orbit_id":"GEH 95",
  "epoch_full":{
-  "epoch":5258440.0,
-  "epoch_mjd":61816,
-  "epoch_cal":20220217.0
+  "epoch":6209342.0,
+  "epoch_mjd":79758,
+  "epoch_cal":20220222.0
  },
- "equinox":"H5118",
- "om":30.33,
- "e":0.69706037,
- "a":8.106501017,
- "q":387578.24013,
- "i":8.5326815106,
- "w":2.905738066,
- "ad":0.258539947,
- "ma":44.7875432542,
- "n":82.3185112949,
+ "equinox":"M2515",
+ "om":62.131742,
+ "e":0.851714,
+ "a":14275092.8047,
+ "q":7070552.646932,
+ "i":1896.109553,
+ "w":46.1813255928,
+ "ad":0.6947836946,
+ "ma":13.522,
+ "n":22.72,
  "tp_full":{
-  "tp_cal":3.22,
-  "tp":23.41
+  "tp_cal":54.61612866,
+  "tp":82.65
  },
  "per_full":{
-  "per":79.87834,
-  "per_y":65.3887946394
+  "per":69.58,
+  "per_y":78.34
  },
  "sigma_full":{
-  "sigma_e":"8.23D-46",
-  "sigma_a":"5.95S-63",
-  "sigma_q":"2.76E-47",
-  "sigma_i":"8.65S-82",
-  "sigma_om":"1.24L-18",
-  "sigma_w":"9.21C-54",
-  "sigma_ma":"5.21A-56",
-  "sigma_ad":"6.74F-10",
-  "sigma_n":"9.51L-67",
-  "sigma_tp":"2.62P-61",
-  "sigma_per":"5.12A-25"
+  "sigma_e":"9.19A-44",
+  "sigma_a":"7.25I-49",
+  "sigma_q":"9.65U-59",
+  "sigma_i":"9.99W-58",
+  "sigma_om":"8.91E-30",
+  "sigma_w":"3.65S-50",
+  "sigma_ma":"9.86G-31",
+  "sigma_ad":"9.67M-52",
+  "sigma_n":"2.98Q-23",
+  "sigma_tp":"7.65S-58",
+  "sigma_per":"5.41D-53"
  },
- "rms":0.0,
+ "rms":0.3,
  "moid_full":{
-  "moid":0.453668,
-  "moid_id":46.97
+  "moid":0.958048091,
+  "moid_id":85.7
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

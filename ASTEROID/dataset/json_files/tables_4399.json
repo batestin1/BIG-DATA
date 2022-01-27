@@ -1,63 +1,63 @@
 {
  "spk_id":2004400,
- "object_id":"f0000004399",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"794571569m/s",
+ "object_id":"p0000004399",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"162200190m/s",
  "object_fullname":{
-  "fullname":"2002 HE",
+  "fullname":"2002 MO",
   "prefix":"2002 ",
-  "name":"CELASTRUS"
+  "name":"GEORGE"
  },
- "pdes":425,
+ "pdes":764,
  "diameter_full":{
-  "diameter":22.299764335648,
-  "diameter_sigma":3.251
+  "diameter":82.913498,
+  "diameter_sigma":6.86884
  },
- "h":1.1666666666666667,
- "albedo":0.0,
- "orbit_id":"BTP 26",
+ "h":0.14285714285714285,
+ "albedo":0.83889375,
+ "orbit_id":"SWS 29",
  "epoch_full":{
-  "epoch":1845196.0,
-  "epoch_mjd":95864,
-  "epoch_cal":20220221.0
+  "epoch":5267774.0,
+  "epoch_mjd":14039,
+  "epoch_cal":20220205.0
  },
- "equinox":"M2198",
- "om":26.8,
- "e":0.0,
- "a":9156695.0,
- "q":38045633.3,
- "i":733993669.0,
- "w":92.4011602813902,
- "ad":0.0,
- "ma":13.1,
- "n":70.8331195,
+ "equinox":"D6957",
+ "om":43.0,
+ "e":0.2,
+ "a":6.41374,
+ "q":947605228132931.0,
+ "i":38162040136320.0,
+ "w":77.8055,
+ "ad":0.4166,
+ "ma":2.1251661137,
+ "n":80.33,
  "tp_full":{
-  "tp_cal":17.7,
-  "tp":44.0
+  "tp_cal":18.6220913,
+  "tp":15.746265
  },
  "per_full":{
-  "per":71.155154,
-  "per_y":35.98
+  "per":19.906248,
+  "per_y":82.8671635007
  },
  "sigma_full":{
-  "sigma_e":"6.15B-72",
-  "sigma_a":"1.91C-62",
-  "sigma_q":"8.47C-37",
-  "sigma_i":"3.74S-56",
-  "sigma_om":"8.75B-90",
-  "sigma_w":"2.85F-89",
-  "sigma_ma":"3.84R-91",
-  "sigma_ad":"7.87M-56",
-  "sigma_n":"4.84A-14",
-  "sigma_tp":"6.23S-47",
-  "sigma_per":"9.85E-19"
+  "sigma_e":"7.63A-42",
+  "sigma_a":"3.28P-11",
+  "sigma_q":"6.80W-27",
+  "sigma_i":"4.86M-39",
+  "sigma_om":"3.22L-46",
+  "sigma_w":"4.65P-30",
+  "sigma_ma":"5.52R-35",
+  "sigma_ad":"7.43P-95",
+  "sigma_n":"4.24M-61",
+  "sigma_tp":"7.58W-36",
+  "sigma_per":"8.39T-18"
  },
- "rms":0.85,
+ "rms":0.886,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":77.3264217535
+  "moid":0.1321368670798,
+  "moid_id":28.6024115646
  },
  "class_asteroid":"M-types"
 }

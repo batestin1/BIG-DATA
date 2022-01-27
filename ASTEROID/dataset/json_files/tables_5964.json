@@ -1,63 +1,63 @@
 {
  "spk_id":2005965,
- "object_id":"c0000005964",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"750116700m/s",
+ "object_id":"f0000005964",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"292607392m/s",
  "object_fullname":{
-  "fullname":"2010 LI",
-  "prefix":"2010 ",
-  "name":"FAYETA"
+  "fullname":"2022 SE",
+  "prefix":"2022 ",
+  "name":"FABRIZIOSPAZIANI"
  },
- "pdes":391,
+ "pdes":690,
  "diameter_full":{
-  "diameter":64.4904264478,
-  "diameter_sigma":1.29886524
+  "diameter":27.94441596,
+  "diameter_sigma":5.33
  },
- "h":2.4,
- "albedo":0.0,
- "orbit_id":"GDE 20",
+ "h":15.0,
+ "albedo":0.9389,
+ "orbit_id":"GPN 43",
  "epoch_full":{
-  "epoch":1677827.0,
-  "epoch_mjd":36986,
-  "epoch_cal":20220205.0
+  "epoch":6893146.0,
+  "epoch_mjd":93508,
+  "epoch_cal":20220215.0
  },
- "equinox":"W4856",
- "om":57.98088061917553,
- "e":0.6,
- "a":289344606292.1,
- "q":609056989565.8,
- "i":868.17354657964,
- "w":70.6305402575827,
- "ad":0.8,
- "ma":53.875054731208,
- "n":53.8486876115,
+ "equinox":"W7217",
+ "om":5.810280142693,
+ "e":0.95011,
+ "a":10537506.91,
+ "q":5402177240.2,
+ "i":35452603.63899,
+ "w":2.6,
+ "ad":0.141665,
+ "ma":81.83086145,
+ "n":75.8,
  "tp_full":{
-  "tp_cal":67.6,
-  "tp":67.861
+  "tp_cal":33.637,
+  "tp":53.69644
  },
  "per_full":{
-  "per":38.875,
-  "per_y":12.68157732292475
+  "per":56.18302412989829,
+  "per_y":56.9900098
  },
  "sigma_full":{
-  "sigma_e":"7.24B-38",
-  "sigma_a":"5.76C-14",
-  "sigma_q":"6.12N-76",
-  "sigma_i":"5.31A-91",
-  "sigma_om":"7.96D-25",
-  "sigma_w":"3.63C-70",
-  "sigma_ma":"4.66S-61",
-  "sigma_ad":"2.14S-69",
-  "sigma_n":"6.10C-18",
-  "sigma_tp":"1.27J-42",
-  "sigma_per":"8.12S-77"
+  "sigma_e":"8.87A-97",
+  "sigma_a":"6.34E-29",
+  "sigma_q":"3.90O-43",
+  "sigma_i":"4.78M-81",
+  "sigma_om":"1.64A-79",
+  "sigma_w":"8.39Q-10",
+  "sigma_ma":"3.34R-72",
+  "sigma_ad":"3.60T-60",
+  "sigma_n":"6.65I-98",
+  "sigma_tp":"5.88R-39",
+  "sigma_per":"7.49Y-44"
  },
- "rms":0.9,
+ "rms":0.237,
  "moid_full":{
-  "moid":0.8974,
-  "moid_id":10.121515
+  "moid":0.698,
+  "moid_id":63.68129
  },
  "class_asteroid":"C-"
 }

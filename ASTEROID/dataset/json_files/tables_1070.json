@@ -1,63 +1,63 @@
 {
  "spk_id":2001071,
  "object_id":"s0000001070",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"99822414m/s",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"688723477m/s",
  "object_fullname":{
-  "fullname":"2005 RE",
-  "prefix":"2005 ",
-  "name":"ISARA"
+  "fullname":"2009 RE",
+  "prefix":"2009 ",
+  "name":"ERNESTINA"
  },
- "pdes":246,
+ "pdes":432,
  "diameter_full":{
-  "diameter":99.6889481,
-  "diameter_sigma":2.51557
+  "diameter":21.5,
+  "diameter_sigma":5.46
  },
- "h":0.5,
- "albedo":0.955,
- "orbit_id":"DFS 72",
+ "h":1.25,
+ "albedo":0.93792006,
+ "orbit_id":"IES 22",
  "epoch_full":{
-  "epoch":2978915.0,
-  "epoch_mjd":42257,
-  "epoch_cal":20220212.0
+  "epoch":9614449.0,
+  "epoch_mjd":62160,
+  "epoch_cal":20220217.0
  },
- "equinox":"F1618",
- "om":20.77201219,
- "e":0.3259,
- "a":8.6536304994,
- "q":182178203.979,
- "i":893809616834.802,
- "w":70.208254330727,
- "ad":0.23340289775093,
- "ma":76.13668199,
- "n":10.3213,
+ "equinox":"C9255",
+ "om":54.9279458,
+ "e":0.8,
+ "a":7799161352925.0,
+ "q":90167549.56,
+ "i":291387.2,
+ "w":30.66,
+ "ad":0.0,
+ "ma":55.70806312157284,
+ "n":31.5179545,
  "tp_full":{
-  "tp_cal":25.2415,
-  "tp":82.5391
+  "tp_cal":29.82477218596,
+  "tp":23.668558609755
  },
  "per_full":{
-  "per":43.26,
-  "per_y":63.20103217485
+  "per":94.616236,
+  "per_y":67.14
  },
  "sigma_full":{
-  "sigma_e":"4.93G-57",
-  "sigma_a":"7.53R-19",
-  "sigma_q":"9.59L-40",
-  "sigma_i":"2.70S-82",
-  "sigma_om":"7.82F-67",
-  "sigma_w":"3.79O-90",
-  "sigma_ma":"9.18B-78",
-  "sigma_ad":"7.27N-81",
-  "sigma_n":"8.50F-11",
-  "sigma_tp":"7.63C-68",
-  "sigma_per":"8.15K-88"
+  "sigma_e":"5.61P-54",
+  "sigma_a":"7.46M-33",
+  "sigma_q":"8.26T-85",
+  "sigma_i":"4.17H-75",
+  "sigma_om":"9.31E-51",
+  "sigma_w":"2.38A-22",
+  "sigma_ma":"9.51S-83",
+  "sigma_ad":"6.77U-64",
+  "sigma_n":"7.60P-69",
+  "sigma_tp":"5.71F-77",
+  "sigma_per":"9.90T-16"
  },
- "rms":0.5,
+ "rms":0.7195911,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":66.0
+  "moid":0.1,
+  "moid_id":77.1707
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2005263,
- "object_id":"d0000005262",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"31738046m/s",
+ "object_id":"r0000005262",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"329661172m/s",
  "object_fullname":{
-  "fullname":"2002 TR",
-  "prefix":"2002 ",
-  "name":"JOHNRATHER"
+  "fullname":"2010 CL",
+  "prefix":"2010 ",
+  "name":"CURTNIEBUR"
  },
- "pdes":762,
+ "pdes":540,
  "diameter_full":{
-  "diameter":49.72028983634,
-  "diameter_sigma":9.66739387681941
+  "diameter":11.56233314027,
+  "diameter_sigma":2.61125118398
  },
- "h":1.7,
+ "h":2.142857142857143,
  "albedo":0.0,
- "orbit_id":"EUR 28",
+ "orbit_id":"AIS 59",
  "epoch_full":{
-  "epoch":6241057.0,
-  "epoch_mjd":80705,
-  "epoch_cal":20220208.0
+  "epoch":2724327.0,
+  "epoch_mjd":96362,
+  "epoch_cal":20220127.0
  },
- "equinox":"N3591",
- "om":93.248265,
- "e":0.0,
- "a":991502.99221743,
- "q":17951680707.5912,
- "i":972982120461.8,
- "w":37.3,
- "ad":0.83956,
- "ma":67.9261186373,
- "n":12.0,
+ "equinox":"T8451",
+ "om":16.803506773,
+ "e":0.8989,
+ "a":70730408.7062,
+ "q":29091369.2232533,
+ "i":1256408626.1,
+ "w":34.32334129696183,
+ "ad":0.6623259,
+ "ma":67.646199626721,
+ "n":98.776941962,
  "tp_full":{
-  "tp_cal":52.547941,
-  "tp":41.8633
+  "tp_cal":17.37916,
+  "tp":48.3933116605
  },
  "per_full":{
-  "per":59.7420557367,
-  "per_y":83.0
+  "per":84.0,
+  "per_y":58.6284
  },
  "sigma_full":{
-  "sigma_e":"8.50S-91",
-  "sigma_a":"6.60T-33",
-  "sigma_q":"4.82O-29",
-  "sigma_i":"1.83B-43",
-  "sigma_om":"8.82W-97",
-  "sigma_w":"4.16C-84",
-  "sigma_ma":"6.65W-52",
-  "sigma_ad":"4.66A-84",
-  "sigma_n":"7.21N-79",
-  "sigma_tp":"3.10A-79",
-  "sigma_per":"5.95O-57"
+  "sigma_e":"6.33H-58",
+  "sigma_a":"8.34E-25",
+  "sigma_q":"1.23S-10",
+  "sigma_i":"5.34I-71",
+  "sigma_om":"6.37C-52",
+  "sigma_w":"4.37A-22",
+  "sigma_ma":"3.84H-99",
+  "sigma_ad":"4.88W-31",
+  "sigma_n":"7.54W-22",
+  "sigma_tp":"3.47B-33",
+  "sigma_per":"2.74N-90"
  },
- "rms":0.12356751,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":75.82093235583
+  "moid":0.3381693,
+  "moid_id":90.7918
  },
- "class_asteroid":"S-"
+ "class_asteroid":"Other Types"
 }

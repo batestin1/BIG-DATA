@@ -1,63 +1,63 @@
 {
  "spk_id":2003440,
- "object_id":"a0000003439",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"399696500m/s",
+ "object_id":"r0000003439",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"668388181m/s",
  "object_fullname":{
-  "fullname":"2002 HO",
-  "prefix":"2002 ",
-  "name":"CHANWAINAM"
+  "fullname":"2007 PI",
+  "prefix":"2007 ",
+  "name":"IVANARTIOUKHOV"
  },
- "pdes":200,
+ "pdes":930,
  "diameter_full":{
-  "diameter":42.5212,
-  "diameter_sigma":2.2535881
+  "diameter":93.3371769280889,
+  "diameter_sigma":8.468796935284
  },
- "h":2.0,
- "albedo":0.4,
- "orbit_id":"PMP 27",
+ "h":1.0,
+ "albedo":0.75,
+ "orbit_id":"CGP 35",
  "epoch_full":{
-  "epoch":1895632.0,
-  "epoch_mjd":10035,
-  "epoch_cal":20220126.0
+  "epoch":7072576.0,
+  "epoch_mjd":56136,
+  "epoch_cal":20220202.0
  },
- "equinox":"N3833",
- "om":47.2,
- "e":0.327,
- "a":658.9014632,
- "q":83586124.0,
- "i":170.584919987,
- "w":61.4,
- "ad":0.92351919,
- "ma":11.1274987649,
- "n":14.705906309315,
+ "equinox":"F4945",
+ "om":4.78199649998,
+ "e":0.4426,
+ "a":36613.1276,
+ "q":2402426908885.8,
+ "i":92908926.909,
+ "w":12.4,
+ "ad":0.8645,
+ "ma":87.7765455,
+ "n":42.59835297,
  "tp_full":{
-  "tp_cal":89.269,
-  "tp":50.6
+  "tp_cal":93.7176026339,
+  "tp":98.391611
  },
  "per_full":{
-  "per":3.3666140798,
-  "per_y":11.7491
+  "per":90.512696,
+  "per_y":81.2
  },
  "sigma_full":{
-  "sigma_e":"3.45B-95",
-  "sigma_a":"2.42W-84",
-  "sigma_q":"9.83C-80",
-  "sigma_i":"2.84U-59",
-  "sigma_om":"6.50C-88",
-  "sigma_w":"9.49I-94",
-  "sigma_ma":"1.91D-68",
-  "sigma_ad":"1.39O-33",
-  "sigma_n":"6.37F-52",
-  "sigma_tp":"4.85M-15",
-  "sigma_per":"6.41M-26"
+  "sigma_e":"1.71L-78",
+  "sigma_a":"9.74S-20",
+  "sigma_q":"8.53R-85",
+  "sigma_i":"6.79A-94",
+  "sigma_om":"7.57F-96",
+  "sigma_w":"2.59W-72",
+  "sigma_ma":"8.30T-16",
+  "sigma_ad":"7.51L-53",
+  "sigma_n":"8.86A-85",
+  "sigma_tp":"5.18N-60",
+  "sigma_per":"2.92W-83"
  },
- "rms":0.4081846201,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.6901655,
-  "moid_id":63.1565
+  "moid":0.5,
+  "moid_id":57.576384254
  },
- "class_asteroid":"S-"
+ "class_asteroid":"C-"
 }

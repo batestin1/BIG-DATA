@@ -1,63 +1,63 @@
 {
  "spk_id":2002445,
- "object_id":"l0000002444",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"786478230m/s",
+ "object_id":"r0000002444",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"605179242m/s",
  "object_fullname":{
-  "fullname":"2015 FI",
+  "fullname":"2015 JU",
   "prefix":"2015 ",
-  "name":"HIROSHI"
+  "name":"FALLADA"
  },
- "pdes":541,
+ "pdes":936,
  "diameter_full":{
-  "diameter":79.0,
-  "diameter_sigma":6.35723094861718
+  "diameter":44.5,
+  "diameter_sigma":4.440292521
  },
- "h":3.25,
- "albedo":0.7647494,
- "orbit_id":"EPB 85",
+ "h":0.1111111111111111,
+ "albedo":0.4,
+ "orbit_id":"PAC 25",
  "epoch_full":{
-  "epoch":2719333.0,
-  "epoch_mjd":77328,
-  "epoch_cal":20220206.0
+  "epoch":5654242.0,
+  "epoch_mjd":72214,
+  "epoch_cal":20220129.0
  },
- "equinox":"A4853",
- "om":55.0,
- "e":0.5577250233,
- "a":52533.636549107,
- "q":5.2921814,
- "i":34.4576,
- "w":45.4683601,
- "ad":0.83,
- "ma":81.93791255539,
- "n":66.474254,
+ "equinox":"F2732",
+ "om":47.9767878659165,
+ "e":0.7217,
+ "a":4.5272023177871,
+ "q":899611051276.5,
+ "i":4576.699,
+ "w":50.68447693,
+ "ad":0.130187,
+ "ma":13.52927,
+ "n":14.596,
  "tp_full":{
-  "tp_cal":12.108486,
-  "tp":50.25233738845
+  "tp_cal":51.2,
+  "tp":72.132654863
  },
  "per_full":{
-  "per":64.642,
-  "per_y":86.17271650519
+  "per":74.0,
+  "per_y":91.8079517660063
  },
  "sigma_full":{
-  "sigma_e":"2.32A-59",
-  "sigma_a":"1.96M-42",
-  "sigma_q":"1.40W-93",
-  "sigma_i":"8.86D-90",
-  "sigma_om":"1.77E-36",
-  "sigma_w":"6.20O-15",
-  "sigma_ma":"2.66H-42",
-  "sigma_ad":"7.58A-75",
-  "sigma_n":"7.48E-26",
-  "sigma_tp":"8.21H-84",
-  "sigma_per":"8.22T-32"
+  "sigma_e":"4.38F-93",
+  "sigma_a":"3.83P-55",
+  "sigma_q":"1.84L-65",
+  "sigma_i":"3.35C-64",
+  "sigma_om":"4.53S-29",
+  "sigma_w":"1.14N-40",
+  "sigma_ma":"2.76S-36",
+  "sigma_ad":"9.13H-62",
+  "sigma_n":"2.65I-80",
+  "sigma_tp":"3.93F-65",
+  "sigma_per":"9.14M-80"
  },
- "rms":0.57,
+ "rms":0.6,
  "moid_full":{
-  "moid":0.929,
-  "moid_id":80.102376542182
+  "moid":0.9886409,
+  "moid_id":2.83336561782615
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

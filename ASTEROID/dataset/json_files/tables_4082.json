@@ -1,63 +1,63 @@
 {
  "spk_id":2004083,
- "object_id":"r0000004082",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"729925019m/s",
+ "object_id":"i0000004082",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"643556519m/s",
  "object_fullname":{
-  "fullname":"2019 SI",
-  "prefix":"2019 ",
-  "name":"HESRIVASTAVA"
+  "fullname":"2021 BE",
+  "prefix":"2021 ",
+  "name":"GOVORADLOANATOLY"
  },
- "pdes":800,
+ "pdes":850,
  "diameter_full":{
-  "diameter":78.78945,
-  "diameter_sigma":2.56
+  "diameter":16.47295062395,
+  "diameter_sigma":6.0
  },
- "h":1.3333333333333333,
- "albedo":0.18,
- "orbit_id":"HBP 45",
+ "h":1.9,
+ "albedo":0.0,
+ "orbit_id":"CEH 14",
  "epoch_full":{
-  "epoch":8553639.0,
-  "epoch_mjd":66473,
-  "epoch_cal":20220131.0
+  "epoch":8589815.0,
+  "epoch_mjd":23643,
+  "epoch_cal":20220212.0
  },
- "equinox":"S1842",
- "om":70.6661,
- "e":0.696,
- "a":9683.239638,
- "q":201.524923,
- "i":180881673066.9,
- "w":95.3954428178,
- "ad":0.5,
- "ma":96.641499,
- "n":45.855002607713,
+ "equinox":"O1107",
+ "om":55.747,
+ "e":0.0,
+ "a":248540777329.19,
+ "q":1590.467,
+ "i":40665754224.433,
+ "w":50.5897972153,
+ "ad":0.0,
+ "ma":82.2,
+ "n":77.922731,
  "tp_full":{
-  "tp_cal":3.2,
-  "tp":64.8693
+  "tp_cal":21.746439221241,
+  "tp":75.66167914
  },
  "per_full":{
-  "per":51.68447974,
-  "per_y":73.43
+  "per":89.94952,
+  "per_y":41.73376454755
  },
  "sigma_full":{
-  "sigma_e":"4.27P-72",
-  "sigma_a":"2.41M-57",
-  "sigma_q":"9.35D-22",
-  "sigma_i":"7.58R-21",
-  "sigma_om":"2.37I-41",
-  "sigma_w":"5.11S-40",
-  "sigma_ma":"5.27C-56",
-  "sigma_ad":"5.46M-28",
-  "sigma_n":"9.69R-37",
-  "sigma_tp":"6.86P-20",
-  "sigma_per":"2.76G-38"
+  "sigma_e":"6.24A-69",
+  "sigma_a":"6.62A-52",
+  "sigma_q":"1.31W-11",
+  "sigma_i":"8.57R-53",
+  "sigma_om":"4.61C-58",
+  "sigma_w":"3.33S-12",
+  "sigma_ma":"8.86S-33",
+  "sigma_ad":"9.89S-49",
+  "sigma_n":"7.52S-27",
+  "sigma_tp":"8.42P-27",
+  "sigma_per":"6.79W-53"
  },
- "rms":0.6738632,
+ "rms":0.9093483,
  "moid_full":{
-  "moid":0.1,
-  "moid_id":4.0
+  "moid":0.0,
+  "moid_id":2.613027589
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

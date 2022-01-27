@@ -1,63 +1,63 @@
 {
  "spk_id":2002026,
- "object_id":"h0000002025",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"728728711m/s",
+ "object_id":"t0000002025",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"293134766m/s",
  "object_fullname":{
-  "fullname":"2020 IF",
+  "fullname":"2020 BI",
   "prefix":"2020 ",
-  "name":"DUBININ"
+  "name":"DIMPNA"
  },
- "pdes":788,
+ "pdes":493,
  "diameter_full":{
-  "diameter":37.567957890038,
-  "diameter_sigma":9.651209431097
+  "diameter":27.7948746712614,
+  "diameter_sigma":2.99
  },
- "h":0.4117647058823529,
- "albedo":0.35417823404,
- "orbit_id":"STF 81",
+ "h":1.0,
+ "albedo":0.87674,
+ "orbit_id":"PMB 32",
  "epoch_full":{
-  "epoch":2276326.0,
-  "epoch_mjd":25112,
-  "epoch_cal":20220212.0
+  "epoch":3440417.0,
+  "epoch_mjd":50092,
+  "epoch_cal":20220204.0
  },
- "equinox":"S9817",
- "om":89.526,
- "e":0.0,
- "a":971075151400.0,
- "q":909752146681394.0,
- "i":886431.7996425,
- "w":42.1839,
+ "equinox":"P4105",
+ "om":28.47,
+ "e":0.751689,
+ "a":21.0,
+ "q":7675902767.0,
+ "i":798588031.179893,
+ "w":97.26661952,
  "ad":0.0,
- "ma":90.575835,
- "n":6.187883,
+ "ma":74.876401888,
+ "n":42.2396730769,
  "tp_full":{
-  "tp_cal":52.513322,
-  "tp":73.851065294
+  "tp_cal":20.6,
+  "tp":25.3488919978
  },
  "per_full":{
-  "per":5.84326083763,
-  "per_y":74.433179051
+  "per":46.96,
+  "per_y":79.69953543215
  },
  "sigma_full":{
-  "sigma_e":"4.13S-31",
-  "sigma_a":"3.93C-61",
-  "sigma_q":"4.64F-93",
-  "sigma_i":"9.56O-66",
-  "sigma_om":"6.80D-77",
-  "sigma_w":"1.47C-16",
-  "sigma_ma":"4.56J-28",
-  "sigma_ad":"8.84R-63",
-  "sigma_n":"2.41F-80",
-  "sigma_tp":"3.20S-79",
-  "sigma_per":"2.91C-22"
+  "sigma_e":"2.70P-91",
+  "sigma_a":"1.18T-88",
+  "sigma_q":"3.43N-67",
+  "sigma_i":"7.65H-75",
+  "sigma_om":"3.21M-51",
+  "sigma_w":"5.63I-30",
+  "sigma_ma":"4.90A-48",
+  "sigma_ad":"9.86T-99",
+  "sigma_n":"3.56M-47",
+  "sigma_tp":"6.87T-23",
+  "sigma_per":"7.91S-77"
  },
- "rms":0.2,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.12648565,
-  "moid_id":87.74784
+  "moid":0.7304959841989,
+  "moid_id":32.0
  },
- "class_asteroid":"C-"
+ "class_asteroid":"S-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2005205,
- "object_id":"s0000005204",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"166158710m/s",
+ "object_id":"c0000005204",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"411986257m/s",
  "object_fullname":{
-  "fullname":"2012 TE",
-  "prefix":"2012 ",
-  "name":"BURDETT"
+  "fullname":"2004 DE",
+  "prefix":"2004 ",
+  "name":"CANTABIA"
  },
- "pdes":872,
+ "pdes":763,
  "diameter_full":{
-  "diameter":77.0,
-  "diameter_sigma":9.3
+  "diameter":57.8,
+  "diameter_sigma":2.74211466511642
  },
- "h":0.3333333333333333,
- "albedo":0.4,
- "orbit_id":"GCD 90",
+ "h":0.7,
+ "albedo":0.0,
+ "orbit_id":"SHO 78",
  "epoch_full":{
-  "epoch":1573538.0,
-  "epoch_mjd":42469,
-  "epoch_cal":20220202.0
+  "epoch":2556284.0,
+  "epoch_mjd":14667,
+  "epoch_cal":20220208.0
  },
- "equinox":"R4590",
- "om":18.61998770159,
- "e":0.914,
- "a":895414365636126.0,
- "q":2623130776604.1,
- "i":696270.327,
- "w":54.1,
- "ad":0.5927343602,
- "ma":32.145428935,
- "n":7.9219,
+ "equinox":"S2669",
+ "om":55.97553032,
+ "e":0.0,
+ "a":440295.0,
+ "q":92612043681.0,
+ "i":130843379240.0,
+ "w":56.422045937865,
+ "ad":0.38,
+ "ma":47.80414578424721,
+ "n":83.9151,
  "tp_full":{
-  "tp_cal":9.2,
-  "tp":83.0
+  "tp_cal":58.72467,
+  "tp":73.241
  },
  "per_full":{
-  "per":13.6735974062287,
-  "per_y":38.8701735513033
+  "per":21.4753,
+  "per_y":22.189
  },
  "sigma_full":{
-  "sigma_e":"9.39S-68",
-  "sigma_a":"7.44S-93",
-  "sigma_q":"1.73S-98",
-  "sigma_i":"4.77F-44",
-  "sigma_om":"5.17P-82",
-  "sigma_w":"9.28R-46",
-  "sigma_ma":"1.50R-98",
-  "sigma_ad":"5.18I-90",
-  "sigma_n":"9.85M-45",
-  "sigma_tp":"7.74A-78",
-  "sigma_per":"2.60B-63"
+  "sigma_e":"7.88S-65",
+  "sigma_a":"6.29W-33",
+  "sigma_q":"3.80T-85",
+  "sigma_i":"7.31D-15",
+  "sigma_om":"7.11C-83",
+  "sigma_w":"3.69C-25",
+  "sigma_ma":"8.60D-46",
+  "sigma_ad":"4.38P-24",
+  "sigma_n":"8.77B-41",
+  "sigma_tp":"3.26T-97",
+  "sigma_per":"5.41I-60"
  },
- "rms":0.11,
+ "rms":0.1753,
  "moid_full":{
-  "moid":0.23,
-  "moid_id":28.25728
+  "moid":0.2800606103,
+  "moid_id":63.6917803929
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

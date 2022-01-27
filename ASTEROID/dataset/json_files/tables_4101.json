@@ -1,63 +1,63 @@
 {
  "spk_id":2004102,
- "object_id":"f0000004101",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"502989030m/s",
+ "object_id":"t0000004101",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"805115003m/s",
  "object_fullname":{
-  "fullname":"2005 OU",
-  "prefix":"2005 ",
-  "name":"HADRIANUS"
+  "fullname":"2001 RE",
+  "prefix":"2001 ",
+  "name":"HOYIN"
  },
- "pdes":569,
+ "pdes":161,
  "diameter_full":{
-  "diameter":81.1973829314744,
-  "diameter_sigma":2.9258758473
+  "diameter":59.81367264211466,
+  "diameter_sigma":5.829234
  },
- "h":3.5,
- "albedo":0.8,
- "orbit_id":"PFM 58",
+ "h":2.0,
+ "albedo":0.0,
+ "orbit_id":"RGK 59",
  "epoch_full":{
-  "epoch":5251622.0,
-  "epoch_mjd":62161,
-  "epoch_cal":20220207.0
+  "epoch":8368988.0,
+  "epoch_mjd":19354,
+  "epoch_cal":20220224.0
  },
- "equinox":"A7217",
- "om":1.3808628740744,
- "e":0.0,
- "a":98548.2361,
- "q":69.785551462753,
- "i":5429362404590.4,
- "w":79.18760616,
- "ad":0.7,
- "ma":48.55528,
- "n":7.0,
+ "equinox":"N3248",
+ "om":70.439706551,
+ "e":0.201,
+ "a":45920540334.547,
+ "q":259934972.48,
+ "i":4.4943029,
+ "w":48.239,
+ "ad":0.102610843,
+ "ma":38.0,
+ "n":24.7472,
  "tp_full":{
-  "tp_cal":63.6561924,
-  "tp":61.1591536994566
+  "tp_cal":44.464118,
+  "tp":28.112
  },
  "per_full":{
-  "per":35.10331935715306,
-  "per_y":78.9571
+  "per":79.68,
+  "per_y":98.7
  },
  "sigma_full":{
-  "sigma_e":"9.86M-56",
-  "sigma_a":"4.99M-75",
-  "sigma_q":"8.83C-73",
-  "sigma_i":"7.37P-27",
-  "sigma_om":"8.65V-99",
-  "sigma_w":"2.98A-38",
-  "sigma_ma":"7.92C-11",
-  "sigma_ad":"1.52F-12",
-  "sigma_n":"7.36M-18",
-  "sigma_tp":"7.71U-52",
-  "sigma_per":"3.54A-34"
+  "sigma_e":"7.90C-45",
+  "sigma_a":"8.41N-62",
+  "sigma_q":"6.95S-38",
+  "sigma_i":"5.86M-16",
+  "sigma_om":"9.13P-42",
+  "sigma_w":"5.86L-17",
+  "sigma_ma":"5.17I-89",
+  "sigma_ad":"5.80G-28",
+  "sigma_n":"2.36S-75",
+  "sigma_tp":"3.58T-94",
+  "sigma_per":"4.58H-78"
  },
- "rms":0.952,
+ "rms":0.604131217,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":97.68949538962
+  "moid":0.8856,
+  "moid_id":86.8658972
  },
  "class_asteroid":"C-"
 }

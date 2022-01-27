@@ -1,63 +1,63 @@
 {
  "spk_id":2004138,
- "object_id":"d0000004137",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"255852388m/s",
+ "object_id":"n0000004137",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"53175640m/s",
  "object_fullname":{
-  "fullname":"2014 AD",
-  "prefix":"2014 ",
-  "name":"BORNHOLM"
+  "fullname":"2008 TH",
+  "prefix":"2008 ",
+  "name":"GREGARIA"
  },
- "pdes":124,
+ "pdes":304,
  "diameter_full":{
-  "diameter":70.21362620634,
-  "diameter_sigma":4.518882
+  "diameter":2.164,
+  "diameter_sigma":9.4899113915
  },
- "h":1.0,
- "albedo":0.88,
- "orbit_id":"HMM 53",
+ "h":0.38461538461538464,
+ "albedo":0.0,
+ "orbit_id":"RSO 79",
  "epoch_full":{
-  "epoch":8830981.0,
-  "epoch_mjd":96828,
-  "epoch_cal":20220126.0
+  "epoch":9054869.0,
+  "epoch_mjd":48712,
+  "epoch_cal":20220221.0
  },
- "equinox":"W1301",
- "om":82.196686038227,
- "e":0.0,
- "a":19002623.0,
- "q":22391168584628.0,
- "i":50733077994.34,
- "w":86.0,
- "ad":0.0,
- "ma":67.0,
- "n":19.254691,
+ "equinox":"T4251",
+ "om":99.59432465806123,
+ "e":0.13,
+ "a":6144722.6,
+ "q":13.0,
+ "i":4918.3250587504,
+ "w":40.13109220276,
+ "ad":0.81,
+ "ma":4.0,
+ "n":74.4343,
  "tp_full":{
-  "tp_cal":65.702678911656,
-  "tp":45.932
+  "tp_cal":45.93711089,
+  "tp":38.7
  },
  "per_full":{
-  "per":20.356,
-  "per_y":35.44895712717
+  "per":35.926306352084,
+  "per_y":46.27584
  },
  "sigma_full":{
-  "sigma_e":"5.37W-83",
-  "sigma_a":"2.38C-66",
-  "sigma_q":"4.14I-60",
-  "sigma_i":"1.43F-87",
-  "sigma_om":"7.21L-61",
-  "sigma_w":"9.52I-41",
-  "sigma_ma":"3.34F-81",
-  "sigma_ad":"7.26T-88",
-  "sigma_n":"6.58P-36",
-  "sigma_tp":"7.72D-23",
-  "sigma_per":"4.75D-87"
+  "sigma_e":"7.50R-63",
+  "sigma_a":"6.48E-32",
+  "sigma_q":"6.65S-13",
+  "sigma_i":"1.10R-99",
+  "sigma_om":"5.67R-11",
+  "sigma_w":"9.41F-14",
+  "sigma_ma":"6.68C-81",
+  "sigma_ad":"7.36N-18",
+  "sigma_n":"3.54L-20",
+  "sigma_tp":"6.87F-71",
+  "sigma_per":"7.80A-22"
  },
- "rms":0.0,
+ "rms":0.34,
  "moid_full":{
-  "moid":0.22,
-  "moid_id":61.7750129
+  "moid":0.6,
+  "moid_id":39.13047973
  },
  "class_asteroid":"S-"
 }

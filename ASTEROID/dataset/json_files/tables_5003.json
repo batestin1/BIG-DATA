@@ -1,63 +1,63 @@
 {
  "spk_id":2005004,
- "object_id":"d0000005003",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"690906533m/s",
+ "object_id":"q0000005003",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"590471457m/s",
  "object_fullname":{
-  "fullname":"2008 HO",
-  "prefix":"2008 ",
-  "name":"CHUGAINOV"
+  "fullname":"2009 BI",
+  "prefix":"2009 ",
+  "name":"FOX"
  },
- "pdes":219,
+ "pdes":879,
  "diameter_full":{
-  "diameter":95.87419635275,
-  "diameter_sigma":1.83844958
+  "diameter":83.9135404,
+  "diameter_sigma":9.0
  },
- "h":0.8,
- "albedo":0.72,
- "orbit_id":"PHL 55",
+ "h":0.4,
+ "albedo":0.0,
+ "orbit_id":"ABS 92",
  "epoch_full":{
-  "epoch":2848348.0,
-  "epoch_mjd":44662,
-  "epoch_cal":20220126.0
+  "epoch":6192455.0,
+  "epoch_mjd":91534,
+  "epoch_cal":20220223.0
  },
- "equinox":"C2628",
- "om":91.1539,
+ "equinox":"P9488",
+ "om":75.0,
  "e":0.0,
- "a":38690175.597,
- "q":1.72594,
- "i":551741873397686.0,
- "w":30.3,
- "ad":0.852,
- "ma":67.253,
- "n":7.1,
+ "a":86.1030322,
+ "q":3393.92354898,
+ "i":14121383420.3,
+ "w":76.34683822156,
+ "ad":0.1346521571269,
+ "ma":24.238070535294,
+ "n":32.9136,
  "tp_full":{
-  "tp_cal":42.46471212960679,
-  "tp":87.39
+  "tp_cal":47.336787524,
+  "tp":44.56
  },
  "per_full":{
-  "per":65.447,
-  "per_y":6.15014971988919
+  "per":18.16792,
+  "per_y":45.80188409048
  },
  "sigma_full":{
-  "sigma_e":"5.58C-21",
-  "sigma_a":"4.19W-74",
-  "sigma_q":"9.88I-43",
-  "sigma_i":"7.17E-13",
-  "sigma_om":"2.84H-88",
-  "sigma_w":"1.16O-15",
-  "sigma_ma":"5.80A-88",
-  "sigma_ad":"1.13F-18",
-  "sigma_n":"6.68S-29",
-  "sigma_tp":"7.76P-42",
-  "sigma_per":"3.61W-15"
+  "sigma_e":"3.39Y-13",
+  "sigma_a":"9.67A-79",
+  "sigma_q":"6.98T-99",
+  "sigma_i":"7.64W-77",
+  "sigma_om":"9.11A-30",
+  "sigma_w":"5.59H-58",
+  "sigma_ma":"3.72G-29",
+  "sigma_ad":"5.81O-91",
+  "sigma_n":"7.69W-34",
+  "sigma_tp":"7.69E-87",
+  "sigma_per":"7.92S-57"
  },
- "rms":0.92,
+ "rms":0.996,
  "moid_full":{
-  "moid":0.32889352,
-  "moid_id":99.93696351
+  "moid":0.0,
+  "moid_id":8.0
  },
  "class_asteroid":"S-"
 }

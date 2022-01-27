@@ -1,63 +1,63 @@
 {
  "spk_id":2003016,
- "object_id":"a0000003015",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"83150600m/s",
+ "object_id":"g0000003015",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"424183558m/s",
  "object_fullname":{
-  "fullname":"2000 RE",
-  "prefix":"2000 ",
-  "name":"ERICPETERS"
+  "fullname":"2006 TH",
+  "prefix":"2006 ",
+  "name":"BURWITZ"
  },
- "pdes":577,
+ "pdes":329,
  "diameter_full":{
-  "diameter":27.2190634835347,
-  "diameter_sigma":9.74042433
+  "diameter":20.4466,
+  "diameter_sigma":2.965854859
  },
- "h":1.0,
- "albedo":0.25794,
- "orbit_id":"RIC 45",
+ "h":2.0,
+ "albedo":0.9625316,
+ "orbit_id":"RQI 15",
  "epoch_full":{
-  "epoch":2996427.0,
-  "epoch_mjd":74279,
+  "epoch":7635338.0,
+  "epoch_mjd":50033,
   "epoch_cal":20220205.0
  },
- "equinox":"B4789",
- "om":38.269986783196,
- "e":0.68,
- "a":40.13284,
- "q":66822889903369.0,
- "i":4818.20726,
- "w":81.2452,
- "ad":0.2,
- "ma":62.6,
- "n":64.19767547035,
+ "equinox":"H4717",
+ "om":91.33326256,
+ "e":0.123156,
+ "a":470926.652501,
+ "q":7.5221839498,
+ "i":16409123245354.0,
+ "w":27.1278486503,
+ "ad":0.0,
+ "ma":43.785,
+ "n":94.13756949277712,
  "tp_full":{
-  "tp_cal":47.708915365,
-  "tp":3.0
+  "tp_cal":30.767931567,
+  "tp":16.125886825
  },
  "per_full":{
-  "per":3.92571031,
-  "per_y":10.36159756073
+  "per":4.818156184624,
+  "per_y":23.576
  },
  "sigma_full":{
-  "sigma_e":"1.98F-12",
-  "sigma_a":"5.96D-85",
-  "sigma_q":"1.84C-96",
-  "sigma_i":"8.87T-61",
-  "sigma_om":"1.25D-90",
-  "sigma_w":"5.97G-50",
-  "sigma_ma":"3.66I-10",
-  "sigma_ad":"6.45D-15",
-  "sigma_n":"3.75S-95",
-  "sigma_tp":"9.85S-77",
-  "sigma_per":"2.59A-20"
+  "sigma_e":"3.60W-35",
+  "sigma_a":"6.36B-10",
+  "sigma_q":"8.12P-22",
+  "sigma_i":"5.95H-52",
+  "sigma_om":"5.27S-18",
+  "sigma_w":"3.19T-53",
+  "sigma_ma":"2.15R-59",
+  "sigma_ad":"3.78W-39",
+  "sigma_n":"1.61D-56",
+  "sigma_tp":"9.61R-13",
+  "sigma_per":"6.37P-23"
  },
- "rms":0.7543,
+ "rms":0.34385,
  "moid_full":{
-  "moid":0.8,
-  "moid_id":5.0
+  "moid":0.0,
+  "moid_id":46.7047
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2002483,
- "object_id":"c0000002482",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"164733727m/s",
+ "object_id":"a0000002482",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"19017397m/s",
  "object_fullname":{
-  "fullname":"2011 WI",
-  "prefix":"2011 ",
-  "name":"BILLAHEARN"
+  "fullname":"2012 SM",
+  "prefix":"2012 ",
+  "name":"ALAMOSA"
  },
- "pdes":420,
+ "pdes":755,
  "diameter_full":{
-  "diameter":73.74534735028143,
-  "diameter_sigma":8.95
+  "diameter":65.2087,
+  "diameter_sigma":8.1
  },
- "h":0.2222222222222222,
- "albedo":0.75,
- "orbit_id":"RMW 69",
+ "h":17.0,
+ "albedo":0.89766428555,
+ "orbit_id":"SCL 54",
  "epoch_full":{
-  "epoch":7292034.0,
-  "epoch_mjd":35130,
-  "epoch_cal":20220130.0
+  "epoch":3603801.0,
+  "epoch_mjd":26415,
+  "epoch_cal":20220129.0
  },
- "equinox":"D8675",
- "om":59.58676,
- "e":0.93,
- "a":275.5849394671,
- "q":5494821027914.5,
- "i":8999258450.77,
- "w":27.1673,
- "ad":0.74,
- "ma":7.1462241985423,
- "n":8.9552461,
+ "equinox":"A8077",
+ "om":56.6,
+ "e":0.759699,
+ "a":1129.1510054,
+ "q":3404.0,
+ "i":451646701.538969,
+ "w":82.33236330442,
+ "ad":0.13167,
+ "ma":1.678775647348,
+ "n":36.2,
  "tp_full":{
-  "tp_cal":91.30967,
-  "tp":74.1
+  "tp_cal":79.12,
+  "tp":98.1543459553
  },
  "per_full":{
-  "per":44.3401980507713,
-  "per_y":74.51569800115837
+  "per":34.60426641021385,
+  "per_y":57.0
  },
  "sigma_full":{
-  "sigma_e":"8.41T-72",
-  "sigma_a":"7.97T-75",
-  "sigma_q":"6.50S-36",
-  "sigma_i":"8.10C-87",
-  "sigma_om":"8.20N-26",
-  "sigma_w":"3.78W-66",
-  "sigma_ma":"1.55F-53",
-  "sigma_ad":"7.75L-46",
-  "sigma_n":"6.84S-54",
-  "sigma_tp":"6.59A-99",
-  "sigma_per":"1.50R-72"
+  "sigma_e":"3.15C-75",
+  "sigma_a":"5.76D-49",
+  "sigma_q":"9.72A-16",
+  "sigma_i":"8.40S-77",
+  "sigma_om":"2.77A-41",
+  "sigma_w":"3.77H-61",
+  "sigma_ma":"4.23T-95",
+  "sigma_ad":"4.62W-96",
+  "sigma_n":"1.86C-11",
+  "sigma_tp":"5.19E-59",
+  "sigma_per":"6.46R-65"
  },
- "rms":0.411649,
+ "rms":0.6568942371818,
  "moid_full":{
-  "moid":0.535570845,
-  "moid_id":74.23592719
+  "moid":0.4,
+  "moid_id":11.529941080996
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

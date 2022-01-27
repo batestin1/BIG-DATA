@@ -1,63 +1,63 @@
 {
  "spk_id":2006411,
- "object_id":"c0000006410",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"376751540m/s",
+ "object_id":"n0000006410",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"674963483m/s",
  "object_fullname":{
-  "fullname":"2008 RA",
-  "prefix":"2008 ",
-  "name":"HAZAMASHIGETOMI"
+  "fullname":"2022 MO",
+  "prefix":"2022 ",
+  "name":"CHIKAYOSHITOMI"
  },
- "pdes":972,
+ "pdes":908,
  "diameter_full":{
-  "diameter":95.433733389691,
-  "diameter_sigma":9.330029
+  "diameter":36.14441,
+  "diameter_sigma":8.819369
  },
- "h":14.0,
- "albedo":0.3,
- "orbit_id":"WBR 46",
+ "h":0.6,
+ "albedo":0.1,
+ "orbit_id":"SAO 54",
  "epoch_full":{
-  "epoch":3638845.0,
-  "epoch_mjd":97180,
-  "epoch_cal":20220131.0
+  "epoch":2899669.0,
+  "epoch_mjd":90666,
+  "epoch_cal":20220211.0
  },
- "equinox":"L2022",
- "om":59.63,
- "e":0.1,
- "a":915342662.881,
- "q":788768.6409,
- "i":3367.2371899,
- "w":21.637543,
- "ad":0.0,
- "ma":65.917632924,
- "n":97.81004035267,
+ "equinox":"T6162",
+ "om":3.4,
+ "e":0.0,
+ "a":738751604250.0,
+ "q":22532.39,
+ "i":1297719759.5,
+ "w":58.991397777,
+ "ad":0.259097,
+ "ma":98.5803844575903,
+ "n":66.7987,
  "tp_full":{
-  "tp_cal":92.6986636,
-  "tp":77.22889047045
+  "tp_cal":67.624,
+  "tp":41.154415259969
  },
  "per_full":{
-  "per":71.3,
-  "per_y":44.83
+  "per":25.23,
+  "per_y":77.219366702
  },
  "sigma_full":{
-  "sigma_e":"8.84D-12",
-  "sigma_a":"3.68B-41",
-  "sigma_q":"6.55A-91",
-  "sigma_i":"5.49W-85",
-  "sigma_om":"5.17R-59",
-  "sigma_w":"2.42W-46",
-  "sigma_ma":"8.86M-13",
-  "sigma_ad":"4.96D-91",
-  "sigma_n":"1.66L-53",
-  "sigma_tp":"2.33B-33",
-  "sigma_per":"8.43D-30"
+  "sigma_e":"4.22I-83",
+  "sigma_a":"1.69S-70",
+  "sigma_q":"4.22I-95",
+  "sigma_i":"6.37F-99",
+  "sigma_om":"5.23S-68",
+  "sigma_w":"5.93D-53",
+  "sigma_ma":"7.92T-85",
+  "sigma_ad":"5.63G-44",
+  "sigma_n":"9.41S-43",
+  "sigma_tp":"4.21H-61",
+  "sigma_per":"8.95M-96"
  },
- "rms":0.7833707,
+ "rms":0.2308386796,
  "moid_full":{
-  "moid":0.67,
-  "moid_id":50.1605071103
+  "moid":0.0,
+  "moid_id":61.96636140173144
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"S-"
 }

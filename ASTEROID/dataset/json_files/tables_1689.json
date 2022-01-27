@@ -1,63 +1,63 @@
 {
  "spk_id":2001690,
- "object_id":"t0000001689",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"634503202m/s",
+ "object_id":"a0000001689",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"102592495m/s",
  "object_fullname":{
-  "fullname":"2019 EI",
-  "prefix":"2019 ",
-  "name":"HILAOMAR"
+  "fullname":"2015 SE",
+  "prefix":"2015 ",
+  "name":"ANITASOHUS"
  },
- "pdes":946,
+ "pdes":937,
  "diameter_full":{
-  "diameter":24.73898203490573,
-  "diameter_sigma":4.718
+  "diameter":48.41,
+  "diameter_sigma":4.5977157107
  },
- "h":2.8,
- "albedo":0.4253,
- "orbit_id":"SRG 67",
+ "h":0.25,
+ "albedo":0.765,
+ "orbit_id":"DCP 39",
  "epoch_full":{
-  "epoch":3535541.0,
-  "epoch_mjd":71108,
+  "epoch":4827686.0,
+  "epoch_mjd":72818,
   "epoch_cal":20220204.0
  },
- "equinox":"L7891",
- "om":16.4,
- "e":0.0,
- "a":2.77,
- "q":422158757703432.0,
- "i":900266931490.77,
- "w":49.384301749698,
- "ad":0.69634466,
- "ma":70.4101018,
- "n":96.3,
+ "equinox":"S1825",
+ "om":3.9655710691588,
+ "e":0.8227,
+ "a":4491.8,
+ "q":5443.5106,
+ "i":191.987493724426,
+ "w":68.2,
+ "ad":0.2,
+ "ma":64.65303,
+ "n":66.1272,
  "tp_full":{
-  "tp_cal":62.169404891024,
-  "tp":10.8453066396097
+  "tp_cal":77.221,
+  "tp":61.48248
  },
  "per_full":{
-  "per":6.963181,
-  "per_y":87.223651913422
+  "per":60.73948642297,
+  "per_y":17.597439
  },
  "sigma_full":{
-  "sigma_e":"4.12W-66",
-  "sigma_a":"4.95A-35",
-  "sigma_q":"9.53S-42",
-  "sigma_i":"2.68A-32",
-  "sigma_om":"9.79F-22",
-  "sigma_w":"1.91B-24",
-  "sigma_ma":"8.58A-15",
-  "sigma_ad":"1.34O-73",
-  "sigma_n":"3.63E-74",
-  "sigma_tp":"6.90L-11",
-  "sigma_per":"3.80C-42"
+  "sigma_e":"8.37W-37",
+  "sigma_a":"7.86F-49",
+  "sigma_q":"7.28S-22",
+  "sigma_i":"7.56B-48",
+  "sigma_om":"5.88O-91",
+  "sigma_w":"7.33O-38",
+  "sigma_ma":"5.35H-65",
+  "sigma_ad":"9.30D-44",
+  "sigma_n":"1.56G-40",
+  "sigma_tp":"7.28P-22",
+  "sigma_per":"2.66M-70"
  },
- "rms":0.0,
+ "rms":0.615,
  "moid_full":{
-  "moid":0.2604,
-  "moid_id":3.56639977096
+  "moid":0.163,
+  "moid_id":99.4064397
  },
- "class_asteroid":"S-"
+ "class_asteroid":"C-"
 }

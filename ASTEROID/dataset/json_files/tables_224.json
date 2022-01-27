@@ -1,63 +1,63 @@
 {
  "spk_id":2000225,
- "object_id":"e000000224",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"357092547m/s",
+ "object_id":"a000000224",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"864179061m/s",
  "object_fullname":{
-  "fullname":"2003 YE",
-  "prefix":"2003 ",
-  "name":"JAYARANJAN"
+  "fullname":"2005 EV",
+  "prefix":"2005 ",
+  "name":"KALOCSA"
  },
- "pdes":529,
+ "pdes":548,
  "diameter_full":{
-  "diameter":83.3254768008,
-  "diameter_sigma":5.8597847128605
+  "diameter":2.855,
+  "diameter_sigma":4.157737370456
  },
- "h":0.2,
- "albedo":0.42852,
- "orbit_id":"SHD 83",
+ "h":1.0833333333333333,
+ "albedo":0.2028028,
+ "orbit_id":"FMG 89",
  "epoch_full":{
-  "epoch":6338627.0,
-  "epoch_mjd":97618,
-  "epoch_cal":20220210.0
+  "epoch":2815130.0,
+  "epoch_mjd":77739,
+  "epoch_cal":20220202.0
  },
- "equinox":"T6029",
- "om":79.28028664776917,
- "e":0.510492,
- "a":62661.946235,
- "q":16616668.815,
- "i":97946807.9723,
- "w":36.0,
- "ad":0.73,
- "ma":40.5257,
- "n":80.0,
+ "equinox":"D1866",
+ "om":23.0,
+ "e":0.0,
+ "a":1777325.382185,
+ "q":5538591.5329,
+ "i":3311.3739459766,
+ "w":23.763457073809,
+ "ad":0.0,
+ "ma":61.60082216002,
+ "n":78.0,
  "tp_full":{
-  "tp_cal":59.6541,
-  "tp":55.2222
+  "tp_cal":2.980787177,
+  "tp":40.7740130557682
  },
  "per_full":{
-  "per":33.528492971,
-  "per_y":16.6229863973
+  "per":2.570272109,
+  "per_y":68.0
  },
  "sigma_full":{
-  "sigma_e":"6.87R-69",
-  "sigma_a":"1.92S-81",
-  "sigma_q":"4.20B-20",
-  "sigma_i":"7.23C-94",
-  "sigma_om":"1.16D-86",
-  "sigma_w":"5.16P-57",
-  "sigma_ma":"5.91W-34",
-  "sigma_ad":"6.31D-76",
-  "sigma_n":"6.97I-20",
-  "sigma_tp":"2.89S-17",
-  "sigma_per":"1.12R-10"
+  "sigma_e":"2.95C-11",
+  "sigma_a":"8.34C-48",
+  "sigma_q":"5.26B-10",
+  "sigma_i":"1.94G-30",
+  "sigma_om":"8.57T-16",
+  "sigma_w":"9.82S-15",
+  "sigma_ma":"7.85L-32",
+  "sigma_ad":"2.51O-29",
+  "sigma_n":"6.27S-23",
+  "sigma_tp":"2.51N-24",
+  "sigma_per":"4.28W-12"
  },
- "rms":0.5233,
+ "rms":0.6,
  "moid_full":{
-  "moid":0.3583,
-  "moid_id":17.435435591076
+  "moid":0.80815361,
+  "moid_id":68.816901550653
  },
  "class_asteroid":"Other Types"
 }

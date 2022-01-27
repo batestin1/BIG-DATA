@@ -1,63 +1,63 @@
 {
  "spk_id":2000295,
- "object_id":"f000000294",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"733457584m/s",
+ "object_id":"s000000294",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"814652090m/s",
  "object_fullname":{
-  "fullname":"2006 SH",
-  "prefix":"2006 ",
-  "name":"CHAGALL"
+  "fullname":"2015 AL",
+  "prefix":"2015 ",
+  "name":"BURNABY"
  },
- "pdes":792,
+ "pdes":380,
  "diameter_full":{
-  "diameter":71.0,
-  "diameter_sigma":1.62421202
+  "diameter":80.17704,
+  "diameter_sigma":1.838588
  },
- "h":0.5,
- "albedo":0.9357284785,
- "orbit_id":"RWO 21",
+ "h":0.16666666666666666,
+ "albedo":0.1158947,
+ "orbit_id":"SSI 73",
  "epoch_full":{
-  "epoch":4299140.0,
-  "epoch_mjd":81888,
-  "epoch_cal":20220212.0
+  "epoch":3302011.0,
+  "epoch_mjd":78880,
+  "epoch_cal":20220205.0
  },
- "equinox":"U4998",
- "om":10.563967,
+ "equinox":"R8397",
+ "om":25.8218501,
  "e":0.91,
- "a":750.32,
- "q":13978076.240418,
- "i":7719.5021576,
- "w":11.1366941,
- "ad":0.9,
- "ma":90.600936,
- "n":24.20227,
+ "a":306314.224311,
+ "q":4870873.395,
+ "i":577096858.811342,
+ "w":10.9,
+ "ad":0.0,
+ "ma":79.0,
+ "n":16.0,
  "tp_full":{
-  "tp_cal":25.59415,
-  "tp":39.0
+  "tp_cal":44.372385045041,
+  "tp":95.637287
  },
  "per_full":{
-  "per":60.1075997282,
-  "per_y":98.49272776582941
+  "per":4.493325075,
+  "per_y":5.7
  },
  "sigma_full":{
-  "sigma_e":"7.57T-54",
-  "sigma_a":"8.60C-84",
-  "sigma_q":"5.60S-60",
-  "sigma_i":"1.95S-85",
-  "sigma_om":"6.77I-87",
-  "sigma_w":"5.70S-62",
-  "sigma_ma":"3.91C-73",
-  "sigma_ad":"1.49T-18",
-  "sigma_n":"4.14R-84",
-  "sigma_tp":"1.62M-22",
-  "sigma_per":"1.55M-84"
+  "sigma_e":"7.66S-27",
+  "sigma_a":"5.87M-26",
+  "sigma_q":"9.95F-13",
+  "sigma_i":"2.28R-51",
+  "sigma_om":"3.85G-81",
+  "sigma_w":"7.29H-13",
+  "sigma_ma":"8.79T-26",
+  "sigma_ad":"1.67A-97",
+  "sigma_n":"2.46S-34",
+  "sigma_tp":"6.32D-49",
+  "sigma_per":"7.20B-61"
  },
- "rms":0.35707,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.1837,
-  "moid_id":94.1792581
+  "moid":0.130868462,
+  "moid_id":45.968498107616
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

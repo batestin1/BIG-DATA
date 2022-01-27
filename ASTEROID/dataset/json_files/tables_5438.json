@@ -1,63 +1,63 @@
 {
  "spk_id":2005439,
- "object_id":"c0000005438",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"521856198m/s",
+ "object_id":"a0000005438",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"792102127m/s",
  "object_fullname":{
-  "fullname":"2000 MI",
-  "prefix":"2000 ",
-  "name":"COLE"
+  "fullname":"2016 SU",
+  "prefix":"2016 ",
+  "name":"JULTAYU"
  },
- "pdes":342,
+ "pdes":144,
  "diameter_full":{
-  "diameter":20.60329,
-  "diameter_sigma":5.473056924123
+  "diameter":14.363705683,
+  "diameter_sigma":4.8491
  },
- "h":0.75,
- "albedo":0.0,
- "orbit_id":"PHI 85",
+ "h":0.875,
+ "albedo":0.93,
+ "orbit_id":"MSO 25",
  "epoch_full":{
-  "epoch":9893795.0,
-  "epoch_mjd":72905,
-  "epoch_cal":20220126.0
+  "epoch":1978882.0,
+  "epoch_mjd":45670,
+  "epoch_cal":20220209.0
  },
- "equinox":"R9968",
- "om":81.44836,
- "e":0.0,
- "a":6774460.500581,
- "q":38116508.863,
- "i":88501177642149.9,
- "w":97.9884286,
- "ad":0.5,
- "ma":96.4285,
- "n":15.0,
+ "equinox":"T3190",
+ "om":23.547729,
+ "e":0.3965119961719,
+ "a":17847745.79,
+ "q":68825.0,
+ "i":983278831195879.0,
+ "w":64.63,
+ "ad":0.8710013,
+ "ma":16.868601373945,
+ "n":80.49037346,
  "tp_full":{
-  "tp_cal":43.0,
-  "tp":69.322982867
+  "tp_cal":47.44098102592,
+  "tp":63.7972
  },
  "per_full":{
-  "per":51.6899626532288,
-  "per_y":86.655898102466
+  "per":47.0,
+  "per_y":53.3
  },
  "sigma_full":{
-  "sigma_e":"3.73S-86",
-  "sigma_a":"2.85V-86",
-  "sigma_q":"1.64R-48",
-  "sigma_i":"4.58S-92",
-  "sigma_om":"7.40P-95",
-  "sigma_w":"2.44P-58",
-  "sigma_ma":"6.21G-60",
-  "sigma_ad":"3.56A-37",
-  "sigma_n":"3.62F-85",
-  "sigma_tp":"1.97S-81",
-  "sigma_per":"6.86T-96"
+  "sigma_e":"1.65H-37",
+  "sigma_a":"2.25W-13",
+  "sigma_q":"7.96S-70",
+  "sigma_i":"1.70F-60",
+  "sigma_om":"6.15S-82",
+  "sigma_w":"7.67M-28",
+  "sigma_ma":"3.14T-87",
+  "sigma_ad":"9.47E-97",
+  "sigma_n":"8.27E-31",
+  "sigma_tp":"4.96R-11",
+  "sigma_per":"4.18L-44"
  },
- "rms":0.64,
+ "rms":0.82109045,
  "moid_full":{
-  "moid":0.7,
-  "moid_id":54.277374128
+  "moid":0.5,
+  "moid_id":59.989070377053
  },
- "class_asteroid":"C-"
+ "class_asteroid":"S-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2003343,
- "object_id":"o0000003342",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"37276057m/s",
+ "object_id":"e0000003342",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"625762931m/s",
  "object_fullname":{
-  "fullname":"2013 MO",
-  "prefix":"2013 ",
-  "name":"HEGEL"
+  "fullname":"2015 BA",
+  "prefix":"2015 ",
+  "name":"HELIO"
  },
- "pdes":447,
+ "pdes":695,
  "diameter_full":{
-  "diameter":10.4,
-  "diameter_sigma":4.0
+  "diameter":98.1,
+  "diameter_sigma":5.486498238
  },
- "h":0.8,
- "albedo":0.735020123,
- "orbit_id":"HHI 30",
+ "h":3.0,
+ "albedo":0.65844745786,
+ "orbit_id":"STS 18",
  "epoch_full":{
-  "epoch":3328256.0,
-  "epoch_mjd":92458,
-  "epoch_cal":20220126.0
+  "epoch":7795481.0,
+  "epoch_mjd":48628,
+  "epoch_cal":20220219.0
  },
- "equinox":"Q5603",
- "om":85.4,
- "e":0.453,
- "a":6515.3,
- "q":7564188629.6477,
- "i":81369.73231,
- "w":68.5196854,
- "ad":0.2,
- "ma":6.1305919988742,
- "n":62.9612683,
+ "equinox":"A6185",
+ "om":99.5508505722878,
+ "e":0.0,
+ "a":6931499848558.0,
+ "q":572177137.8,
+ "i":74193827.849229,
+ "w":77.57119325185,
+ "ad":0.3,
+ "ma":81.498526694,
+ "n":17.774,
  "tp_full":{
-  "tp_cal":1.69357,
-  "tp":79.4
+  "tp_cal":78.8,
+  "tp":11.726
  },
  "per_full":{
-  "per":34.2248,
-  "per_y":45.5472210696
+  "per":22.69105457,
+  "per_y":17.0
  },
  "sigma_full":{
-  "sigma_e":"1.32T-59",
-  "sigma_a":"8.11C-51",
-  "sigma_q":"2.89C-83",
-  "sigma_i":"4.58F-61",
-  "sigma_om":"3.66H-45",
-  "sigma_w":"4.17T-60",
-  "sigma_ma":"2.97T-92",
-  "sigma_ad":"6.44L-33",
-  "sigma_n":"7.39M-22",
-  "sigma_tp":"3.89A-56",
-  "sigma_per":"3.71S-72"
+  "sigma_e":"2.80S-70",
+  "sigma_a":"3.39L-89",
+  "sigma_q":"9.58W-43",
+  "sigma_i":"7.49C-69",
+  "sigma_om":"1.34M-88",
+  "sigma_w":"7.28D-55",
+  "sigma_ma":"4.80F-47",
+  "sigma_ad":"4.69D-56",
+  "sigma_n":"7.70M-47",
+  "sigma_tp":"7.50S-33",
+  "sigma_per":"3.28E-28"
  },
- "rms":0.81,
+ "rms":0.32217,
  "moid_full":{
-  "moid":0.612608229,
-  "moid_id":78.25924615581
+  "moid":0.5689,
+  "moid_id":59.9
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

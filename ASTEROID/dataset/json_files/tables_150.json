@@ -1,63 +1,63 @@
 {
  "spk_id":2000151,
- "object_id":"e000000150",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"52167524m/s",
+ "object_id":"r000000150",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"656108361m/s",
  "object_fullname":{
-  "fullname":"2013 AN",
-  "prefix":"2013 ",
-  "name":"GNEDIN"
+  "fullname":"2021 EL",
+  "prefix":"2021 ",
+  "name":"DONNAJONES"
  },
- "pdes":171,
+ "pdes":423,
  "diameter_full":{
-  "diameter":79.8,
-  "diameter_sigma":1.7953604786
+  "diameter":98.2,
+  "diameter_sigma":3.9329091670909
  },
- "h":0.6875,
- "albedo":0.1875,
- "orbit_id":"AEG 98",
+ "h":0.4166666666666667,
+ "albedo":0.810925,
+ "orbit_id":"PTV 10",
  "epoch_full":{
-  "epoch":5559805.0,
-  "epoch_mjd":72901,
-  "epoch_cal":20220126.0
+  "epoch":1948401.0,
+  "epoch_mjd":16781,
+  "epoch_cal":20220208.0
  },
- "equinox":"W7293",
- "om":94.801988390911,
+ "equinox":"A8489",
+ "om":98.4605125,
  "e":0.0,
- "a":448285.747471,
- "q":4.12659292842,
- "i":5920686492.6,
- "w":85.7848328,
- "ad":0.0,
- "ma":51.1565521056,
- "n":20.838886198077,
+ "a":53537.1484424236,
+ "q":23.4521831536671,
+ "i":247679.4203,
+ "w":30.397788,
+ "ad":0.6,
+ "ma":1.76848,
+ "n":46.0,
  "tp_full":{
-  "tp_cal":33.556564554,
-  "tp":35.394785
+  "tp_cal":31.244,
+  "tp":11.404
  },
  "per_full":{
-  "per":23.312859374,
-  "per_y":23.895
+  "per":95.0,
+  "per_y":79.30431505
  },
  "sigma_full":{
-  "sigma_e":"6.95O-65",
-  "sigma_a":"9.28T-25",
-  "sigma_q":"6.23O-56",
-  "sigma_i":"1.72I-12",
-  "sigma_om":"5.29Q-98",
-  "sigma_w":"1.28F-73",
-  "sigma_ma":"1.67T-97",
-  "sigma_ad":"7.29S-21",
-  "sigma_n":"1.93M-66",
-  "sigma_tp":"5.77H-64",
-  "sigma_per":"5.31C-13"
+  "sigma_e":"9.43C-22",
+  "sigma_a":"1.78S-75",
+  "sigma_q":"6.14M-55",
+  "sigma_i":"5.35S-48",
+  "sigma_om":"9.32A-58",
+  "sigma_w":"1.34Y-18",
+  "sigma_ma":"6.54O-64",
+  "sigma_ad":"8.17S-44",
+  "sigma_n":"6.23A-19",
+  "sigma_tp":"1.45Q-45",
+  "sigma_per":"2.51M-34"
  },
- "rms":0.539,
+ "rms":0.919,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":15.86
+  "moid":0.6,
+  "moid_id":6.72902116034
  },
  "class_asteroid":"C-"
 }

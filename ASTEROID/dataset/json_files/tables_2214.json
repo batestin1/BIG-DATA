@@ -1,63 +1,63 @@
 {
  "spk_id":2002215,
- "object_id":"w0000002214",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"415762696m/s",
+ "object_id":"d0000002214",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"486483795m/s",
  "object_fullname":{
-  "fullname":"2021 TE",
-  "prefix":"2021 ",
-  "name":"JANDECLEIR"
+  "fullname":"2003 SH",
+  "prefix":"2003 ",
+  "name":"ICHIGE"
  },
- "pdes":897,
+ "pdes":815,
  "diameter_full":{
-  "diameter":90.63283038,
-  "diameter_sigma":1.268066914
+  "diameter":30.0,
+  "diameter_sigma":3.102
  },
- "h":0.125,
- "albedo":0.69,
- "orbit_id":"WAF 40",
+ "h":0.2,
+ "albedo":0.191407565,
+ "orbit_id":"AAE 78",
  "epoch_full":{
-  "epoch":9388225.0,
-  "epoch_mjd":91670,
-  "epoch_cal":20220223.0
+  "epoch":2541566.0,
+  "epoch_mjd":38827,
+  "epoch_cal":20220127.0
  },
- "equinox":"S3337",
- "om":84.30094087,
- "e":0.126322,
- "a":6127.184,
- "q":55.0,
- "i":9559.7174,
- "w":17.2702378,
- "ad":0.99,
- "ma":71.33574,
- "n":77.5939495,
+ "equinox":"G6657",
+ "om":6.84737,
+ "e":0.0,
+ "a":119.66316745,
+ "q":2125606473795.85,
+ "i":67305469.227,
+ "w":1.936005861475,
+ "ad":0.2,
+ "ma":41.609382439313,
+ "n":19.0,
  "tp_full":{
-  "tp_cal":94.93290719,
-  "tp":53.77
+  "tp_cal":80.6316133,
+  "tp":21.72624
  },
  "per_full":{
-  "per":81.2,
-  "per_y":54.293555
+  "per":88.71,
+  "per_y":71.740987548908
  },
  "sigma_full":{
-  "sigma_e":"5.50I-12",
-  "sigma_a":"5.40D-25",
-  "sigma_q":"1.51E-26",
-  "sigma_i":"8.11S-55",
-  "sigma_om":"3.41A-73",
-  "sigma_w":"1.91P-54",
-  "sigma_ma":"4.61C-86",
-  "sigma_ad":"2.64T-33",
-  "sigma_n":"9.74E-86",
-  "sigma_tp":"4.64T-25",
-  "sigma_per":"9.72S-29"
+  "sigma_e":"2.77S-55",
+  "sigma_a":"1.18H-36",
+  "sigma_q":"8.25C-81",
+  "sigma_i":"3.73S-93",
+  "sigma_om":"2.97B-20",
+  "sigma_w":"1.65M-24",
+  "sigma_ma":"9.66T-42",
+  "sigma_ad":"8.11H-45",
+  "sigma_n":"6.52M-49",
+  "sigma_tp":"3.88C-75",
+  "sigma_per":"8.23W-58"
  },
- "rms":0.2772573802,
+ "rms":0.8305062,
  "moid_full":{
-  "moid":0.4,
-  "moid_id":78.8
+  "moid":0.184,
+  "moid_id":58.2082302884
  },
  "class_asteroid":"C-"
 }

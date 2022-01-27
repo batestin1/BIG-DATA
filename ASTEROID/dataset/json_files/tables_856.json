@@ -1,63 +1,63 @@
 {
  "spk_id":2000857,
- "object_id":"t000000856",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"497960996m/s",
+ "object_id":"b000000856",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"624698383m/s",
  "object_fullname":{
-  "fullname":"2020 DR",
-  "prefix":"2020 ",
-  "name":"COPIAPO"
+  "fullname":"2018 JO",
+  "prefix":"2018 ",
+  "name":"ASAKA"
  },
- "pdes":959,
+ "pdes":794,
  "diameter_full":{
-  "diameter":43.4,
-  "diameter_sigma":8.7476371121209
+  "diameter":6.299112,
+  "diameter_sigma":4.83786
  },
- "h":0.18181818181818182,
- "albedo":0.412844,
- "orbit_id":"MAO 58",
+ "h":2.75,
+ "albedo":0.8596,
+ "orbit_id":"ECW 31",
  "epoch_full":{
-  "epoch":5476253.0,
-  "epoch_mjd":68698,
-  "epoch_cal":20220212.0
+  "epoch":3997145.0,
+  "epoch_mjd":19280,
+  "epoch_cal":20220220.0
  },
- "equinox":"O9057",
- "om":1.65,
- "e":0.3188,
- "a":91021793.0,
- "q":65110855509074.0,
- "i":31263.729768,
- "w":65.42218194218783,
- "ad":0.0,
- "ma":76.48145,
- "n":47.90091498,
+ "equinox":"G1686",
+ "om":5.9,
+ "e":0.0,
+ "a":146752.467,
+ "q":1.314,
+ "i":720649433991113.0,
+ "w":23.73,
+ "ad":0.1,
+ "ma":93.294,
+ "n":27.2,
  "tp_full":{
-  "tp_cal":94.5478642514,
-  "tp":91.9
+  "tp_cal":2.0,
+  "tp":13.0
  },
  "per_full":{
-  "per":56.18,
-  "per_y":47.352775614601
+  "per":66.2117,
+  "per_y":80.7281703925308
  },
  "sigma_full":{
-  "sigma_e":"5.81T-60",
-  "sigma_a":"4.94M-32",
-  "sigma_q":"2.13S-47",
-  "sigma_i":"9.27S-91",
-  "sigma_om":"2.86A-95",
-  "sigma_w":"7.77P-96",
-  "sigma_ma":"2.57H-66",
-  "sigma_ad":"4.90U-16",
-  "sigma_n":"4.74P-46",
-  "sigma_tp":"1.39V-50",
-  "sigma_per":"5.29B-79"
+  "sigma_e":"8.63P-23",
+  "sigma_a":"1.99O-70",
+  "sigma_q":"1.29C-38",
+  "sigma_i":"8.51F-41",
+  "sigma_om":"4.61E-66",
+  "sigma_w":"2.97V-69",
+  "sigma_ma":"6.28T-99",
+  "sigma_ad":"8.53C-84",
+  "sigma_n":"7.45W-61",
+  "sigma_tp":"5.56M-82",
+  "sigma_per":"9.75H-96"
  },
- "rms":0.0,
+ "rms":0.108980437,
  "moid_full":{
-  "moid":0.4,
-  "moid_id":14.40896807497579
+  "moid":0.54,
+  "moid_id":15.72810642
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

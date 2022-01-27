@@ -1,63 +1,63 @@
 {
  "spk_id":2005876,
- "object_id":"s0000005875",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"84924748m/s",
+ "object_id":"c0000005875",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"64792976m/s",
  "object_fullname":{
-  "fullname":"2013 GO",
-  "prefix":"2013 ",
-  "name":"CUNO"
+  "fullname":"2018 TV",
+  "prefix":"2018 ",
+  "name":"BALI"
  },
- "pdes":208,
+ "pdes":655,
  "diameter_full":{
-  "diameter":5.56,
-  "diameter_sigma":4.48630351661032
+  "diameter":57.57952260136489,
+  "diameter_sigma":4.405571670875
  },
- "h":1.1538461538461537,
- "albedo":0.5,
- "orbit_id":"NDB 70",
+ "h":0.25,
+ "albedo":0.297238328,
+ "orbit_id":"AMY 77",
  "epoch_full":{
-  "epoch":3813029.0,
-  "epoch_mjd":60036,
-  "epoch_cal":20220220.0
+  "epoch":9284963.0,
+  "epoch_mjd":50686,
+  "epoch_cal":20220129.0
  },
- "equinox":"E6825",
- "om":2.45046826,
- "e":0.315260467,
- "a":632.52116,
- "q":33807891599797.0,
- "i":4279308.69798,
- "w":27.85582833,
- "ad":0.0,
- "ma":93.817,
- "n":13.15976,
+ "equinox":"S2231",
+ "om":76.814,
+ "e":0.66175,
+ "a":4979369658763.4,
+ "q":794.38926635,
+ "i":390273.391023,
+ "w":95.27457,
+ "ad":0.4003672,
+ "ma":97.9319497317,
+ "n":70.9,
  "tp_full":{
-  "tp_cal":82.5815082034,
-  "tp":34.5359616818508
+  "tp_cal":9.24694652892,
+  "tp":67.7
  },
  "per_full":{
-  "per":1.68833824359578,
-  "per_y":58.3863041
+  "per":52.1,
+  "per_y":51.5
  },
  "sigma_full":{
-  "sigma_e":"5.97P-48",
-  "sigma_a":"9.19M-76",
-  "sigma_q":"8.37D-98",
-  "sigma_i":"9.26S-59",
-  "sigma_om":"9.36O-43",
-  "sigma_w":"4.29E-86",
-  "sigma_ma":"7.16I-44",
-  "sigma_ad":"3.16B-68",
-  "sigma_n":"5.64M-25",
-  "sigma_tp":"3.47Q-40",
-  "sigma_per":"3.76H-67"
+  "sigma_e":"4.89P-39",
+  "sigma_a":"5.61K-28",
+  "sigma_q":"4.11R-39",
+  "sigma_i":"5.36D-57",
+  "sigma_om":"6.16S-51",
+  "sigma_w":"6.26A-95",
+  "sigma_ma":"6.83E-69",
+  "sigma_ad":"5.85H-11",
+  "sigma_n":"5.12S-94",
+  "sigma_tp":"5.13B-27",
+  "sigma_per":"7.56W-21"
  },
- "rms":0.9,
+ "rms":0.446,
  "moid_full":{
-  "moid":0.811,
-  "moid_id":9.8248
+  "moid":0.9979,
+  "moid_id":59.5
  },
  "class_asteroid":"S-"
 }

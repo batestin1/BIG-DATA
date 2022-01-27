@@ -1,63 +1,63 @@
 {
  "spk_id":2003111,
- "object_id":"s0000003110",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"299993461m/s",
+ "object_id":"a0000003110",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"441887323m/s",
  "object_fullname":{
-  "fullname":"2019 RE",
-  "prefix":"2019 ",
-  "name":"HONDURAS"
+  "fullname":"2006 TR",
+  "prefix":"2006 ",
+  "name":"ISPAHAN"
  },
- "pdes":182,
+ "pdes":323,
  "diameter_full":{
-  "diameter":13.75232,
-  "diameter_sigma":6.7766458331
+  "diameter":49.737714,
+  "diameter_sigma":5.37957
  },
- "h":1.9,
- "albedo":0.58490762,
- "orbit_id":"LPT 59",
+ "h":13.0,
+ "albedo":0.0,
+ "orbit_id":"WPD 60",
  "epoch_full":{
-  "epoch":4903762.0,
-  "epoch_mjd":36466,
-  "epoch_cal":20220209.0
+  "epoch":3047393.0,
+  "epoch_mjd":22795,
+  "epoch_cal":20220202.0
  },
- "equinox":"F1544",
- "om":39.183181,
- "e":0.93,
- "a":84966171260119.5,
- "q":235731003.353412,
- "i":917525227873102.0,
- "w":96.696057228,
- "ad":0.10651,
- "ma":17.5760958925,
- "n":65.512436012,
+ "equinox":"P6313",
+ "om":7.3,
+ "e":0.886907,
+ "a":596232468930033.0,
+ "q":7649139.0,
+ "i":81518794830.0,
+ "w":83.35670923,
+ "ad":0.87,
+ "ma":23.444720046,
+ "n":7.2484732,
  "tp_full":{
-  "tp_cal":40.9202989484217,
-  "tp":28.341109
+  "tp_cal":17.28657225,
+  "tp":32.1
  },
  "per_full":{
-  "per":32.74,
-  "per_y":50.761869898865
+  "per":13.69682475,
+  "per_y":61.6133291
  },
  "sigma_full":{
-  "sigma_e":"2.52B-86",
-  "sigma_a":"5.45R-24",
-  "sigma_q":"1.50L-90",
-  "sigma_i":"5.13C-63",
-  "sigma_om":"8.11H-40",
-  "sigma_w":"7.96A-16",
-  "sigma_ma":"4.98W-18",
-  "sigma_ad":"2.92P-88",
-  "sigma_n":"7.69D-16",
-  "sigma_tp":"7.22C-21",
-  "sigma_per":"1.41S-32"
+  "sigma_e":"3.91F-53",
+  "sigma_a":"5.13B-48",
+  "sigma_q":"9.36S-14",
+  "sigma_i":"4.46T-69",
+  "sigma_om":"3.99A-84",
+  "sigma_w":"1.95B-62",
+  "sigma_ma":"8.70W-15",
+  "sigma_ad":"5.25C-93",
+  "sigma_n":"4.13S-73",
+  "sigma_tp":"2.41C-55",
+  "sigma_per":"3.83I-41"
  },
- "rms":0.0,
+ "rms":0.1979,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":1.51528669
+  "moid":0.76774126816,
+  "moid_id":89.6859184
  },
  "class_asteroid":"S-"
 }

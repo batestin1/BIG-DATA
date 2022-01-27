@@ -1,63 +1,63 @@
 {
  "spk_id":2002402,
- "object_id":"w0000002401",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"870101008m/s",
+ "object_id":"h0000002401",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"195362856m/s",
  "object_fullname":{
-  "fullname":"2005 RE",
+  "fullname":"2005 GO",
   "prefix":"2005 ",
-  "name":"BISTRO"
+  "name":"BUZZI"
  },
- "pdes":117,
+ "pdes":724,
  "diameter_full":{
-  "diameter":29.841486,
-  "diameter_sigma":6.899296380587
+  "diameter":47.69359239646385,
+  "diameter_sigma":5.255474524
  },
- "h":3.25,
- "albedo":0.142,
- "orbit_id":"SCO 53",
+ "h":0.3333333333333333,
+ "albedo":0.17,
+ "orbit_id":"WDC 81",
  "epoch_full":{
-  "epoch":8653006.0,
-  "epoch_mjd":87302,
-  "epoch_cal":20220222.0
+  "epoch":1650619.0,
+  "epoch_mjd":36380,
+  "epoch_cal":20220217.0
  },
- "equinox":"B7192",
- "om":35.2882,
- "e":0.1,
- "a":76.59596819059,
- "q":436380428318035.0,
- "i":963095544896.48,
- "w":87.9817708,
- "ad":0.3,
- "ma":79.82695822332335,
- "n":16.0,
+ "equinox":"D2175",
+ "om":32.27563014,
+ "e":0.26792,
+ "a":16476992984722.0,
+ "q":7300052275998.0,
+ "i":9540118867.7,
+ "w":10.43691708466,
+ "ad":0.5,
+ "ma":3.10015857064,
+ "n":51.6226301198,
  "tp_full":{
-  "tp_cal":58.26092269,
-  "tp":47.8677645895
+  "tp_cal":99.4,
+  "tp":24.56008122578173
  },
  "per_full":{
-  "per":61.35339,
-  "per_y":82.6798081838
+  "per":35.23108,
+  "per_y":85.4
  },
  "sigma_full":{
-  "sigma_e":"8.41W-39",
-  "sigma_a":"5.97I-73",
-  "sigma_q":"4.88M-78",
-  "sigma_i":"6.16W-24",
-  "sigma_om":"5.73S-47",
-  "sigma_w":"9.93S-41",
-  "sigma_ma":"9.59C-76",
-  "sigma_ad":"1.56G-16",
-  "sigma_n":"6.93R-20",
-  "sigma_tp":"4.84A-48",
-  "sigma_per":"8.39B-74"
+  "sigma_e":"6.69F-11",
+  "sigma_a":"6.46A-44",
+  "sigma_q":"7.65S-92",
+  "sigma_i":"6.90M-86",
+  "sigma_om":"7.91E-51",
+  "sigma_w":"8.11T-27",
+  "sigma_ma":"5.80R-62",
+  "sigma_ad":"2.88T-74",
+  "sigma_n":"8.41M-82",
+  "sigma_tp":"3.34P-61",
+  "sigma_per":"7.29B-83"
  },
- "rms":0.998,
+ "rms":0.2518983,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":69.339507457494
+  "moid":0.69,
+  "moid_id":67.9833
  },
  "class_asteroid":"Other Types"
 }

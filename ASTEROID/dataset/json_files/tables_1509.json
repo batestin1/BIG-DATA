@@ -1,63 +1,63 @@
 {
  "spk_id":2001510,
- "object_id":"a0000001509",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"386015453m/s",
+ "object_id":"t0000001509",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"870543030m/s",
  "object_fullname":{
-  "fullname":"2000 LE",
-  "prefix":"2000 ",
-  "name":"DANIELFEENY"
+  "fullname":"2006 TR",
+  "prefix":"2006 ",
+  "name":"BILLGOLISCH"
  },
- "pdes":988,
+ "pdes":721,
  "diameter_full":{
-  "diameter":13.0,
-  "diameter_sigma":2.68
+  "diameter":47.98067111,
+  "diameter_sigma":8.8
  },
- "h":1.5454545454545454,
- "albedo":0.816,
- "orbit_id":"NAT 90",
+ "h":0.7,
+ "albedo":0.0,
+ "orbit_id":"NEA 96",
  "epoch_full":{
-  "epoch":9768995.0,
-  "epoch_mjd":34227,
-  "epoch_cal":20220215.0
+  "epoch":9586476.0,
+  "epoch_mjd":62807,
+  "epoch_cal":20220213.0
  },
- "equinox":"B5145",
- "om":31.1,
- "e":0.2197994,
- "a":153541461.52595,
- "q":38220206195690.0,
- "i":255508820866654.0,
- "w":47.746559,
- "ad":0.670175,
- "ma":70.177945838057,
- "n":78.2187835469,
+ "equinox":"A4424",
+ "om":41.6920160570681,
+ "e":0.42,
+ "a":7191.0,
+ "q":84641598104748.0,
+ "i":313.90072976926,
+ "w":83.9021404879099,
+ "ad":0.4,
+ "ma":31.911688,
+ "n":57.39461,
  "tp_full":{
-  "tp_cal":32.4425288834,
-  "tp":96.0
+  "tp_cal":42.7873510697091,
+  "tp":24.9
  },
  "per_full":{
-  "per":48.85955,
-  "per_y":46.0
+  "per":19.2992031,
+  "per_y":20.65281193665
  },
  "sigma_full":{
-  "sigma_e":"2.44O-42",
-  "sigma_a":"4.61P-67",
-  "sigma_q":"1.48P-63",
-  "sigma_i":"2.96P-77",
-  "sigma_om":"6.77E-29",
-  "sigma_w":"8.20O-44",
-  "sigma_ma":"2.33P-40",
-  "sigma_ad":"5.38N-93",
-  "sigma_n":"2.22C-90",
-  "sigma_tp":"8.11R-97",
-  "sigma_per":"9.20I-13"
+  "sigma_e":"2.16V-55",
+  "sigma_a":"1.90R-89",
+  "sigma_q":"1.80S-31",
+  "sigma_i":"7.91C-97",
+  "sigma_om":"2.33C-14",
+  "sigma_w":"2.32E-34",
+  "sigma_ma":"2.51C-25",
+  "sigma_ad":"3.38I-99",
+  "sigma_n":"8.45D-76",
+  "sigma_tp":"9.65M-18",
+  "sigma_per":"7.70S-50"
  },
- "rms":0.92,
+ "rms":0.5421,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":50.728350348124
+  "moid":0.9264224,
+  "moid_id":17.4
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

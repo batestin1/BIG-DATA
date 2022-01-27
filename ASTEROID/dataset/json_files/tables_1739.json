@@ -1,63 +1,63 @@
 {
  "spk_id":2001740,
- "object_id":"l0000001739",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"797211776m/s",
+ "object_id":"i0000001739",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"740308124m/s",
  "object_fullname":{
-  "fullname":"2022 RO",
+  "fullname":"2022 DR",
   "prefix":"2022 ",
-  "name":"JIMGRAY"
+  "name":"DUKEWRITER"
  },
- "pdes":408,
+ "pdes":575,
  "diameter_full":{
-  "diameter":91.2718578216,
-  "diameter_sigma":6.92
+  "diameter":14.4652,
+  "diameter_sigma":2.2178449
  },
- "h":1.2142857142857142,
- "albedo":0.7801311,
- "orbit_id":"ITO 46",
+ "h":2.0,
+ "albedo":0.7,
+ "orbit_id":"CRW 56",
  "epoch_full":{
-  "epoch":9955193.0,
-  "epoch_mjd":83717,
-  "epoch_cal":20220209.0
+  "epoch":8655001.0,
+  "epoch_mjd":82963,
+  "epoch_cal":20220210.0
  },
- "equinox":"S5931",
- "om":93.2,
- "e":0.7502897,
- "a":402714949149202.0,
- "q":24.0,
- "i":373066458771241.0,
- "w":75.292346,
- "ad":0.98964,
- "ma":13.99042324363,
- "n":11.39,
+ "equinox":"K6398",
+ "om":53.68568,
+ "e":0.0,
+ "a":69.4435,
+ "q":46.62,
+ "i":868.4078,
+ "w":26.2112472605585,
+ "ad":0.59,
+ "ma":51.66322377739962,
+ "n":10.284249613,
  "tp_full":{
-  "tp_cal":74.4903,
-  "tp":42.7
+  "tp_cal":39.4832714645,
+  "tp":64.2655577350484
  },
  "per_full":{
-  "per":40.1849857,
-  "per_y":37.95465
+  "per":83.4099034893059,
+  "per_y":32.1949446196303
  },
  "sigma_full":{
-  "sigma_e":"7.92I-40",
-  "sigma_a":"8.23D-99",
-  "sigma_q":"6.91A-72",
-  "sigma_i":"1.68E-15",
-  "sigma_om":"9.80L-47",
-  "sigma_w":"1.63S-40",
-  "sigma_ma":"8.47L-78",
-  "sigma_ad":"3.62D-45",
-  "sigma_n":"4.84U-84",
-  "sigma_tp":"4.30S-29",
-  "sigma_per":"8.32C-92"
+  "sigma_e":"2.80W-46",
+  "sigma_a":"2.73T-50",
+  "sigma_q":"5.83F-41",
+  "sigma_i":"9.20A-22",
+  "sigma_om":"9.25M-22",
+  "sigma_w":"5.35T-90",
+  "sigma_ma":"5.19D-39",
+  "sigma_ad":"2.90T-17",
+  "sigma_n":"9.17P-75",
+  "sigma_tp":"2.37R-94",
+  "sigma_per":"4.54H-28"
  },
  "rms":0.0,
  "moid_full":{
-  "moid":0.721981,
-  "moid_id":87.194038
+  "moid":0.0,
+  "moid_id":84.1150942804782
  },
- "class_asteroid":"S-"
+ "class_asteroid":"Other Types"
 }

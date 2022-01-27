@@ -1,63 +1,63 @@
 {
  "spk_id":2000459,
- "object_id":"s000000458",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"765030878m/s",
+ "object_id":"t000000458",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"241728100m/s",
  "object_fullname":{
-  "fullname":"2008 YO",
-  "prefix":"2008 ",
-  "name":"BEUF"
+  "fullname":"2014 ME",
+  "prefix":"2014 ",
+  "name":"BELKIN"
  },
- "pdes":965,
+ "pdes":783,
  "diameter_full":{
-  "diameter":88.0,
-  "diameter_sigma":8.0
+  "diameter":85.555584,
+  "diameter_sigma":3.169185
  },
- "h":1.0,
- "albedo":0.4037338,
- "orbit_id":"MDD 60",
+ "h":1.625,
+ "albedo":0.7,
+ "orbit_id":"OCG 64",
  "epoch_full":{
-  "epoch":7243303.0,
-  "epoch_mjd":63542,
-  "epoch_cal":20220126.0
+  "epoch":8158431.0,
+  "epoch_mjd":97146,
+  "epoch_cal":20220204.0
  },
- "equinox":"S5967",
- "om":6.8931415,
- "e":0.0,
- "a":7571671001.94,
- "q":3079451.32,
- "i":43879043745.0,
- "w":15.0,
- "ad":0.56,
- "ma":63.330323,
- "n":54.10591605,
+ "equinox":"J5932",
+ "om":17.42847675,
+ "e":0.962,
+ "a":872024190881412.0,
+ "q":750358193924242.0,
+ "i":747633942.4,
+ "w":44.0,
+ "ad":0.54,
+ "ma":17.3814692313,
+ "n":48.9,
  "tp_full":{
-  "tp_cal":23.9650594495,
-  "tp":43.245
+  "tp_cal":74.125389728139,
+  "tp":80.2621
  },
  "per_full":{
-  "per":12.553792,
-  "per_y":88.5612773254515
+  "per":28.9148406,
+  "per_y":56.0
  },
  "sigma_full":{
-  "sigma_e":"2.48P-95",
-  "sigma_a":"8.57A-10",
-  "sigma_q":"1.10C-86",
-  "sigma_i":"2.12M-31",
-  "sigma_om":"1.24D-38",
-  "sigma_w":"2.18L-17",
-  "sigma_ma":"5.51V-36",
-  "sigma_ad":"8.39D-54",
-  "sigma_n":"9.26M-51",
-  "sigma_tp":"5.95R-50",
-  "sigma_per":"4.85D-83"
+  "sigma_e":"5.65O-71",
+  "sigma_a":"5.33W-48",
+  "sigma_q":"9.90T-60",
+  "sigma_i":"1.70B-96",
+  "sigma_om":"2.93R-34",
+  "sigma_w":"6.82S-58",
+  "sigma_ma":"7.70F-49",
+  "sigma_ad":"5.12E-51",
+  "sigma_n":"2.66M-27",
+  "sigma_tp":"5.34W-75",
+  "sigma_per":"8.10S-92"
  },
- "rms":0.77577449672,
+ "rms":0.6258,
  "moid_full":{
-  "moid":0.1,
-  "moid_id":92.8962675
+  "moid":0.13861,
+  "moid_id":25.32715
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"M-types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2005462,
- "object_id":"t0000005461",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"552042198m/s",
+ "object_id":"s0000005461",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"668644978m/s",
  "object_fullname":{
-  "fullname":"2000 RE",
-  "prefix":"2000 ",
-  "name":"DELLA VALLE"
+  "fullname":"2003 DE",
+  "prefix":"2003 ",
+  "name":"CAMPECHE"
  },
- "pdes":845,
+ "pdes":329,
  "diameter_full":{
-  "diameter":14.16324279434082,
-  "diameter_sigma":1.1195196646
+  "diameter":1.116356,
+  "diameter_sigma":4.293314
  },
- "h":0.631578947368421,
- "albedo":0.0,
- "orbit_id":"AST 58",
+ "h":1.2142857142857142,
+ "albedo":0.4,
+ "orbit_id":"WPE 38",
  "epoch_full":{
-  "epoch":3543058.0,
-  "epoch_mjd":72358,
-  "epoch_cal":20220208.0
+  "epoch":5876439.0,
+  "epoch_mjd":68849,
+  "epoch_cal":20220221.0
  },
- "equinox":"S2601",
- "om":67.20884,
- "e":0.2,
- "a":4854826907.0,
- "q":303500157286481.0,
- "i":547742851.295491,
- "w":50.304384795333,
- "ad":0.67,
- "ma":46.9406296182632,
- "n":64.9967534,
+ "equinox":"E1172",
+ "om":71.2618876956284,
+ "e":0.22,
+ "a":1881218621.146,
+ "q":412688877306454.0,
+ "i":2174478693294.9,
+ "w":64.416199130247,
+ "ad":0.0,
+ "ma":75.48468,
+ "n":9.8611,
  "tp_full":{
-  "tp_cal":36.597252411,
-  "tp":94.2
+  "tp_cal":29.24354,
+  "tp":50.5856748
  },
  "per_full":{
-  "per":19.36375876237,
-  "per_y":13.9017815
+  "per":71.4531165253214,
+  "per_y":86.50001444680785
  },
  "sigma_full":{
-  "sigma_e":"5.76R-61",
-  "sigma_a":"1.25I-58",
-  "sigma_q":"6.68F-39",
-  "sigma_i":"8.23I-96",
-  "sigma_om":"4.56C-46",
-  "sigma_w":"5.30S-64",
-  "sigma_ma":"3.12W-82",
-  "sigma_ad":"6.21T-29",
-  "sigma_n":"9.49V-62",
-  "sigma_tp":"8.37C-56",
-  "sigma_per":"9.17A-16"
+  "sigma_e":"4.75R-84",
+  "sigma_a":"3.87M-68",
+  "sigma_q":"9.40F-75",
+  "sigma_i":"8.44A-69",
+  "sigma_om":"5.20A-58",
+  "sigma_w":"7.63B-17",
+  "sigma_ma":"2.10N-84",
+  "sigma_ad":"9.36T-52",
+  "sigma_n":"9.75A-51",
+  "sigma_tp":"7.20L-78",
+  "sigma_per":"3.57D-95"
  },
- "rms":0.0,
+ "rms":0.96,
  "moid_full":{
-  "moid":0.416,
-  "moid_id":17.7
+  "moid":0.0,
+  "moid_id":56.442990013
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

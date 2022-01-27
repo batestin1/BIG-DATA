@@ -1,63 +1,63 @@
 {
  "spk_id":2004839,
- "object_id":"i0000004838",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"3716119m/s",
+ "object_id":"r0000004838",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"265804114m/s",
  "object_fullname":{
-  "fullname":"2018 KE",
-  "prefix":"2018 ",
-  "name":"BERTRANDOU"
+  "fullname":"2007 VO",
+  "prefix":"2007 ",
+  "name":"BECHTEREVA"
  },
- "pdes":532,
+ "pdes":971,
  "diameter_full":{
-  "diameter":35.3476015392,
-  "diameter_sigma":7.466
+  "diameter":3.35567,
+  "diameter_sigma":3.6173
  },
- "h":5.0,
- "albedo":0.1408,
- "orbit_id":"AES 68",
+ "h":4.75,
+ "albedo":0.87026998,
+ "orbit_id":"CIL 36",
  "epoch_full":{
-  "epoch":2929188.0,
-  "epoch_mjd":94276,
-  "epoch_cal":20220208.0
+  "epoch":2333555.0,
+  "epoch_mjd":43424,
+  "epoch_cal":20220212.0
  },
- "equinox":"N1137",
- "om":41.489013,
- "e":0.4484,
- "a":866.606,
- "q":13508280910.9,
- "i":17536.0,
- "w":29.8916742,
- "ad":0.572,
- "ma":44.3368704551,
- "n":56.812063,
+ "equinox":"C4595",
+ "om":42.27999,
+ "e":0.66651,
+ "a":70483467648.6285,
+ "q":271401270.0,
+ "i":654570.12523469,
+ "w":74.1589163841318,
+ "ad":0.0,
+ "ma":48.17259309234415,
+ "n":32.1,
  "tp_full":{
-  "tp_cal":61.563353,
-  "tp":64.0
+  "tp_cal":64.38225690553,
+  "tp":2.47316526935
  },
  "per_full":{
-  "per":63.25,
-  "per_y":63.8109
+  "per":10.70279428987,
+  "per_y":12.75
  },
  "sigma_full":{
-  "sigma_e":"9.93F-52",
-  "sigma_a":"4.46O-86",
-  "sigma_q":"4.40V-97",
-  "sigma_i":"6.48P-90",
-  "sigma_om":"6.81G-42",
-  "sigma_w":"7.39W-56",
-  "sigma_ma":"6.15B-93",
-  "sigma_ad":"1.92D-78",
-  "sigma_n":"8.47P-69",
-  "sigma_tp":"5.83M-14",
-  "sigma_per":"9.99W-35"
+  "sigma_e":"9.20T-73",
+  "sigma_a":"9.21M-39",
+  "sigma_q":"2.61P-19",
+  "sigma_i":"4.49I-95",
+  "sigma_om":"9.36S-37",
+  "sigma_w":"7.50S-54",
+  "sigma_ma":"9.57D-12",
+  "sigma_ad":"5.56T-41",
+  "sigma_n":"4.16F-47",
+  "sigma_tp":"9.20R-14",
+  "sigma_per":"4.13S-60"
  },
- "rms":0.0,
+ "rms":0.21421314,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":34.61665064
+  "moid":0.8,
+  "moid_id":57.14358727
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2005118,
- "object_id":"s0000005117",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"32977322m/s",
+ "object_id":"t0000005117",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"780263619m/s",
  "object_fullname":{
-  "fullname":"2002 WH",
-  "prefix":"2002 ",
-  "name":"JENNAMARIE"
+  "fullname":"2004 CA",
+  "prefix":"2004 ",
+  "name":"BARABASHOV"
  },
- "pdes":356,
+ "pdes":924,
  "diameter_full":{
-  "diameter":58.8095039494,
-  "diameter_sigma":5.52316177
+  "diameter":82.479845865754,
+  "diameter_sigma":2.8763
  },
- "h":1.0,
- "albedo":0.41895,
- "orbit_id":"TGS 98",
+ "h":1.3636363636363635,
+ "albedo":0.0,
+ "orbit_id":"NTE 41",
  "epoch_full":{
-  "epoch":5059366.0,
-  "epoch_mjd":11765,
-  "epoch_cal":20220129.0
+  "epoch":3970506.0,
+  "epoch_mjd":18803,
+  "epoch_cal":20220216.0
  },
- "equinox":"H9635",
- "om":46.5543554857999,
- "e":0.284385,
- "a":9094298.32,
- "q":13.8842,
- "i":85053274749151.0,
- "w":59.1003,
- "ad":0.99243005833559,
- "ma":64.183868864,
- "n":53.74079306,
+ "equinox":"L1024",
+ "om":59.787889171,
+ "e":0.6,
+ "a":8029661909.9,
+ "q":710.3439857192,
+ "i":240819903769.685,
+ "w":40.980053181,
+ "ad":0.30066113988399,
+ "ma":27.4625,
+ "n":88.4,
  "tp_full":{
-  "tp_cal":2.409941263451,
-  "tp":5.412238114824
+  "tp_cal":16.8,
+  "tp":85.0
  },
  "per_full":{
-  "per":45.44204953,
-  "per_y":24.5946
+  "per":90.982341,
+  "per_y":41.37893774321
  },
  "sigma_full":{
-  "sigma_e":"2.48S-43",
-  "sigma_a":"3.36M-74",
-  "sigma_q":"7.48P-53",
-  "sigma_i":"2.99A-38",
-  "sigma_om":"6.94L-22",
-  "sigma_w":"9.18M-73",
-  "sigma_ma":"1.71M-99",
-  "sigma_ad":"6.26T-11",
-  "sigma_n":"6.92F-10",
-  "sigma_tp":"8.34N-99",
-  "sigma_per":"1.55P-57"
+  "sigma_e":"2.21A-11",
+  "sigma_a":"2.93H-37",
+  "sigma_q":"3.98F-25",
+  "sigma_i":"8.57P-26",
+  "sigma_om":"2.14G-55",
+  "sigma_w":"5.55O-87",
+  "sigma_ma":"2.66B-55",
+  "sigma_ad":"4.47P-90",
+  "sigma_n":"2.41Y-37",
+  "sigma_tp":"8.37L-12",
+  "sigma_per":"4.45C-42"
  },
- "rms":0.0,
+ "rms":0.3,
  "moid_full":{
-  "moid":0.421891675,
-  "moid_id":46.8130579
+  "moid":0.0,
+  "moid_id":41.7102
  },
  "class_asteroid":"C-"
 }

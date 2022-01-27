@@ -1,63 +1,63 @@
 {
  "spk_id":2000145,
- "object_id":"t000000144",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"214426151m/s",
+ "object_id":"w000000144",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"368575142m/s",
  "object_fullname":{
-  "fullname":"2004 TA",
-  "prefix":"2004 ",
-  "name":"BERNARDINA"
+  "fullname":"2001 CO",
+  "prefix":"2001 ",
+  "name":"GALAHAD"
  },
- "pdes":672,
+ "pdes":404,
  "diameter_full":{
-  "diameter":17.235974,
-  "diameter_sigma":5.43656240333
+  "diameter":45.49569439005,
+  "diameter_sigma":3.4477915
  },
- "h":0.38461538461538464,
- "albedo":0.3,
- "orbit_id":"VIC 44",
+ "h":17.0,
+ "albedo":0.75127,
+ "orbit_id":"ETF 48",
  "epoch_full":{
-  "epoch":9506370.0,
-  "epoch_mjd":69404,
-  "epoch_cal":20220219.0
+  "epoch":7884707.0,
+  "epoch_mjd":19147,
+  "epoch_cal":20220214.0
  },
- "equinox":"A4643",
- "om":18.19429,
- "e":0.61,
- "a":83029258.2,
- "q":6866390606.29756,
- "i":977.29449651227,
- "w":54.406898,
- "ad":0.0,
- "ma":64.3397190055,
- "n":52.59585662557643,
+ "equinox":"I5254",
+ "om":62.29,
+ "e":0.0,
+ "a":340561134006.18,
+ "q":95.590015463,
+ "i":4705.735911656,
+ "w":67.22,
+ "ad":0.7,
+ "ma":71.93,
+ "n":50.0,
  "tp_full":{
-  "tp_cal":53.613145,
-  "tp":28.13739
+  "tp_cal":44.0,
+  "tp":47.6170366379282
  },
  "per_full":{
-  "per":25.45906166697642,
-  "per_y":38.8758604634
+  "per":50.56825291279,
+  "per_y":86.225937477
  },
  "sigma_full":{
-  "sigma_e":"2.78M-38",
-  "sigma_a":"2.16P-51",
-  "sigma_q":"1.94W-32",
-  "sigma_i":"7.76G-72",
-  "sigma_om":"6.44C-41",
-  "sigma_w":"1.82W-20",
-  "sigma_ma":"3.37R-60",
-  "sigma_ad":"3.31C-35",
-  "sigma_n":"8.37B-82",
-  "sigma_tp":"1.98P-65",
-  "sigma_per":"7.85S-22"
+  "sigma_e":"8.18P-14",
+  "sigma_a":"3.94I-25",
+  "sigma_q":"6.44R-85",
+  "sigma_i":"2.44A-69",
+  "sigma_om":"4.49S-26",
+  "sigma_w":"5.91D-82",
+  "sigma_ma":"8.48N-38",
+  "sigma_ad":"1.13W-94",
+  "sigma_n":"8.24W-57",
+  "sigma_tp":"2.98P-22",
+  "sigma_per":"1.72S-45"
  },
- "rms":0.0,
+ "rms":0.5276,
  "moid_full":{
-  "moid":0.346,
-  "moid_id":67.3861840230949
+  "moid":0.915854482,
+  "moid_id":93.8
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"S-"
 }

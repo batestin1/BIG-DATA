@@ -1,63 +1,63 @@
 {
  "spk_id":2003743,
- "object_id":"s0000003742",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"403222610m/s",
+ "object_id":"a0000003742",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"757604455m/s",
  "object_fullname":{
-  "fullname":"2015 GE",
-  "prefix":"2015 ",
-  "name":"DONASHARMA"
+  "fullname":"2007 WA",
+  "prefix":"2007 ",
+  "name":"CALDEIRA"
  },
- "pdes":388,
+ "pdes":993,
  "diameter_full":{
-  "diameter":27.0,
-  "diameter_sigma":6.7
+  "diameter":82.2065,
+  "diameter_sigma":1.62599
  },
- "h":0.3888888888888889,
- "albedo":0.4887,
- "orbit_id":"NGA 45",
+ "h":1.0,
+ "albedo":0.628805,
+ "orbit_id":"SHD 40",
  "epoch_full":{
-  "epoch":4392288.0,
-  "epoch_mjd":22564,
-  "epoch_cal":20220208.0
+  "epoch":6193849.0,
+  "epoch_mjd":80341,
+  "epoch_cal":20220221.0
  },
- "equinox":"C3319",
- "om":14.40963,
- "e":0.955,
- "a":80896619450.0,
- "q":8.6,
- "i":815554.1,
- "w":76.12965,
- "ad":0.7,
- "ma":60.29978834,
- "n":60.634178232,
+ "equinox":"P9131",
+ "om":39.5346368857243,
+ "e":0.0,
+ "a":998936.5660439,
+ "q":494756.48,
+ "i":3.53,
+ "w":63.8,
+ "ad":0.2502,
+ "ma":22.0,
+ "n":69.507,
  "tp_full":{
-  "tp_cal":38.0,
-  "tp":2.268946573
+  "tp_cal":54.0,
+  "tp":68.16408107387178
  },
  "per_full":{
-  "per":37.8953289146,
-  "per_y":55.396189204
+  "per":25.5192515,
+  "per_y":12.8579125604816
  },
  "sigma_full":{
-  "sigma_e":"5.34S-41",
-  "sigma_a":"6.62B-54",
-  "sigma_q":"7.53S-69",
-  "sigma_i":"4.76I-41",
-  "sigma_om":"2.41R-26",
-  "sigma_w":"6.35R-95",
-  "sigma_ma":"6.66C-51",
-  "sigma_ad":"4.35P-50",
-  "sigma_n":"3.26A-51",
-  "sigma_tp":"6.76S-58",
-  "sigma_per":"7.24M-79"
+  "sigma_e":"6.68F-40",
+  "sigma_a":"1.16P-95",
+  "sigma_q":"6.75E-90",
+  "sigma_i":"2.89E-60",
+  "sigma_om":"9.42C-53",
+  "sigma_w":"2.80L-36",
+  "sigma_ma":"4.83C-32",
+  "sigma_ad":"2.46F-41",
+  "sigma_n":"7.52I-53",
+  "sigma_tp":"7.53R-23",
+  "sigma_per":"2.36Y-52"
  },
- "rms":0.6,
+ "rms":0.84895,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":11.35951
+  "moid":0.67,
+  "moid_id":52.3811443
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"S-"
 }

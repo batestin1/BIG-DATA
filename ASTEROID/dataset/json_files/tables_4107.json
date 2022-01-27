@@ -1,63 +1,63 @@
 {
  "spk_id":2004108,
- "object_id":"r0000004107",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"142948271m/s",
+ "object_id":"s0000004107",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"338539871m/s",
  "object_fullname":{
-  "fullname":"2003 LE",
-  "prefix":"2003 ",
-  "name":"BUONANNO"
+  "fullname":"2013 MO",
+  "prefix":"2013 ",
+  "name":"CHENTSAIWEI"
  },
- "pdes":637,
+ "pdes":286,
  "diameter_full":{
-  "diameter":34.8617396,
-  "diameter_sigma":1.91412428266
+  "diameter":2.464,
+  "diameter_sigma":6.90231
  },
- "h":0.1,
- "albedo":0.1781,
- "orbit_id":"NDS 54",
+ "h":1.0,
+ "albedo":0.6,
+ "orbit_id":"IPM 76",
  "epoch_full":{
-  "epoch":6461062.0,
-  "epoch_mjd":99968,
-  "epoch_cal":20220130.0
+  "epoch":2762271.0,
+  "epoch_mjd":83080,
+  "epoch_cal":20220131.0
  },
- "equinox":"U1455",
- "om":36.8,
- "e":0.0,
- "a":3858653626308.66,
- "q":52290.1,
- "i":4660.8693,
- "w":44.537,
- "ad":0.2,
- "ma":58.31720577953578,
- "n":19.27011739204678,
+ "equinox":"R4571",
+ "om":52.971046082,
+ "e":0.286,
+ "a":9255196211.31864,
+ "q":82855.37001545,
+ "i":424837466096.1,
+ "w":14.44018,
+ "ad":0.393,
+ "ma":79.46771894,
+ "n":83.9278,
  "tp_full":{
-  "tp_cal":78.13603515851815,
-  "tp":52.0
+  "tp_cal":29.82892152548699,
+  "tp":51.38
  },
  "per_full":{
-  "per":26.0,
-  "per_y":39.5978899031
+  "per":28.14916069,
+  "per_y":69.0
  },
  "sigma_full":{
-  "sigma_e":"5.60I-38",
-  "sigma_a":"2.34N-61",
-  "sigma_q":"4.10T-62",
-  "sigma_i":"8.91C-99",
-  "sigma_om":"2.62M-77",
-  "sigma_w":"2.32S-90",
-  "sigma_ma":"2.99S-71",
-  "sigma_ad":"7.19W-32",
-  "sigma_n":"6.10A-52",
-  "sigma_tp":"5.65S-22",
-  "sigma_per":"9.79S-68"
+  "sigma_e":"8.17P-80",
+  "sigma_a":"3.23R-58",
+  "sigma_q":"3.13I-30",
+  "sigma_i":"9.64D-14",
+  "sigma_om":"5.74H-35",
+  "sigma_w":"2.50L-97",
+  "sigma_ma":"2.47D-88",
+  "sigma_ad":"5.58T-82",
+  "sigma_n":"8.91P-65",
+  "sigma_tp":"1.47B-38",
+  "sigma_per":"3.66W-60"
  },
  "rms":0.0,
  "moid_full":{
-  "moid":0.609,
-  "moid_id":48.3794753
+  "moid":0.35247,
+  "moid_id":81.123371702984
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

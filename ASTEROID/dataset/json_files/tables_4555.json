@@ -1,63 +1,63 @@
 {
  "spk_id":2004556,
- "object_id":"l0000004555",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"824560472m/s",
+ "object_id":"w0000004555",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"377904483m/s",
  "object_fullname":{
-  "fullname":"2017 MA",
-  "prefix":"2017 ",
-  "name":"EULALIA"
+  "fullname":"2020 SI",
+  "prefix":"2020 ",
+  "name":"COLUCHE"
  },
- "pdes":911,
+ "pdes":680,
  "diameter_full":{
-  "diameter":40.74,
-  "diameter_sigma":6.39716772
+  "diameter":94.3,
+  "diameter_sigma":6.0
  },
- "h":0.8333333333333334,
- "albedo":0.9004633569,
- "orbit_id":"RCH 96",
+ "h":1.4,
+ "albedo":0.143,
+ "orbit_id":"AMB 22",
  "epoch_full":{
-  "epoch":7272117.0,
-  "epoch_mjd":71518,
-  "epoch_cal":20220208.0
+  "epoch":7482878.0,
+  "epoch_mjd":64367,
+  "epoch_cal":20220219.0
  },
- "equinox":"I9102",
- "om":33.370547,
- "e":0.85745495,
- "a":6.67522961425085,
- "q":32379347272467.0,
- "i":28723552610082.0,
- "w":12.546889752208,
- "ad":0.14978,
- "ma":73.322,
- "n":4.1617852041623,
+ "equinox":"L2555",
+ "om":26.89956143456395,
+ "e":0.0,
+ "a":4770.8,
+ "q":8532704.0,
+ "i":557096.850487,
+ "w":24.6201732,
+ "ad":0.700230963298,
+ "ma":86.650732364,
+ "n":24.314193782333,
  "tp_full":{
-  "tp_cal":61.95133921001,
-  "tp":70.60623098821297
+  "tp_cal":1.281544969,
+  "tp":7.870629712
  },
  "per_full":{
-  "per":12.1,
-  "per_y":11.0
+  "per":51.490128139478,
+  "per_y":36.532189
  },
  "sigma_full":{
-  "sigma_e":"2.84M-65",
-  "sigma_a":"2.42M-75",
-  "sigma_q":"1.18R-17",
-  "sigma_i":"8.43C-82",
-  "sigma_om":"8.89P-55",
-  "sigma_w":"4.78P-36",
-  "sigma_ma":"1.74R-12",
-  "sigma_ad":"1.35H-60",
-  "sigma_n":"4.49D-98",
-  "sigma_tp":"9.30S-36",
-  "sigma_per":"4.93P-39"
+  "sigma_e":"2.80T-50",
+  "sigma_a":"6.41E-40",
+  "sigma_q":"2.69S-25",
+  "sigma_i":"7.13M-22",
+  "sigma_om":"1.78G-97",
+  "sigma_w":"3.95U-99",
+  "sigma_ma":"2.26F-14",
+  "sigma_ad":"3.76D-46",
+  "sigma_n":"8.40A-41",
+  "sigma_tp":"5.60C-18",
+  "sigma_per":"9.17A-15"
  },
- "rms":0.6736,
+ "rms":0.4,
  "moid_full":{
-  "moid":0.957985,
-  "moid_id":26.13777556984
+  "moid":0.9307,
+  "moid_id":93.688211149
  },
  "class_asteroid":"M-types"
 }

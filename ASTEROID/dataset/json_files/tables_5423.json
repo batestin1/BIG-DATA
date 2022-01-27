@@ -1,63 +1,63 @@
 {
  "spk_id":2005424,
- "object_id":"t0000005423",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"734864445m/s",
+ "object_id":"i0000005423",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"540857760m/s",
  "object_fullname":{
-  "fullname":"2017 SU",
-  "prefix":"2017 ",
-  "name":"CAULFIELD"
+  "fullname":"2000 FA",
+  "prefix":"2000 ",
+  "name":"DERDENYE"
  },
- "pdes":843,
+ "pdes":568,
  "diameter_full":{
-  "diameter":44.207969288822,
-  "diameter_sigma":3.913836784967
+  "diameter":25.6272937,
+  "diameter_sigma":2.1
  },
- "h":4.0,
- "albedo":0.66,
- "orbit_id":"CWD 14",
+ "h":3.6666666666666665,
+ "albedo":0.285,
+ "orbit_id":"MII 83",
  "epoch_full":{
-  "epoch":4474630.0,
-  "epoch_mjd":60010,
-  "epoch_cal":20220210.0
+  "epoch":3695003.0,
+  "epoch_mjd":78549,
+  "epoch_cal":20220216.0
  },
- "equinox":"G2507",
- "om":14.159,
- "e":0.0,
- "a":275111917615.444,
- "q":7050879656.18,
- "i":486326.273252,
- "w":44.6170800289,
- "ad":0.9,
- "ma":28.3743,
- "n":15.945573849,
+ "equinox":"R3432",
+ "om":24.12,
+ "e":0.68,
+ "a":953721.93,
+ "q":106544782.640977,
+ "i":557814637.581267,
+ "w":34.1,
+ "ad":0.39,
+ "ma":95.92052163174,
+ "n":88.89081615085,
  "tp_full":{
-  "tp_cal":45.454,
-  "tp":43.77829699
+  "tp_cal":61.2,
+  "tp":99.85155362
  },
  "per_full":{
-  "per":72.3170276179917,
-  "per_y":73.37749761068874
+  "per":51.3,
+  "per_y":27.420471317661
  },
  "sigma_full":{
-  "sigma_e":"2.34G-48",
-  "sigma_a":"9.38C-41",
-  "sigma_q":"2.58C-68",
-  "sigma_i":"7.26A-38",
-  "sigma_om":"1.17B-23",
-  "sigma_w":"4.99A-35",
-  "sigma_ma":"6.31H-73",
-  "sigma_ad":"3.78S-30",
-  "sigma_n":"9.23M-50",
-  "sigma_tp":"7.30N-69",
-  "sigma_per":"4.64T-58"
+  "sigma_e":"6.82I-38",
+  "sigma_a":"6.60A-86",
+  "sigma_q":"6.82N-16",
+  "sigma_i":"6.10B-37",
+  "sigma_om":"8.54S-79",
+  "sigma_w":"8.84N-55",
+  "sigma_ma":"4.26T-61",
+  "sigma_ad":"5.58A-39",
+  "sigma_n":"4.29S-92",
+  "sigma_tp":"3.55C-15",
+  "sigma_per":"8.11B-87"
  },
- "rms":0.6,
+ "rms":0.9484873845,
  "moid_full":{
-  "moid":0.93,
-  "moid_id":78.41
+  "moid":0.0,
+  "moid_id":50.30191235
  },
  "class_asteroid":"M-types"
 }

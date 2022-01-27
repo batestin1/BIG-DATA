@@ -1,63 +1,63 @@
 {
  "spk_id":2001483,
- "object_id":"c0000001482",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"755422174m/s",
+ "object_id":"p0000001482",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"726362802m/s",
  "object_fullname":{
-  "fullname":"2015 DE",
-  "prefix":"2015 ",
-  "name":"HERERO"
+  "fullname":"2022 TR",
+  "prefix":"2022 ",
+  "name":"ANGERS"
  },
- "pdes":448,
+ "pdes":191,
  "diameter_full":{
-  "diameter":83.50444642,
-  "diameter_sigma":3.825873131
+  "diameter":72.8,
+  "diameter_sigma":3.2756403199
  },
- "h":1.4444444444444444,
- "albedo":0.1228848,
- "orbit_id":"PEF 30",
+ "h":2.25,
+ "albedo":0.0,
+ "orbit_id":"YTA 12",
  "epoch_full":{
-  "epoch":5388680.0,
-  "epoch_mjd":72835,
-  "epoch_cal":20220202.0
+  "epoch":6392438.0,
+  "epoch_mjd":88818,
+  "epoch_cal":20220214.0
  },
- "equinox":"O3831",
- "om":50.389688153088,
- "e":0.4403,
- "a":83041466067.902,
- "q":72.523554797323,
- "i":30600769.0,
- "w":96.81,
- "ad":0.0,
- "ma":86.51,
- "n":88.54806,
+ "equinox":"A1927",
+ "om":30.95421025,
+ "e":0.29291306,
+ "a":83790387.0,
+ "q":17742011030.112,
+ "i":81903800284065.0,
+ "w":40.36038628,
+ "ad":0.7,
+ "ma":86.35075,
+ "n":60.41833,
  "tp_full":{
-  "tp_cal":26.41,
-  "tp":86.1773057
+  "tp_cal":96.520568,
+  "tp":20.82315353
  },
  "per_full":{
-  "per":79.58,
-  "per_y":57.482
+  "per":11.533,
+  "per_y":60.269128324
  },
  "sigma_full":{
-  "sigma_e":"1.34D-14",
-  "sigma_a":"1.34S-42",
-  "sigma_q":"2.86F-25",
-  "sigma_i":"1.45S-38",
-  "sigma_om":"6.80D-78",
-  "sigma_w":"6.45I-98",
-  "sigma_ma":"6.70S-90",
-  "sigma_ad":"9.15A-62",
-  "sigma_n":"8.40S-99",
-  "sigma_tp":"9.33W-24",
-  "sigma_per":"6.54R-80"
+  "sigma_e":"4.38P-53",
+  "sigma_a":"9.94F-27",
+  "sigma_q":"5.96P-37",
+  "sigma_i":"6.13P-88",
+  "sigma_om":"3.78W-48",
+  "sigma_w":"6.40S-46",
+  "sigma_ma":"6.33I-30",
+  "sigma_ad":"6.61L-73",
+  "sigma_n":"3.48B-35",
+  "sigma_tp":"2.27P-22",
+  "sigma_per":"2.84S-44"
  },
- "rms":0.6287748,
+ "rms":0.84954645,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":36.8345938282
+  "moid":0.1914692,
+  "moid_id":41.7548178308999
  },
- "class_asteroid":"C-"
+ "class_asteroid":"S-"
 }

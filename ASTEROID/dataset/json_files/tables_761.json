@@ -1,63 +1,63 @@
 {
  "spk_id":2000762,
- "object_id":"i000000761",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"351198300m/s",
+ "object_id":"t000000761",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"138845126m/s",
  "object_fullname":{
   "fullname":"2012 TH",
   "prefix":"2012 ",
-  "name":"BOSTROM"
+  "name":"DALESTANBRIDGE"
  },
- "pdes":403,
+ "pdes":729,
  "diameter_full":{
-  "diameter":14.60053,
-  "diameter_sigma":6.4856
+  "diameter":99.2405950829644,
+  "diameter_sigma":5.9
  },
- "h":0.5789473684210527,
- "albedo":0.456519592681,
- "orbit_id":"TPC 13",
+ "h":0.6363636363636364,
+ "albedo":0.77,
+ "orbit_id":"GMS 19",
  "epoch_full":{
-  "epoch":8941018.0,
-  "epoch_mjd":74445,
-  "epoch_cal":20220212.0
+  "epoch":3054719.0,
+  "epoch_mjd":76006,
+  "epoch_cal":20220222.0
  },
- "equinox":"U9249",
- "om":67.1882,
- "e":0.0,
- "a":9075752920439.0,
- "q":69596606465319.6,
- "i":75065684138.7599,
- "w":77.943,
- "ad":0.957,
- "ma":1.1150473615198,
- "n":28.6572288756118,
+ "equinox":"P5228",
+ "om":21.25978794655518,
+ "e":0.9,
+ "a":78.85823,
+ "q":1432794.272682,
+ "i":121635969509640.0,
+ "w":95.682574706101,
+ "ad":0.2,
+ "ma":28.6194601,
+ "n":84.78169,
  "tp_full":{
-  "tp_cal":50.8196240716049,
-  "tp":66.73
+  "tp_cal":14.54,
+  "tp":18.8
  },
  "per_full":{
-  "per":38.50989280051,
-  "per_y":99.7667583
+  "per":36.772877239,
+  "per_y":3.8157
  },
  "sigma_full":{
-  "sigma_e":"2.97C-14",
-  "sigma_a":"3.61C-49",
-  "sigma_q":"2.67M-17",
-  "sigma_i":"3.87S-35",
-  "sigma_om":"8.79W-25",
-  "sigma_w":"8.49B-98",
-  "sigma_ma":"3.89S-85",
-  "sigma_ad":"9.45W-82",
-  "sigma_n":"1.89C-41",
-  "sigma_tp":"4.85F-40",
-  "sigma_per":"1.45D-60"
+  "sigma_e":"9.35D-29",
+  "sigma_a":"4.98T-31",
+  "sigma_q":"7.16C-59",
+  "sigma_i":"1.79F-43",
+  "sigma_om":"6.72C-83",
+  "sigma_w":"3.78P-50",
+  "sigma_ma":"7.19S-90",
+  "sigma_ad":"4.68C-71",
+  "sigma_n":"6.13T-95",
+  "sigma_tp":"6.25S-27",
+  "sigma_per":"1.73I-32"
  },
- "rms":0.75143,
+ "rms":0.2,
  "moid_full":{
-  "moid":0.686,
-  "moid_id":79.686777725135
+  "moid":0.371,
+  "moid_id":70.128443
  },
  "class_asteroid":"M-types"
 }

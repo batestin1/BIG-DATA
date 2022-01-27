@@ -1,63 +1,63 @@
 {
  "spk_id":2005156,
- "object_id":"h0000005155",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"829093276m/s",
+ "object_id":"n0000005155",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"771843829m/s",
  "object_fullname":{
-  "fullname":"2005 MI",
-  "prefix":"2005 ",
-  "name":"BENUA"
+  "fullname":"2017 SU",
+  "prefix":"2017 ",
+  "name":"BELTECAS"
  },
- "pdes":606,
+ "pdes":349,
  "diameter_full":{
-  "diameter":71.2366,
-  "diameter_sigma":8.1373451619
+  "diameter":97.0,
+  "diameter_sigma":5.6
  },
- "h":0.4444444444444444,
- "albedo":0.0,
- "orbit_id":"TST 92",
+ "h":1.0526315789473684,
+ "albedo":0.7,
+ "orbit_id":"BRF 20",
  "epoch_full":{
-  "epoch":6064482.0,
-  "epoch_mjd":59145,
+  "epoch":6731088.0,
+  "epoch_mjd":82407,
   "epoch_cal":20220213.0
  },
- "equinox":"L9992",
- "om":79.6049078,
- "e":0.90213,
- "a":58418633130.7,
- "q":188.797372206,
- "i":40807959798.7913,
- "w":38.4729344,
- "ad":0.1361,
- "ma":16.87,
- "n":65.935,
+ "equinox":"C4912",
+ "om":67.44825799951,
+ "e":0.556,
+ "a":30964.0,
+ "q":7426.0,
+ "i":6381149.8841631,
+ "w":88.2642466156921,
+ "ad":0.7626,
+ "ma":2.918517141,
+ "n":44.36421,
  "tp_full":{
-  "tp_cal":75.2352102488294,
-  "tp":65.7297223206671
+  "tp_cal":82.2208,
+  "tp":98.8
  },
  "per_full":{
-  "per":96.54204794326,
-  "per_y":47.28536322831
+  "per":38.47,
+  "per_y":19.860145866
  },
  "sigma_full":{
-  "sigma_e":"7.34K-56",
-  "sigma_a":"5.46T-18",
-  "sigma_q":"1.57S-25",
-  "sigma_i":"4.77L-68",
-  "sigma_om":"6.48C-22",
-  "sigma_w":"2.34P-19",
-  "sigma_ma":"2.18R-48",
-  "sigma_ad":"4.58L-45",
-  "sigma_n":"7.46O-69",
-  "sigma_tp":"2.30W-78",
-  "sigma_per":"4.33N-94"
+  "sigma_e":"1.58P-39",
+  "sigma_a":"2.33T-91",
+  "sigma_q":"3.24S-82",
+  "sigma_i":"9.63D-70",
+  "sigma_om":"6.88D-24",
+  "sigma_w":"1.54C-46",
+  "sigma_ma":"5.41O-55",
+  "sigma_ad":"3.48S-61",
+  "sigma_n":"3.53C-54",
+  "sigma_tp":"3.81S-96",
+  "sigma_per":"2.94I-95"
  },
- "rms":0.297,
+ "rms":0.95,
  "moid_full":{
-  "moid":0.1,
-  "moid_id":17.9856
+  "moid":0.831,
+  "moid_id":88.341539833158
  },
  "class_asteroid":"S-"
 }

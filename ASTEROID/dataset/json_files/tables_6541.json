@@ -1,63 +1,63 @@
 {
  "spk_id":2006542,
- "object_id":"s0000006541",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"37371817m/s",
+ "object_id":"l0000006541",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"225868813m/s",
  "object_fullname":{
-  "fullname":"2008 CI",
-  "prefix":"2008 ",
-  "name":"FRANCETIC"
+  "fullname":"2014 CA",
+  "prefix":"2014 ",
+  "name":"JANCIS"
  },
- "pdes":843,
+ "pdes":321,
  "diameter_full":{
-  "diameter":92.736085942534,
-  "diameter_sigma":8.60925682964113
+  "diameter":93.855,
+  "diameter_sigma":6.3
  },
- "h":2.2,
- "albedo":0.0,
- "orbit_id":"DAS 86",
+ "h":2.7142857142857144,
+ "albedo":0.68,
+ "orbit_id":"NSI 47",
  "epoch_full":{
-  "epoch":6082862.0,
-  "epoch_mjd":36256,
-  "epoch_cal":20220221.0
+  "epoch":2235292.0,
+  "epoch_mjd":24733,
+  "epoch_cal":20220129.0
  },
- "equinox":"W9396",
- "om":40.519,
+ "equinox":"T7352",
+ "om":80.3422,
  "e":0.0,
- "a":67308605403.542,
- "q":9413981352.34529,
- "i":52.212095557,
- "w":4.138,
- "ad":0.0,
- "ma":72.9880291180098,
- "n":48.521304,
+ "a":8315.6979,
+ "q":592368704487975.0,
+ "i":7.92775034,
+ "w":91.76,
+ "ad":0.2,
+ "ma":26.0,
+ "n":48.201,
  "tp_full":{
-  "tp_cal":5.97717887971,
-  "tp":76.8025
+  "tp_cal":12.99,
+  "tp":40.8759
  },
  "per_full":{
-  "per":64.97095507295562,
-  "per_y":87.3
+  "per":64.7682502,
+  "per_y":46.30098247
  },
  "sigma_full":{
-  "sigma_e":"4.79P-21",
-  "sigma_a":"3.17P-81",
-  "sigma_q":"7.21K-26",
-  "sigma_i":"2.61M-27",
-  "sigma_om":"1.53T-36",
-  "sigma_w":"9.83R-65",
-  "sigma_ma":"7.42S-35",
-  "sigma_ad":"4.28A-90",
-  "sigma_n":"6.18W-65",
-  "sigma_tp":"4.19C-75",
-  "sigma_per":"3.88A-74"
+  "sigma_e":"3.51E-38",
+  "sigma_a":"2.29N-77",
+  "sigma_q":"2.20A-29",
+  "sigma_i":"3.28B-57",
+  "sigma_om":"1.46A-45",
+  "sigma_w":"8.11I-26",
+  "sigma_ma":"7.76M-61",
+  "sigma_ad":"4.51S-43",
+  "sigma_n":"3.37T-78",
+  "sigma_tp":"7.67D-33",
+  "sigma_per":"5.88S-23"
  },
- "rms":0.1569002,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.56,
-  "moid_id":65.99656808966
+  "moid":0.0,
+  "moid_id":81.0
  },
  "class_asteroid":"M-types"
 }

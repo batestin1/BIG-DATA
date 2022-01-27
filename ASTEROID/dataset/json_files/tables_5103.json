@@ -1,63 +1,63 @@
 {
  "spk_id":2005104,
- "object_id":"a0000005103",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"44701474m/s",
+ "object_id":"q0000005103",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"606599426m/s",
  "object_fullname":{
-  "fullname":"2017 ST",
-  "prefix":"2017 ",
-  "name":"CHADCAMPBELL"
+  "fullname":"2021 RU",
+  "prefix":"2021 ",
+  "name":"BALLACK"
  },
- "pdes":711,
+ "pdes":255,
  "diameter_full":{
-  "diameter":73.31,
-  "diameter_sigma":1.15287635924
+  "diameter":89.9760616,
+  "diameter_sigma":8.7480254699357
  },
- "h":0.6,
- "albedo":0.0,
- "orbit_id":"TLC 36",
+ "h":2.0,
+ "albedo":0.2664,
+ "orbit_id":"LSP 95",
  "epoch_full":{
-  "epoch":3714794.0,
-  "epoch_mjd":65600,
-  "epoch_cal":20220223.0
+  "epoch":8478786.0,
+  "epoch_mjd":90463,
+  "epoch_cal":20220218.0
  },
- "equinox":"M3397",
- "om":47.164,
- "e":0.7,
- "a":5667326.17,
- "q":3962830773.9,
- "i":85482.7,
- "w":77.7351291273,
- "ad":0.49,
- "ma":86.986403080952,
- "n":61.9960414011431,
+ "equinox":"Q2415",
+ "om":54.79623169464683,
+ "e":0.7041688,
+ "a":915092.9,
+ "q":3211229733880.0,
+ "i":640469696127.96,
+ "w":56.6707,
+ "ad":0.0,
+ "ma":68.85832,
+ "n":35.34733,
  "tp_full":{
-  "tp_cal":92.0,
-  "tp":88.208889735
+  "tp_cal":50.1767724,
+  "tp":77.69534
  },
  "per_full":{
-  "per":93.7707713,
-  "per_y":78.308
+  "per":79.28508,
+  "per_y":89.7601
  },
  "sigma_full":{
-  "sigma_e":"1.58L-71",
-  "sigma_a":"8.18S-48",
-  "sigma_q":"3.12R-59",
-  "sigma_i":"2.80E-28",
-  "sigma_om":"9.70B-26",
-  "sigma_w":"9.74V-65",
-  "sigma_ma":"8.57E-20",
-  "sigma_ad":"4.40M-10",
-  "sigma_n":"7.75C-65",
-  "sigma_tp":"8.50Q-18",
-  "sigma_per":"6.29D-95"
+  "sigma_e":"4.56T-99",
+  "sigma_a":"7.49S-94",
+  "sigma_q":"3.40S-15",
+  "sigma_i":"5.62A-49",
+  "sigma_om":"7.35C-83",
+  "sigma_w":"7.18G-29",
+  "sigma_ma":"8.66H-24",
+  "sigma_ad":"8.11K-34",
+  "sigma_n":"5.37B-43",
+  "sigma_tp":"9.83R-71",
+  "sigma_per":"6.99R-38"
  },
- "rms":0.7127727802312,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.70429089,
-  "moid_id":35.9392681
+  "moid":0.4180677677,
+  "moid_id":43.83953909841
  },
  "class_asteroid":"C-"
 }

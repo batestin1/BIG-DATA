@@ -1,63 +1,63 @@
 {
  "spk_id":2003215,
- "object_id":"m0000003214",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"280285985m/s",
+ "object_id":"r0000003214",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"491924373m/s",
  "object_fullname":{
-  "fullname":"2001 DE",
-  "prefix":"2001 ",
-  "name":"ANACOSTIA"
+  "fullname":"2011 OV",
+  "prefix":"2011 ",
+  "name":"BECHUANA"
  },
- "pdes":406,
+ "pdes":544,
  "diameter_full":{
-  "diameter":22.33088737,
-  "diameter_sigma":1.37
+  "diameter":43.193553933,
+  "diameter_sigma":3.1773999165
  },
- "h":0.4375,
- "albedo":0.833,
- "orbit_id":"CCN 29",
+ "h":0.5384615384615384,
+ "albedo":0.0,
+ "orbit_id":"HSW 87",
  "epoch_full":{
-  "epoch":5867251.0,
-  "epoch_mjd":79823,
-  "epoch_cal":20220211.0
+  "epoch":5875399.0,
+  "epoch_mjd":99058,
+  "epoch_cal":20220223.0
  },
- "equinox":"S5009",
- "om":83.736388,
- "e":0.77079275,
- "a":4282.6178597,
- "q":761492980346.64,
- "i":550508492.7,
- "w":79.0,
- "ad":0.2,
- "ma":67.79902991,
- "n":8.59391921477939,
+ "equinox":"N4285",
+ "om":3.6218512,
+ "e":0.833,
+ "a":7.46267140628,
+ "q":9118752703.7002,
+ "i":33912419.57984,
+ "w":87.304,
+ "ad":0.6700299,
+ "ma":66.37976933,
+ "n":3.13816,
  "tp_full":{
-  "tp_cal":43.1454076397883,
-  "tp":97.87636434996
+  "tp_cal":73.0,
+  "tp":93.5429
  },
  "per_full":{
-  "per":91.71777714983,
-  "per_y":35.0
+  "per":52.5,
+  "per_y":59.5612958794
  },
  "sigma_full":{
-  "sigma_e":"6.78A-40",
-  "sigma_a":"1.61R-15",
-  "sigma_q":"1.79B-57",
-  "sigma_i":"3.59F-21",
-  "sigma_om":"7.58P-74",
-  "sigma_w":"9.96G-71",
-  "sigma_ma":"1.85N-88",
-  "sigma_ad":"4.23M-59",
-  "sigma_n":"5.80R-72",
-  "sigma_tp":"9.59E-67",
-  "sigma_per":"1.11T-67"
+  "sigma_e":"4.18C-48",
+  "sigma_a":"2.60I-12",
+  "sigma_q":"8.78L-98",
+  "sigma_i":"6.67C-28",
+  "sigma_om":"7.86C-14",
+  "sigma_w":"2.74E-64",
+  "sigma_ma":"3.68T-23",
+  "sigma_ad":"9.83C-62",
+  "sigma_n":"4.56I-70",
+  "sigma_tp":"2.46A-87",
+  "sigma_per":"1.46D-89"
  },
- "rms":0.6086,
+ "rms":0.6,
  "moid_full":{
-  "moid":0.69,
-  "moid_id":81.42
+  "moid":0.66,
+  "moid_id":70.9948358
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

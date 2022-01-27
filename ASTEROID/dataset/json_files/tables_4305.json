@@ -1,63 +1,63 @@
 {
  "spk_id":2004306,
- "object_id":"p0000004305",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"42221967m/s",
+ "object_id":"s0000004305",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"657539406m/s",
  "object_fullname":{
-  "fullname":"2015 ST",
-  "prefix":"2015 ",
-  "name":"BORRELLY"
+  "fullname":"2019 PO",
+  "prefix":"2019 ",
+  "name":"GALEGANT"
  },
- "pdes":286,
+ "pdes":611,
  "diameter_full":{
-  "diameter":45.38533,
-  "diameter_sigma":6.8532780240928
+  "diameter":31.791,
+  "diameter_sigma":8.9633842283218
  },
- "h":3.25,
- "albedo":0.91669,
- "orbit_id":"DWI 70",
+ "h":0.7647058823529411,
+ "albedo":0.629,
+ "orbit_id":"CNI 70",
  "epoch_full":{
-  "epoch":5160441.0,
-  "epoch_mjd":97494,
-  "epoch_cal":20220126.0
+  "epoch":2106464.0,
+  "epoch_mjd":34946,
+  "epoch_cal":20220206.0
  },
- "equinox":"A5255",
- "om":42.0,
- "e":0.223296983,
- "a":22644444.16494,
- "q":100172539833.358,
- "i":16913990380.0,
- "w":69.66,
- "ad":0.0,
- "ma":9.33208,
- "n":4.97211,
+ "equinox":"H9040",
+ "om":48.0,
+ "e":0.0,
+ "a":5.53182705855,
+ "q":5.335039,
+ "i":94384636062465.3,
+ "w":46.399304,
+ "ad":0.25812,
+ "ma":64.70646465193,
+ "n":27.9303604,
  "tp_full":{
-  "tp_cal":97.47112141,
-  "tp":89.5
+  "tp_cal":40.0,
+  "tp":7.394248
  },
  "per_full":{
-  "per":19.53275,
-  "per_y":12.9878513872
+  "per":98.0,
+  "per_y":76.704971
  },
  "sigma_full":{
-  "sigma_e":"9.50C-11",
-  "sigma_a":"8.95T-66",
-  "sigma_q":"9.53A-17",
-  "sigma_i":"4.87F-66",
-  "sigma_om":"1.10S-51",
-  "sigma_w":"5.52F-66",
-  "sigma_ma":"9.86P-50",
-  "sigma_ad":"6.13S-19",
-  "sigma_n":"9.34C-76",
-  "sigma_tp":"6.82L-64",
-  "sigma_per":"8.51T-57"
+  "sigma_e":"1.42G-36",
+  "sigma_a":"1.65P-68",
+  "sigma_q":"4.53S-10",
+  "sigma_i":"8.33C-24",
+  "sigma_om":"7.67S-50",
+  "sigma_w":"1.29G-44",
+  "sigma_ma":"1.83H-25",
+  "sigma_ad":"8.68T-48",
+  "sigma_n":"1.93B-52",
+  "sigma_tp":"2.76C-21",
+  "sigma_per":"5.91M-16"
  },
- "rms":0.0,
+ "rms":0.116437,
  "moid_full":{
-  "moid":0.879,
-  "moid_id":73.39895987401047
+  "moid":0.434,
+  "moid_id":74.28003
  },
- "class_asteroid":"C-"
+ "class_asteroid":"S-"
 }

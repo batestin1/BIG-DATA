@@ -1,63 +1,63 @@
 {
  "spk_id":2003350,
- "object_id":"s0000003349",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"258184281m/s",
+ "object_id":"i0000003349",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"303060807m/s",
  "object_fullname":{
-  "fullname":"2013 SU",
-  "prefix":"2013 ",
-  "name":"JODODAIRA"
+  "fullname":"2020 SP",
+  "prefix":"2020 ",
+  "name":"BYCHKOV"
  },
- "pdes":730,
+ "pdes":701,
  "diameter_full":{
-  "diameter":37.8455,
-  "diameter_sigma":6.99152363
+  "diameter":77.979254,
+  "diameter_sigma":3.1036633
  },
- "h":3.5,
- "albedo":0.1,
- "orbit_id":"MDS 19",
+ "h":0.11764705882352941,
+ "albedo":0.34549338,
+ "orbit_id":"SBB 29",
  "epoch_full":{
-  "epoch":5828531.0,
-  "epoch_mjd":32841,
-  "epoch_cal":20220127.0
+  "epoch":4794804.0,
+  "epoch_mjd":81665,
+  "epoch_cal":20220128.0
  },
- "equinox":"I1751",
- "om":22.2313940676777,
- "e":0.0,
- "a":3436145404525.18,
- "q":9603576391.847,
- "i":1077.8,
- "w":14.28799,
- "ad":0.7,
- "ma":57.557990867,
- "n":94.8974,
+ "equinox":"C9133",
+ "om":89.21769911941,
+ "e":0.545,
+ "a":318946.0,
+ "q":26.3787,
+ "i":154774830.663,
+ "w":40.6874138864,
+ "ad":0.0,
+ "ma":41.3840337982,
+ "n":24.9695959897,
  "tp_full":{
-  "tp_cal":12.57146044884,
-  "tp":22.368001
+  "tp_cal":22.8561417588547,
+  "tp":60.0
  },
  "per_full":{
-  "per":16.4,
-  "per_y":45.2403955538225
+  "per":9.16099,
+  "per_y":38.146423952387
  },
  "sigma_full":{
-  "sigma_e":"3.93T-62",
-  "sigma_a":"8.81W-73",
-  "sigma_q":"9.43F-30",
-  "sigma_i":"2.72S-85",
-  "sigma_om":"9.71N-19",
-  "sigma_w":"8.42F-92",
-  "sigma_ma":"2.34T-64",
-  "sigma_ad":"1.34R-46",
-  "sigma_n":"8.59T-82",
-  "sigma_tp":"7.22T-32",
-  "sigma_per":"4.61F-63"
+  "sigma_e":"9.43N-92",
+  "sigma_a":"2.99C-82",
+  "sigma_q":"4.29M-62",
+  "sigma_i":"3.36F-84",
+  "sigma_om":"9.48S-73",
+  "sigma_w":"1.25T-61",
+  "sigma_ma":"2.33R-13",
+  "sigma_ad":"3.77C-58",
+  "sigma_n":"7.89A-15",
+  "sigma_tp":"9.60I-74",
+  "sigma_per":"7.42S-56"
  },
- "rms":0.3,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.69341,
-  "moid_id":45.502643555544
+  "moid":0.8,
+  "moid_id":74.8860293071
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2002074,
- "object_id":"n0000002073",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"630158235m/s",
+ "object_id":"s0000002073",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"878504181m/s",
  "object_fullname":{
-  "fullname":"2004 BA",
-  "prefix":"2004 ",
-  "name":"HOSHINO"
+  "fullname":"2021 MO",
+  "prefix":"2021 ",
+  "name":"ELYSEHOPE"
  },
- "pdes":863,
+ "pdes":295,
  "diameter_full":{
-  "diameter":58.0,
-  "diameter_sigma":5.1
+  "diameter":49.5596936231,
+  "diameter_sigma":8.242058428039
  },
- "h":7.5,
- "albedo":0.8,
- "orbit_id":"DBR 16",
+ "h":1.875,
+ "albedo":0.503707664,
+ "orbit_id":"DCS 78",
  "epoch_full":{
-  "epoch":9232197.0,
-  "epoch_mjd":94513,
-  "epoch_cal":20220206.0
+  "epoch":2009069.0,
+  "epoch_mjd":13607,
+  "epoch_cal":20220208.0
  },
- "equinox":"V3977",
- "om":57.745392,
- "e":0.343,
- "a":380471911611.47,
- "q":4532207.31222472,
- "i":2956140667.2496,
- "w":2.35986,
- "ad":0.839181122,
- "ma":45.436911,
- "n":50.3032223238,
+ "equinox":"F5454",
+ "om":35.71,
+ "e":0.0,
+ "a":732074739.455,
+ "q":880112933585083.0,
+ "i":82.0,
+ "w":9.22,
+ "ad":0.1636,
+ "ma":12.228249881,
+ "n":28.566732,
  "tp_full":{
-  "tp_cal":51.401069,
-  "tp":55.5492
+  "tp_cal":81.5727258,
+  "tp":94.7124
  },
  "per_full":{
-  "per":89.99370846,
-  "per_y":74.98
+  "per":31.8575791795123,
+  "per_y":18.59861
  },
  "sigma_full":{
-  "sigma_e":"5.34S-88",
-  "sigma_a":"9.45B-13",
-  "sigma_q":"6.60B-94",
-  "sigma_i":"2.21O-17",
-  "sigma_om":"5.40C-62",
-  "sigma_w":"5.27S-88",
-  "sigma_ma":"3.93W-19",
-  "sigma_ad":"7.81B-60",
-  "sigma_n":"2.60C-50",
-  "sigma_tp":"4.29W-50",
-  "sigma_per":"6.85O-40"
+  "sigma_e":"8.92T-47",
+  "sigma_a":"8.66P-40",
+  "sigma_q":"6.66M-38",
+  "sigma_i":"3.84P-96",
+  "sigma_om":"4.65Q-90",
+  "sigma_w":"9.73M-94",
+  "sigma_ma":"8.70L-81",
+  "sigma_ad":"2.81S-53",
+  "sigma_n":"4.93T-73",
+  "sigma_tp":"9.14N-92",
+  "sigma_per":"2.94H-55"
  },
- "rms":0.662725,
+ "rms":0.2,
  "moid_full":{
-  "moid":0.49033342,
-  "moid_id":9.562
+  "moid":0.9,
+  "moid_id":48.0
  },
- "class_asteroid":"C-"
+ "class_asteroid":"S-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2002797,
- "object_id":"b0000002796",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"801395415m/s",
+ "object_id":"m0000002796",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"86579407m/s",
  "object_fullname":{
-  "fullname":"2003 AM",
-  "prefix":"2003 ",
-  "name":"HORROCKS"
+  "fullname":"2009 EX",
+  "prefix":"2009 ",
+  "name":"GUSTAVLEONHARDT"
  },
- "pdes":336,
+ "pdes":827,
  "diameter_full":{
-  "diameter":64.864162265635,
-  "diameter_sigma":5.395
+  "diameter":96.57613744,
+  "diameter_sigma":8.596
  },
- "h":1.5,
- "albedo":0.17517968,
- "orbit_id":"WHS 99",
+ "h":0.75,
+ "albedo":0.542,
+ "orbit_id":"APU 15",
  "epoch_full":{
-  "epoch":4965171.0,
-  "epoch_mjd":59336,
-  "epoch_cal":20220204.0
+  "epoch":3608237.0,
+  "epoch_mjd":83837,
+  "epoch_cal":20220213.0
  },
- "equinox":"R3916",
- "om":5.804,
- "e":0.1,
- "a":294491277661.83,
- "q":302092820.41386,
- "i":25980765542235.6,
- "w":25.99128037368,
- "ad":0.443456,
- "ma":74.5682,
- "n":71.77142788,
+ "equinox":"L2273",
+ "om":28.52391345895682,
+ "e":0.957,
+ "a":772100765.11863,
+ "q":155637940265.0,
+ "i":6337194677101.0,
+ "w":85.941442602,
+ "ad":0.81229533,
+ "ma":95.894833943483,
+ "n":55.194569,
  "tp_full":{
-  "tp_cal":56.0,
-  "tp":73.364
+  "tp_cal":87.13,
+  "tp":45.0
  },
  "per_full":{
-  "per":83.2082845,
-  "per_y":56.717588398309
+  "per":58.1,
+  "per_y":76.28566966
  },
  "sigma_full":{
-  "sigma_e":"7.47T-78",
-  "sigma_a":"6.42L-30",
-  "sigma_q":"9.32D-31",
-  "sigma_i":"5.23W-92",
-  "sigma_om":"2.50R-53",
-  "sigma_w":"3.82E-97",
-  "sigma_ma":"9.89P-90",
-  "sigma_ad":"4.12N-46",
-  "sigma_n":"9.11A-80",
-  "sigma_tp":"8.30A-40",
-  "sigma_per":"8.15R-60"
+  "sigma_e":"5.58C-80",
+  "sigma_a":"8.83D-10",
+  "sigma_q":"9.48I-52",
+  "sigma_i":"1.31S-74",
+  "sigma_om":"6.16S-61",
+  "sigma_w":"6.12S-62",
+  "sigma_ma":"3.79M-25",
+  "sigma_ad":"8.90A-25",
+  "sigma_n":"1.59M-17",
+  "sigma_tp":"7.67L-11",
+  "sigma_per":"2.88D-37"
  },
- "rms":0.52,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.75554088,
-  "moid_id":57.5194438303635
+  "moid":0.5701,
+  "moid_id":65.6332539
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

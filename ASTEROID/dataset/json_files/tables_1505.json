@@ -1,63 +1,63 @@
 {
  "spk_id":2001506,
- "object_id":"m0000001505",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"223753338m/s",
+ "object_id":"l0000001505",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"261838663m/s",
  "object_fullname":{
-  "fullname":"2013 AN",
-  "prefix":"2013 ",
-  "name":"ALASCATTALO"
+  "fullname":"2001 TE",
+  "prefix":"2001 ",
+  "name":"ANNAPOLISROYAL"
  },
- "pdes":849,
+ "pdes":123,
  "diameter_full":{
-  "diameter":16.7624,
-  "diameter_sigma":4.5364
+  "diameter":70.129307,
+  "diameter_sigma":3.3
  },
- "h":2.4,
- "albedo":0.6588,
- "orbit_id":"SMT 13",
+ "h":4.25,
+ "albedo":0.0,
+ "orbit_id":"ADS 34",
  "epoch_full":{
-  "epoch":5579184.0,
-  "epoch_mjd":40307,
-  "epoch_cal":20220130.0
+  "epoch":3350919.0,
+  "epoch_mjd":52503,
+  "epoch_cal":20220205.0
  },
- "equinox":"C2248",
- "om":7.3340444,
- "e":0.4173,
- "a":22113.4191741141,
- "q":43773641671.652,
- "i":98534915.47557,
- "w":10.98572899169632,
- "ad":0.0,
- "ma":8.6615511134505,
- "n":48.79156043844642,
+ "equinox":"M9175",
+ "om":77.926525,
+ "e":0.684850832622,
+ "a":96117.22,
+ "q":785564207829.86,
+ "i":989394191873188.0,
+ "w":89.17809,
+ "ad":0.2760559175,
+ "ma":8.77877425,
+ "n":25.6421064695898,
  "tp_full":{
-  "tp_cal":3.863362,
-  "tp":7.37109714788
+  "tp_cal":11.937922584,
+  "tp":41.239389810286
  },
  "per_full":{
-  "per":77.8472625,
-  "per_y":79.6
+  "per":92.804028402,
+  "per_y":39.232250111
  },
  "sigma_full":{
-  "sigma_e":"1.30P-18",
-  "sigma_a":"6.30S-60",
-  "sigma_q":"4.45D-63",
-  "sigma_i":"5.92P-20",
-  "sigma_om":"5.87O-48",
-  "sigma_w":"6.83C-47",
-  "sigma_ma":"4.44S-40",
-  "sigma_ad":"5.50Q-58",
-  "sigma_n":"7.16D-93",
-  "sigma_tp":"2.19G-56",
-  "sigma_per":"4.54M-76"
+  "sigma_e":"5.58A-43",
+  "sigma_a":"1.73E-53",
+  "sigma_q":"9.95P-55",
+  "sigma_i":"6.80C-52",
+  "sigma_om":"7.65G-80",
+  "sigma_w":"5.44T-75",
+  "sigma_ma":"2.21S-56",
+  "sigma_ad":"6.30P-94",
+  "sigma_n":"6.47R-89",
+  "sigma_tp":"4.85E-10",
+  "sigma_per":"4.14D-80"
  },
- "rms":0.9969302,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":72.758093
+  "moid":0.683,
+  "moid_id":70.4703777325
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

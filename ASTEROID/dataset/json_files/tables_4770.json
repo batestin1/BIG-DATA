@@ -1,63 +1,63 @@
 {
  "spk_id":2004771,
- "object_id":"n0000004770",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"72293303m/s",
+ "object_id":"p0000004770",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"655807180m/s",
  "object_fullname":{
-  "fullname":"2003 PM",
-  "prefix":"2003 ",
-  "name":"CHARMAINE"
+  "fullname":"2008 CO",
+  "prefix":"2008 ",
+  "name":"AJBURNETTI"
  },
- "pdes":343,
+ "pdes":425,
  "diameter_full":{
-  "diameter":59.80480552121506,
-  "diameter_sigma":2.87877433126418
+  "diameter":31.5534762,
+  "diameter_sigma":5.8889579853868
  },
- "h":5.0,
- "albedo":0.0,
- "orbit_id":"EIT 45",
+ "h":3.0,
+ "albedo":0.769,
+ "orbit_id":"BPN 89",
  "epoch_full":{
-  "epoch":7441380.0,
-  "epoch_mjd":62152,
-  "epoch_cal":20220223.0
+  "epoch":4490507.0,
+  "epoch_mjd":78153,
+  "epoch_cal":20220128.0
  },
- "equinox":"P3257",
- "om":73.683298,
- "e":0.8259839,
- "a":8822749544.9,
- "q":9.447789,
- "i":0.0,
- "w":81.3329,
- "ad":0.6945211,
- "ma":70.94002,
- "n":99.626,
+ "equinox":"S7282",
+ "om":49.987202483509,
+ "e":0.0,
+ "a":82.317185119205,
+ "q":64336.65872,
+ "i":2882050432355.0,
+ "w":79.5212088578203,
+ "ad":0.3,
+ "ma":49.81347553176949,
+ "n":1.18332617,
  "tp_full":{
-  "tp_cal":67.509,
-  "tp":44.872775
+  "tp_cal":54.609743906,
+  "tp":6.3728549
  },
  "per_full":{
-  "per":41.21612217,
-  "per_y":34.148
+  "per":92.570016197,
+  "per_y":32.172814904
  },
  "sigma_full":{
-  "sigma_e":"2.61P-99",
-  "sigma_a":"6.60P-13",
-  "sigma_q":"4.72E-50",
-  "sigma_i":"4.40O-38",
-  "sigma_om":"1.73N-44",
-  "sigma_w":"8.83B-52",
-  "sigma_ma":"8.14H-96",
-  "sigma_ad":"2.15S-59",
-  "sigma_n":"7.91B-81",
-  "sigma_tp":"2.87T-75",
-  "sigma_per":"5.65H-58"
+  "sigma_e":"1.31S-63",
+  "sigma_a":"4.15H-72",
+  "sigma_q":"4.10P-48",
+  "sigma_i":"6.31S-61",
+  "sigma_om":"1.58A-70",
+  "sigma_w":"3.85S-61",
+  "sigma_ma":"4.79E-52",
+  "sigma_ad":"1.85D-65",
+  "sigma_n":"2.50L-28",
+  "sigma_tp":"9.93O-56",
+  "sigma_per":"5.97M-93"
  },
- "rms":0.64,
+ "rms":0.975,
  "moid_full":{
-  "moid":0.2619063225,
-  "moid_id":98.652801
+  "moid":0.0,
+  "moid_id":4.440756625232
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

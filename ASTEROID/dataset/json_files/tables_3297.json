@@ -1,63 +1,63 @@
 {
  "spk_id":2003298,
- "object_id":"n0000003297",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"298751344m/s",
+ "object_id":"d0000003297",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"595754023m/s",
  "object_fullname":{
-  "fullname":"2014 SP",
-  "prefix":"2014 ",
-  "name":"BRAGA-RIBAS"
+  "fullname":"2000 SU",
+  "prefix":"2000 ",
+  "name":"DANPASCU"
  },
- "pdes":436,
+ "pdes":671,
  "diameter_full":{
-  "diameter":43.1884416213064,
-  "diameter_sigma":8.42073948037
+  "diameter":67.552289787899,
+  "diameter_sigma":1.3
  },
- "h":1.3333333333333333,
- "albedo":0.0,
- "orbit_id":"FPG 82",
+ "h":6.0,
+ "albedo":0.23,
+ "orbit_id":"HEA 88",
  "epoch_full":{
-  "epoch":2762607.0,
-  "epoch_mjd":99426,
-  "epoch_cal":20220213.0
+  "epoch":9679120.0,
+  "epoch_mjd":21605,
+  "epoch_cal":20220220.0
  },
- "equinox":"T1710",
- "om":79.6021,
- "e":0.34,
- "a":293494.31,
- "q":561277160.64002,
- "i":70947763.18,
- "w":24.3627499088154,
- "ad":0.0,
- "ma":77.712093,
- "n":87.180319629,
+ "equinox":"M1768",
+ "om":35.8865869,
+ "e":0.0,
+ "a":423391.4007,
+ "q":51882106573616.0,
+ "i":2446742748137.4,
+ "w":33.37421851941,
+ "ad":0.72,
+ "ma":32.56763,
+ "n":86.9240672774732,
  "tp_full":{
-  "tp_cal":20.66,
-  "tp":5.0
+  "tp_cal":90.467,
+  "tp":84.486647
  },
  "per_full":{
-  "per":93.1687677955519,
-  "per_y":24.32447195392
+  "per":2.345,
+  "per_y":83.489913635
  },
  "sigma_full":{
-  "sigma_e":"6.26S-49",
-  "sigma_a":"8.65C-95",
-  "sigma_q":"2.77B-43",
-  "sigma_i":"9.72E-29",
-  "sigma_om":"4.25T-61",
-  "sigma_w":"2.60O-93",
-  "sigma_ma":"6.85D-37",
-  "sigma_ad":"9.16I-81",
-  "sigma_n":"5.57E-59",
-  "sigma_tp":"4.70W-47",
-  "sigma_per":"5.70M-83"
+  "sigma_e":"9.52T-13",
+  "sigma_a":"4.15S-25",
+  "sigma_q":"4.22C-71",
+  "sigma_i":"6.15W-20",
+  "sigma_om":"4.20C-58",
+  "sigma_w":"2.47P-42",
+  "sigma_ma":"8.49G-35",
+  "sigma_ad":"5.78S-98",
+  "sigma_n":"1.98I-99",
+  "sigma_tp":"3.76T-12",
+  "sigma_per":"7.22N-30"
  },
- "rms":0.24,
+ "rms":0.69,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":17.5671577363668
+  "moid":0.2,
+  "moid_id":71.94193156
  },
  "class_asteroid":"Other Types"
 }

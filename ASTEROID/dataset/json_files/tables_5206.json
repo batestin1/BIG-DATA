@@ -1,63 +1,63 @@
 {
  "spk_id":2005207,
- "object_id":"w0000005206",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"323404176m/s",
+ "object_id":"g0000005206",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"414623599m/s",
  "object_fullname":{
-  "fullname":"2009 SE",
-  "prefix":"2009 ",
-  "name":"CHEBOTAREV"
+  "fullname":"2018 SP",
+  "prefix":"2018 ",
+  "name":"BALINDBLAD"
  },
- "pdes":322,
+ "pdes":140,
  "diameter_full":{
-  "diameter":52.1335,
-  "diameter_sigma":3.8
+  "diameter":98.143171034406,
+  "diameter_sigma":5.7776961456408
  },
- "h":0.75,
- "albedo":0.61,
- "orbit_id":"STE 88",
+ "h":1.0,
+ "albedo":0.0,
+ "orbit_id":"LOC 53",
  "epoch_full":{
-  "epoch":2369773.0,
-  "epoch_mjd":56006,
-  "epoch_cal":20220221.0
+  "epoch":9147123.0,
+  "epoch_mjd":84557,
+  "epoch_cal":20220220.0
  },
- "equinox":"T1687",
- "om":84.95533837570827,
- "e":0.4661,
- "a":589255.92,
- "q":2485543853.61,
- "i":15946.915329427,
- "w":28.583719,
- "ad":0.0,
- "ma":56.66949863325,
- "n":12.87016527679,
+ "equinox":"D4879",
+ "om":48.0,
+ "e":0.0,
+ "a":9104522.7842371,
+ "q":15692173889.522,
+ "i":1396.329962,
+ "w":32.22431612,
+ "ad":0.631939095,
+ "ma":52.624796046283,
+ "n":76.9235,
  "tp_full":{
-  "tp_cal":28.3997525976,
-  "tp":52.5113873773
+  "tp_cal":36.86982,
+  "tp":85.979716379523
  },
  "per_full":{
-  "per":61.6179839,
-  "per_y":90.618483557
+  "per":60.9205218416662,
+  "per_y":12.4329436127055
  },
  "sigma_full":{
-  "sigma_e":"1.72N-72",
-  "sigma_a":"3.81R-20",
-  "sigma_q":"3.70U-98",
-  "sigma_i":"3.22A-94",
-  "sigma_om":"2.95A-17",
-  "sigma_w":"3.73B-25",
-  "sigma_ma":"8.49E-86",
-  "sigma_ad":"3.53S-77",
-  "sigma_n":"5.26F-84",
-  "sigma_tp":"1.14A-66",
-  "sigma_per":"5.82P-68"
+  "sigma_e":"5.34M-68",
+  "sigma_a":"3.62C-82",
+  "sigma_q":"9.93J-12",
+  "sigma_i":"6.83F-65",
+  "sigma_om":"6.85G-31",
+  "sigma_w":"7.54D-97",
+  "sigma_ma":"5.90T-81",
+  "sigma_ad":"7.56D-76",
+  "sigma_n":"8.61I-66",
+  "sigma_tp":"6.50M-32",
+  "sigma_per":"5.46R-99"
  },
- "rms":0.5300431248,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.47926,
-  "moid_id":64.485994163
+  "moid":0.0,
+  "moid_id":89.73084
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"M-types"
 }

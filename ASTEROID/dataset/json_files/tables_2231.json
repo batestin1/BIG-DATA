@@ -1,63 +1,63 @@
 {
  "spk_id":2002232,
- "object_id":"v0000002231",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"605618972m/s",
+ "object_id":"w0000002231",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"790230266m/s",
  "object_fullname":{
-  "fullname":"2009 CH",
-  "prefix":"2009 ",
-  "name":"AZUMAYASAN"
+  "fullname":"2005 EI",
+  "prefix":"2005 ",
+  "name":"JIANGXI"
  },
- "pdes":747,
+ "pdes":396,
  "diameter_full":{
-  "diameter":26.24484037705815,
-  "diameter_sigma":2.45966199
+  "diameter":84.3752819079496,
+  "diameter_sigma":2.49
  },
- "h":0.21052631578947367,
- "albedo":0.59,
- "orbit_id":"HPM 34",
+ "h":1.75,
+ "albedo":0.0,
+ "orbit_id":"TMT 54",
  "epoch_full":{
-  "epoch":8398061.0,
-  "epoch_mjd":87571,
-  "epoch_cal":20220129.0
+  "epoch":5584505.0,
+  "epoch_mjd":34208,
+  "epoch_cal":20220127.0
  },
- "equinox":"C3477",
- "om":51.78447,
- "e":0.968940328,
- "a":495296.39444047,
- "q":994484.8726,
- "i":412095.680809,
- "w":72.31327,
- "ad":0.48,
- "ma":23.865053939346,
- "n":18.21124635,
+ "equinox":"T5888",
+ "om":77.38218524129,
+ "e":0.0,
+ "a":3.61248089025222,
+ "q":6455.9719006,
+ "i":77.6426442684,
+ "w":21.0,
+ "ad":0.0,
+ "ma":34.748008529,
+ "n":6.225674995,
  "tp_full":{
-  "tp_cal":50.96087177956,
-  "tp":17.875225903
+  "tp_cal":38.0,
+  "tp":58.6362578805
  },
  "per_full":{
-  "per":50.35,
-  "per_y":7.527
+  "per":14.4058587,
+  "per_y":54.8
  },
  "sigma_full":{
-  "sigma_e":"9.85P-66",
-  "sigma_a":"4.40F-59",
-  "sigma_q":"2.91N-33",
-  "sigma_i":"9.36D-33",
-  "sigma_om":"4.63A-49",
-  "sigma_w":"9.85B-87",
-  "sigma_ma":"5.30T-64",
-  "sigma_ad":"5.94P-28",
-  "sigma_n":"9.91C-81",
-  "sigma_tp":"8.81C-38",
-  "sigma_per":"4.54J-12"
+  "sigma_e":"4.66P-84",
+  "sigma_a":"2.54S-27",
+  "sigma_q":"5.90A-63",
+  "sigma_i":"7.55C-96",
+  "sigma_om":"5.17M-92",
+  "sigma_w":"7.51M-69",
+  "sigma_ma":"8.85A-64",
+  "sigma_ad":"1.89H-30",
+  "sigma_n":"4.25H-17",
+  "sigma_tp":"2.92L-43",
+  "sigma_per":"5.11D-44"
  },
- "rms":0.7,
+ "rms":0.21,
  "moid_full":{
   "moid":0.0,
-  "moid_id":96.446231305062
+  "moid_id":28.665
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

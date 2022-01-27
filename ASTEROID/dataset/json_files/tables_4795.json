@@ -1,63 +1,63 @@
 {
  "spk_id":2004796,
- "object_id":"c0000004795",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"518112750m/s",
+ "object_id":"y0000004795",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"570852696m/s",
  "object_fullname":{
-  "fullname":"2014 SO",
-  "prefix":"2014 ",
-  "name":"CLAVEL"
+  "fullname":"2017 EL",
+  "prefix":"2017 ",
+  "name":"BLEUSTEIN"
  },
- "pdes":737,
+ "pdes":340,
  "diameter_full":{
-  "diameter":32.606191,
-  "diameter_sigma":1.519
+  "diameter":95.56872748209032,
+  "diameter_sigma":3.8009203993
  },
- "h":2.8,
- "albedo":0.724,
- "orbit_id":"NCH 68",
+ "h":0.3888888888888889,
+ "albedo":0.5,
+ "orbit_id":"PSP 24",
  "epoch_full":{
-  "epoch":1383233.0,
-  "epoch_mjd":67949,
-  "epoch_cal":20220219.0
+  "epoch":1236449.0,
+  "epoch_mjd":60370,
+  "epoch_cal":20220214.0
  },
- "equinox":"T5436",
- "om":4.28838162187,
- "e":0.4997678,
- "a":3134725457.84,
- "q":15455395181.962,
- "i":869547346853.97,
- "w":1.280898615,
- "ad":0.0,
- "ma":6.83546881,
- "n":62.79499143417,
+ "equinox":"C4094",
+ "om":23.458507216753,
+ "e":0.6697,
+ "a":5259619027621.51,
+ "q":146.0,
+ "i":7249.0,
+ "w":14.3,
+ "ad":0.71,
+ "ma":77.23610072,
+ "n":81.9017184799,
  "tp_full":{
-  "tp_cal":56.0,
-  "tp":45.604
+  "tp_cal":28.94604301404,
+  "tp":60.0
  },
  "per_full":{
-  "per":80.401484664833,
-  "per_y":12.97149
+  "per":53.3353195,
+  "per_y":67.79217116778
  },
  "sigma_full":{
-  "sigma_e":"6.29P-45",
-  "sigma_a":"1.54M-11",
-  "sigma_q":"1.35C-85",
-  "sigma_i":"4.12D-72",
-  "sigma_om":"5.27L-59",
-  "sigma_w":"5.93H-41",
-  "sigma_ma":"4.13O-32",
-  "sigma_ad":"5.47B-69",
-  "sigma_n":"1.34P-78",
-  "sigma_tp":"4.45D-46",
-  "sigma_per":"5.80E-24"
+  "sigma_e":"4.10N-89",
+  "sigma_a":"6.62D-45",
+  "sigma_q":"8.73P-21",
+  "sigma_i":"3.29H-38",
+  "sigma_om":"7.76A-85",
+  "sigma_w":"9.36I-21",
+  "sigma_ma":"1.53T-64",
+  "sigma_ad":"3.10S-98",
+  "sigma_n":"3.14P-30",
+  "sigma_tp":"1.31C-88",
+  "sigma_per":"9.27A-98"
  },
- "rms":0.45464711342,
+ "rms":0.60915,
  "moid_full":{
   "moid":0.0,
-  "moid_id":42.23593941486
+  "moid_id":41.4521947254333
  },
  "class_asteroid":"Other Types"
 }

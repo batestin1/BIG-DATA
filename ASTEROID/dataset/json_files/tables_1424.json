@@ -1,63 +1,63 @@
 {
  "spk_id":2001425,
- "object_id":"a0000001424",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"588341600m/s",
+ "object_id":"y0000001424",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"356114278m/s",
  "object_fullname":{
-  "fullname":"2012 HE",
-  "prefix":"2012 ",
-  "name":"EASTERWOOD"
+  "fullname":"2018 HI",
+  "prefix":"2018 ",
+  "name":"CORVINA"
  },
- "pdes":735,
+ "pdes":757,
  "diameter_full":{
-  "diameter":93.7554179986,
-  "diameter_sigma":8.140060688
+  "diameter":55.833862,
+  "diameter_sigma":2.0
  },
- "h":0.5555555555555556,
- "albedo":0.8,
- "orbit_id":"TCC 96",
+ "h":0.29411764705882354,
+ "albedo":0.57,
+ "orbit_id":"OMT 31",
  "epoch_full":{
-  "epoch":9295371.0,
-  "epoch_mjd":11398,
-  "epoch_cal":20220131.0
+  "epoch":9750581.0,
+  "epoch_mjd":46533,
+  "epoch_cal":20220127.0
  },
- "equinox":"P9190",
- "om":93.70790759658,
- "e":0.8601753804,
- "a":674829040498.5,
- "q":1649108401.88,
- "i":47869408.0,
- "w":25.851944,
- "ad":0.0,
- "ma":64.33,
- "n":73.534,
+ "equinox":"R3787",
+ "om":73.6265326381979,
+ "e":0.5,
+ "a":2904.66,
+ "q":1.846,
+ "i":659671.4,
+ "w":82.768693874,
+ "ad":0.381,
+ "ma":98.94669497688,
+ "n":23.21,
  "tp_full":{
-  "tp_cal":32.3,
-  "tp":28.20458635188928
+  "tp_cal":10.4984186645,
+  "tp":62.644927
  },
  "per_full":{
-  "per":76.389633,
-  "per_y":91.3785804
+  "per":27.2768751185,
+  "per_y":16.653612501
  },
  "sigma_full":{
-  "sigma_e":"3.72W-19",
-  "sigma_a":"2.18T-10",
-  "sigma_q":"6.74B-30",
-  "sigma_i":"4.53I-47",
-  "sigma_om":"3.56M-89",
-  "sigma_w":"3.97S-30",
-  "sigma_ma":"4.55S-94",
-  "sigma_ad":"2.99C-94",
-  "sigma_n":"9.19C-33",
-  "sigma_tp":"3.38L-33",
-  "sigma_per":"3.63U-77"
+  "sigma_e":"4.69F-17",
+  "sigma_a":"4.49A-72",
+  "sigma_q":"5.17A-90",
+  "sigma_i":"3.68C-13",
+  "sigma_om":"1.43P-25",
+  "sigma_w":"3.97C-50",
+  "sigma_ma":"5.36H-49",
+  "sigma_ad":"1.16T-37",
+  "sigma_n":"2.61B-97",
+  "sigma_tp":"7.10C-59",
+  "sigma_per":"4.12F-16"
  },
- "rms":0.9,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":9.21
+  "moid":0.66627,
+  "moid_id":77.19286
  },
  "class_asteroid":"C-"
 }

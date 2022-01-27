@@ -1,63 +1,63 @@
 {
  "spk_id":2002779,
- "object_id":"r0000002778",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"701418282m/s",
+ "object_id":"s0000002778",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"390956862m/s",
  "object_fullname":{
-  "fullname":"2020 DA",
-  "prefix":"2020 ",
-  "name":"HATTYHONG"
+  "fullname":"2013 PA",
+  "prefix":"2013 ",
+  "name":"ATSUSHIMIYAZAKI"
  },
- "pdes":765,
+ "pdes":504,
  "diameter_full":{
-  "diameter":76.58882138782,
-  "diameter_sigma":1.5016972698891
+  "diameter":71.5867194327,
+  "diameter_sigma":3.4
  },
- "h":0.35294117647058826,
- "albedo":0.7387,
- "orbit_id":"YCP 65",
+ "h":0.5882352941176471,
+ "albedo":0.6583095,
+ "orbit_id":"MTC 24",
  "epoch_full":{
-  "epoch":3271300.0,
-  "epoch_mjd":58459,
-  "epoch_cal":20220223.0
+  "epoch":9417298.0,
+  "epoch_mjd":49813,
+  "epoch_cal":20220206.0
  },
- "equinox":"M1663",
- "om":17.50682932867899,
- "e":0.62,
- "a":17846.828609065,
- "q":92963299033.1,
- "i":92910.5191,
- "w":86.28792,
- "ad":0.20326,
- "ma":16.97196610875515,
- "n":99.60986649560384,
+ "equinox":"R6567",
+ "om":87.8462425232,
+ "e":0.3,
+ "a":51864732286810.0,
+ "q":304999.53,
+ "i":516101.96,
+ "w":35.95632223136,
+ "ad":0.89,
+ "ma":95.12019025,
+ "n":23.0,
  "tp_full":{
-  "tp_cal":90.55305284851347,
-  "tp":28.11
+  "tp_cal":86.550456103,
+  "tp":25.3221834239
  },
  "per_full":{
-  "per":7.561,
-  "per_y":24.0
+  "per":25.575385,
+  "per_y":30.20009514512812
  },
  "sigma_full":{
-  "sigma_e":"7.22H-52",
-  "sigma_a":"9.53L-36",
-  "sigma_q":"9.46E-18",
-  "sigma_i":"4.40B-13",
-  "sigma_om":"2.57M-47",
-  "sigma_w":"2.82M-82",
-  "sigma_ma":"8.48M-65",
-  "sigma_ad":"2.55P-68",
-  "sigma_n":"3.70A-59",
-  "sigma_tp":"7.14T-52",
-  "sigma_per":"4.80T-10"
+  "sigma_e":"1.32O-65",
+  "sigma_a":"9.62T-61",
+  "sigma_q":"2.49S-15",
+  "sigma_i":"1.31H-22",
+  "sigma_om":"5.37P-70",
+  "sigma_w":"6.64H-25",
+  "sigma_ma":"2.14S-33",
+  "sigma_ad":"2.15P-79",
+  "sigma_n":"4.88C-70",
+  "sigma_tp":"9.12N-29",
+  "sigma_per":"2.68O-80"
  },
- "rms":0.6,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.66,
-  "moid_id":77.18221161445
+  "moid":0.0,
+  "moid_id":83.9783
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

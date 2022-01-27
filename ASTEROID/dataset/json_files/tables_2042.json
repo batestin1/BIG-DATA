@@ -1,63 +1,63 @@
 {
  "spk_id":2002043,
- "object_id":"p0000002042",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"316206530m/s",
+ "object_id":"s0000002042",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"304791545m/s",
  "object_fullname":{
-  "fullname":"2014 CO",
-  "prefix":"2014 ",
-  "name":"HONDURAS"
+  "fullname":"2015 TH",
+  "prefix":"2015 ",
+  "name":"ASP"
  },
- "pdes":738,
+ "pdes":840,
  "diameter_full":{
-  "diameter":23.64269359,
-  "diameter_sigma":5.984301
+  "diameter":15.62019177721691,
+  "diameter_sigma":3.75
  },
- "h":6.5,
- "albedo":0.7,
- "orbit_id":"QRL 70",
+ "h":1.1538461538461537,
+ "albedo":0.665759,
+ "orbit_id":"CAU 63",
  "epoch_full":{
-  "epoch":4973149.0,
-  "epoch_mjd":38229,
-  "epoch_cal":20220220.0
+  "epoch":1837267.0,
+  "epoch_mjd":22523,
+  "epoch_cal":20220206.0
  },
- "equinox":"D4297",
- "om":91.7489,
- "e":0.9,
- "a":827555956068.49,
- "q":6126.416894,
- "i":70008235.5,
- "w":18.16,
- "ad":0.57204,
- "ma":97.359,
- "n":53.3,
+ "equinox":"G9597",
+ "om":67.39187600836388,
+ "e":0.63854883,
+ "a":863889469956855.0,
+ "q":66655.919,
+ "i":301362195842.25,
+ "w":99.1669,
+ "ad":0.602,
+ "ma":55.86780518889538,
+ "n":76.2006305,
  "tp_full":{
-  "tp_cal":69.7265,
-  "tp":94.7748
+  "tp_cal":13.6040760618,
+  "tp":49.22
  },
  "per_full":{
-  "per":24.87987608628815,
-  "per_y":11.24599777
+  "per":12.260492895878,
+  "per_y":93.7132847
  },
  "sigma_full":{
-  "sigma_e":"1.89S-36",
-  "sigma_a":"4.49U-46",
-  "sigma_q":"6.44F-89",
-  "sigma_i":"1.41A-48",
-  "sigma_om":"1.74S-92",
-  "sigma_w":"5.91C-10",
-  "sigma_ma":"2.37H-38",
-  "sigma_ad":"8.31K-10",
-  "sigma_n":"1.88C-89",
-  "sigma_tp":"4.77D-74",
-  "sigma_per":"6.28E-84"
+  "sigma_e":"2.30T-44",
+  "sigma_a":"9.80B-57",
+  "sigma_q":"4.44M-35",
+  "sigma_i":"4.61I-22",
+  "sigma_om":"7.96A-29",
+  "sigma_w":"7.48M-80",
+  "sigma_ma":"5.56E-75",
+  "sigma_ad":"9.77O-64",
+  "sigma_n":"8.77R-34",
+  "sigma_tp":"8.46S-95",
+  "sigma_per":"4.67T-52"
  },
- "rms":0.0,
+ "rms":0.257,
  "moid_full":{
-  "moid":0.47901,
-  "moid_id":11.43685052
+  "moid":0.55231783,
+  "moid_id":30.9331
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"S-"
 }

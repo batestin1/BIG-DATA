@@ -1,63 +1,63 @@
 {
  "spk_id":2000507,
- "object_id":"t000000506",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"492217292m/s",
+ "object_id":"a000000506",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"446347334m/s",
  "object_fullname":{
-  "fullname":"2021 BO",
-  "prefix":"2021 ",
-  "name":"HOWARD"
+  "fullname":"2016 TO",
+  "prefix":"2016 ",
+  "name":"AOMORI"
  },
- "pdes":817,
+ "pdes":351,
  "diameter_full":{
-  "diameter":17.32867226,
-  "diameter_sigma":3.1828931
+  "diameter":9.0,
+  "diameter_sigma":1.430956
  },
- "h":2.0,
- "albedo":0.94253,
- "orbit_id":"DWB 11",
+ "h":0.3333333333333333,
+ "albedo":0.1,
+ "orbit_id":"BVF 50",
  "epoch_full":{
-  "epoch":9746584.0,
-  "epoch_mjd":72997,
-  "epoch_cal":20220131.0
+  "epoch":6149753.0,
+  "epoch_mjd":74694,
+  "epoch_cal":20220215.0
  },
- "equinox":"E9560",
- "om":16.852657,
- "e":0.543794,
- "a":18717412349.0,
- "q":55456758712402.3,
- "i":36.9092689,
- "w":34.0,
- "ad":0.0,
- "ma":64.802206911769,
- "n":9.8688051742,
+ "equinox":"C6756",
+ "om":78.782,
+ "e":0.1,
+ "a":4725.34,
+ "q":1374412.0,
+ "i":62.5371633,
+ "w":4.4443386945,
+ "ad":0.74525767,
+ "ma":93.686681724,
+ "n":34.4270864917709,
  "tp_full":{
-  "tp_cal":85.681,
-  "tp":33.70684881
+  "tp_cal":83.0,
+  "tp":69.23
  },
  "per_full":{
-  "per":54.3,
-  "per_y":11.5712098
+  "per":19.69,
+  "per_y":28.925699985
  },
  "sigma_full":{
-  "sigma_e":"6.99T-55",
-  "sigma_a":"3.62I-35",
-  "sigma_q":"8.95F-95",
-  "sigma_i":"6.97Y-77",
-  "sigma_om":"6.40O-67",
-  "sigma_w":"5.76R-32",
-  "sigma_ma":"7.29C-18",
-  "sigma_ad":"8.75T-12",
-  "sigma_n":"8.45N-92",
-  "sigma_tp":"9.38F-49",
-  "sigma_per":"6.91L-98"
+  "sigma_e":"1.31F-84",
+  "sigma_a":"9.78L-28",
+  "sigma_q":"6.58S-47",
+  "sigma_i":"9.15T-40",
+  "sigma_om":"8.39E-40",
+  "sigma_w":"1.98P-82",
+  "sigma_ma":"1.27G-27",
+  "sigma_ad":"2.97D-47",
+  "sigma_n":"1.29T-60",
+  "sigma_tp":"4.48W-61",
+  "sigma_per":"2.26R-66"
  },
- "rms":0.334186,
+ "rms":0.95253461,
  "moid_full":{
-  "moid":0.6942032900254,
-  "moid_id":84.285481889325
+  "moid":0.8210334978788,
+  "moid_id":29.707218
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

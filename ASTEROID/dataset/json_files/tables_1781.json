@@ -1,63 +1,63 @@
 {
  "spk_id":2001782,
- "object_id":"s0000001781",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"844945833m/s",
+ "object_id":"t0000001781",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"383742522m/s",
  "object_fullname":{
-  "fullname":"2019 HO",
-  "prefix":"2019 ",
-  "name":"GUDULA"
+  "fullname":"2004 HO",
+  "prefix":"2004 ",
+  "name":"BALAMURUGAN"
  },
- "pdes":247,
+ "pdes":985,
  "diameter_full":{
-  "diameter":40.8729407398,
-  "diameter_sigma":9.14735
+  "diameter":33.20879,
+  "diameter_sigma":1.31040306
  },
- "h":0.7142857142857143,
- "albedo":0.1401,
- "orbit_id":"OPO 62",
+ "h":1.1111111111111112,
+ "albedo":0.4,
+ "orbit_id":"SYB 65",
  "epoch_full":{
-  "epoch":3922947.0,
-  "epoch_mjd":82589,
-  "epoch_cal":20220210.0
+  "epoch":5904018.0,
+  "epoch_mjd":55116,
+  "epoch_cal":20220207.0
  },
- "equinox":"Q7437",
- "om":78.79,
- "e":0.4344,
- "a":17777436608.8781,
- "q":229961533929.0,
- "i":60354.642,
- "w":46.4793890761,
- "ad":0.1963099,
- "ma":19.871,
- "n":25.25,
+ "equinox":"H4151",
+ "om":19.103564133579,
+ "e":0.4181,
+ "a":24122231.89,
+ "q":4986055.38827,
+ "i":22283297475.91,
+ "w":26.108,
+ "ad":0.25201411,
+ "ma":17.598598898,
+ "n":57.794108,
  "tp_full":{
-  "tp_cal":19.86057675227431,
-  "tp":40.578074
+  "tp_cal":5.5,
+  "tp":59.71582
  },
  "per_full":{
-  "per":74.7394958584,
-  "per_y":4.0
+  "per":50.88295,
+  "per_y":43.4
  },
  "sigma_full":{
-  "sigma_e":"4.83R-65",
-  "sigma_a":"2.39F-84",
-  "sigma_q":"8.27C-65",
-  "sigma_i":"3.59I-99",
-  "sigma_om":"5.95B-44",
-  "sigma_w":"3.46E-59",
-  "sigma_ma":"5.30B-89",
-  "sigma_ad":"3.31H-93",
-  "sigma_n":"1.45N-28",
-  "sigma_tp":"4.34P-27",
-  "sigma_per":"9.32H-24"
+  "sigma_e":"3.26H-36",
+  "sigma_a":"9.78C-36",
+  "sigma_q":"1.13S-66",
+  "sigma_i":"5.11C-73",
+  "sigma_om":"9.79M-89",
+  "sigma_w":"9.65A-68",
+  "sigma_ma":"2.58M-11",
+  "sigma_ad":"6.90A-82",
+  "sigma_n":"4.27M-85",
+  "sigma_tp":"8.77R-50",
+  "sigma_per":"9.23S-67"
  },
- "rms":0.68926,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.35744890458,
-  "moid_id":45.12382210509
+  "moid":0.5,
+  "moid_id":50.975622385
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

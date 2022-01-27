@@ -1,63 +1,63 @@
 {
  "spk_id":2003591,
- "object_id":"s0000003590",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"732900880m/s",
+ "object_id":"a0000003590",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"504611716m/s",
  "object_fullname":{
-  "fullname":"2009 BE",
-  "prefix":"2009 ",
-  "name":"BRYCE CANYON"
+  "fullname":"2003 RE",
+  "prefix":"2003 ",
+  "name":"ENOS"
  },
- "pdes":667,
+ "pdes":805,
  "diameter_full":{
-  "diameter":40.6324001,
-  "diameter_sigma":4.0
+  "diameter":19.5648,
+  "diameter_sigma":1.888607
  },
- "h":0.4444444444444444,
- "albedo":0.0,
- "orbit_id":"FAS 45",
+ "h":1.0,
+ "albedo":0.15,
+ "orbit_id":"RGD 26",
  "epoch_full":{
-  "epoch":7463152.0,
-  "epoch_mjd":24952,
-  "epoch_cal":20220210.0
+  "epoch":9221180.0,
+  "epoch_mjd":48668,
+  "epoch_cal":20220130.0
  },
- "equinox":"I7589",
- "om":41.8926,
- "e":0.42541,
- "a":394904764.0,
- "q":604095857.69948,
- "i":1157969086.343,
- "w":25.45257,
- "ad":0.6086702,
- "ma":73.13175,
- "n":45.0,
+ "equinox":"P6535",
+ "om":60.5230661,
+ "e":0.69,
+ "a":52992497627.459,
+ "q":747.86,
+ "i":4568.87,
+ "w":84.5691083940916,
+ "ad":0.7,
+ "ma":13.592659029477,
+ "n":89.62988,
  "tp_full":{
-  "tp_cal":55.911457562,
-  "tp":70.41465132727
+  "tp_cal":39.85886,
+  "tp":12.65610030494286
  },
  "per_full":{
-  "per":70.477,
-  "per_y":44.37
+  "per":58.7112,
+  "per_y":48.9816455
  },
  "sigma_full":{
-  "sigma_e":"1.83C-67",
-  "sigma_a":"5.73A-75",
-  "sigma_q":"2.43N-15",
-  "sigma_i":"4.37U-45",
-  "sigma_om":"4.66M-69",
-  "sigma_w":"3.65A-49",
-  "sigma_ma":"9.52P-83",
-  "sigma_ad":"2.25W-97",
-  "sigma_n":"7.86B-25",
-  "sigma_tp":"4.59T-28",
-  "sigma_per":"8.19P-87"
+  "sigma_e":"2.61S-64",
+  "sigma_a":"8.37E-49",
+  "sigma_q":"2.47S-63",
+  "sigma_i":"2.26A-27",
+  "sigma_om":"1.80E-20",
+  "sigma_w":"9.23H-52",
+  "sigma_ma":"4.13M-63",
+  "sigma_ad":"1.11F-32",
+  "sigma_n":"1.86C-62",
+  "sigma_tp":"3.49I-71",
+  "sigma_per":"2.42M-25"
  },
- "rms":0.0,
+ "rms":0.198,
  "moid_full":{
-  "moid":0.4,
-  "moid_id":72.254
+  "moid":0.25,
+  "moid_id":80.2063576
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

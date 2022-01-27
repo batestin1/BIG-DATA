@@ -1,63 +1,63 @@
 {
  "spk_id":2003263,
- "object_id":"f0000003262",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"834059879m/s",
+ "object_id":"d0000003262",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"342061373m/s",
  "object_fullname":{
-  "fullname":"2018 WH",
-  "prefix":"2018 ",
-  "name":"GRANT"
+  "fullname":"2010 TE",
+  "prefix":"2010 ",
+  "name":"ARVERNIA"
  },
- "pdes":819,
+ "pdes":570,
  "diameter_full":{
-  "diameter":14.972871077,
-  "diameter_sigma":7.6624727628
+  "diameter":89.1434,
+  "diameter_sigma":5.217
  },
- "h":0.6,
- "albedo":0.0,
- "orbit_id":"ISD 62",
+ "h":0.05,
+ "albedo":0.5,
+ "orbit_id":"DMR 87",
  "epoch_full":{
-  "epoch":8165404.0,
-  "epoch_mjd":92788,
-  "epoch_cal":20220211.0
+  "epoch":5573634.0,
+  "epoch_mjd":18669,
+  "epoch_cal":20220209.0
  },
- "equinox":"G5284",
- "om":44.0,
- "e":0.0,
- "a":406.479913,
- "q":580637310065838.0,
- "i":10319316577013.0,
- "w":55.96,
- "ad":0.37159336,
- "ma":96.584,
- "n":59.8478551079,
+ "equinox":"S2505",
+ "om":76.7,
+ "e":0.49,
+ "a":996614.3,
+ "q":432625576.9903,
+ "i":58138152.30543,
+ "w":42.904124625,
+ "ad":0.6,
+ "ma":85.55091,
+ "n":42.9896099051207,
  "tp_full":{
-  "tp_cal":31.903,
-  "tp":11.1901023704498
+  "tp_cal":13.80265572337,
+  "tp":18.7
  },
  "per_full":{
-  "per":31.4873927940886,
-  "per_y":42.506
+  "per":5.45652440137449,
+  "per_y":5.3267900846622
  },
  "sigma_full":{
-  "sigma_e":"5.58A-43",
-  "sigma_a":"1.58O-53",
-  "sigma_q":"5.23W-73",
-  "sigma_i":"2.96U-94",
-  "sigma_om":"3.18D-45",
-  "sigma_w":"5.73R-97",
-  "sigma_ma":"8.21C-56",
-  "sigma_ad":"3.25I-32",
-  "sigma_n":"5.13D-54",
-  "sigma_tp":"1.89R-25",
-  "sigma_per":"7.43C-53"
+  "sigma_e":"6.15M-65",
+  "sigma_a":"3.99A-37",
+  "sigma_q":"5.42S-62",
+  "sigma_i":"7.86O-28",
+  "sigma_om":"1.70I-80",
+  "sigma_w":"4.33B-27",
+  "sigma_ma":"9.61S-79",
+  "sigma_ad":"6.88C-41",
+  "sigma_n":"9.44T-18",
+  "sigma_tp":"7.19P-76",
+  "sigma_per":"3.93F-87"
  },
- "rms":0.84828,
+ "rms":0.9266624,
  "moid_full":{
-  "moid":0.735,
-  "moid_id":11.1
+  "moid":0.3,
+  "moid_id":52.0
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

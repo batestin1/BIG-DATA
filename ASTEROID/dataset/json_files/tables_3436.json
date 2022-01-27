@@ -1,63 +1,63 @@
 {
  "spk_id":2003437,
- "object_id":"t0000003436",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"471241225m/s",
+ "object_id":"j0000003436",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"817735757m/s",
  "object_fullname":{
-  "fullname":"2011 TR",
-  "prefix":"2011 ",
-  "name":"ARCHEPTOLEMOS"
+  "fullname":"2003 HO",
+  "prefix":"2003 ",
+  "name":"KAMITAKI"
  },
- "pdes":990,
+ "pdes":498,
  "diameter_full":{
-  "diameter":16.3675,
-  "diameter_sigma":4.38
+  "diameter":75.9870980014,
+  "diameter_sigma":1.7
  },
- "h":3.0,
- "albedo":0.33,
- "orbit_id":"AKF 38",
+ "h":0.2,
+ "albedo":0.0,
+ "orbit_id":"SSB 92",
  "epoch_full":{
-  "epoch":4610424.0,
-  "epoch_mjd":78767,
-  "epoch_cal":20220130.0
+  "epoch":4373617.0,
+  "epoch_mjd":44219,
+  "epoch_cal":20220206.0
  },
- "equinox":"A3771",
- "om":38.477,
- "e":0.1516,
- "a":5317492449.3,
- "q":8307422.3388941,
- "i":5218.9452032,
- "w":61.0,
- "ad":0.0,
- "ma":46.51,
- "n":37.582055,
+ "equinox":"S5476",
+ "om":33.3,
+ "e":0.65,
+ "a":3310.98056785,
+ "q":22022048.3797581,
+ "i":5.3867810513835,
+ "w":32.78352471,
+ "ad":0.179,
+ "ma":91.4675171816596,
+ "n":89.709792694992,
  "tp_full":{
-  "tp_cal":85.5,
-  "tp":40.16729366344
+  "tp_cal":52.51363681661893,
+  "tp":84.6
  },
  "per_full":{
-  "per":57.99,
-  "per_y":60.923
+  "per":2.91,
+  "per_y":73.213792777
  },
  "sigma_full":{
-  "sigma_e":"3.34D-52",
-  "sigma_a":"5.77I-68",
-  "sigma_q":"8.92L-13",
-  "sigma_i":"5.94E-33",
-  "sigma_om":"8.71Y-59",
-  "sigma_w":"5.99O-35",
-  "sigma_ma":"9.96R-90",
-  "sigma_ad":"6.52E-99",
-  "sigma_n":"8.69P-74",
-  "sigma_tp":"9.29H-55",
-  "sigma_per":"4.99D-23"
+  "sigma_e":"4.90S-23",
+  "sigma_a":"1.20I-47",
+  "sigma_q":"3.15L-32",
+  "sigma_i":"7.31A-43",
+  "sigma_om":"2.40D-94",
+  "sigma_w":"5.19I-26",
+  "sigma_ma":"1.35F-78",
+  "sigma_ad":"5.83M-14",
+  "sigma_n":"9.20O-45",
+  "sigma_tp":"6.86H-96",
+  "sigma_per":"8.90S-98"
  },
- "rms":0.6884,
+ "rms":0.41,
  "moid_full":{
-  "moid":0.341249,
-  "moid_id":39.7565
+  "moid":0.91,
+  "moid_id":49.5155476276229
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"M-types"
 }

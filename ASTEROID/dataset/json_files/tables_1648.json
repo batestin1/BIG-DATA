@@ -1,63 +1,63 @@
 {
  "spk_id":2001649,
- "object_id":"f0000001648",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"329913622m/s",
+ "object_id":"e0000001648",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"716122446m/s",
  "object_fullname":{
-  "fullname":"2020 TA",
-  "prefix":"2020 ",
-  "name":"FUNADA"
+  "fullname":"2016 SA",
+  "prefix":"2016 ",
+  "name":"AFERRARI"
  },
- "pdes":264,
+ "pdes":736,
  "diameter_full":{
-  "diameter":69.75118797174,
-  "diameter_sigma":6.89253178
+  "diameter":42.642082402,
+  "diameter_sigma":1.75491719
  },
- "h":0.7,
- "albedo":0.7,
- "orbit_id":"EAP 81",
+ "h":1.2,
+ "albedo":0.49989627,
+ "orbit_id":"POF 71",
  "epoch_full":{
-  "epoch":6261922.0,
-  "epoch_mjd":87006,
-  "epoch_cal":20220216.0
+  "epoch":6638063.0,
+  "epoch_mjd":74255,
+  "epoch_cal":20220212.0
  },
- "equinox":"H2030",
- "om":79.0,
- "e":0.972,
- "a":7.85,
- "q":8169580695.72548,
- "i":490861.34322,
- "w":11.9,
- "ad":0.1,
- "ma":99.454,
- "n":59.521692980359,
+ "equinox":"H3783",
+ "om":34.4960850211,
+ "e":0.7268,
+ "a":1301.6145798,
+ "q":6.8,
+ "i":346303.3773,
+ "w":36.889,
+ "ad":0.23,
+ "ma":91.4,
+ "n":29.3202,
  "tp_full":{
-  "tp_cal":61.2737371009172,
-  "tp":75.91460142
+  "tp_cal":36.285748135827,
+  "tp":76.71
  },
  "per_full":{
-  "per":53.3,
-  "per_y":11.82561
+  "per":89.448,
+  "per_y":67.312439528
  },
  "sigma_full":{
-  "sigma_e":"2.56T-31",
-  "sigma_a":"2.65C-30",
-  "sigma_q":"4.57O-70",
-  "sigma_i":"7.76A-98",
-  "sigma_om":"5.41P-19",
-  "sigma_w":"6.49T-13",
-  "sigma_ma":"3.51M-39",
-  "sigma_ad":"4.38G-45",
-  "sigma_n":"4.19L-11",
-  "sigma_tp":"5.75M-20",
-  "sigma_per":"5.65N-99"
+  "sigma_e":"9.17D-75",
+  "sigma_a":"3.69G-88",
+  "sigma_q":"5.59C-92",
+  "sigma_i":"9.58C-60",
+  "sigma_om":"1.79E-88",
+  "sigma_w":"5.79A-57",
+  "sigma_ma":"1.26L-14",
+  "sigma_ad":"4.66C-17",
+  "sigma_n":"5.27D-51",
+  "sigma_tp":"1.11E-78",
+  "sigma_per":"5.34B-13"
  },
- "rms":0.3,
+ "rms":0.1998,
  "moid_full":{
-  "moid":0.57,
-  "moid_id":38.9
+  "moid":0.96023549,
+  "moid_id":17.29
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

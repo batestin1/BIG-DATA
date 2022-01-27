@@ -1,63 +1,63 @@
 {
  "spk_id":2005709,
- "object_id":"s0000005708",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"152440376m/s",
+ "object_id":"n0000005708",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"764684789m/s",
  "object_fullname":{
-  "fullname":"2002 FI",
-  "prefix":"2002 ",
-  "name":"CANCELLI"
+  "fullname":"2019 EV",
+  "prefix":"2019 ",
+  "name":"ALSUFI"
  },
- "pdes":467,
+ "pdes":305,
  "diameter_full":{
-  "diameter":56.3954215010959,
-  "diameter_sigma":4.368260469528
+  "diameter":30.26322209277,
+  "diameter_sigma":4.6
  },
  "h":5.0,
- "albedo":0.1236,
- "orbit_id":"BPP 32",
+ "albedo":0.45,
+ "orbit_id":"WDR 21",
  "epoch_full":{
-  "epoch":5424026.0,
-  "epoch_mjd":45995,
-  "epoch_cal":20220211.0
+  "epoch":7459623.0,
+  "epoch_mjd":12377,
+  "epoch_cal":20220210.0
  },
- "equinox":"B5094",
- "om":16.143128620496,
- "e":0.4943,
- "a":85125949.7,
- "q":290920.0,
- "i":7901408473586.66,
- "w":71.1171164275271,
- "ad":0.0,
- "ma":90.86181,
- "n":20.25462474825,
+ "equinox":"S5050",
+ "om":12.6387,
+ "e":0.71,
+ "a":389.189723,
+ "q":5818.855348625,
+ "i":2131183215.0,
+ "w":11.0,
+ "ad":0.783598,
+ "ma":83.0,
+ "n":35.8916859228172,
  "tp_full":{
-  "tp_cal":64.89195933159498,
-  "tp":22.323
+  "tp_cal":95.734134,
+  "tp":51.93797368858383
  },
  "per_full":{
-  "per":72.0,
-  "per_y":4.6582714809672
+  "per":50.15,
+  "per_y":6.82
  },
  "sigma_full":{
-  "sigma_e":"8.47S-17",
-  "sigma_a":"5.54S-32",
-  "sigma_q":"5.99P-37",
-  "sigma_i":"2.70P-12",
-  "sigma_om":"7.44A-93",
-  "sigma_w":"6.14S-97",
-  "sigma_ma":"4.86S-37",
-  "sigma_ad":"2.49L-37",
-  "sigma_n":"5.13Y-11",
-  "sigma_tp":"9.90Q-78",
-  "sigma_per":"6.46S-80"
+  "sigma_e":"4.77S-37",
+  "sigma_a":"2.32S-75",
+  "sigma_q":"6.98A-44",
+  "sigma_i":"5.76P-11",
+  "sigma_om":"6.21B-85",
+  "sigma_w":"7.64S-75",
+  "sigma_ma":"2.26R-47",
+  "sigma_ad":"9.44M-98",
+  "sigma_n":"2.77L-11",
+  "sigma_tp":"9.33M-83",
+  "sigma_per":"1.31B-71"
  },
- "rms":0.849326873,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.7421,
-  "moid_id":45.96736449684
+  "moid":0.7,
+  "moid_id":55.9892050787
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

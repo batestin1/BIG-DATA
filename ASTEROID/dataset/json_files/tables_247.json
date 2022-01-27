@@ -1,63 +1,63 @@
 {
  "spk_id":2000248,
- "object_id":"s000000247",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"342018358m/s",
+ "object_id":"a000000247",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"233776133m/s",
  "object_fullname":{
-  "fullname":"2013 AC",
+  "fullname":"2013 CA",
   "prefix":"2013 ",
-  "name":"BERRILLI"
+  "name":"DAGHESTAN"
  },
- "pdes":376,
+ "pdes":455,
  "diameter_full":{
-  "diameter":83.0,
-  "diameter_sigma":7.601526505
+  "diameter":51.12648774834154,
+  "diameter_sigma":1.2399
  },
- "h":6.0,
+ "h":14.0,
  "albedo":0.0,
- "orbit_id":"IAF 93",
+ "orbit_id":"DTB 53",
  "epoch_full":{
-  "epoch":4491007.0,
-  "epoch_mjd":28100,
-  "epoch_cal":20220218.0
+  "epoch":4096669.0,
+  "epoch_mjd":58957,
+  "epoch_cal":20220220.0
  },
- "equinox":"M6812",
- "om":75.335024385,
- "e":0.0,
- "a":250193637426062.0,
- "q":40975.840340104,
- "i":42.6,
- "w":60.3442707,
- "ad":0.6875,
- "ma":31.9797578,
- "n":45.3312714474,
+ "equinox":"A4810",
+ "om":79.35,
+ "e":0.2,
+ "a":5967115239045.8,
+ "q":977920.17,
+ "i":19509.3903,
+ "w":98.40028701782,
+ "ad":0.76471098891,
+ "ma":33.54580685169,
+ "n":56.879143525,
  "tp_full":{
-  "tp_cal":87.693276487,
-  "tp":29.5367
+  "tp_cal":78.5962320731219,
+  "tp":24.7455924
  },
  "per_full":{
-  "per":82.0,
-  "per_y":59.0
+  "per":41.935629808,
+  "per_y":20.6240115514284
  },
  "sigma_full":{
-  "sigma_e":"9.18T-16",
-  "sigma_a":"2.72T-76",
-  "sigma_q":"3.68H-42",
-  "sigma_i":"3.55W-19",
-  "sigma_om":"8.22M-79",
-  "sigma_w":"4.79P-61",
-  "sigma_ma":"2.93T-39",
-  "sigma_ad":"5.45F-10",
-  "sigma_n":"9.68P-82",
-  "sigma_tp":"5.32P-73",
-  "sigma_per":"7.53S-68"
+  "sigma_e":"2.64C-17",
+  "sigma_a":"8.37F-21",
+  "sigma_q":"3.30I-79",
+  "sigma_i":"1.82E-11",
+  "sigma_om":"5.28S-30",
+  "sigma_w":"4.54W-70",
+  "sigma_ma":"7.44T-47",
+  "sigma_ad":"7.86S-43",
+  "sigma_n":"4.81G-75",
+  "sigma_tp":"8.21T-51",
+  "sigma_per":"9.53G-27"
  },
- "rms":0.0,
+ "rms":0.7,
  "moid_full":{
-  "moid":0.44,
-  "moid_id":8.567397625052
+  "moid":0.1,
+  "moid_id":74.375425
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

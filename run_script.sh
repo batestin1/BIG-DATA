@@ -20,20 +20,15 @@ echo "  ####    ###    ###          ####   #   #    #    #   # ";
 echo "------------ Simulation Projects ------------------------"
 
 
-
-
-
-
-
-
 echo -choose """which project to start
 
 [1] - Game Of Thrones
 [2] - Harry Potter
 [3] - Nasa Exoplanets
 [4] - Nasa Asteroids
-[5] - One Piece
-[6] - Sandman"""
+[5] - Nasa Mars Opportunity
+[6] - One Piece
+[7] - Sandman"""
 read choose
 
 if [ $choose -eq 1 ]
@@ -61,7 +56,7 @@ then
       pip install -r requeriments.txt
       cd ..
       sh run_script.sh
-elif [ $choose -eq 5 ]
+elif [ $choose -eq 6 ]
 then
       echo "Expand Your Maps with One Piece Project"
       cd one_piece
@@ -69,7 +64,7 @@ then
       pip install -r requeriments.txt
       cd ..
       sh run_script.sh 
-elif [ $choose -eq 6 ]
+elif [ $choose -eq 7 ]
 then
       echo "Dream a litle dream about books with Sandman Project"
       cd sandman
@@ -80,7 +75,15 @@ then
 elif [ $choose -eq 4 ]
 then
       echo "Explore the Asteroids with Nasa Asteroids Project"
-      cd ASTEROIDS
+      cd ASTEROID
+      cd dependencies
+      pip install -r requeriments.txt
+      cd ..
+      sh run_script.sh
+elif [ $choose -eq 5 ]
+then
+      echo "Explore Mars Craters with Opportunity"
+      cd MARS
       cd dependencies
       pip install -r requeriments.txt
       cd ..

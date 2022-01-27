@@ -1,63 +1,63 @@
 {
  "spk_id":2000094,
- "object_id":"c00000093",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"214734950m/s",
+ "object_id":"o00000093",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"449215266m/s",
  "object_fullname":{
-  "fullname":"2000 LI",
-  "prefix":"2000 ",
-  "name":"BURS"
+  "fullname":"2019 AD",
+  "prefix":"2019 ",
+  "name":"ALYSSEHRLICH"
  },
- "pdes":567,
+ "pdes":201,
  "diameter_full":{
-  "diameter":78.0,
-  "diameter_sigma":5.6254866
+  "diameter":28.85877,
+  "diameter_sigma":9.68392754524519
  },
- "h":0.95,
- "albedo":0.267,
- "orbit_id":"SDA 94",
+ "h":1.7,
+ "albedo":0.10553,
+ "orbit_id":"WSW 65",
  "epoch_full":{
-  "epoch":2375518.0,
-  "epoch_mjd":95642,
-  "epoch_cal":20220206.0
+  "epoch":8510850.0,
+  "epoch_mjd":98549,
+  "epoch_cal":20220202.0
  },
- "equinox":"S4073",
- "om":23.756736,
- "e":0.8315409,
- "a":6943.4002,
- "q":7256552878790.0,
- "i":54812.70765719,
- "w":2.55463644897,
- "ad":0.89616,
- "ma":84.708029,
- "n":87.7916411,
+ "equinox":"D9305",
+ "om":45.6585075325,
+ "e":0.7379938,
+ "a":2.95,
+ "q":7949.7455596,
+ "i":323689.488,
+ "w":52.503,
+ "ad":0.28,
+ "ma":52.57086549,
+ "n":6.21957564,
  "tp_full":{
-  "tp_cal":81.22647,
-  "tp":79.5200762
+  "tp_cal":86.70087901665,
+  "tp":9.60795
  },
  "per_full":{
-  "per":43.96477262,
-  "per_y":1.36477722
+  "per":85.8265001387357,
+  "per_y":36.0
  },
  "sigma_full":{
-  "sigma_e":"9.50T-74",
-  "sigma_a":"5.91H-89",
-  "sigma_q":"1.52H-29",
-  "sigma_i":"6.29N-85",
-  "sigma_om":"8.87S-50",
-  "sigma_w":"2.69P-45",
-  "sigma_ma":"6.36R-47",
-  "sigma_ad":"2.50O-13",
-  "sigma_n":"9.60E-80",
-  "sigma_tp":"2.74W-19",
-  "sigma_per":"7.95S-91"
+  "sigma_e":"8.32W-31",
+  "sigma_a":"5.26T-81",
+  "sigma_q":"6.28P-28",
+  "sigma_i":"9.73S-30",
+  "sigma_om":"2.11F-29",
+  "sigma_w":"3.62A-90",
+  "sigma_ma":"8.15R-35",
+  "sigma_ad":"2.13R-58",
+  "sigma_n":"1.17N-88",
+  "sigma_tp":"5.21U-84",
+  "sigma_per":"8.36G-58"
  },
- "rms":0.63007,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.43212037,
-  "moid_id":3.7724485469
+  "moid":0.6,
+  "moid_id":64.97756
  },
  "class_asteroid":"S-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2005772,
- "object_id":"l0000005771",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"525979220m/s",
+ "object_id":"t0000005771",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"408821738m/s",
  "object_fullname":{
-  "fullname":"2008 ON",
-  "prefix":"2008 ",
-  "name":"BEATRICE TINSLEY"
+  "fullname":"2000 MO",
+  "prefix":"2000 ",
+  "name":"GRANADA"
  },
- "pdes":851,
+ "pdes":355,
  "diameter_full":{
-  "diameter":65.13,
-  "diameter_sigma":2.74412671281
+  "diameter":62.2639,
+  "diameter_sigma":7.720474586587
  },
- "h":0.5,
- "albedo":0.201,
- "orbit_id":"CPB 34",
+ "h":1.875,
+ "albedo":0.6,
+ "orbit_id":"PRQ 34",
  "epoch_full":{
-  "epoch":8443709.0,
-  "epoch_mjd":53482,
-  "epoch_cal":20220214.0
+  "epoch":1009398.0,
+  "epoch_mjd":24057,
+  "epoch_cal":20220131.0
  },
- "equinox":"S7903",
- "om":68.44,
- "e":0.5638145,
- "a":76144089.67,
- "q":2875876941809.49,
- "i":2899484.78710883,
- "w":58.662,
- "ad":0.562,
- "ma":89.932892,
- "n":29.1317346551977,
+ "equinox":"E5783",
+ "om":34.1,
+ "e":0.40738,
+ "a":7984160163656.0,
+ "q":8771180.56566,
+ "i":3465231095.27,
+ "w":41.453952,
+ "ad":0.343,
+ "ma":35.712523,
+ "n":28.0,
  "tp_full":{
-  "tp_cal":55.1525482048924,
-  "tp":22.6416887
+  "tp_cal":42.12078824662357,
+  "tp":39.0
  },
  "per_full":{
-  "per":82.0,
-  "per_y":30.395
+  "per":56.0,
+  "per_y":42.2045876663
  },
  "sigma_full":{
-  "sigma_e":"8.35N-10",
-  "sigma_a":"5.54W-91",
-  "sigma_q":"6.30T-18",
-  "sigma_i":"1.14B-44",
-  "sigma_om":"8.59C-54",
-  "sigma_w":"2.25T-20",
-  "sigma_ma":"6.60C-22",
-  "sigma_ad":"8.67G-30",
-  "sigma_n":"7.81I-70",
-  "sigma_tp":"9.95D-98",
-  "sigma_per":"5.87B-61"
+  "sigma_e":"5.50M-11",
+  "sigma_a":"6.16E-85",
+  "sigma_q":"7.28E-62",
+  "sigma_i":"5.83E-79",
+  "sigma_om":"9.77H-17",
+  "sigma_w":"5.79M-37",
+  "sigma_ma":"3.20N-63",
+  "sigma_ad":"2.19S-46",
+  "sigma_n":"7.91T-61",
+  "sigma_tp":"1.37N-20",
+  "sigma_per":"1.27T-47"
  },
- "rms":0.0,
+ "rms":0.3974,
  "moid_full":{
-  "moid":0.78,
-  "moid_id":67.568386996
+  "moid":0.478,
+  "moid_id":22.196
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

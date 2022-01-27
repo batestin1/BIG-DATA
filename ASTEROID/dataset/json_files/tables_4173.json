@@ -1,63 +1,63 @@
 {
  "spk_id":2004174,
- "object_id":"t0000004173",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"354634427m/s",
+ "object_id":"w0000004173",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"842233996m/s",
  "object_fullname":{
-  "fullname":"2011 EN",
-  "prefix":"2011 ",
-  "name":"CALDEYRO"
+  "fullname":"2018 WE",
+  "prefix":"2018 ",
+  "name":"BUCHROEDER"
  },
- "pdes":580,
+ "pdes":147,
  "diameter_full":{
-  "diameter":11.60494296656,
-  "diameter_sigma":3.38769505459
+  "diameter":45.835223356,
+  "diameter_sigma":3.7834
  },
- "h":1.4615384615384615,
- "albedo":0.98284223,
- "orbit_id":"WCC 17",
+ "h":0.3,
+ "albedo":0.4384048977145,
+ "orbit_id":"MAR 15",
  "epoch_full":{
-  "epoch":7572249.0,
-  "epoch_mjd":36554,
-  "epoch_cal":20220204.0
+  "epoch":3697849.0,
+  "epoch_mjd":73203,
+  "epoch_cal":20220129.0
  },
- "equinox":"R8968",
- "om":23.0,
- "e":0.64081,
- "a":3.415,
- "q":93303769064.3,
- "i":69908368.537,
- "w":70.0,
- "ad":0.394,
- "ma":35.168936,
- "n":20.93996698,
+ "equinox":"H6385",
+ "om":31.11475862,
+ "e":0.7429,
+ "a":456.830182448,
+ "q":293046655251045.0,
+ "i":341215346.61661,
+ "w":26.0,
+ "ad":0.240142106,
+ "ma":59.377251,
+ "n":80.2693,
  "tp_full":{
-  "tp_cal":56.815794489717,
-  "tp":12.2209768
+  "tp_cal":42.84938,
+  "tp":36.843620555
  },
  "per_full":{
-  "per":25.93283586,
-  "per_y":38.884
+  "per":84.7687,
+  "per_y":17.8
  },
  "sigma_full":{
-  "sigma_e":"9.44W-76",
-  "sigma_a":"9.17L-51",
-  "sigma_q":"5.49B-29",
-  "sigma_i":"6.94F-83",
-  "sigma_om":"4.43M-86",
-  "sigma_w":"7.72A-52",
-  "sigma_ma":"1.48N-14",
-  "sigma_ad":"9.29W-74",
-  "sigma_n":"1.28M-85",
-  "sigma_tp":"8.48S-59",
-  "sigma_per":"6.75S-46"
+  "sigma_e":"6.35A-13",
+  "sigma_a":"2.55S-85",
+  "sigma_q":"2.91N-37",
+  "sigma_i":"2.47S-29",
+  "sigma_om":"3.56B-30",
+  "sigma_w":"9.26R-99",
+  "sigma_ma":"2.91W-26",
+  "sigma_ad":"9.65S-24",
+  "sigma_n":"1.86C-54",
+  "sigma_tp":"4.36L-21",
+  "sigma_per":"2.35I-23"
  },
- "rms":0.43,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.1092,
-  "moid_id":8.0
+  "moid":0.23035935,
+  "moid_id":43.12771219091
  },
  "class_asteroid":"S-"
 }

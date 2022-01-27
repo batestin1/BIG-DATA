@@ -1,63 +1,63 @@
 {
  "spk_id":2006093,
- "object_id":"l0000006092",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"495185216m/s",
+ "object_id":"o0000006092",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"268720324m/s",
  "object_fullname":{
-  "fullname":"2021 MA",
+  "fullname":"2021 RA",
   "prefix":"2021 ",
-  "name":"GYLDENIA"
+  "name":"ARARAT"
  },
- "pdes":660,
+ "pdes":784,
  "diameter_full":{
-  "diameter":22.1165,
-  "diameter_sigma":3.5
+  "diameter":65.5663686,
+  "diameter_sigma":9.6610993
  },
- "h":1.4166666666666667,
- "albedo":0.89,
- "orbit_id":"DQW 90",
+ "h":0.6666666666666666,
+ "albedo":0.718,
+ "orbit_id":"GTA 50",
  "epoch_full":{
-  "epoch":6403943.0,
-  "epoch_mjd":91357,
+  "epoch":3470503.0,
+  "epoch_mjd":60203,
   "epoch_cal":20220217.0
  },
- "equinox":"U2035",
- "om":25.6277757172986,
- "e":0.61212461619,
- "a":591861797435666.0,
- "q":91105.4102,
- "i":650209104405.0,
- "w":57.17767640077,
+ "equinox":"W7234",
+ "om":28.1653734,
+ "e":0.259,
+ "a":99035551.594,
+ "q":64.4137,
+ "i":90.345066,
+ "w":53.391,
  "ad":0.0,
- "ma":57.6,
- "n":6.95079500187459,
+ "ma":73.8,
+ "n":67.5819,
  "tp_full":{
-  "tp_cal":76.19686106,
-  "tp":99.6499579806
+  "tp_cal":64.1409322,
+  "tp":25.911
  },
  "per_full":{
-  "per":6.13796797337,
-  "per_y":22.996969648691
+  "per":42.20361,
+  "per_y":37.71990048765483
  },
  "sigma_full":{
-  "sigma_e":"8.94C-31",
-  "sigma_a":"1.38R-56",
-  "sigma_q":"8.10O-72",
-  "sigma_i":"8.31W-88",
-  "sigma_om":"9.26D-74",
-  "sigma_w":"3.60D-54",
-  "sigma_ma":"9.99R-66",
-  "sigma_ad":"4.41L-65",
-  "sigma_n":"5.73S-45",
-  "sigma_tp":"2.66M-12",
-  "sigma_per":"3.13B-44"
+  "sigma_e":"4.35D-35",
+  "sigma_a":"2.93S-82",
+  "sigma_q":"3.86M-55",
+  "sigma_i":"3.75S-50",
+  "sigma_om":"5.69F-25",
+  "sigma_w":"7.77B-97",
+  "sigma_ma":"1.34T-30",
+  "sigma_ad":"6.94B-37",
+  "sigma_n":"1.86A-60",
+  "sigma_tp":"6.29P-26",
+  "sigma_per":"1.36C-56"
  },
- "rms":0.8528,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":15.5008108
+  "moid":0.890564,
+  "moid_id":72.6783696676457
  },
- "class_asteroid":"S-"
+ "class_asteroid":"C-"
 }

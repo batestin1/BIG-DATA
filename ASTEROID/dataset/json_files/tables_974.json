@@ -1,63 +1,63 @@
 {
  "spk_id":2000975,
- "object_id":"i000000974",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"346648719m/s",
+ "object_id":"p000000974",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"468703806m/s",
  "object_fullname":{
-  "fullname":"2013 RO",
-  "prefix":"2013 ",
-  "name":"ACONCAGUA"
+  "fullname":"2004 SK",
+  "prefix":"2004 ",
+  "name":"HANNAHLARSON"
  },
- "pdes":137,
+ "pdes":999,
  "diameter_full":{
-  "diameter":26.875669,
-  "diameter_sigma":7.90791034345262
+  "diameter":42.834,
+  "diameter_sigma":4.1
  },
- "h":0.6666666666666666,
- "albedo":0.2,
- "orbit_id":"AWE 61",
+ "h":1.0526315789473684,
+ "albedo":0.16,
+ "orbit_id":"ABS 24",
  "epoch_full":{
-  "epoch":7928710.0,
-  "epoch_mjd":41135,
-  "epoch_cal":20220217.0
+  "epoch":1786926.0,
+  "epoch_mjd":86676,
+  "epoch_cal":20220213.0
  },
- "equinox":"P6802",
- "om":1.4966806575143,
- "e":0.1,
- "a":54893670089.588,
- "q":6.3380522,
- "i":67761575512290.8,
- "w":41.7,
- "ad":0.0,
- "ma":15.271905559,
- "n":65.6149741,
+ "equinox":"C8675",
+ "om":87.224,
+ "e":0.18,
+ "a":576751740151160.0,
+ "q":85102657636464.0,
+ "i":98848550426308.7,
+ "w":16.331528726,
+ "ad":0.8,
+ "ma":73.76119006698,
+ "n":97.936,
  "tp_full":{
-  "tp_cal":50.76399326643015,
-  "tp":24.572713516
+  "tp_cal":36.530092316688,
+  "tp":32.9683346953
  },
  "per_full":{
-  "per":86.0,
-  "per_y":1.9356711
+  "per":9.175404119,
+  "per_y":13.1962515
  },
  "sigma_full":{
-  "sigma_e":"1.61G-78",
-  "sigma_a":"3.92D-93",
-  "sigma_q":"2.74A-12",
-  "sigma_i":"4.20F-93",
-  "sigma_om":"8.78P-73",
-  "sigma_w":"9.38H-95",
-  "sigma_ma":"9.49P-49",
-  "sigma_ad":"3.35G-74",
-  "sigma_n":"7.70C-46",
-  "sigma_tp":"5.76S-59",
-  "sigma_per":"7.84F-55"
+  "sigma_e":"7.26S-36",
+  "sigma_a":"3.15A-35",
+  "sigma_q":"9.84M-13",
+  "sigma_i":"1.32S-87",
+  "sigma_om":"5.52P-63",
+  "sigma_w":"6.94O-18",
+  "sigma_ma":"2.96T-17",
+  "sigma_ad":"7.51O-88",
+  "sigma_n":"9.11D-31",
+  "sigma_tp":"2.75A-14",
+  "sigma_per":"4.25K-70"
  },
- "rms":0.14317970371,
+ "rms":0.409,
  "moid_full":{
-  "moid":0.1761309468,
-  "moid_id":30.200059
+  "moid":0.0,
+  "moid_id":29.3596076
  },
- "class_asteroid":"S-"
+ "class_asteroid":"C-"
 }

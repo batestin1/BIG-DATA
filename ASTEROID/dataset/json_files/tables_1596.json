@@ -1,63 +1,63 @@
 {
  "spk_id":2001597,
- "object_id":"h0000001596",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"403433420m/s",
+ "object_id":"e0000001596",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"158046756m/s",
  "object_fullname":{
-  "fullname":"2008 PR",
-  "prefix":"2008 ",
-  "name":"EMILECLAUS"
+  "fullname":"2016 SU",
+  "prefix":"2016 ",
+  "name":"BAUME"
  },
- "pdes":539,
+ "pdes":892,
  "diameter_full":{
-  "diameter":32.0,
-  "diameter_sigma":2.48
+  "diameter":47.4,
+  "diameter_sigma":5.14405586331
  },
- "h":0.3333333333333333,
- "albedo":0.89978,
- "orbit_id":"CMC 60",
+ "h":1.0,
+ "albedo":0.8,
+ "orbit_id":"SIC 50",
  "epoch_full":{
-  "epoch":3626247.0,
-  "epoch_mjd":62087,
-  "epoch_cal":20220127.0
+  "epoch":6397145.0,
+  "epoch_mjd":75813,
+  "epoch_cal":20220214.0
  },
- "equinox":"T8005",
- "om":23.152,
- "e":0.7,
- "a":1520548059308.44,
- "q":5511908.810244,
- "i":6103406681.90503,
- "w":54.57485037074,
- "ad":0.58249,
- "ma":19.6427104602,
- "n":78.6120674312,
+ "equinox":"R2130",
+ "om":44.7,
+ "e":0.974956542,
+ "a":396562793987619.0,
+ "q":1152738424.929,
+ "i":5969.2449218673,
+ "w":40.76831566889,
+ "ad":0.6061236184,
+ "ma":51.5,
+ "n":63.8132822,
  "tp_full":{
-  "tp_cal":15.4328,
-  "tp":25.1717530858
+  "tp_cal":40.3335,
+  "tp":21.8
  },
  "per_full":{
-  "per":2.853,
-  "per_y":51.913234335
+  "per":77.4205933835,
+  "per_y":9.660586
  },
  "sigma_full":{
-  "sigma_e":"5.58G-53",
-  "sigma_a":"4.91C-12",
-  "sigma_q":"3.43C-94",
-  "sigma_i":"2.30T-57",
-  "sigma_om":"3.64S-67",
-  "sigma_w":"1.34B-68",
-  "sigma_ma":"4.33D-54",
-  "sigma_ad":"7.76B-53",
-  "sigma_n":"2.26E-16",
-  "sigma_tp":"7.73W-98",
-  "sigma_per":"9.91M-87"
+  "sigma_e":"5.29M-28",
+  "sigma_a":"7.34S-96",
+  "sigma_q":"1.34M-90",
+  "sigma_i":"4.44C-36",
+  "sigma_om":"1.75C-82",
+  "sigma_w":"5.97B-83",
+  "sigma_ma":"9.66S-93",
+  "sigma_ad":"7.55F-32",
+  "sigma_n":"5.23S-76",
+  "sigma_tp":"9.91S-11",
+  "sigma_per":"1.61S-15"
  },
- "rms":0.0,
+ "rms":0.1409882,
  "moid_full":{
-  "moid":0.4843,
-  "moid_id":2.353874795337
+  "moid":0.84,
+  "moid_id":34.86545714176278
  },
  "class_asteroid":"Other Types"
 }

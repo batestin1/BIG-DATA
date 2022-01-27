@@ -1,63 +1,63 @@
 {
  "spk_id":2004346,
- "object_id":"m0000004345",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"409719043m/s",
+ "object_id":"c0000004345",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"818369972m/s",
  "object_fullname":{
-  "fullname":"2002 CO",
-  "prefix":"2002 ",
-  "name":"BIDA"
+  "fullname":"2011 SA",
+  "prefix":"2011 ",
+  "name":"BUBER"
  },
- "pdes":629,
+ "pdes":499,
  "diameter_full":{
-  "diameter":5.45386701,
-  "diameter_sigma":9.78
+  "diameter":17.87664784883,
+  "diameter_sigma":2.27
  },
- "h":1.1764705882352942,
+ "h":1.4,
  "albedo":0.0,
- "orbit_id":"CSA 50",
+ "orbit_id":"NAW 73",
  "epoch_full":{
-  "epoch":3138297.0,
-  "epoch_mjd":56606,
-  "epoch_cal":20220210.0
+  "epoch":6534917.0,
+  "epoch_mjd":83525,
+  "epoch_cal":20220205.0
  },
- "equinox":"R5949",
- "om":51.11,
- "e":0.8,
- "a":13.7,
- "q":227196591372.54,
- "i":525095.8004389,
- "w":64.79394690092,
- "ad":0.0,
- "ma":49.16367,
- "n":83.552155,
+ "equinox":"C2922",
+ "om":48.34,
+ "e":0.9856,
+ "a":9.631190282474,
+ "q":587907732.3388,
+ "i":597056361.37,
+ "w":77.0,
+ "ad":0.6502165,
+ "ma":88.825745,
+ "n":60.14590492915,
  "tp_full":{
-  "tp_cal":3.7259741,
-  "tp":68.0
+  "tp_cal":9.0,
+  "tp":12.3058
  },
  "per_full":{
-  "per":79.2676635067718,
-  "per_y":78.845205407
+  "per":67.26731385313,
+  "per_y":75.73602098540786
  },
  "sigma_full":{
-  "sigma_e":"9.57B-34",
-  "sigma_a":"3.73M-12",
-  "sigma_q":"5.31F-85",
-  "sigma_i":"7.51W-19",
-  "sigma_om":"2.34F-10",
-  "sigma_w":"7.66H-48",
-  "sigma_ma":"1.39A-24",
-  "sigma_ad":"7.56T-58",
-  "sigma_n":"1.18N-69",
-  "sigma_tp":"1.13D-44",
-  "sigma_per":"8.32E-43"
+  "sigma_e":"7.12M-71",
+  "sigma_a":"1.52S-10",
+  "sigma_q":"2.92H-92",
+  "sigma_i":"7.29E-18",
+  "sigma_om":"7.15S-80",
+  "sigma_w":"1.92A-87",
+  "sigma_ma":"8.88W-69",
+  "sigma_ad":"2.87R-99",
+  "sigma_n":"3.10F-89",
+  "sigma_tp":"1.95E-86",
+  "sigma_per":"2.28S-98"
  },
- "rms":0.56011319005,
+ "rms":0.3,
  "moid_full":{
-  "moid":0.282,
-  "moid_id":3.0
+  "moid":0.4,
+  "moid_id":8.140723712
  },
- "class_asteroid":"C-"
+ "class_asteroid":"S-"
 }

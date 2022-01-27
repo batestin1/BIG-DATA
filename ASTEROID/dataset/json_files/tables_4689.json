@@ -1,63 +1,63 @@
 {
  "spk_id":2004690,
- "object_id":"g0000004689",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"863593887m/s",
+ "object_id":"b0000004689",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"227730725m/s",
  "object_fullname":{
-  "fullname":"2010 CA",
-  "prefix":"2010 ",
-  "name":"DESAI"
+  "fullname":"2016 CH",
+  "prefix":"2016 ",
+  "name":"FARISWALD"
  },
- "pdes":332,
+ "pdes":160,
  "diameter_full":{
-  "diameter":25.4334889,
-  "diameter_sigma":1.60906155223
+  "diameter":35.57702798958173,
+  "diameter_sigma":1.4464595149698
  },
- "h":0.7777777777777778,
- "albedo":0.798394937,
- "orbit_id":"ISS 93",
+ "h":4.5,
+ "albedo":0.62,
+ "orbit_id":"SVS 85",
  "epoch_full":{
-  "epoch":6901391.0,
-  "epoch_mjd":58488,
-  "epoch_cal":20220213.0
+  "epoch":5531953.0,
+  "epoch_mjd":32033,
+  "epoch_cal":20220203.0
  },
- "equinox":"P6237",
- "om":67.87097941257,
- "e":0.7,
- "a":4168.8405459626,
- "q":190067174243.18,
- "i":5.6220824,
- "w":1.9626,
- "ad":0.48306,
- "ma":62.8718,
- "n":48.49772463573877,
+ "equinox":"C4330",
+ "om":65.294,
+ "e":0.0,
+ "a":168870098876.0,
+ "q":331051958.75395,
+ "i":37.5603376,
+ "w":24.13960704,
+ "ad":0.0,
+ "ma":44.295416437241,
+ "n":11.649,
  "tp_full":{
-  "tp_cal":24.6528777420745,
-  "tp":21.7744617599
+  "tp_cal":37.37748,
+  "tp":59.402107165
  },
  "per_full":{
-  "per":94.9377074,
-  "per_y":15.3245393
+  "per":55.442611415483,
+  "per_y":24.44712179
  },
  "sigma_full":{
-  "sigma_e":"9.27G-52",
-  "sigma_a":"2.30Y-42",
-  "sigma_q":"8.13A-43",
-  "sigma_i":"6.23G-66",
-  "sigma_om":"6.78P-80",
-  "sigma_w":"6.27A-87",
-  "sigma_ma":"4.57B-33",
-  "sigma_ad":"8.74A-91",
-  "sigma_n":"3.46I-91",
-  "sigma_tp":"3.51P-45",
-  "sigma_per":"1.79N-98"
+  "sigma_e":"3.50R-10",
+  "sigma_a":"5.79T-94",
+  "sigma_q":"8.98D-31",
+  "sigma_i":"7.50K-15",
+  "sigma_om":"9.86A-32",
+  "sigma_w":"7.34G-77",
+  "sigma_ma":"2.14T-87",
+  "sigma_ad":"7.72U-22",
+  "sigma_n":"1.67Y-46",
+  "sigma_tp":"6.56C-13",
+  "sigma_per":"5.42G-98"
  },
- "rms":0.17235428054141,
+ "rms":0.509,
  "moid_full":{
-  "moid":0.6491,
-  "moid_id":21.37808613
+  "moid":0.58402,
+  "moid_id":50.5
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

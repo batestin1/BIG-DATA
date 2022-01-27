@@ -1,63 +1,63 @@
 {
  "spk_id":2005615,
- "object_id":"r0000005614",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"853234036m/s",
+ "object_id":"s0000005614",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"673779560m/s",
  "object_fullname":{
-  "fullname":"2022 PA",
-  "prefix":"2022 ",
-  "name":"JANCUYPERS"
+  "fullname":"2016 SE",
+  "prefix":"2016 ",
+  "name":"GROSSETESTE"
  },
- "pdes":159,
+ "pdes":635,
  "diameter_full":{
-  "diameter":98.2157355819029,
-  "diameter_sigma":6.4
+  "diameter":77.4,
+  "diameter_sigma":7.87553
  },
- "h":1.4,
- "albedo":0.7,
- "orbit_id":"MPS 45",
+ "h":0.8125,
+ "albedo":0.5,
+ "orbit_id":"TRL 69",
  "epoch_full":{
-  "epoch":1062693.0,
-  "epoch_mjd":46972,
-  "epoch_cal":20220203.0
+  "epoch":1156982.0,
+  "epoch_mjd":71945,
+  "epoch_cal":20220210.0
  },
- "equinox":"W8585",
- "om":86.8478763,
- "e":0.6,
- "a":53212729945.5,
- "q":50438284413099.0,
- "i":168902636528054.0,
- "w":2.55,
- "ad":0.708,
- "ma":62.1024185668535,
- "n":17.4494684,
+ "equinox":"W3293",
+ "om":7.40532,
+ "e":0.7,
+ "a":5742.74885,
+ "q":256728569785.5,
+ "i":546.52895062916,
+ "w":32.983,
+ "ad":0.6003,
+ "ma":25.8296356071206,
+ "n":46.99620902,
  "tp_full":{
-  "tp_cal":42.313795139143,
-  "tp":19.23
+  "tp_cal":16.74939557225,
+  "tp":22.89390351791
  },
  "per_full":{
-  "per":50.624982,
-  "per_y":13.83671
+  "per":72.0,
+  "per_y":41.0
  },
  "sigma_full":{
-  "sigma_e":"1.30G-55",
-  "sigma_a":"8.25G-52",
-  "sigma_q":"9.77M-41",
-  "sigma_i":"2.81Y-12",
-  "sigma_om":"7.96A-31",
-  "sigma_w":"6.52C-86",
-  "sigma_ma":"1.59S-96",
-  "sigma_ad":"2.82B-78",
-  "sigma_n":"7.47D-58",
-  "sigma_tp":"3.80M-16",
-  "sigma_per":"4.39F-69"
+  "sigma_e":"3.73M-37",
+  "sigma_a":"4.84A-92",
+  "sigma_q":"5.95O-34",
+  "sigma_i":"6.28M-85",
+  "sigma_om":"6.35M-50",
+  "sigma_w":"6.44K-96",
+  "sigma_ma":"4.44W-99",
+  "sigma_ad":"7.56D-60",
+  "sigma_n":"1.73F-53",
+  "sigma_tp":"7.62P-20",
+  "sigma_per":"3.69A-53"
  },
- "rms":0.675307458,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.5,
-  "moid_id":90.47084970917
+  "moid":0.121,
+  "moid_id":84.507354
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

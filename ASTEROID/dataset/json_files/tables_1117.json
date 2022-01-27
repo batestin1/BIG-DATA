@@ -1,63 +1,63 @@
 {
  "spk_id":2001118,
- "object_id":"s0000001117",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"316047229m/s",
+ "object_id":"f0000001117",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"8239256m/s",
  "object_fullname":{
-  "fullname":"2008 CO",
+  "fullname":"2008 PA",
   "prefix":"2008 ",
-  "name":"HODER"
+  "name":"JAMESHARRISON"
  },
- "pdes":755,
+ "pdes":979,
  "diameter_full":{
-  "diameter":81.14,
-  "diameter_sigma":5.8807618562865
+  "diameter":33.728577,
+  "diameter_sigma":9.73255677
  },
- "h":0.35,
- "albedo":0.0,
- "orbit_id":"DCM 28",
+ "h":0.75,
+ "albedo":0.5171033456835,
+ "orbit_id":"PSU 88",
  "epoch_full":{
-  "epoch":1400094.0,
-  "epoch_mjd":64803,
-  "epoch_cal":20220204.0
+  "epoch":4926156.0,
+  "epoch_mjd":27238,
+  "epoch_cal":20220215.0
  },
- "equinox":"N5416",
- "om":31.26854555581136,
- "e":0.958937,
- "a":4855533719.2867,
- "q":2.1336932401,
- "i":619.1086855,
- "w":40.7338,
- "ad":0.0,
- "ma":3.0,
- "n":51.91,
+ "equinox":"N8363",
+ "om":60.6672,
+ "e":0.95331,
+ "a":7953.475398,
+ "q":2772567.7,
+ "i":308419550.2666,
+ "w":77.42,
+ "ad":0.1795866,
+ "ma":27.212680601,
+ "n":12.588,
  "tp_full":{
-  "tp_cal":27.1734,
-  "tp":13.21934528171
+  "tp_cal":49.6553,
+  "tp":48.5485856905
  },
  "per_full":{
-  "per":13.3129431955651,
-  "per_y":90.52
+  "per":24.85825,
+  "per_y":86.24
  },
  "sigma_full":{
-  "sigma_e":"8.17S-59",
-  "sigma_a":"4.41F-78",
-  "sigma_q":"5.43I-88",
-  "sigma_i":"7.40C-45",
-  "sigma_om":"8.41H-50",
-  "sigma_w":"9.49C-73",
-  "sigma_ma":"6.38E-66",
-  "sigma_ad":"3.29O-38",
-  "sigma_n":"1.38L-81",
-  "sigma_tp":"2.90P-45",
-  "sigma_per":"4.80C-94"
+  "sigma_e":"7.16S-61",
+  "sigma_a":"4.92S-76",
+  "sigma_q":"5.46B-18",
+  "sigma_i":"3.26N-93",
+  "sigma_om":"9.75K-54",
+  "sigma_w":"3.82F-17",
+  "sigma_ma":"2.69W-62",
+  "sigma_ad":"4.57E-97",
+  "sigma_n":"8.90L-45",
+  "sigma_tp":"8.90P-78",
+  "sigma_per":"2.43A-80"
  },
- "rms":0.0,
+ "rms":0.227580796,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":21.1856
+  "moid":0.2276103,
+  "moid_id":53.43
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

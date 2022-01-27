@@ -1,63 +1,63 @@
 {
  "spk_id":2001012,
  "object_id":"c0000001011",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"581915143m/s",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"762919496m/s",
  "object_fullname":{
-  "fullname":"2000 PA",
-  "prefix":"2000 ",
-  "name":"CSONTOSCSABA"
+  "fullname":"2001 IF",
+  "prefix":"2001 ",
+  "name":"ERICHBAR"
  },
- "pdes":685,
+ "pdes":207,
  "diameter_full":{
-  "diameter":77.8,
-  "diameter_sigma":7.50321
+  "diameter":86.507,
+  "diameter_sigma":7.850521
  },
- "h":0.6428571428571429,
- "albedo":0.518561531269,
- "orbit_id":"PAS 18",
+ "h":0.5454545454545454,
+ "albedo":0.9,
+ "orbit_id":"MWA 24",
  "epoch_full":{
-  "epoch":3408337.0,
-  "epoch_mjd":62709,
-  "epoch_cal":20220127.0
+  "epoch":1089402.0,
+  "epoch_mjd":42945,
+  "epoch_cal":20220223.0
  },
- "equinox":"T9048",
- "om":15.840246,
- "e":0.17,
- "a":673200159158.3,
- "q":8.501524,
- "i":97032.22438409,
- "w":72.6802,
- "ad":0.65,
- "ma":14.498,
- "n":19.92219025287461,
+ "equinox":"M6037",
+ "om":77.8,
+ "e":0.0,
+ "a":1574074337.8,
+ "q":18312843.76,
+ "i":69677.54373,
+ "w":43.1,
+ "ad":0.0,
+ "ma":94.914,
+ "n":67.0,
  "tp_full":{
-  "tp_cal":24.38899107,
-  "tp":98.3
+  "tp_cal":95.300663267665,
+  "tp":94.30722773105
  },
  "per_full":{
-  "per":45.428629498,
-  "per_y":47.327196651815
+  "per":76.67091,
+  "per_y":76.92
  },
  "sigma_full":{
-  "sigma_e":"2.34C-90",
-  "sigma_a":"3.87H-80",
-  "sigma_q":"9.62R-39",
-  "sigma_i":"2.25R-97",
-  "sigma_om":"3.58T-20",
-  "sigma_w":"6.11S-58",
-  "sigma_ma":"7.14E-24",
-  "sigma_ad":"1.63R-95",
-  "sigma_n":"9.60A-26",
-  "sigma_tp":"3.45S-11",
-  "sigma_per":"8.54E-58"
+  "sigma_e":"7.87S-14",
+  "sigma_a":"1.21O-37",
+  "sigma_q":"1.16E-37",
+  "sigma_i":"3.74T-13",
+  "sigma_om":"1.61R-73",
+  "sigma_w":"7.96S-56",
+  "sigma_ma":"7.81S-44",
+  "sigma_ad":"9.15P-74",
+  "sigma_n":"6.83P-39",
+  "sigma_tp":"2.95T-47",
+  "sigma_per":"8.89I-51"
  },
- "rms":0.0,
+ "rms":0.2137,
  "moid_full":{
-  "moid":0.108,
-  "moid_id":84.3
+  "moid":0.0,
+  "moid_id":95.8
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

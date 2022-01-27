@@ -1,63 +1,63 @@
 {
  "spk_id":2006007,
- "object_id":"n0000006006",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"503446037m/s",
+ "object_id":"s0000006006",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"823618985m/s",
  "object_fullname":{
-  "fullname":"2006 TA",
-  "prefix":"2006 ",
-  "name":"FREDSEARES"
+  "fullname":"2011 FO",
+  "prefix":"2011 ",
+  "name":"CROUCHLEY"
  },
- "pdes":896,
+ "pdes":849,
  "diameter_full":{
-  "diameter":33.95877371676362,
-  "diameter_sigma":2.977
+  "diameter":34.43717,
+  "diameter_sigma":3.35
  },
- "h":1.2,
- "albedo":0.3,
- "orbit_id":"RFL 34",
+ "h":0.125,
+ "albedo":0.403,
+ "orbit_id":"AQN 60",
  "epoch_full":{
-  "epoch":5378070.0,
-  "epoch_mjd":88828,
-  "epoch_cal":20220131.0
+  "epoch":1144630.0,
+  "epoch_mjd":68634,
+  "epoch_cal":20220204.0
  },
- "equinox":"L8642",
- "om":7.348478069,
- "e":0.55,
- "a":17926.6,
- "q":878494663364320.0,
- "i":848148686363.32,
- "w":73.7247714290013,
- "ad":0.0,
- "ma":49.4,
- "n":67.5511,
+ "equinox":"R5228",
+ "om":61.657749,
+ "e":0.7652,
+ "a":5607019632.2,
+ "q":2022397.488,
+ "i":89066150366126.0,
+ "w":17.8,
+ "ad":0.751426,
+ "ma":32.41,
+ "n":99.89,
  "tp_full":{
-  "tp_cal":27.893,
-  "tp":78.3
+  "tp_cal":68.824,
+  "tp":14.616273
  },
  "per_full":{
-  "per":34.32556368238,
-  "per_y":81.94050988
+  "per":18.0,
+  "per_y":48.298745
  },
  "sigma_full":{
-  "sigma_e":"6.77I-62",
-  "sigma_a":"7.55H-99",
-  "sigma_q":"5.56R-58",
-  "sigma_i":"4.47D-86",
-  "sigma_om":"8.28P-69",
-  "sigma_w":"8.90S-91",
-  "sigma_ma":"8.70H-48",
-  "sigma_ad":"4.23R-96",
-  "sigma_n":"7.90P-36",
-  "sigma_tp":"8.59M-25",
-  "sigma_per":"5.37B-86"
+  "sigma_e":"5.44I-94",
+  "sigma_a":"1.98B-24",
+  "sigma_q":"7.38T-35",
+  "sigma_i":"6.52E-64",
+  "sigma_om":"7.54R-38",
+  "sigma_w":"3.55M-85",
+  "sigma_ma":"4.34E-16",
+  "sigma_ad":"1.75T-14",
+  "sigma_n":"9.61I-62",
+  "sigma_tp":"6.38Q-34",
+  "sigma_per":"4.12C-66"
  },
- "rms":0.4050898712,
+ "rms":0.62,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":65.760560212337
+  "moid":0.992512,
+  "moid_id":91.3849009
  },
  "class_asteroid":"S-"
 }

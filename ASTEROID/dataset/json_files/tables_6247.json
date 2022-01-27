@@ -1,63 +1,63 @@
 {
  "spk_id":2006248,
- "object_id":"a0000006247",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"564547871m/s",
+ "object_id":"r0000006247",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"20865863m/s",
  "object_fullname":{
-  "fullname":"2015 TH",
-  "prefix":"2015 ",
-  "name":"BENSAUR"
+  "fullname":"2022 HO",
+  "prefix":"2022 ",
+  "name":"IVANOPACI"
  },
- "pdes":197,
+ "pdes":478,
  "diameter_full":{
-  "diameter":22.924705,
-  "diameter_sigma":6.1
+  "diameter":74.198234966072,
+  "diameter_sigma":1.5484935
  },
- "h":1.6,
- "albedo":0.0,
- "orbit_id":"SEE 65",
+ "h":1.0,
+ "albedo":0.1,
+ "orbit_id":"IRI 71",
  "epoch_full":{
-  "epoch":5455780.0,
-  "epoch_mjd":80328,
-  "epoch_cal":20220218.0
+  "epoch":4144771.0,
+  "epoch_mjd":10672,
+  "epoch_cal":20220219.0
  },
- "equinox":"Q7680",
- "om":96.42,
- "e":0.933624,
- "a":528496119938.72,
- "q":4605710.7335325,
- "i":67668.1175,
- "w":15.873,
- "ad":0.143,
- "ma":2.87365,
- "n":59.531876228977,
+ "equinox":"C1440",
+ "om":73.7936929533251,
+ "e":0.51673,
+ "a":88.77,
+ "q":5617262706058.0,
+ "i":76407555701506.8,
+ "w":88.89238885,
+ "ad":0.13982048,
+ "ma":3.36603486,
+ "n":63.48,
  "tp_full":{
-  "tp_cal":71.84513772453,
-  "tp":71.1
+  "tp_cal":48.13,
+  "tp":21.58599059307
  },
  "per_full":{
-  "per":1.335541094,
-  "per_y":23.2524865
+  "per":41.13278797,
+  "per_y":77.411
  },
  "sigma_full":{
-  "sigma_e":"6.27P-35",
-  "sigma_a":"1.22N-57",
-  "sigma_q":"9.85S-92",
-  "sigma_i":"6.72D-97",
-  "sigma_om":"7.31N-19",
-  "sigma_w":"7.94E-16",
-  "sigma_ma":"2.39D-54",
-  "sigma_ad":"5.20N-71",
-  "sigma_n":"8.62D-91",
-  "sigma_tp":"9.88P-41",
-  "sigma_per":"9.93H-26"
+  "sigma_e":"2.62W-93",
+  "sigma_a":"5.36D-33",
+  "sigma_q":"5.80O-72",
+  "sigma_i":"7.66P-13",
+  "sigma_om":"5.11P-60",
+  "sigma_w":"7.67R-14",
+  "sigma_ma":"7.12I-17",
+  "sigma_ad":"8.95D-26",
+  "sigma_n":"5.38F-19",
+  "sigma_tp":"5.91H-14",
+  "sigma_per":"8.20M-78"
  },
- "rms":0.9157,
+ "rms":0.427682,
  "moid_full":{
-  "moid":0.4998,
-  "moid_id":64.5
+  "moid":0.9,
+  "moid_id":92.206
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

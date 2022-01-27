@@ -1,63 +1,63 @@
 {
  "spk_id":2005370,
- "object_id":"u0000005369",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"766713434m/s",
+ "object_id":"r0000005369",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"113115168m/s",
  "object_fullname":{
-  "fullname":"2004 NE",
-  "prefix":"2004 ",
-  "name":"JIMBRAUN"
+  "fullname":"2017 DI",
+  "prefix":"2017 ",
+  "name":"JOARDAR"
  },
- "pdes":369,
+ "pdes":204,
  "diameter_full":{
-  "diameter":9.54943352629813,
-  "diameter_sigma":4.8762
+  "diameter":46.275313375425,
+  "diameter_sigma":2.800232256974
  },
- "h":1.0,
- "albedo":0.67,
- "orbit_id":"STA 16",
+ "h":3.1666666666666665,
+ "albedo":0.0,
+ "orbit_id":"LMA 17",
  "epoch_full":{
-  "epoch":8386141.0,
-  "epoch_mjd":84083,
-  "epoch_cal":20220223.0
+  "epoch":4095183.0,
+  "epoch_mjd":22853,
+  "epoch_cal":20220222.0
  },
- "equinox":"P8856",
- "om":28.426,
- "e":0.8,
- "a":980303627858.686,
- "q":89.50317,
- "i":2.9,
- "w":65.588991610809,
- "ad":0.957487489,
- "ma":71.0,
- "n":50.4724,
+ "equinox":"T5920",
+ "om":26.0,
+ "e":0.9,
+ "a":40400418.0,
+ "q":8247472931.66222,
+ "i":87444.845524,
+ "w":67.96911,
+ "ad":0.635,
+ "ma":73.0,
+ "n":96.422029946,
  "tp_full":{
-  "tp_cal":99.89322,
-  "tp":65.7576
+  "tp_cal":90.52619277968,
+  "tp":30.7
  },
  "per_full":{
-  "per":58.31,
-  "per_y":75.329348706472
+  "per":32.56815301774515,
+  "per_y":42.118
  },
  "sigma_full":{
-  "sigma_e":"8.83S-25",
-  "sigma_a":"9.84P-69",
-  "sigma_q":"5.54N-36",
-  "sigma_i":"6.38S-22",
-  "sigma_om":"1.47C-58",
-  "sigma_w":"8.33A-65",
-  "sigma_ma":"9.85T-41",
-  "sigma_ad":"9.66S-82",
-  "sigma_n":"3.89T-41",
-  "sigma_tp":"4.20H-36",
-  "sigma_per":"9.59F-24"
+  "sigma_e":"5.74A-99",
+  "sigma_a":"9.19C-83",
+  "sigma_q":"8.76F-64",
+  "sigma_i":"5.11L-73",
+  "sigma_om":"8.75O-22",
+  "sigma_w":"5.20D-80",
+  "sigma_ma":"9.19N-78",
+  "sigma_ad":"1.81S-45",
+  "sigma_n":"1.56S-39",
+  "sigma_tp":"5.27P-10",
+  "sigma_per":"6.52W-32"
  },
- "rms":0.441,
+ "rms":0.58980095,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":50.749688573
+  "moid":0.49370735,
+  "moid_id":25.7995620942
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2002634,
- "object_id":"l0000002633",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"125361323m/s",
+ "object_id":"t0000002633",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"518422416m/s",
  "object_fullname":{
-  "fullname":"2006 FI",
-  "prefix":"2006 ",
-  "name":"GUISARD"
+  "fullname":"2017 IN",
+  "prefix":"2017 ",
+  "name":"FOSSETT"
  },
- "pdes":599,
+ "pdes":664,
  "diameter_full":{
-  "diameter":74.98178,
-  "diameter_sigma":6.6955125
+  "diameter":66.30485,
+  "diameter_sigma":8.7657
  },
- "h":0.75,
- "albedo":0.93846635,
- "orbit_id":"FLH 37",
+ "h":3.25,
+ "albedo":0.1,
+ "orbit_id":"ASM 77",
  "epoch_full":{
-  "epoch":9667738.0,
-  "epoch_mjd":83331,
-  "epoch_cal":20220213.0
+  "epoch":5986337.0,
+  "epoch_mjd":31504,
+  "epoch_cal":20220218.0
  },
- "equinox":"H7439",
- "om":82.145922,
+ "equinox":"N7828",
+ "om":80.680691203391,
  "e":0.0,
- "a":923858177921.1,
- "q":659613951460.9,
- "i":2773150304.0,
- "w":58.4,
- "ad":0.1,
- "ma":68.2157333421892,
- "n":81.334665,
+ "a":263384727369.0,
+ "q":103222061.778,
+ "i":23121.590516,
+ "w":52.0,
+ "ad":0.0,
+ "ma":84.0,
+ "n":13.118073,
  "tp_full":{
-  "tp_cal":91.9,
-  "tp":36.2198206
+  "tp_cal":27.809363667,
+  "tp":52.1271027
  },
  "per_full":{
-  "per":32.974782079383,
-  "per_y":82.261
+  "per":61.212158392,
+  "per_y":96.14904965756
  },
  "sigma_full":{
-  "sigma_e":"2.25C-73",
-  "sigma_a":"6.66H-20",
-  "sigma_q":"9.68S-77",
-  "sigma_i":"5.37L-28",
-  "sigma_om":"2.23D-18",
-  "sigma_w":"6.91I-73",
-  "sigma_ma":"7.39I-20",
-  "sigma_ad":"7.15L-88",
-  "sigma_n":"1.89L-42",
-  "sigma_tp":"4.37L-84",
-  "sigma_per":"2.12A-73"
+  "sigma_e":"6.87R-54",
+  "sigma_a":"9.69G-85",
+  "sigma_q":"5.95T-58",
+  "sigma_i":"8.80M-76",
+  "sigma_om":"2.20C-60",
+  "sigma_w":"7.84T-37",
+  "sigma_ma":"5.83W-33",
+  "sigma_ad":"4.36H-93",
+  "sigma_n":"3.56R-17",
+  "sigma_tp":"6.13S-47",
+  "sigma_per":"2.77D-94"
  },
- "rms":0.358,
+ "rms":0.5,
  "moid_full":{
-  "moid":0.922,
-  "moid_id":37.8078
+  "moid":0.517,
+  "moid_id":20.74
  },
  "class_asteroid":"Other Types"
 }

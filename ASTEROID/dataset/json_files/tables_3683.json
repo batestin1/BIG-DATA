@@ -1,63 +1,63 @@
 {
  "spk_id":2003684,
- "object_id":"h0000003683",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"897306330m/s",
+ "object_id":"b0000003683",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"381535189m/s",
  "object_fullname":{
-  "fullname":"2015 ED",
+  "fullname":"2015 SO",
   "prefix":"2015 ",
-  "name":"KATSURAHAMA"
+  "name":"BAUR"
  },
- "pdes":898,
+ "pdes":952,
  "diameter_full":{
-  "diameter":75.4,
-  "diameter_sigma":7.53107328409
+  "diameter":35.46478049151,
+  "diameter_sigma":1.88679542
  },
- "h":0.47058823529411764,
- "albedo":0.1,
- "orbit_id":"KPB 78",
+ "h":2.25,
+ "albedo":0.5,
+ "orbit_id":"SDS 83",
  "epoch_full":{
-  "epoch":2103828.0,
-  "epoch_mjd":79423,
-  "epoch_cal":20220209.0
+  "epoch":3273186.0,
+  "epoch_mjd":92141,
+  "epoch_cal":20220215.0
  },
- "equinox":"P5307",
- "om":34.72,
+ "equinox":"T3033",
+ "om":5.23047,
  "e":0.0,
- "a":4174.3,
- "q":0.58599836111,
- "i":36869.417922841,
- "w":23.9107,
- "ad":0.3,
- "ma":57.430693,
- "n":60.3069574,
+ "a":19945019099992.0,
+ "q":515918949487156.0,
+ "i":94640167817.2573,
+ "w":59.776361166142,
+ "ad":0.0,
+ "ma":27.97079872602,
+ "n":50.26,
  "tp_full":{
-  "tp_cal":94.90405,
-  "tp":59.2126762819375
+  "tp_cal":95.0,
+  "tp":29.65598
  },
  "per_full":{
-  "per":19.88047,
-  "per_y":95.55
+  "per":3.65959395669,
+  "per_y":46.80969198745617
  },
  "sigma_full":{
-  "sigma_e":"8.66S-20",
-  "sigma_a":"6.47P-78",
-  "sigma_q":"4.36S-75",
-  "sigma_i":"9.73L-47",
-  "sigma_om":"2.31A-23",
-  "sigma_w":"9.37P-86",
-  "sigma_ma":"1.62W-29",
-  "sigma_ad":"1.84P-90",
-  "sigma_n":"7.66O-87",
-  "sigma_tp":"7.92I-22",
-  "sigma_per":"8.17D-48"
+  "sigma_e":"1.41B-22",
+  "sigma_a":"2.23I-48",
+  "sigma_q":"6.36A-30",
+  "sigma_i":"4.60M-94",
+  "sigma_om":"7.46H-89",
+  "sigma_w":"9.58A-97",
+  "sigma_ma":"2.16C-69",
+  "sigma_ad":"6.56P-88",
+  "sigma_n":"2.66W-36",
+  "sigma_tp":"7.19S-49",
+  "sigma_per":"1.80R-30"
  },
- "rms":0.812,
+ "rms":0.94,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":66.3
+  "moid":0.4807,
+  "moid_id":40.775048083186
  },
- "class_asteroid":"C-"
+ "class_asteroid":"S-"
 }

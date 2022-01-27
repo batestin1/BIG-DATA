@@ -1,63 +1,63 @@
 {
  "spk_id":2003140,
- "object_id":"b0000003139",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"286992660m/s",
+ "object_id":"t0000003139",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"272468015m/s",
  "object_fullname":{
-  "fullname":"2006 PR",
-  "prefix":"2006 ",
-  "name":"ELEONORA"
+  "fullname":"2008 MO",
+  "prefix":"2008 ",
+  "name":"CHEBARKUL"
  },
- "pdes":475,
+ "pdes":130,
  "diameter_full":{
-  "diameter":64.69,
-  "diameter_sigma":7.80648906
+  "diameter":2.8,
+  "diameter_sigma":7.0
  },
- "h":0.8571428571428571,
- "albedo":0.74179526,
- "orbit_id":"CBM 81",
+ "h":0.4166666666666667,
+ "albedo":0.75,
+ "orbit_id":"NIS 53",
  "epoch_full":{
-  "epoch":8102502.0,
-  "epoch_mjd":52246,
-  "epoch_cal":20220212.0
+  "epoch":4610771.0,
+  "epoch_mjd":48947,
+  "epoch_cal":20220129.0
  },
- "equinox":"W3307",
- "om":28.0,
- "e":0.83912081014,
- "a":58117594.8,
- "q":70926432.5,
- "i":3869257.0,
- "w":85.32484342278042,
+ "equinox":"S8644",
+ "om":17.6031711579,
+ "e":0.6,
+ "a":4434596.9730301,
+ "q":60701988.832354,
+ "i":7.97447341444,
+ "w":11.772476,
  "ad":0.0,
- "ma":21.51596,
- "n":63.7185217805712,
+ "ma":78.196517501388,
+ "n":92.6674170973,
  "tp_full":{
-  "tp_cal":78.6,
-  "tp":83.74902388944
+  "tp_cal":45.637289977683,
+  "tp":91.35917287810216
  },
  "per_full":{
-  "per":22.81,
-  "per_y":97.285
+  "per":28.1731513087016,
+  "per_y":62.573
  },
  "sigma_full":{
-  "sigma_e":"2.33C-42",
-  "sigma_a":"4.98D-19",
-  "sigma_q":"7.99M-27",
-  "sigma_i":"7.73A-87",
-  "sigma_om":"8.18G-12",
-  "sigma_w":"6.63P-41",
-  "sigma_ma":"4.34S-84",
-  "sigma_ad":"9.50L-73",
-  "sigma_n":"3.92O-92",
-  "sigma_tp":"9.67A-56",
-  "sigma_per":"7.90L-85"
+  "sigma_e":"1.11T-70",
+  "sigma_a":"4.67G-92",
+  "sigma_q":"2.29D-15",
+  "sigma_i":"5.75S-80",
+  "sigma_om":"5.93G-29",
+  "sigma_w":"9.45I-72",
+  "sigma_ma":"8.45M-34",
+  "sigma_ad":"2.50S-84",
+  "sigma_n":"5.37L-35",
+  "sigma_tp":"5.40C-92",
+  "sigma_per":"2.28A-68"
  },
- "rms":0.124,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":9.9055535997
+  "moid":0.65535,
+  "moid_id":57.536
  },
  "class_asteroid":"Other Types"
 }

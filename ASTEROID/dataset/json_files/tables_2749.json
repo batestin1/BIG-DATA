@@ -1,63 +1,63 @@
 {
  "spk_id":2002750,
- "object_id":"t0000002749",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"578621103m/s",
+ "object_id":"m0000002749",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"189142958m/s",
  "object_fullname":{
-  "fullname":"2019 WI",
-  "prefix":"2019 ",
-  "name":"HAMBURGA"
+  "fullname":"2003 SH",
+  "prefix":"2003 ",
+  "name":"CORDWELL"
  },
- "pdes":615,
+ "pdes":504,
  "diameter_full":{
-  "diameter":37.93,
-  "diameter_sigma":3.5658
+  "diameter":82.150417,
+  "diameter_sigma":8.976
  },
- "h":1.2142857142857142,
- "albedo":0.334095,
- "orbit_id":"INF 91",
+ "h":1.1333333333333333,
+ "albedo":0.17,
+ "orbit_id":"RLL 77",
  "epoch_full":{
-  "epoch":3280349.0,
-  "epoch_mjd":33667,
-  "epoch_cal":20220202.0
+  "epoch":6823723.0,
+  "epoch_mjd":81991,
+  "epoch_cal":20220210.0
  },
- "equinox":"T4421",
- "om":12.79654,
- "e":0.9,
- "a":5112619.892539,
- "q":523083.12,
- "i":36926613829980.2,
- "w":38.80883383479102,
- "ad":0.0,
- "ma":13.3737,
- "n":9.15,
+ "equinox":"H1238",
+ "om":43.5531499,
+ "e":0.0,
+ "a":9588588692.8,
+ "q":9.0,
+ "i":1805508797.5,
+ "w":73.0,
+ "ad":0.217726495108,
+ "ma":94.1154,
+ "n":43.0,
  "tp_full":{
-  "tp_cal":35.5,
-  "tp":10.4
+  "tp_cal":49.34701,
+  "tp":12.98634
  },
  "per_full":{
-  "per":98.42390281,
-  "per_y":26.76536
+  "per":10.229239,
+  "per_y":78.16331
  },
  "sigma_full":{
-  "sigma_e":"1.76L-30",
-  "sigma_a":"1.10M-66",
-  "sigma_q":"3.56B-60",
-  "sigma_i":"2.50I-96",
-  "sigma_om":"3.70P-51",
-  "sigma_w":"8.29C-75",
-  "sigma_ma":"4.67A-57",
-  "sigma_ad":"8.87T-48",
-  "sigma_n":"5.26F-42",
-  "sigma_tp":"3.66A-64",
-  "sigma_per":"6.16T-69"
+  "sigma_e":"1.86T-84",
+  "sigma_a":"9.26S-31",
+  "sigma_q":"7.84C-15",
+  "sigma_i":"6.95H-76",
+  "sigma_om":"5.78E-64",
+  "sigma_w":"2.27M-76",
+  "sigma_ma":"7.60H-33",
+  "sigma_ad":"6.20L-39",
+  "sigma_n":"1.71S-70",
+  "sigma_tp":"5.21P-65",
+  "sigma_per":"1.49P-77"
  },
- "rms":0.268985,
+ "rms":0.88065056809,
  "moid_full":{
-  "moid":0.73857115858,
-  "moid_id":25.0
+  "moid":0.0,
+  "moid_id":5.457271966187
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

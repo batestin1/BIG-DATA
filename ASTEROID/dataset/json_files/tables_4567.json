@@ -1,63 +1,63 @@
 {
  "spk_id":2004568,
- "object_id":"d0000004567",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"320162290m/s",
+ "object_id":"l0000004567",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"45805019m/s",
  "object_fullname":{
-  "fullname":"2013 ME",
-  "prefix":"2013 ",
-  "name":"CHALIAPIN"
+  "fullname":"2021 CH",
+  "prefix":"2021 ",
+  "name":"FRISCH"
  },
- "pdes":986,
+ "pdes":909,
  "diameter_full":{
-  "diameter":97.47455038229651,
-  "diameter_sigma":1.851987
+  "diameter":71.26978313,
+  "diameter_sigma":9.1
  },
- "h":0.3157894736842105,
- "albedo":0.226,
- "orbit_id":"RDF 62",
+ "h":0.3684210526315789,
+ "albedo":0.4,
+ "orbit_id":"ASB 62",
  "epoch_full":{
-  "epoch":9718008.0,
-  "epoch_mjd":24242,
-  "epoch_cal":20220213.0
+  "epoch":3453373.0,
+  "epoch_mjd":60864,
+  "epoch_cal":20220129.0
  },
- "equinox":"P4420",
- "om":35.8917,
- "e":0.874,
- "a":747345.1,
- "q":8.4,
- "i":295834133031571.0,
- "w":97.16068099571,
- "ad":0.16566,
- "ma":18.0,
- "n":29.893754437,
+ "equinox":"I3837",
+ "om":72.4958599535104,
+ "e":0.5,
+ "a":893377185.0,
+ "q":107414455.3,
+ "i":97551.43368,
+ "w":27.383207051288,
+ "ad":0.58057,
+ "ma":94.43425761,
+ "n":95.4057724647,
  "tp_full":{
-  "tp_cal":21.66459336095,
-  "tp":26.8719205
+  "tp_cal":72.743,
+  "tp":84.493641633003
  },
  "per_full":{
-  "per":45.29823,
-  "per_y":96.8
+  "per":8.47110282,
+  "per_y":60.75967001
  },
  "sigma_full":{
-  "sigma_e":"7.68P-12",
-  "sigma_a":"1.11P-76",
-  "sigma_q":"4.26E-56",
-  "sigma_i":"8.61S-48",
-  "sigma_om":"7.52R-83",
-  "sigma_w":"8.80J-44",
-  "sigma_ma":"2.77B-14",
-  "sigma_ad":"9.22C-62",
-  "sigma_n":"4.69L-14",
-  "sigma_tp":"3.84T-61",
-  "sigma_per":"4.15F-22"
+  "sigma_e":"7.13R-79",
+  "sigma_a":"7.10P-35",
+  "sigma_q":"3.54R-47",
+  "sigma_i":"6.12B-54",
+  "sigma_om":"9.50T-87",
+  "sigma_w":"9.78M-86",
+  "sigma_ma":"3.23W-47",
+  "sigma_ad":"2.47O-13",
+  "sigma_n":"1.34A-22",
+  "sigma_tp":"4.18E-22",
+  "sigma_per":"7.78O-81"
  },
- "rms":0.301734,
+ "rms":0.84,
  "moid_full":{
-  "moid":0.132,
-  "moid_id":15.5889940363
+  "moid":0.508,
+  "moid_id":12.8615204579499
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2004088,
- "object_id":"b0000004087",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"472615280m/s",
+ "object_id":"s0000004087",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"704304474m/s",
  "object_fullname":{
-  "fullname":"2000 CH",
-  "prefix":"2000 ",
-  "name":"FELDBERG"
+  "fullname":"2018 HO",
+  "prefix":"2018 ",
+  "name":"GRUBAUGH"
  },
- "pdes":514,
+ "pdes":905,
  "diameter_full":{
-  "diameter":65.38390812,
-  "diameter_sigma":2.52377
+  "diameter":42.632,
+  "diameter_sigma":4.92
  },
- "h":2.0,
- "albedo":0.51,
- "orbit_id":"TPR 43",
+ "h":1.0526315789473684,
+ "albedo":0.698424,
+ "orbit_id":"FAN 86",
  "epoch_full":{
-  "epoch":6217439.0,
-  "epoch_mjd":65717,
-  "epoch_cal":20220206.0
+  "epoch":7613927.0,
+  "epoch_mjd":16656,
+  "epoch_cal":20220211.0
  },
- "equinox":"L2186",
- "om":25.544162,
- "e":0.7,
- "a":44.9012,
- "q":150586438447217.0,
- "i":43467256929548.0,
- "w":92.4,
- "ad":0.561,
- "ma":63.444914879502,
- "n":18.5,
+ "equinox":"R6736",
+ "om":45.77,
+ "e":0.925,
+ "a":5.4790756637301,
+ "q":2994033003793.0,
+ "i":121.3679849868,
+ "w":16.8101603,
+ "ad":0.64,
+ "ma":33.3,
+ "n":99.389,
  "tp_full":{
-  "tp_cal":82.0,
-  "tp":72.4282
+  "tp_cal":64.77285,
+  "tp":17.0
  },
  "per_full":{
-  "per":37.805975,
-  "per_y":95.5782578
+  "per":3.98528234678,
+  "per_y":26.0
  },
  "sigma_full":{
-  "sigma_e":"3.88W-42",
-  "sigma_a":"7.57L-20",
-  "sigma_q":"6.48F-32",
-  "sigma_i":"8.85N-99",
-  "sigma_om":"5.14B-43",
-  "sigma_w":"9.55T-86",
-  "sigma_ma":"5.66K-81",
-  "sigma_ad":"5.22P-93",
-  "sigma_n":"4.18F-23",
-  "sigma_tp":"3.54S-31",
-  "sigma_per":"5.68H-37"
+  "sigma_e":"9.85I-73",
+  "sigma_a":"3.15T-92",
+  "sigma_q":"8.16P-43",
+  "sigma_i":"7.25C-43",
+  "sigma_om":"3.89C-37",
+  "sigma_w":"6.61B-15",
+  "sigma_ma":"3.33S-81",
+  "sigma_ad":"6.39C-75",
+  "sigma_n":"5.47D-40",
+  "sigma_tp":"4.56H-86",
+  "sigma_per":"2.90T-20"
  },
- "rms":0.27,
+ "rms":0.66,
  "moid_full":{
-  "moid":0.64,
-  "moid_id":13.673392
+  "moid":0.8524,
+  "moid_id":58.587580418
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

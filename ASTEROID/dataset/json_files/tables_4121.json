@@ -1,63 +1,63 @@
 {
  "spk_id":2004122,
- "object_id":"a0000004121",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"14834302m/s",
+ "object_id":"s0000004121",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"552773690m/s",
  "object_fullname":{
-  "fullname":"2017 US",
-  "prefix":"2017 ",
-  "name":"INNSBRUCK"
+  "fullname":"2002 AR",
+  "prefix":"2002 ",
+  "name":"FLAMINI"
  },
- "pdes":290,
+ "pdes":915,
  "diameter_full":{
-  "diameter":29.1739067279,
-  "diameter_sigma":8.9090711064773
+  "diameter":29.58115202,
+  "diameter_sigma":9.905230603004
  },
- "h":10.0,
- "albedo":0.0,
- "orbit_id":"BPC 18",
+ "h":1.3,
+ "albedo":0.694863016,
+ "orbit_id":"TML 92",
  "epoch_full":{
-  "epoch":5714969.0,
-  "epoch_mjd":10054,
-  "epoch_cal":20220222.0
+  "epoch":1044427.0,
+  "epoch_mjd":25919,
+  "epoch_cal":20220214.0
  },
- "equinox":"E7612",
- "om":26.21551343353,
- "e":0.669077552,
- "a":9690255283.765,
- "q":230.19,
- "i":1425414.35763,
- "w":94.4166773071,
- "ad":0.71,
- "ma":7.6682918632,
- "n":33.94447296472,
+ "equinox":"A5273",
+ "om":84.9,
+ "e":0.0,
+ "a":144295094834.0,
+ "q":76710.4444609,
+ "i":1194175150251.0,
+ "w":71.4119,
+ "ad":0.7,
+ "ma":23.1486,
+ "n":18.49,
  "tp_full":{
-  "tp_cal":23.3180549,
-  "tp":92.9811431558
+  "tp_cal":49.77,
+  "tp":27.96
  },
  "per_full":{
-  "per":84.99144,
-  "per_y":84.1409548196555
+  "per":80.87973,
+  "per_y":33.93936430844987
  },
  "sigma_full":{
-  "sigma_e":"1.54M-84",
-  "sigma_a":"5.56A-15",
-  "sigma_q":"3.24F-55",
-  "sigma_i":"9.53A-54",
-  "sigma_om":"4.25D-28",
-  "sigma_w":"2.89S-52",
-  "sigma_ma":"6.61C-47",
-  "sigma_ad":"8.19U-30",
-  "sigma_n":"9.21F-96",
-  "sigma_tp":"5.47N-74",
-  "sigma_per":"4.25R-21"
+  "sigma_e":"7.94R-92",
+  "sigma_a":"3.11Y-68",
+  "sigma_q":"4.93B-30",
+  "sigma_i":"5.57A-41",
+  "sigma_om":"6.55H-24",
+  "sigma_w":"8.79S-22",
+  "sigma_ma":"4.94E-44",
+  "sigma_ad":"9.30P-94",
+  "sigma_n":"1.54A-85",
+  "sigma_tp":"4.15O-13",
+  "sigma_per":"5.69O-63"
  },
  "rms":0.0,
  "moid_full":{
-  "moid":0.7,
-  "moid_id":92.96486959443763
+  "moid":0.0,
+  "moid_id":6.206
  },
  "class_asteroid":"M-types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2006432,
- "object_id":"f0000006431",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"397002963m/s",
+ "object_id":"v0000006431",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"14465677m/s",
  "object_fullname":{
-  "fullname":"2007 WE",
-  "prefix":"2007 ",
-  "name":"HORNE"
+  "fullname":"2015 RE",
+  "prefix":"2015 ",
+  "name":"KANDRUP"
  },
- "pdes":378,
+ "pdes":659,
  "diameter_full":{
-  "diameter":9.339547170355,
-  "diameter_sigma":8.2309377
+  "diameter":76.477306978583,
+  "diameter_sigma":7.434735618056
  },
- "h":0.5263157894736842,
- "albedo":0.96,
- "orbit_id":"MNS 87",
+ "h":0.4375,
+ "albedo":0.5,
+ "orbit_id":"YNO 78",
  "epoch_full":{
-  "epoch":2566708.0,
-  "epoch_mjd":21380,
-  "epoch_cal":20220206.0
+  "epoch":9311401.0,
+  "epoch_mjd":81598,
+  "epoch_cal":20220213.0
  },
- "equinox":"C6961",
- "om":14.686748712397,
- "e":0.641,
- "a":53343341397685.0,
- "q":244937972895932.0,
- "i":93906626847569.8,
- "w":65.6629,
- "ad":0.0,
- "ma":83.901322204004,
- "n":68.4,
+ "equinox":"L7118",
+ "om":96.3439,
+ "e":0.49,
+ "a":2320.4,
+ "q":58915876.9,
+ "i":375295823813051.0,
+ "w":11.56107089525,
+ "ad":0.223304,
+ "ma":1.0,
+ "n":36.4273,
  "tp_full":{
-  "tp_cal":7.19,
-  "tp":14.1974
+  "tp_cal":65.7184450481,
+  "tp":45.3089
  },
  "per_full":{
-  "per":25.0,
-  "per_y":42.179
+  "per":5.5365276,
+  "per_y":37.0
  },
  "sigma_full":{
-  "sigma_e":"1.54H-86",
-  "sigma_a":"1.80W-39",
-  "sigma_q":"1.46I-21",
-  "sigma_i":"5.95M-15",
-  "sigma_om":"3.93C-10",
-  "sigma_w":"9.97O-91",
-  "sigma_ma":"1.71P-60",
-  "sigma_ad":"4.88S-99",
-  "sigma_n":"3.21F-87",
-  "sigma_tp":"4.94L-67",
-  "sigma_per":"1.19B-17"
+  "sigma_e":"2.71W-67",
+  "sigma_a":"9.79C-29",
+  "sigma_q":"4.19M-63",
+  "sigma_i":"9.81C-38",
+  "sigma_om":"8.16P-55",
+  "sigma_w":"6.40P-68",
+  "sigma_ma":"8.39R-83",
+  "sigma_ad":"9.11T-61",
+  "sigma_n":"1.95T-23",
+  "sigma_tp":"7.51L-59",
+  "sigma_per":"4.59I-19"
  },
- "rms":0.12131799632,
+ "rms":0.5,
  "moid_full":{
-  "moid":0.42,
-  "moid_id":52.175186045805
+  "moid":0.4,
+  "moid_id":40.0
  },
- "class_asteroid":"S-"
+ "class_asteroid":"C-"
 }

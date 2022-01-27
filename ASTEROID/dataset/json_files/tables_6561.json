@@ -1,63 +1,63 @@
 {
  "spk_id":2006562,
- "object_id":"e0000006561",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"533797520m/s",
+ "object_id":"n0000006561",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"114880224m/s",
  "object_fullname":{
-  "fullname":"2002 CO",
-  "prefix":"2002 ",
-  "name":"ELIZATEEL"
+  "fullname":"2011 TE",
+  "prefix":"2011 ",
+  "name":"HIMEJI"
  },
- "pdes":426,
+ "pdes":500,
  "diameter_full":{
-  "diameter":97.64,
-  "diameter_sigma":7.4792306944
+  "diameter":22.1618441594119,
+  "diameter_sigma":2.824024468
  },
- "h":0.13333333333333333,
+ "h":1.1111111111111112,
  "albedo":0.0,
- "orbit_id":"TRA 51",
+ "orbit_id":"HIR 36",
  "epoch_full":{
-  "epoch":2077215.0,
-  "epoch_mjd":85877,
-  "epoch_cal":20220203.0
+  "epoch":9918979.0,
+  "epoch_mjd":65967,
+  "epoch_cal":20220219.0
  },
- "equinox":"P2251",
- "om":69.37477497,
- "e":0.3237,
- "a":727.2035038957,
- "q":5827060407.0,
- "i":82688076232452.0,
- "w":9.57078404834757,
- "ad":0.80343,
- "ma":64.92008776983,
- "n":20.716,
+ "equinox":"S3902",
+ "om":50.4213104351,
+ "e":0.350239,
+ "a":107547822540.55,
+ "q":28759064.31764,
+ "i":79951544123.42,
+ "w":94.0,
+ "ad":0.55,
+ "ma":95.927699,
+ "n":79.5,
  "tp_full":{
-  "tp_cal":16.529502107506,
-  "tp":97.65
+  "tp_cal":84.491,
+  "tp":95.77
  },
  "per_full":{
-  "per":63.634,
-  "per_y":22.714376
+  "per":14.922429,
+  "per_y":94.530954861987
  },
  "sigma_full":{
-  "sigma_e":"4.39A-63",
-  "sigma_a":"5.43B-11",
-  "sigma_q":"6.89W-55",
-  "sigma_i":"5.97S-30",
-  "sigma_om":"1.90Y-88",
-  "sigma_w":"7.51P-27",
-  "sigma_ma":"8.13C-63",
-  "sigma_ad":"8.49M-29",
-  "sigma_n":"2.71G-30",
-  "sigma_tp":"9.84P-10",
-  "sigma_per":"4.76S-29"
+  "sigma_e":"4.76G-78",
+  "sigma_a":"1.46R-45",
+  "sigma_q":"1.90D-15",
+  "sigma_i":"6.20C-70",
+  "sigma_om":"3.64N-11",
+  "sigma_w":"4.35M-14",
+  "sigma_ma":"1.26D-24",
+  "sigma_ad":"8.34R-70",
+  "sigma_n":"2.25D-78",
+  "sigma_tp":"3.84S-50",
+  "sigma_per":"1.27S-92"
  },
  "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":1.0
+  "moid":0.367209121,
+  "moid_id":10.120745723
  },
  "class_asteroid":"S-"
 }

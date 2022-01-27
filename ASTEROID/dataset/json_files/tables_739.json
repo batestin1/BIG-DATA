@@ -1,63 +1,63 @@
 {
  "spk_id":2000740,
- "object_id":"s000000739",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"883770669m/s",
+ "object_id":"t000000739",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"736832486m/s",
  "object_fullname":{
-  "fullname":"2014 MO",
-  "prefix":"2014 ",
-  "name":"BALBASTRE"
+  "fullname":"2019 ME",
+  "prefix":"2019 ",
+  "name":"BURDIGALA"
  },
- "pdes":439,
+ "pdes":593,
  "diameter_full":{
-  "diameter":48.57241549,
-  "diameter_sigma":4.7
+  "diameter":66.74011517392064,
+  "diameter_sigma":2.554483388
  },
- "h":1.0,
- "albedo":0.0,
- "orbit_id":"ARA 43",
+ "h":0.2857142857142857,
+ "albedo":0.9810546,
+ "orbit_id":"AWT 46",
  "epoch_full":{
-  "epoch":4774775.0,
-  "epoch_mjd":83779,
-  "epoch_cal":20220207.0
+  "epoch":4859608.0,
+  "epoch_mjd":47294,
+  "epoch_cal":20220206.0
  },
- "equinox":"L7036",
- "om":4.977389,
- "e":0.53442,
- "a":9203321332.2,
- "q":306918223.42,
- "i":29620683491.32,
- "w":73.463076254474,
- "ad":0.8,
- "ma":64.0,
- "n":64.4,
+ "equinox":"F8765",
+ "om":69.4876231836,
+ "e":0.1571100623,
+ "a":4503843.85,
+ "q":3123674170.7627,
+ "i":7247.9009,
+ "w":95.908846637,
+ "ad":0.0,
+ "ma":84.25762009,
+ "n":51.98688773,
  "tp_full":{
-  "tp_cal":74.4871,
-  "tp":19.11
+  "tp_cal":90.95139539,
+  "tp":48.61717345
  },
  "per_full":{
-  "per":36.97889148,
-  "per_y":26.631
+  "per":66.6764527,
+  "per_y":93.39221950376908
  },
  "sigma_full":{
-  "sigma_e":"4.41D-90",
-  "sigma_a":"9.67S-66",
-  "sigma_q":"6.89C-86",
-  "sigma_i":"7.45S-41",
-  "sigma_om":"6.52W-68",
-  "sigma_w":"5.87S-56",
-  "sigma_ma":"2.62Y-46",
-  "sigma_ad":"2.70M-14",
-  "sigma_n":"1.75W-47",
-  "sigma_tp":"4.85A-78",
-  "sigma_per":"8.31P-18"
+  "sigma_e":"9.44T-25",
+  "sigma_a":"2.37E-91",
+  "sigma_q":"1.75A-28",
+  "sigma_i":"7.90C-35",
+  "sigma_om":"8.82M-89",
+  "sigma_w":"1.78O-36",
+  "sigma_ma":"9.79C-81",
+  "sigma_ad":"6.16M-60",
+  "sigma_n":"3.36R-17",
+  "sigma_tp":"2.68P-37",
+  "sigma_per":"4.77C-22"
  },
- "rms":0.544767039952,
+ "rms":0.1376,
  "moid_full":{
-  "moid":0.2461712,
-  "moid_id":67.0
+  "moid":0.32,
+  "moid_id":37.78
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

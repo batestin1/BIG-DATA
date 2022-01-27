@@ -1,63 +1,63 @@
 {
  "spk_id":2003736,
- "object_id":"t0000003735",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"330404900m/s",
+ "object_id":"p0000003735",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"427470210m/s",
  "object_fullname":{
-  "fullname":"2007 TH",
-  "prefix":"2007 ",
-  "name":"CASTILLO-ROGEZ"
+  "fullname":"2022 HI",
+  "prefix":"2022 ",
+  "name":"FULCHIGNONI"
  },
- "pdes":341,
+ "pdes":289,
  "diameter_full":{
-  "diameter":15.4452191805,
-  "diameter_sigma":9.95809
+  "diameter":16.6,
+  "diameter_sigma":6.47201846
  },
- "h":0.36363636363636365,
- "albedo":0.8953,
- "orbit_id":"PFW 78",
+ "h":0.7,
+ "albedo":0.0,
+ "orbit_id":"YTY 93",
  "epoch_full":{
-  "epoch":1915536.0,
-  "epoch_mjd":33848,
-  "epoch_cal":20220201.0
+  "epoch":9334935.0,
+  "epoch_mjd":34495,
+  "epoch_cal":20220129.0
  },
- "equinox":"S5583",
- "om":63.0,
- "e":0.319506,
- "a":5512787177.1,
- "q":38889.2872433212,
- "i":912.419653,
- "w":63.9203358868,
- "ad":0.0,
- "ma":61.49884156530897,
- "n":99.6247073092,
+ "equinox":"Y1772",
+ "om":47.754907,
+ "e":0.2801,
+ "a":45.527036,
+ "q":856107.812,
+ "i":7.93,
+ "w":26.437149763,
+ "ad":0.6291799,
+ "ma":25.7218936,
+ "n":75.62115,
  "tp_full":{
-  "tp_cal":33.100764718,
-  "tp":9.70218
+  "tp_cal":66.6514433222,
+  "tp":40.83136438936
  },
  "per_full":{
-  "per":17.551464,
-  "per_y":83.8833412
+  "per":57.3476,
+  "per_y":44.93951
  },
  "sigma_full":{
-  "sigma_e":"6.59H-10",
-  "sigma_a":"9.60A-28",
-  "sigma_q":"1.85R-63",
-  "sigma_i":"1.54R-16",
-  "sigma_om":"9.34M-31",
-  "sigma_w":"7.65E-86",
-  "sigma_ma":"7.21L-15",
-  "sigma_ad":"4.88P-63",
-  "sigma_n":"9.96S-69",
-  "sigma_tp":"9.57B-25",
-  "sigma_per":"6.99W-69"
+  "sigma_e":"2.27F-54",
+  "sigma_a":"8.35W-82",
+  "sigma_q":"4.37T-74",
+  "sigma_i":"7.74S-97",
+  "sigma_om":"4.89D-12",
+  "sigma_w":"5.52O-68",
+  "sigma_ma":"6.76B-26",
+  "sigma_ad":"3.84L-71",
+  "sigma_n":"1.24T-19",
+  "sigma_tp":"7.94A-64",
+  "sigma_per":"7.94B-32"
  },
- "rms":0.78399005,
+ "rms":0.5924,
  "moid_full":{
-  "moid":0.621345,
-  "moid_id":65.77948217063
+  "moid":0.5993,
+  "moid_id":66.94750976
  },
  "class_asteroid":"S-"
 }

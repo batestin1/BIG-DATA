@@ -1,63 +1,63 @@
 {
  "spk_id":2002233,
- "object_id":"c0000002232",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"892302724m/s",
+ "object_id":"b0000002232",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"677054001m/s",
  "object_fullname":{
-  "fullname":"2002 LE",
-  "prefix":"2002 ",
-  "name":"FLORENCELOSSE"
+  "fullname":"2009 DO",
+  "prefix":"2009 ",
+  "name":"GRIBOEDOV"
  },
- "pdes":503,
+ "pdes":649,
  "diameter_full":{
-  "diameter":54.13,
-  "diameter_sigma":9.76
+  "diameter":86.502,
+  "diameter_sigma":3.100003360636
  },
- "h":0.15384615384615385,
- "albedo":0.41,
- "orbit_id":"PSR 24",
+ "h":0.6470588235294118,
+ "albedo":0.7038238,
+ "orbit_id":"IWE 45",
  "epoch_full":{
-  "epoch":1404709.0,
-  "epoch_mjd":51626,
-  "epoch_cal":20220210.0
+  "epoch":9016324.0,
+  "epoch_mjd":94311,
+  "epoch_cal":20220129.0
  },
- "equinox":"L3379",
- "om":11.5,
- "e":0.0,
- "a":74962.37246,
- "q":17697526961853.0,
- "i":192.3915495022,
- "w":76.697657427262,
- "ad":0.44,
- "ma":96.4911,
- "n":22.2685,
+ "equinox":"E5887",
+ "om":99.35549769,
+ "e":0.75948,
+ "a":28.257089884132,
+ "q":7727320467695.57,
+ "i":33872512638464.9,
+ "w":71.45,
+ "ad":0.0,
+ "ma":85.52,
+ "n":46.427629641153,
  "tp_full":{
-  "tp_cal":99.99219794599426,
-  "tp":91.0
+  "tp_cal":80.91814426353,
+  "tp":65.982
  },
  "per_full":{
-  "per":77.677423374118,
-  "per_y":45.31813895182582
+  "per":89.883,
+  "per_y":8.28922432476248
  },
  "sigma_full":{
-  "sigma_e":"6.58B-40",
-  "sigma_a":"9.70B-94",
-  "sigma_q":"2.42S-71",
-  "sigma_i":"2.79H-94",
-  "sigma_om":"2.39S-39",
-  "sigma_w":"7.46H-69",
-  "sigma_ma":"5.76P-43",
-  "sigma_ad":"8.53W-59",
-  "sigma_n":"6.87N-40",
-  "sigma_tp":"1.62A-36",
-  "sigma_per":"9.86E-86"
+  "sigma_e":"2.57N-10",
+  "sigma_a":"1.60B-38",
+  "sigma_q":"8.37L-42",
+  "sigma_i":"1.19R-96",
+  "sigma_om":"3.69C-92",
+  "sigma_w":"5.38E-74",
+  "sigma_ma":"7.98S-33",
+  "sigma_ad":"1.91H-10",
+  "sigma_n":"1.62R-36",
+  "sigma_tp":"1.56M-47",
+  "sigma_per":"2.61K-42"
  },
- "rms":0.349,
+ "rms":0.5356,
  "moid_full":{
   "moid":0.0,
-  "moid_id":78.8037
+  "moid_id":97.958
  },
- "class_asteroid":"S-"
+ "class_asteroid":"Other Types"
 }

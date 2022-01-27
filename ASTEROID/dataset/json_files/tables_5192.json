@@ -1,63 +1,63 @@
 {
  "spk_id":2005193,
- "object_id":"y0000005192",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"301218523m/s",
+ "object_id":"r0000005192",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"482832619m/s",
  "object_fullname":{
-  "fullname":"2022 NU",
-  "prefix":"2022 ",
-  "name":"AKIHIKOITO"
+  "fullname":"2020 CO",
+  "prefix":"2020 ",
+  "name":"ARALIA"
  },
- "pdes":162,
+ "pdes":620,
  "diameter_full":{
-  "diameter":5.582,
-  "diameter_sigma":6.14839
+  "diameter":86.96033985597,
+  "diameter_sigma":7.7095542
  },
- "h":0.3333333333333333,
- "albedo":0.0,
- "orbit_id":"SIS 21",
+ "h":4.0,
+ "albedo":0.1,
+ "orbit_id":"CMS 41",
  "epoch_full":{
-  "epoch":2512199.0,
-  "epoch_mjd":35531,
-  "epoch_cal":20220219.0
+  "epoch":3897794.0,
+  "epoch_mjd":73280,
+  "epoch_cal":20220204.0
  },
- "equinox":"P1671",
- "om":41.50580393317,
- "e":0.8,
- "a":3856172.559793,
- "q":25743813369095.0,
- "i":52.96942,
- "w":7.27197972,
- "ad":0.7,
- "ma":71.72387343851125,
- "n":54.215905140043,
+ "equinox":"S8152",
+ "om":83.428526262128,
+ "e":0.3467,
+ "a":9.34043221181,
+ "q":10798899459613.5,
+ "i":608683412631182.0,
+ "w":31.2,
+ "ad":0.7966593,
+ "ma":48.588,
+ "n":16.3,
  "tp_full":{
-  "tp_cal":10.9685877859401,
-  "tp":43.2459003588
+  "tp_cal":93.284073021,
+  "tp":89.5757782192168
  },
  "per_full":{
-  "per":19.5371836553,
-  "per_y":69.0
+  "per":76.8,
+  "per_y":55.39
  },
  "sigma_full":{
-  "sigma_e":"2.41N-78",
-  "sigma_a":"5.64I-64",
-  "sigma_q":"2.26N-97",
-  "sigma_i":"5.10P-22",
-  "sigma_om":"4.74W-49",
-  "sigma_w":"3.81S-14",
-  "sigma_ma":"2.88A-16",
-  "sigma_ad":"7.59M-47",
-  "sigma_n":"1.24W-10",
-  "sigma_tp":"8.83T-12",
-  "sigma_per":"1.73F-42"
+  "sigma_e":"6.14P-72",
+  "sigma_a":"3.69P-23",
+  "sigma_q":"8.94L-81",
+  "sigma_i":"2.33D-37",
+  "sigma_om":"5.44E-99",
+  "sigma_w":"4.90S-43",
+  "sigma_ma":"1.85B-49",
+  "sigma_ad":"2.20S-25",
+  "sigma_n":"9.20R-79",
+  "sigma_tp":"9.54S-91",
+  "sigma_per":"2.34W-22"
  },
- "rms":0.94642608025868,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.75,
-  "moid_id":64.682006734999
+  "moid":0.311099,
+  "moid_id":90.90723153585758
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

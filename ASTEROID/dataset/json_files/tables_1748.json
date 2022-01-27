@@ -1,63 +1,63 @@
 {
  "spk_id":2001749,
- "object_id":"c0000001748",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"174133655m/s",
+ "object_id":"i0000001748",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"588561924m/s",
  "object_fullname":{
-  "fullname":"2019 GE",
-  "prefix":"2019 ",
-  "name":"EXCALIBUR"
+  "fullname":"2002 FA",
+  "prefix":"2002 ",
+  "name":"FERRIS"
  },
- "pdes":457,
+ "pdes":536,
  "diameter_full":{
-  "diameter":84.0,
-  "diameter_sigma":5.711
+  "diameter":44.7,
+  "diameter_sigma":5.523
  },
- "h":1.0588235294117647,
- "albedo":0.15,
- "orbit_id":"RMT 15",
+ "h":2.8,
+ "albedo":0.0,
+ "orbit_id":"AML 23",
  "epoch_full":{
-  "epoch":5448097.0,
-  "epoch_mjd":89038,
+  "epoch":4925242.0,
+  "epoch_mjd":10982,
   "epoch_cal":20220223.0
  },
- "equinox":"F1140",
- "om":47.2454734271668,
- "e":0.0,
- "a":1410675956.74,
- "q":700030211396913.0,
- "i":16069713876.59,
- "w":82.6792181,
- "ad":0.6513,
- "ma":87.3016482585556,
- "n":5.510739514942,
+ "equinox":"A9045",
+ "om":98.58166233339728,
+ "e":0.353379517,
+ "a":82524.636562,
+ "q":62363281.257972,
+ "i":3365428.752,
+ "w":2.6863179086923,
+ "ad":0.521523,
+ "ma":28.9698,
+ "n":5.9736518763,
  "tp_full":{
-  "tp_cal":32.0,
-  "tp":36.16648501179961
+  "tp_cal":86.7857746,
+  "tp":50.63879
  },
  "per_full":{
-  "per":65.1,
-  "per_y":74.77
+  "per":63.7558,
+  "per_y":75.12263431
  },
  "sigma_full":{
-  "sigma_e":"3.43M-19",
-  "sigma_a":"3.70E-60",
-  "sigma_q":"5.51F-74",
-  "sigma_i":"7.24R-88",
-  "sigma_om":"8.28D-81",
-  "sigma_w":"4.19C-13",
-  "sigma_ma":"5.67R-58",
-  "sigma_ad":"3.38W-94",
-  "sigma_n":"3.17F-28",
-  "sigma_tp":"3.73D-11",
-  "sigma_per":"4.95T-41"
+  "sigma_e":"5.23M-60",
+  "sigma_a":"7.39H-15",
+  "sigma_q":"7.50M-42",
+  "sigma_i":"8.60S-83",
+  "sigma_om":"1.67D-17",
+  "sigma_w":"4.58S-88",
+  "sigma_ma":"5.73H-21",
+  "sigma_ad":"6.92U-83",
+  "sigma_n":"7.72H-61",
+  "sigma_tp":"6.68L-97",
+  "sigma_per":"9.51A-85"
  },
- "rms":0.0,
+ "rms":0.9,
  "moid_full":{
-  "moid":0.65272349,
-  "moid_id":99.66113713431803
+  "moid":0.9,
+  "moid_id":58.895785662708
  },
  "class_asteroid":"S-"
 }

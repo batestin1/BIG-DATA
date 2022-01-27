@@ -1,63 +1,63 @@
 {
  "spk_id":2001572,
- "object_id":"c0000001571",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"192337225m/s",
+ "object_id":"p0000001571",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"372669032m/s",
  "object_fullname":{
-  "fullname":"2000 MO",
-  "prefix":"2000 ",
-  "name":"JOHNREID"
+  "fullname":"2008 LE",
+  "prefix":"2008 ",
+  "name":"ASTURIAS"
  },
- "pdes":541,
+ "pdes":569,
  "diameter_full":{
-  "diameter":83.0,
-  "diameter_sigma":8.78261
+  "diameter":98.345,
+  "diameter_sigma":3.656
  },
- "h":0.058823529411764705,
- "albedo":0.2767316295,
- "orbit_id":"IHC 41",
+ "h":1.0526315789473684,
+ "albedo":0.68,
+ "orbit_id":"SHN 39",
  "epoch_full":{
-  "epoch":6562831.0,
-  "epoch_mjd":29935,
-  "epoch_cal":20220210.0
+  "epoch":7745799.0,
+  "epoch_mjd":75853,
+  "epoch_cal":20220222.0
  },
- "equinox":"S4308",
- "om":99.27,
- "e":0.8,
- "a":5.0,
- "q":78549.4,
- "i":253.0,
- "w":29.35265,
- "ad":0.0,
- "ma":71.177013799431,
- "n":72.3,
+ "equinox":"M7787",
+ "om":60.1456,
+ "e":0.83392,
+ "a":81649147900941.0,
+ "q":11363.188,
+ "i":64874953777268.1,
+ "w":2.0,
+ "ad":0.2,
+ "ma":2.93287,
+ "n":65.2429921439301,
  "tp_full":{
-  "tp_cal":61.58,
-  "tp":70.689203026556
+  "tp_cal":78.588327542706,
+  "tp":47.3034086555
  },
  "per_full":{
-  "per":85.3996,
-  "per_y":98.574773234
+  "per":87.80882071762866,
+  "per_y":91.0
  },
  "sigma_full":{
-  "sigma_e":"2.55N-60",
-  "sigma_a":"7.95T-39",
-  "sigma_q":"6.98C-59",
-  "sigma_i":"5.97O-92",
-  "sigma_om":"6.89T-78",
-  "sigma_w":"5.99S-24",
-  "sigma_ma":"2.86P-66",
-  "sigma_ad":"6.92T-31",
-  "sigma_n":"4.64T-54",
-  "sigma_tp":"3.72D-27",
-  "sigma_per":"3.80P-35"
+  "sigma_e":"6.97T-74",
+  "sigma_a":"3.17E-70",
+  "sigma_q":"1.12M-11",
+  "sigma_i":"4.59A-89",
+  "sigma_om":"8.21U-79",
+  "sigma_w":"6.64C-46",
+  "sigma_ma":"5.49O-74",
+  "sigma_ad":"5.95P-47",
+  "sigma_n":"6.24D-89",
+  "sigma_tp":"9.43S-18",
+  "sigma_per":"1.26M-95"
  },
- "rms":0.34,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.7327,
-  "moid_id":96.0
+  "moid":0.8626,
+  "moid_id":29.3
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

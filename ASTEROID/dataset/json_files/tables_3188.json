@@ -1,63 +1,63 @@
 {
  "spk_id":2003189,
- "object_id":"c0000003188",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"52806190m/s",
+ "object_id":"s0000003188",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"536069500m/s",
  "object_fullname":{
-  "fullname":"2018 BE",
+  "fullname":"2018 WH",
   "prefix":"2018 ",
-  "name":"GOLDSCHMIDT"
+  "name":"DONPETTIT"
  },
- "pdes":936,
+ "pdes":529,
  "diameter_full":{
-  "diameter":69.87567434711,
-  "diameter_sigma":8.503
+  "diameter":29.0,
+  "diameter_sigma":5.17545
  },
- "h":1.6666666666666667,
- "albedo":0.9,
- "orbit_id":"CBO 83",
+ "h":1.5,
+ "albedo":0.0,
+ "orbit_id":"BMW 36",
  "epoch_full":{
-  "epoch":1314926.0,
-  "epoch_mjd":69035,
+  "epoch":7298281.0,
+  "epoch_mjd":90832,
   "epoch_cal":20220218.0
  },
- "equinox":"K7637",
- "om":61.6657952245,
- "e":0.39981,
- "a":9.0,
- "q":35382966995.0,
- "i":6023248300.0,
- "w":35.36560048516032,
- "ad":0.81,
- "ma":1.39026021,
- "n":61.949465,
+ "equinox":"T8580",
+ "om":7.87244611596,
+ "e":0.4012,
+ "a":369.8465,
+ "q":66634022763190.0,
+ "i":695127880620.67,
+ "w":54.3421535909659,
+ "ad":0.356992,
+ "ma":91.518899,
+ "n":66.904962776,
  "tp_full":{
-  "tp_cal":36.85183,
-  "tp":54.6
+  "tp_cal":40.13360168683,
+  "tp":94.4931356872
  },
  "per_full":{
-  "per":29.256581176,
-  "per_y":87.793371127
+  "per":48.0,
+  "per_y":68.920448
  },
  "sigma_full":{
-  "sigma_e":"1.98H-88",
-  "sigma_a":"8.70S-32",
-  "sigma_q":"3.58N-80",
-  "sigma_i":"2.45L-43",
-  "sigma_om":"1.52P-53",
-  "sigma_w":"2.18M-77",
-  "sigma_ma":"1.18B-20",
-  "sigma_ad":"1.12N-87",
-  "sigma_n":"2.88R-56",
-  "sigma_tp":"3.59A-34",
-  "sigma_per":"5.54C-72"
+  "sigma_e":"2.51C-40",
+  "sigma_a":"8.62A-28",
+  "sigma_q":"8.95C-14",
+  "sigma_i":"3.12P-88",
+  "sigma_om":"9.82T-71",
+  "sigma_w":"4.86E-71",
+  "sigma_ma":"7.87C-20",
+  "sigma_ad":"8.22E-62",
+  "sigma_n":"4.57P-55",
+  "sigma_tp":"1.16K-45",
+  "sigma_per":"6.16T-59"
  },
- "rms":0.0,
+ "rms":0.5680199643,
  "moid_full":{
-  "moid":0.5056715,
-  "moid_id":83.54290278442
+  "moid":0.73069,
+  "moid_id":86.24673945235
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

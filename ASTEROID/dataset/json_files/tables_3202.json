@@ -1,63 +1,63 @@
 {
  "spk_id":2003203,
- "object_id":"p0000003202",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"27983827m/s",
+ "object_id":"v0000003202",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"149903497m/s",
  "object_fullname":{
-  "fullname":"2018 GE",
+  "fullname":"2018 PM",
   "prefix":"2018 ",
-  "name":"GEISS"
+  "name":"AUDUBON"
  },
- "pdes":425,
+ "pdes":502,
  "diameter_full":{
-  "diameter":36.430301247,
-  "diameter_sigma":6.597346132
+  "diameter":35.824630845278,
+  "diameter_sigma":1.912336
  },
- "h":0.3,
- "albedo":0.7,
- "orbit_id":"FGH 69",
+ "h":0.06666666666666667,
+ "albedo":0.192,
+ "orbit_id":"NMP 44",
  "epoch_full":{
-  "epoch":9792841.0,
-  "epoch_mjd":36565,
+  "epoch":5288756.0,
+  "epoch_mjd":93903,
   "epoch_cal":20220201.0
  },
- "equinox":"A1548",
- "om":59.26203193829809,
- "e":0.14691,
- "a":22521.69691,
- "q":22614696384.7,
- "i":520678462479384.0,
- "w":80.4,
- "ad":0.9858,
- "ma":56.94927201274,
- "n":89.0,
+ "equinox":"M9961",
+ "om":72.67281037213793,
+ "e":0.0,
+ "a":3044347.92287,
+ "q":14.71,
+ "i":908254250062.24,
+ "w":75.679,
+ "ad":0.23653368,
+ "ma":77.6,
+ "n":69.333814,
  "tp_full":{
-  "tp_cal":17.493,
-  "tp":79.6925250685
+  "tp_cal":80.61358608919,
+  "tp":20.858
  },
  "per_full":{
-  "per":9.5,
-  "per_y":35.35967
+  "per":42.9640460243758,
+  "per_y":77.36614928709
  },
  "sigma_full":{
-  "sigma_e":"4.77A-92",
-  "sigma_a":"9.57S-68",
-  "sigma_q":"3.98M-68",
-  "sigma_i":"7.27H-69",
-  "sigma_om":"8.55A-36",
-  "sigma_w":"3.39M-97",
-  "sigma_ma":"5.35C-27",
-  "sigma_ad":"5.29F-96",
-  "sigma_n":"5.50R-48",
-  "sigma_tp":"5.14W-20",
-  "sigma_per":"4.99S-79"
+  "sigma_e":"9.29A-49",
+  "sigma_a":"2.16W-69",
+  "sigma_q":"8.97U-15",
+  "sigma_i":"5.65F-42",
+  "sigma_om":"9.71A-47",
+  "sigma_w":"7.92H-53",
+  "sigma_ma":"2.43I-20",
+  "sigma_ad":"5.79N-93",
+  "sigma_n":"2.68W-27",
+  "sigma_tp":"7.56W-49",
+  "sigma_per":"6.72B-34"
  },
- "rms":0.0,
+ "rms":0.9,
  "moid_full":{
-  "moid":0.350080559,
-  "moid_id":38.58446329
+  "moid":0.255,
+  "moid_id":49.5653
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

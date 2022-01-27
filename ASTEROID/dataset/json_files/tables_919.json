@@ -1,63 +1,63 @@
 {
  "spk_id":2000920,
- "object_id":"v000000919",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"138160690m/s",
+ "object_id":"d000000919",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"156999218m/s",
  "object_fullname":{
-  "fullname":"2015 CO",
-  "prefix":"2015 ",
-  "name":"CHURCH STRETTON"
+  "fullname":"2022 TY",
+  "prefix":"2022 ",
+  "name":"BARUFFETTI"
  },
- "pdes":494,
+ "pdes":407,
  "diameter_full":{
-  "diameter":67.61,
-  "diameter_sigma":9.6272193454
+  "diameter":81.1716386,
+  "diameter_sigma":3.413
  },
- "h":0.8421052631578947,
- "albedo":0.4,
- "orbit_id":"RBT 84",
+ "h":1.2,
+ "albedo":0.34,
+ "orbit_id":"FEC 10",
  "epoch_full":{
-  "epoch":8217362.0,
-  "epoch_mjd":98860,
-  "epoch_cal":20220128.0
+  "epoch":3347000.0,
+  "epoch_mjd":83819,
+  "epoch_cal":20220202.0
  },
- "equinox":"V7984",
- "om":14.171,
- "e":0.0,
- "a":2675983201741.19,
- "q":428441635617290.0,
- "i":588018567340070.0,
- "w":17.22,
- "ad":0.2,
- "ma":99.47713606013872,
- "n":80.7,
+ "equinox":"S4839",
+ "om":94.420558408,
+ "e":0.8,
+ "a":46.135,
+ "q":290536.360287,
+ "i":427698556005.903,
+ "w":90.915655109232,
+ "ad":0.96,
+ "ma":45.1523650992,
+ "n":71.45130134,
  "tp_full":{
-  "tp_cal":15.81745016,
-  "tp":13.5371109058
+  "tp_cal":26.0,
+  "tp":79.887095
  },
  "per_full":{
-  "per":61.685278573133,
-  "per_y":37.22654467625561
+  "per":82.44799,
+  "per_y":64.8642
  },
  "sigma_full":{
-  "sigma_e":"9.32M-47",
-  "sigma_a":"6.18C-33",
-  "sigma_q":"8.75P-34",
-  "sigma_i":"4.65T-96",
-  "sigma_om":"2.70W-98",
-  "sigma_w":"2.63O-59",
-  "sigma_ma":"3.67F-46",
-  "sigma_ad":"1.29C-41",
-  "sigma_n":"1.40L-52",
-  "sigma_tp":"8.92F-69",
-  "sigma_per":"8.16W-65"
+  "sigma_e":"8.60H-78",
+  "sigma_a":"3.11A-43",
+  "sigma_q":"8.24W-54",
+  "sigma_i":"1.69H-94",
+  "sigma_om":"5.30W-73",
+  "sigma_w":"1.53F-58",
+  "sigma_ma":"3.74R-33",
+  "sigma_ad":"2.91C-37",
+  "sigma_n":"7.38S-98",
+  "sigma_tp":"4.27P-80",
+  "sigma_per":"2.92D-46"
  },
- "rms":0.8375,
+ "rms":0.11,
  "moid_full":{
-  "moid":0.888483446,
-  "moid_id":55.2649146357
+  "moid":0.1,
+  "moid_id":79.16313198782
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

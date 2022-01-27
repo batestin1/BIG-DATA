@@ -1,63 +1,63 @@
 {
  "spk_id":2006228,
- "object_id":"h0000006227",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"42709716m/s",
+ "object_id":"a0000006227",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"439179368m/s",
  "object_fullname":{
-  "fullname":"2004 HI",
-  "prefix":"2004 ",
-  "name":"CORTLAND"
+  "fullname":"2001 AC",
+  "prefix":"2001 ",
+  "name":"ANCHIALOS"
  },
- "pdes":182,
+ "pdes":250,
  "diameter_full":{
-  "diameter":41.66363201694,
-  "diameter_sigma":6.76437453263
+  "diameter":66.44,
+  "diameter_sigma":5.37490274686961
  },
- "h":2.5,
- "albedo":0.6961,
- "orbit_id":"ICG 49",
+ "h":1.0,
+ "albedo":0.5572,
+ "orbit_id":"PTS 59",
  "epoch_full":{
-  "epoch":1927044.0,
-  "epoch_mjd":26296,
-  "epoch_cal":20220221.0
+  "epoch":8568170.0,
+  "epoch_mjd":98706,
+  "epoch_cal":20220201.0
  },
- "equinox":"C4119",
- "om":78.2,
- "e":0.65,
- "a":447959.33415,
- "q":6993480112.28,
- "i":513435.57989,
- "w":68.4,
- "ad":0.778,
- "ma":71.3209792985,
- "n":32.5299424093,
+ "equinox":"C7002",
+ "om":70.1929139,
+ "e":0.8709,
+ "a":48222093.92,
+ "q":589197.745220629,
+ "i":77758.751109,
+ "w":81.7126405973,
+ "ad":0.14,
+ "ma":83.3989,
+ "n":25.489,
  "tp_full":{
-  "tp_cal":77.3643316559,
-  "tp":29.911
+  "tp_cal":44.331943368,
+  "tp":61.39607
  },
  "per_full":{
-  "per":57.81793891422063,
-  "per_y":94.0
+  "per":98.85855,
+  "per_y":97.181410808697
  },
  "sigma_full":{
-  "sigma_e":"4.28T-60",
-  "sigma_a":"3.54R-54",
-  "sigma_q":"3.18C-30",
-  "sigma_i":"5.35C-91",
-  "sigma_om":"2.99F-71",
-  "sigma_w":"3.34B-38",
-  "sigma_ma":"9.31R-16",
-  "sigma_ad":"6.14D-64",
-  "sigma_n":"4.20N-83",
-  "sigma_tp":"1.35T-24",
-  "sigma_per":"6.58D-60"
+  "sigma_e":"3.20S-49",
+  "sigma_a":"9.18S-96",
+  "sigma_q":"7.63E-93",
+  "sigma_i":"3.45S-58",
+  "sigma_om":"2.80E-43",
+  "sigma_w":"8.47F-77",
+  "sigma_ma":"5.18O-98",
+  "sigma_ad":"7.29S-78",
+  "sigma_n":"9.44P-27",
+  "sigma_tp":"8.99K-86",
+  "sigma_per":"7.69A-40"
  },
- "rms":0.0,
+ "rms":0.7045,
  "moid_full":{
-  "moid":0.54,
-  "moid_id":39.42781732
+  "moid":0.0,
+  "moid_id":55.241
  },
- "class_asteroid":"C-"
+ "class_asteroid":"S-"
 }

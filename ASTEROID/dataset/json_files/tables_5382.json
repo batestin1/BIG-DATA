@@ -1,63 +1,63 @@
 {
  "spk_id":2005383,
- "object_id":"u0000005382",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"238117007m/s",
+ "object_id":"f0000005382",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"883563813m/s",
  "object_fullname":{
-  "fullname":"2004 TH",
+  "fullname":"2004 PE",
   "prefix":"2004 ",
-  "name":"GRANTLEWIS"
+  "name":"DON QUIXOTE"
  },
- "pdes":910,
+ "pdes":932,
  "diameter_full":{
-  "diameter":98.68393,
-  "diameter_sigma":6.791115873999
+  "diameter":16.7,
+  "diameter_sigma":9.1696839918922
  },
- "h":0.95,
- "albedo":0.398,
- "orbit_id":"WWS 53",
+ "h":1.0,
+ "albedo":0.6,
+ "orbit_id":"TSS 80",
  "epoch_full":{
-  "epoch":3474453.0,
-  "epoch_mjd":71282,
-  "epoch_cal":20220204.0
+  "epoch":6117909.0,
+  "epoch_mjd":69487,
+  "epoch_cal":20220209.0
  },
- "equinox":"S4855",
- "om":13.8396,
- "e":0.879,
- "a":11079.71769,
- "q":2.51,
- "i":9939316.1082204,
- "w":68.742995,
- "ad":0.358681,
- "ma":93.3982160262,
- "n":39.57779693,
+ "equinox":"P7323",
+ "om":9.2378,
+ "e":0.2,
+ "a":623770181.25,
+ "q":11505531.68847,
+ "i":355.5302,
+ "w":78.58910771889,
+ "ad":0.0,
+ "ma":18.99098784,
+ "n":3.4948,
  "tp_full":{
-  "tp_cal":93.559775,
-  "tp":91.154274808
+  "tp_cal":41.38728,
+  "tp":82.5190792
  },
  "per_full":{
-  "per":58.1743,
-  "per_y":53.58516275029471
+  "per":90.579641643,
+  "per_y":29.7
  },
  "sigma_full":{
-  "sigma_e":"5.93F-80",
-  "sigma_a":"4.67C-76",
-  "sigma_q":"6.49M-18",
-  "sigma_i":"1.98L-60",
-  "sigma_om":"8.64G-43",
-  "sigma_w":"1.67G-98",
-  "sigma_ma":"3.34P-28",
-  "sigma_ad":"2.83L-92",
-  "sigma_n":"1.15S-30",
-  "sigma_tp":"1.32A-89",
-  "sigma_per":"3.14G-62"
+  "sigma_e":"1.87P-46",
+  "sigma_a":"9.83L-50",
+  "sigma_q":"8.64W-65",
+  "sigma_i":"3.39A-55",
+  "sigma_om":"2.78S-22",
+  "sigma_w":"9.80C-30",
+  "sigma_ma":"8.64H-77",
+  "sigma_ad":"4.35P-80",
+  "sigma_n":"8.96M-57",
+  "sigma_tp":"8.80A-32",
+  "sigma_per":"8.63L-96"
  },
- "rms":0.41603,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.8972581,
-  "moid_id":24.4878
+  "moid":0.55,
+  "moid_id":70.76
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

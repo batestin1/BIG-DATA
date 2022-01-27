@@ -1,63 +1,63 @@
 {
  "spk_id":2005219,
- "object_id":"t0000005218",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"799423951m/s",
+ "object_id":"p0000005218",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"32905447m/s",
  "object_fullname":{
-  "fullname":"2010 WH",
-  "prefix":"2010 ",
-  "name":"EMMAFREEDMAN"
+  "fullname":"2022 DI",
+  "prefix":"2022 ",
+  "name":"IMMANUELFUCHS"
  },
- "pdes":252,
+ "pdes":719,
  "diameter_full":{
-  "diameter":45.0,
-  "diameter_sigma":6.0
+  "diameter":53.646312898353,
+  "diameter_sigma":8.2770737198
  },
- "h":2.2857142857142856,
- "albedo":0.6251876,
- "orbit_id":"TEW 65",
+ "h":1.0,
+ "albedo":0.0,
+ "orbit_id":"HAA 72",
  "epoch_full":{
-  "epoch":5987381.0,
-  "epoch_mjd":91860,
-  "epoch_cal":20220206.0
+  "epoch":6258623.0,
+  "epoch_mjd":46718,
+  "epoch_cal":20220217.0
  },
- "equinox":"S6120",
- "om":27.45404281447,
- "e":0.70054,
- "a":4200739616153.0,
- "q":15911563486.47,
- "i":3839412683477.0,
- "w":32.7881,
- "ad":0.132,
- "ma":57.40083010574,
- "n":27.865644192,
+ "equinox":"T1728",
+ "om":1.53325931573,
+ "e":0.8205,
+ "a":2998365.7,
+ "q":8739191446.1715,
+ "i":73440097967049.0,
+ "w":78.799996829,
+ "ad":0.5,
+ "ma":12.315,
+ "n":72.4,
  "tp_full":{
-  "tp_cal":85.4,
-  "tp":40.47006
+  "tp_cal":94.251140422021,
+  "tp":82.40139570081567
  },
  "per_full":{
-  "per":93.4342616525172,
-  "per_y":98.1556728
+  "per":31.1211032048193,
+  "per_y":28.8
  },
  "sigma_full":{
-  "sigma_e":"1.77E-36",
-  "sigma_a":"8.18C-68",
-  "sigma_q":"1.84H-37",
-  "sigma_i":"5.29O-53",
-  "sigma_om":"7.26C-56",
-  "sigma_w":"6.40G-19",
-  "sigma_ma":"4.53B-31",
-  "sigma_ad":"5.63R-14",
-  "sigma_n":"8.99E-43",
-  "sigma_tp":"9.72T-96",
-  "sigma_per":"8.60E-63"
+  "sigma_e":"1.15D-81",
+  "sigma_a":"2.35M-91",
+  "sigma_q":"6.88A-91",
+  "sigma_i":"1.19Y-46",
+  "sigma_om":"5.89I-36",
+  "sigma_w":"6.97B-79",
+  "sigma_ma":"1.95G-63",
+  "sigma_ad":"8.75U-38",
+  "sigma_n":"5.12B-37",
+  "sigma_tp":"3.10F-63",
+  "sigma_per":"8.62B-19"
  },
- "rms":0.7487482965,
+ "rms":0.9,
  "moid_full":{
-  "moid":0.182500327046,
-  "moid_id":45.7782
+  "moid":0.54058,
+  "moid_id":59.7568755536484
  },
- "class_asteroid":"S-"
+ "class_asteroid":"C-"
 }

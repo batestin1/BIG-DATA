@@ -1,63 +1,63 @@
 {
  "spk_id":2006014,
- "object_id":"p0000006013",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"565524274m/s",
+ "object_id":"b0000006013",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"749265078m/s",
  "object_fullname":{
-  "fullname":"2002 ST",
-  "prefix":"2002 ",
-  "name":"JEMASALOMON"
+  "fullname":"2016 FI",
+  "prefix":"2016 ",
+  "name":"JANDORF"
  },
- "pdes":822,
+ "pdes":659,
  "diameter_full":{
-  "diameter":48.708233,
-  "diameter_sigma":9.984420935892
+  "diameter":68.1511,
+  "diameter_sigma":9.80867
  },
- "h":0.6666666666666666,
- "albedo":0.679,
- "orbit_id":"CDK 33",
+ "h":1.0,
+ "albedo":0.3582533411,
+ "orbit_id":"DPF 42",
  "epoch_full":{
-  "epoch":9656642.0,
-  "epoch_mjd":27838,
-  "epoch_cal":20220210.0
+  "epoch":6067776.0,
+  "epoch_mjd":62644,
+  "epoch_cal":20220223.0
  },
- "equinox":"B2205",
- "om":69.609825897451,
- "e":0.7634,
- "a":35462609.56715,
- "q":628786396781049.0,
- "i":3261306424518.0,
- "w":76.2739770183933,
- "ad":0.2132,
- "ma":93.3636895,
- "n":61.0,
+ "equinox":"H9086",
+ "om":43.99885347869,
+ "e":0.7250465,
+ "a":54459871.0,
+ "q":27443652.0,
+ "i":69500236633155.0,
+ "w":86.82836801,
+ "ad":0.0,
+ "ma":42.242557978067,
+ "n":50.0,
  "tp_full":{
-  "tp_cal":46.2137,
-  "tp":49.746741616
+  "tp_cal":74.5007847,
+  "tp":31.472959643121
  },
  "per_full":{
-  "per":9.7221,
-  "per_y":66.7687
+  "per":64.8567655787,
+  "per_y":75.469984369
  },
  "sigma_full":{
-  "sigma_e":"1.74R-81",
-  "sigma_a":"2.68T-97",
-  "sigma_q":"1.32G-66",
-  "sigma_i":"3.86E-11",
-  "sigma_om":"9.18D-65",
-  "sigma_w":"9.66B-59",
-  "sigma_ma":"7.78F-64",
-  "sigma_ad":"7.81L-33",
-  "sigma_n":"9.59S-63",
-  "sigma_tp":"4.34T-31",
-  "sigma_per":"9.46L-55"
+  "sigma_e":"3.30F-72",
+  "sigma_a":"1.36S-14",
+  "sigma_q":"9.74D-40",
+  "sigma_i":"8.12E-34",
+  "sigma_om":"6.52M-70",
+  "sigma_w":"7.77T-81",
+  "sigma_ma":"4.52P-99",
+  "sigma_ad":"5.62T-94",
+  "sigma_n":"2.12P-19",
+  "sigma_tp":"6.53C-71",
+  "sigma_per":"6.93O-98"
  },
- "rms":0.1,
+ "rms":0.77606314,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":38.19749594247
+  "moid":0.6,
+  "moid_id":62.138350453
  },
  "class_asteroid":"C-"
 }

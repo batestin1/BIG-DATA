@@ -1,63 +1,63 @@
 {
  "spk_id":2000337,
- "object_id":"w000000336",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"227780761m/s",
+ "object_id":"n000000336",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"636995993m/s",
  "object_fullname":{
-  "fullname":"2001 RO",
-  "prefix":"2001 ",
-  "name":"KALTENBRUNNER"
+  "fullname":"2019 GO",
+  "prefix":"2019 ",
+  "name":"KABTAMU"
  },
- "pdes":109,
+ "pdes":326,
  "diameter_full":{
-  "diameter":73.576300934,
-  "diameter_sigma":1.0
+  "diameter":6.9,
+  "diameter_sigma":8.7
  },
- "h":0.5,
- "albedo":0.88,
- "orbit_id":"WHM 47",
+ "h":0.11764705882352941,
+ "albedo":0.81,
+ "orbit_id":"TPS 55",
  "epoch_full":{
-  "epoch":5323524.0,
-  "epoch_mjd":78425,
-  "epoch_cal":20220130.0
+  "epoch":2552599.0,
+  "epoch_mjd":24130,
+  "epoch_cal":20220212.0
  },
- "equinox":"S5395",
- "om":66.81268351,
- "e":0.38615,
- "a":45016975843799.8,
- "q":3798.0,
- "i":9053783827120.0,
- "w":47.258,
- "ad":0.475286971,
- "ma":98.4684,
- "n":14.42,
+ "equinox":"E1005",
+ "om":58.204,
+ "e":0.9,
+ "a":36.3461,
+ "q":517395279755258.0,
+ "i":297426.3971,
+ "w":9.31,
+ "ad":0.994,
+ "ma":44.1,
+ "n":6.46597,
  "tp_full":{
-  "tp_cal":43.658,
-  "tp":73.7239990083901
+  "tp_cal":64.0,
+  "tp":1.75993227203
  },
  "per_full":{
-  "per":31.92264104,
-  "per_y":22.95245530507
+  "per":83.0,
+  "per_y":74.546633
  },
  "sigma_full":{
-  "sigma_e":"1.16W-18",
-  "sigma_a":"5.43R-95",
-  "sigma_q":"5.22P-99",
-  "sigma_i":"6.49A-87",
-  "sigma_om":"1.84N-71",
-  "sigma_w":"2.24A-18",
-  "sigma_ma":"2.19L-31",
-  "sigma_ad":"1.56N-92",
-  "sigma_n":"3.27O-69",
-  "sigma_tp":"9.40N-55",
-  "sigma_per":"3.43A-73"
+  "sigma_e":"4.68C-29",
+  "sigma_a":"6.12R-12",
+  "sigma_q":"4.99S-29",
+  "sigma_i":"6.35A-40",
+  "sigma_om":"6.12H-45",
+  "sigma_w":"7.67T-97",
+  "sigma_ma":"2.32F-21",
+  "sigma_ad":"3.33I-63",
+  "sigma_n":"7.23P-91",
+  "sigma_tp":"2.33K-38",
+  "sigma_per":"7.76P-12"
  },
- "rms":0.34200334,
+ "rms":0.3246,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":45.83292479
+  "moid":0.3,
+  "moid_id":11.8779164757
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"S-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2004579,
- "object_id":"b0000004578",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"612877346m/s",
+ "object_id":"m0000004578",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"649341910m/s",
  "object_fullname":{
-  "fullname":"2017 WO",
-  "prefix":"2017 ",
-  "name":"FIRNBERG"
+  "fullname":"2020 ME",
+  "prefix":"2020 ",
+  "name":"HERBA"
  },
- "pdes":132,
+ "pdes":482,
  "diameter_full":{
-  "diameter":48.196756428,
-  "diameter_sigma":1.4393
+  "diameter":95.64724221609,
+  "diameter_sigma":1.0
  },
- "h":0.7857142857142857,
- "albedo":0.7911525289,
- "orbit_id":"MTR 21",
+ "h":4.0,
+ "albedo":0.563318,
+ "orbit_id":"HAN 71",
  "epoch_full":{
-  "epoch":4452491.0,
-  "epoch_mjd":82096,
-  "epoch_cal":20220210.0
+  "epoch":9524398.0,
+  "epoch_mjd":39501,
+  "epoch_cal":20220201.0
  },
- "equinox":"D9641",
- "om":62.319968,
- "e":0.518336666,
- "a":8680416227969.0,
- "q":87.68266,
- "i":5354.0,
- "w":19.32242,
- "ad":0.1,
- "ma":72.7089,
- "n":49.22728,
+ "equinox":"E1461",
+ "om":51.9210973128,
+ "e":0.91524392,
+ "a":8.7661,
+ "q":2512742.82,
+ "i":129523378595.751,
+ "w":48.0,
+ "ad":0.12200948,
+ "ma":76.8023523391069,
+ "n":29.0,
  "tp_full":{
-  "tp_cal":23.6006,
-  "tp":88.22825012817856
+  "tp_cal":93.8307587,
+  "tp":33.840150322426
  },
  "per_full":{
-  "per":53.65572,
-  "per_y":29.95126122
+  "per":21.4723138,
+  "per_y":26.64495772005
  },
  "sigma_full":{
-  "sigma_e":"1.13A-34",
-  "sigma_a":"2.23W-57",
-  "sigma_q":"7.80A-28",
-  "sigma_i":"8.15F-38",
-  "sigma_om":"6.74F-71",
-  "sigma_w":"2.88W-95",
-  "sigma_ma":"9.67B-18",
-  "sigma_ad":"2.64G-92",
-  "sigma_n":"6.19U-28",
-  "sigma_tp":"1.12F-14",
-  "sigma_per":"4.93C-86"
+  "sigma_e":"2.13S-37",
+  "sigma_a":"6.81B-23",
+  "sigma_q":"5.91N-38",
+  "sigma_i":"2.45S-15",
+  "sigma_om":"6.32P-64",
+  "sigma_w":"6.50P-46",
+  "sigma_ma":"1.94W-32",
+  "sigma_ad":"4.83P-22",
+  "sigma_n":"5.15E-97",
+  "sigma_tp":"4.55C-31",
+  "sigma_per":"7.28F-69"
  },
- "rms":0.4405841899464,
+ "rms":0.3384929,
  "moid_full":{
-  "moid":0.7,
-  "moid_id":99.27
+  "moid":0.0,
+  "moid_id":37.18665
  },
  "class_asteroid":"M-types"
 }

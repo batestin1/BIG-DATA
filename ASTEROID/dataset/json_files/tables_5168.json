@@ -1,63 +1,63 @@
 {
  "spk_id":2005169,
- "object_id":"s0000005168",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"416740239m/s",
+ "object_id":"m0000005168",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"849443279m/s",
  "object_fullname":{
-  "fullname":"2003 FA",
-  "prefix":"2003 ",
-  "name":"JANSMIT"
+  "fullname":"2005 DI",
+  "prefix":"2005 ",
+  "name":"DUNYAZADE"
  },
- "pdes":486,
+ "pdes":368,
  "diameter_full":{
-  "diameter":36.672,
-  "diameter_sigma":5.5
+  "diameter":15.29112,
+  "diameter_sigma":2.42626861671
  },
- "h":0.5789473684210527,
- "albedo":0.615328621,
- "orbit_id":"SLC 78",
+ "h":1.1818181818181819,
+ "albedo":0.5776783,
+ "orbit_id":"PTS 33",
  "epoch_full":{
-  "epoch":6588881.0,
-  "epoch_mjd":10073,
-  "epoch_cal":20220220.0
+  "epoch":8765351.0,
+  "epoch_mjd":52213,
+  "epoch_cal":20220224.0
  },
- "equinox":"L1036",
- "om":53.8,
- "e":0.0,
- "a":9139851261.3,
- "q":48.4,
- "i":9479123049.1,
- "w":60.61521,
+ "equinox":"G3293",
+ "om":79.42,
+ "e":0.3,
+ "a":8286.7,
+ "q":524.8009757987,
+ "i":10669702.41769,
+ "w":9.1534179478558,
  "ad":0.0,
- "ma":73.249468349346,
- "n":94.2668376961,
+ "ma":17.5189036152876,
+ "n":27.4,
  "tp_full":{
-  "tp_cal":88.31,
-  "tp":18.56
+  "tp_cal":55.6632850815904,
+  "tp":30.83
  },
  "per_full":{
-  "per":87.231,
-  "per_y":40.9903610818
+  "per":79.8963561203917,
+  "per_y":71.611718148
  },
  "sigma_full":{
-  "sigma_e":"6.18N-78",
-  "sigma_a":"2.78T-18",
-  "sigma_q":"4.19H-23",
-  "sigma_i":"2.55T-93",
-  "sigma_om":"7.62C-19",
-  "sigma_w":"8.15E-86",
-  "sigma_ma":"4.13B-96",
-  "sigma_ad":"8.79S-76",
-  "sigma_n":"4.26R-36",
-  "sigma_tp":"2.81P-77",
-  "sigma_per":"4.77A-83"
+  "sigma_e":"8.45T-70",
+  "sigma_a":"3.56H-72",
+  "sigma_q":"1.10L-22",
+  "sigma_i":"9.78N-65",
+  "sigma_om":"8.68S-21",
+  "sigma_w":"4.50U-45",
+  "sigma_ma":"6.42T-44",
+  "sigma_ad":"3.14M-21",
+  "sigma_n":"6.84E-12",
+  "sigma_tp":"7.10S-40",
+  "sigma_per":"4.76D-84"
  },
- "rms":0.2,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.8569275597908,
-  "moid_id":7.30886258518185
+  "moid":0.875,
+  "moid_id":59.1139270898286
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

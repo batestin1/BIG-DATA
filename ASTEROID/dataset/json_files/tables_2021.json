@@ -1,63 +1,63 @@
 {
  "spk_id":2002022,
- "object_id":"o0000002021",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"837896655m/s",
+ "object_id":"m0000002021",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"466963594m/s",
  "object_fullname":{
-  "fullname":"2017 CO",
-  "prefix":"2017 ",
-  "name":"KAMO`OALEWA"
+  "fullname":"2005 PO",
+  "prefix":"2005 ",
+  "name":"GRONINGEN"
  },
- "pdes":300,
+ "pdes":603,
  "diameter_full":{
-  "diameter":10.9,
-  "diameter_sigma":5.33
+  "diameter":75.8907335307,
+  "diameter_sigma":8.5445761301847
  },
- "h":0.5,
- "albedo":0.5,
- "orbit_id":"ESI 19",
+ "h":0.6,
+ "albedo":0.0,
+ "orbit_id":"SLT 89",
  "epoch_full":{
-  "epoch":3283687.0,
-  "epoch_mjd":27277,
-  "epoch_cal":20220223.0
+  "epoch":2773230.0,
+  "epoch_mjd":35518,
+  "epoch_cal":20220208.0
  },
- "equinox":"T2903",
- "om":87.2779069004157,
- "e":0.78244,
- "a":15144260439810.0,
- "q":486840811.18,
- "i":46708400355.9504,
- "w":90.131221,
- "ad":0.948539,
- "ma":97.629645121,
- "n":68.14724789,
+ "equinox":"C7938",
+ "om":60.262336016,
+ "e":0.18273,
+ "a":1036485.31,
+ "q":54940780272805.0,
+ "i":172762.813,
+ "w":2.7,
+ "ad":0.8,
+ "ma":65.108768431,
+ "n":18.0,
  "tp_full":{
-  "tp_cal":7.9447388538735,
-  "tp":92.46
+  "tp_cal":69.807,
+  "tp":85.4903225
  },
  "per_full":{
-  "per":35.70596515,
-  "per_y":6.96466105556
+  "per":50.981013768,
+  "per_y":69.5
  },
  "sigma_full":{
-  "sigma_e":"9.47P-68",
-  "sigma_a":"9.66O-88",
-  "sigma_q":"7.88C-91",
-  "sigma_i":"3.47P-96",
-  "sigma_om":"7.36T-71",
-  "sigma_w":"5.85B-53",
-  "sigma_ma":"7.73C-99",
-  "sigma_ad":"7.88A-43",
-  "sigma_n":"8.47S-78",
-  "sigma_tp":"6.73D-87",
-  "sigma_per":"1.18B-41"
+  "sigma_e":"2.90F-92",
+  "sigma_a":"8.19L-16",
+  "sigma_q":"2.35Y-55",
+  "sigma_i":"9.42E-64",
+  "sigma_om":"9.66A-17",
+  "sigma_w":"4.39R-44",
+  "sigma_ma":"3.89F-17",
+  "sigma_ad":"3.40L-15",
+  "sigma_n":"4.40T-91",
+  "sigma_tp":"7.92W-80",
+  "sigma_per":"2.51T-44"
  },
- "rms":0.0,
+ "rms":0.8471824035643,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":72.3208
+  "moid":0.51,
+  "moid_id":4.4885097
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

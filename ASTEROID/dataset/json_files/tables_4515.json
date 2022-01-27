@@ -1,63 +1,63 @@
 {
  "spk_id":2004516,
- "object_id":"m0000004515",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"705815605m/s",
+ "object_id":"d0000004515",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"641831272m/s",
  "object_fullname":{
-  "fullname":"2022 PO",
-  "prefix":"2022 ",
-  "name":"COURANT"
+  "fullname":"2006 GO",
+  "prefix":"2006 ",
+  "name":"BOTOLPHIA"
  },
- "pdes":789,
+ "pdes":963,
  "diameter_full":{
-  "diameter":28.4907051,
-  "diameter_sigma":1.0
+  "diameter":47.7743759721871,
+  "diameter_sigma":3.7089
  },
- "h":3.6,
- "albedo":0.63,
- "orbit_id":"SCR 34",
+ "h":0.8125,
+ "albedo":0.62905,
+ "orbit_id":"EFI 22",
  "epoch_full":{
-  "epoch":2357532.0,
-  "epoch_mjd":53427,
-  "epoch_cal":20220215.0
+  "epoch":2241428.0,
+  "epoch_mjd":88301,
+  "epoch_cal":20220131.0
  },
- "equinox":"A4607",
- "om":12.658825311799,
- "e":0.442080796534,
- "a":3.8,
- "q":73665975.6,
- "i":20105.84868463,
- "w":13.4587774,
- "ad":0.0,
- "ma":19.773,
- "n":91.283761265,
+ "equinox":"E5304",
+ "om":4.7661,
+ "e":0.543,
+ "a":92824954916878.0,
+ "q":1390811249451.0,
+ "i":7008152.29,
+ "w":8.1,
+ "ad":0.1,
+ "ma":87.0,
+ "n":13.8626599,
  "tp_full":{
-  "tp_cal":63.16155798,
-  "tp":44.63431592021
+  "tp_cal":16.185550315,
+  "tp":95.7925646
  },
  "per_full":{
-  "per":88.136805682583,
-  "per_y":66.97558936
+  "per":93.79400313,
+  "per_y":1.55
  },
  "sigma_full":{
-  "sigma_e":"7.26N-36",
-  "sigma_a":"2.11P-82",
-  "sigma_q":"9.89F-95",
-  "sigma_i":"7.45S-27",
-  "sigma_om":"4.35E-43",
-  "sigma_w":"5.44D-94",
-  "sigma_ma":"9.26T-94",
-  "sigma_ad":"8.30D-87",
-  "sigma_n":"7.51P-35",
-  "sigma_tp":"4.71W-13",
-  "sigma_per":"7.51D-38"
+  "sigma_e":"3.74R-37",
+  "sigma_a":"2.52W-62",
+  "sigma_q":"6.31G-81",
+  "sigma_i":"5.52G-90",
+  "sigma_om":"4.10Y-93",
+  "sigma_w":"5.68E-32",
+  "sigma_ma":"3.45I-93",
+  "sigma_ad":"7.44C-51",
+  "sigma_n":"4.33D-60",
+  "sigma_tp":"9.30R-12",
+  "sigma_per":"8.90W-28"
  },
  "rms":0.0,
  "moid_full":{
-  "moid":0.82,
-  "moid_id":87.61325814
+  "moid":0.0,
+  "moid_id":94.0
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"S-"
 }

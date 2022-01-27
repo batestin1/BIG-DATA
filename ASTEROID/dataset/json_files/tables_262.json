@@ -1,63 +1,63 @@
 {
  "spk_id":2000263,
- "object_id":"n000000262",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"441211172m/s",
+ "object_id":"e000000262",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"818306070m/s",
  "object_fullname":{
-  "fullname":"2006 BE",
-  "prefix":"2006 ",
-  "name":"ELATUS"
+  "fullname":"2012 TH",
+  "prefix":"2012 ",
+  "name":"KALLISTO"
  },
- "pdes":224,
+ "pdes":232,
  "diameter_full":{
-  "diameter":18.31432182,
-  "diameter_sigma":5.115818591
+  "diameter":58.9,
+  "diameter_sigma":8.4
  },
- "h":0.85,
- "albedo":0.0,
- "orbit_id":"APA 43",
+ "h":1.0,
+ "albedo":0.9,
+ "orbit_id":"HBG 36",
  "epoch_full":{
-  "epoch":4874000.0,
-  "epoch_mjd":51039,
-  "epoch_cal":20220210.0
+  "epoch":2288896.0,
+  "epoch_mjd":52273,
+  "epoch_cal":20220220.0
  },
- "equinox":"M3548",
- "om":29.91,
- "e":0.235268,
- "a":3309834482975.0,
- "q":1402859272.0,
- "i":260.50500769727,
- "w":93.3008287,
+ "equinox":"S9306",
+ "om":48.955,
+ "e":0.796193703,
+ "a":601.332417,
+ "q":425449069843310.0,
+ "i":308474643.6,
+ "w":98.80119992388,
  "ad":0.0,
- "ma":40.317275,
- "n":43.756,
+ "ma":21.52463772423908,
+ "n":13.4911256399,
  "tp_full":{
-  "tp_cal":11.23129409045,
-  "tp":76.4
+  "tp_cal":56.966075,
+  "tp":75.524
  },
  "per_full":{
-  "per":41.0,
-  "per_y":53.98240175695
+  "per":42.445,
+  "per_y":94.84775949
  },
  "sigma_full":{
-  "sigma_e":"9.36P-84",
-  "sigma_a":"9.13T-71",
-  "sigma_q":"2.46A-29",
-  "sigma_i":"7.21V-29",
-  "sigma_om":"1.71J-59",
-  "sigma_w":"5.92B-10",
-  "sigma_ma":"7.72I-74",
-  "sigma_ad":"5.74F-39",
-  "sigma_n":"9.51C-22",
-  "sigma_tp":"9.12S-87",
-  "sigma_per":"9.32R-97"
+  "sigma_e":"7.28K-54",
+  "sigma_a":"3.97F-38",
+  "sigma_q":"1.53S-80",
+  "sigma_i":"3.66B-72",
+  "sigma_om":"6.84M-14",
+  "sigma_w":"2.52P-65",
+  "sigma_ma":"4.28F-49",
+  "sigma_ad":"7.45A-29",
+  "sigma_n":"4.44C-89",
+  "sigma_tp":"4.47L-66",
+  "sigma_per":"8.37S-55"
  },
- "rms":0.0,
+ "rms":0.3356,
  "moid_full":{
-  "moid":0.345603,
-  "moid_id":56.85150332684
+  "moid":0.0,
+  "moid_id":81.8013
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

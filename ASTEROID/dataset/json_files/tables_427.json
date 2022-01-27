@@ -1,63 +1,63 @@
 {
  "spk_id":2000428,
- "object_id":"t000000427",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"540134824m/s",
+ "object_id":"c000000427",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"645269721m/s",
  "object_fullname":{
-  "fullname":"2017 FI",
-  "prefix":"2017 ",
-  "name":"CITTA DI ALBA"
+  "fullname":"2018 GE",
+  "prefix":"2018 ",
+  "name":"BARRY"
  },
- "pdes":965,
+ "pdes":379,
  "diameter_full":{
-  "diameter":83.48818505145631,
-  "diameter_sigma":9.292897
+  "diameter":25.82,
+  "diameter_sigma":7.822
  },
- "h":0.75,
- "albedo":0.26657,
- "orbit_id":"RUT 96",
+ "h":1.6666666666666667,
+ "albedo":0.0,
+ "orbit_id":"HIF 62",
  "epoch_full":{
-  "epoch":2387237.0,
-  "epoch_mjd":90131,
-  "epoch_cal":20220222.0
+  "epoch":4827775.0,
+  "epoch_mjd":28440,
+  "epoch_cal":20220220.0
  },
- "equinox":"S9174",
- "om":79.298030619555,
- "e":0.4,
- "a":7.690927244034,
- "q":26834732.6,
- "i":4.18888831743,
- "w":55.0,
- "ad":0.5947482273,
- "ma":86.4221,
- "n":6.3,
+ "equinox":"N3250",
+ "om":26.550919,
+ "e":0.0,
+ "a":514966389510.25,
+ "q":37146421282.3,
+ "i":38269.448198,
+ "w":47.59700756333,
+ "ad":0.7331,
+ "ma":70.477375719,
+ "n":39.23581904,
  "tp_full":{
-  "tp_cal":3.0,
-  "tp":32.22
+  "tp_cal":68.61689464470781,
+  "tp":48.877215145
  },
  "per_full":{
-  "per":1.158206,
-  "per_y":5.3259309
+  "per":85.9,
+  "per_y":37.67
  },
  "sigma_full":{
-  "sigma_e":"9.17B-58",
-  "sigma_a":"6.42S-95",
-  "sigma_q":"9.17S-28",
-  "sigma_i":"7.78S-98",
-  "sigma_om":"3.46N-84",
-  "sigma_w":"9.96M-40",
-  "sigma_ma":"8.77W-91",
-  "sigma_ad":"1.52M-29",
-  "sigma_n":"6.90T-85",
-  "sigma_tp":"3.77E-62",
-  "sigma_per":"4.73W-34"
+  "sigma_e":"5.11N-95",
+  "sigma_a":"3.76D-56",
+  "sigma_q":"8.61C-84",
+  "sigma_i":"2.34K-35",
+  "sigma_om":"2.31F-13",
+  "sigma_w":"8.27R-38",
+  "sigma_ma":"7.47F-87",
+  "sigma_ad":"4.35G-18",
+  "sigma_n":"7.77P-80",
+  "sigma_tp":"8.84B-58",
+  "sigma_per":"6.23P-67"
  },
- "rms":0.0,
+ "rms":0.22535,
  "moid_full":{
-  "moid":0.51802364,
-  "moid_id":86.1979
+  "moid":0.0,
+  "moid_id":30.727080372
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

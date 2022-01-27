@@ -1,63 +1,63 @@
 {
  "spk_id":2004149,
- "object_id":"s0000004148",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"290950079m/s",
+ "object_id":"l0000004148",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"81610085m/s",
  "object_fullname":{
-  "fullname":"2012 CA",
-  "prefix":"2012 ",
-  "name":"AGGAS"
+  "fullname":"2017 AM",
+  "prefix":"2017 ",
+  "name":"JIRSIK"
  },
- "pdes":990,
+ "pdes":631,
  "diameter_full":{
-  "diameter":68.4980144,
-  "diameter_sigma":2.61581
+  "diameter":2.3217,
+  "diameter_sigma":8.91306
  },
- "h":0.7222222222222222,
- "albedo":0.0,
- "orbit_id":"SFA 81",
+ "h":1.7777777777777777,
+ "albedo":0.2,
+ "orbit_id":"WDF 83",
  "epoch_full":{
-  "epoch":2665157.0,
-  "epoch_mjd":96394,
-  "epoch_cal":20220223.0
+  "epoch":2164433.0,
+  "epoch_mjd":96302,
+  "epoch_cal":20220220.0
  },
- "equinox":"A8822",
- "om":83.1154597599455,
- "e":0.66,
- "a":702329706266.11,
- "q":479757952633.0,
- "i":784441.4,
- "w":85.8,
- "ad":0.957965451,
- "ma":67.6483,
- "n":51.5848451758,
+ "equinox":"P5522",
+ "om":75.60032000217,
+ "e":0.443707,
+ "a":2264456895.2507,
+ "q":15407605.871,
+ "i":9802.47412347,
+ "w":89.7703606,
+ "ad":0.92,
+ "ma":44.5599042107,
+ "n":99.0,
  "tp_full":{
-  "tp_cal":41.10369701104,
-  "tp":18.64
+  "tp_cal":21.2713212,
+  "tp":49.4639236086
  },
  "per_full":{
-  "per":69.97221369,
-  "per_y":6.8193
+  "per":4.91,
+  "per_y":91.7996326926
  },
  "sigma_full":{
-  "sigma_e":"3.94E-49",
-  "sigma_a":"3.68A-43",
-  "sigma_q":"5.17M-37",
-  "sigma_i":"4.54U-83",
-  "sigma_om":"8.99Y-23",
-  "sigma_w":"2.30E-47",
-  "sigma_ma":"9.32N-30",
-  "sigma_ad":"9.84E-10",
-  "sigma_n":"9.10C-48",
-  "sigma_tp":"3.88S-82",
-  "sigma_per":"1.72D-62"
+  "sigma_e":"9.14T-65",
+  "sigma_a":"2.51U-50",
+  "sigma_q":"5.47D-97",
+  "sigma_i":"6.49E-51",
+  "sigma_om":"6.10F-37",
+  "sigma_w":"4.33R-50",
+  "sigma_ma":"8.13D-25",
+  "sigma_ad":"9.35B-67",
+  "sigma_n":"4.86S-27",
+  "sigma_tp":"1.17B-69",
+  "sigma_per":"5.54F-49"
  },
- "rms":0.0,
+ "rms":0.7,
  "moid_full":{
-  "moid":0.52537,
-  "moid_id":81.567825717
+  "moid":0.146,
+  "moid_id":44.20006583470954
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

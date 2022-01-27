@@ -1,63 +1,63 @@
 {
  "spk_id":2003461,
- "object_id":"s0000003460",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"860632346m/s",
+ "object_id":"r0000003460",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"270012598m/s",
  "object_fullname":{
-  "fullname":"2005 IS",
-  "prefix":"2005 ",
-  "name":"HIDETAKASATO"
+  "fullname":"2010 ED",
+  "prefix":"2010 ",
+  "name":"HUNTEN"
  },
- "pdes":442,
+ "pdes":413,
  "diameter_full":{
-  "diameter":81.8309101,
-  "diameter_sigma":8.0
+  "diameter":9.215,
+  "diameter_sigma":1.1949435
  },
- "h":0.3125,
- "albedo":0.822,
- "orbit_id":"BTM 79",
+ "h":0.8571428571428571,
+ "albedo":0.12,
+ "orbit_id":"FFG 69",
  "epoch_full":{
-  "epoch":6904827.0,
-  "epoch_mjd":96236,
-  "epoch_cal":20220223.0
+  "epoch":9020196.0,
+  "epoch_mjd":75917,
+  "epoch_cal":20220204.0
  },
- "equinox":"F3265",
- "om":69.6179827059,
- "e":0.91,
- "a":20.7707049,
- "q":15460065.4325695,
- "i":6.51669,
- "w":33.674486,
- "ad":0.62692,
- "ma":69.12904919655,
- "n":33.31027735491045,
+ "equinox":"C3170",
+ "om":43.391293012205,
+ "e":0.8,
+ "a":348220841299.0,
+ "q":73.1881,
+ "i":31.3071122612196,
+ "w":78.30460067017707,
+ "ad":0.1,
+ "ma":71.4784,
+ "n":84.0,
  "tp_full":{
-  "tp_cal":34.74529208433,
-  "tp":68.791392
+  "tp_cal":17.330763461,
+  "tp":34.3824
  },
  "per_full":{
-  "per":32.8010352,
-  "per_y":53.16
+  "per":67.1283238569,
+  "per_y":99.7418621986
  },
  "sigma_full":{
-  "sigma_e":"1.45A-37",
-  "sigma_a":"2.64C-54",
-  "sigma_q":"9.91C-59",
-  "sigma_i":"4.72S-63",
-  "sigma_om":"8.61Y-43",
-  "sigma_w":"5.48R-51",
-  "sigma_ma":"5.81M-37",
-  "sigma_ad":"1.61P-20",
-  "sigma_n":"2.20L-34",
-  "sigma_tp":"4.39S-74",
-  "sigma_per":"8.77T-61"
+  "sigma_e":"3.89W-48",
+  "sigma_a":"2.48E-18",
+  "sigma_q":"8.59O-28",
+  "sigma_i":"3.75W-99",
+  "sigma_om":"8.70S-94",
+  "sigma_w":"9.21O-61",
+  "sigma_ma":"3.88G-71",
+  "sigma_ad":"1.67K-63",
+  "sigma_n":"7.36U-17",
+  "sigma_tp":"8.45C-65",
+  "sigma_per":"3.28W-43"
  },
- "rms":0.78,
+ "rms":0.9,
  "moid_full":{
-  "moid":0.801,
-  "moid_id":26.264182740728
+  "moid":0.2,
+  "moid_id":20.0
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

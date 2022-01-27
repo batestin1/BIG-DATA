@@ -1,63 +1,63 @@
 {
  "spk_id":2001853,
- "object_id":"a0000001852",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"646906894m/s",
+ "object_id":"r0000001852",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"96113027m/s",
  "object_fullname":{
-  "fullname":"2015 IN",
-  "prefix":"2015 ",
-  "name":"CAPEK"
+  "fullname":"2009 FU",
+  "prefix":"2009 ",
+  "name":"HEFTER"
  },
- "pdes":889,
+ "pdes":809,
  "diameter_full":{
-  "diameter":42.0,
-  "diameter_sigma":8.213
+  "diameter":39.87245909567,
+  "diameter_sigma":2.4313816701
  },
- "h":1.3333333333333333,
- "albedo":0.0,
- "orbit_id":"RCR 14",
+ "h":0.7894736842105263,
+ "albedo":0.7578,
+ "orbit_id":"ABP 14",
  "epoch_full":{
-  "epoch":7768987.0,
-  "epoch_mjd":95206,
-  "epoch_cal":20220217.0
+  "epoch":7161315.0,
+  "epoch_mjd":62753,
+  "epoch_cal":20220220.0
  },
- "equinox":"T7865",
- "om":12.929,
- "e":0.75,
- "a":514731.75,
- "q":303.8,
- "i":6.8986086282988,
- "w":83.8668316487,
- "ad":0.952,
- "ma":98.4824480356,
- "n":46.95631989,
+ "equinox":"T6469",
+ "om":92.0,
+ "e":0.97350008532144,
+ "a":711.21703,
+ "q":106332.60135,
+ "i":19.1634285129,
+ "w":66.644243545,
+ "ad":0.535,
+ "ma":86.49304939331866,
+ "n":92.233375166725,
  "tp_full":{
-  "tp_cal":22.64690384024829,
-  "tp":34.18
+  "tp_cal":34.1641235992419,
+  "tp":33.991319
  },
  "per_full":{
-  "per":45.3073200827565,
-  "per_y":38.740593
+  "per":61.7217482813623,
+  "per_y":42.295
  },
  "sigma_full":{
-  "sigma_e":"2.65E-17",
-  "sigma_a":"6.17P-91",
-  "sigma_q":"3.64S-57",
-  "sigma_i":"6.85S-87",
-  "sigma_om":"8.69S-13",
-  "sigma_w":"4.28S-36",
-  "sigma_ma":"8.27C-79",
-  "sigma_ad":"3.94K-92",
-  "sigma_n":"6.31F-22",
-  "sigma_tp":"5.25C-17",
-  "sigma_per":"5.18F-56"
+  "sigma_e":"1.31E-63",
+  "sigma_a":"3.53S-75",
+  "sigma_q":"4.62B-90",
+  "sigma_i":"7.77M-66",
+  "sigma_om":"7.69R-63",
+  "sigma_w":"6.36W-79",
+  "sigma_ma":"5.21B-71",
+  "sigma_ad":"2.96F-79",
+  "sigma_n":"9.53T-72",
+  "sigma_tp":"6.32T-45",
+  "sigma_per":"6.75B-82"
  },
- "rms":0.0,
+ "rms":0.920338807,
  "moid_full":{
   "moid":0.0,
-  "moid_id":37.8
+  "moid_id":12.4474104
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2000202,
- "object_id":"c000000201",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"648079183m/s",
+ "object_id":"s000000201",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"66566690m/s",
  "object_fullname":{
-  "fullname":"2022 HU",
-  "prefix":"2022 ",
-  "name":"CERNOVICE"
+  "fullname":"2007 IN",
+  "prefix":"2007 ",
+  "name":"DEINEKA"
  },
- "pdes":234,
+ "pdes":384,
  "diameter_full":{
-  "diameter":1.1752,
-  "diameter_sigma":7.295263
+  "diameter":6.0,
+  "diameter_sigma":9.808603093097
  },
- "h":1.8,
- "albedo":0.45,
- "orbit_id":"CTC 40",
+ "h":0.15384615384615385,
+ "albedo":0.80828701,
+ "orbit_id":"BHW 62",
  "epoch_full":{
-  "epoch":3518680.0,
-  "epoch_mjd":19032,
-  "epoch_cal":20220207.0
+  "epoch":7281117.0,
+  "epoch_mjd":36318,
+  "epoch_cal":20220224.0
  },
- "equinox":"H6878",
- "om":45.3218595562,
- "e":0.3,
- "a":6622606.54085757,
- "q":4734811.0,
- "i":29525.896444,
- "w":11.0,
- "ad":0.0,
- "ma":57.9,
- "n":68.793958,
+ "equinox":"R8470",
+ "om":57.53,
+ "e":0.16,
+ "a":100267398364696.0,
+ "q":6838.73,
+ "i":24006958524.0,
+ "w":96.244352407553,
+ "ad":0.218,
+ "ma":64.314,
+ "n":70.6966,
  "tp_full":{
-  "tp_cal":52.2,
-  "tp":18.40726622
+  "tp_cal":2.466918233,
+  "tp":51.8132789
  },
  "per_full":{
-  "per":20.85639807403948,
-  "per_y":32.4515569
+  "per":37.68692120049,
+  "per_y":33.417738
  },
  "sigma_full":{
-  "sigma_e":"6.49F-65",
-  "sigma_a":"8.43D-84",
-  "sigma_q":"3.41A-70",
-  "sigma_i":"1.85O-92",
-  "sigma_om":"5.42S-39",
-  "sigma_w":"1.76L-14",
-  "sigma_ma":"5.25M-10",
-  "sigma_ad":"8.42A-45",
-  "sigma_n":"9.20C-29",
-  "sigma_tp":"3.26L-12",
-  "sigma_per":"7.16T-62"
+  "sigma_e":"4.85O-61",
+  "sigma_a":"9.80B-33",
+  "sigma_q":"6.43A-52",
+  "sigma_i":"1.94S-35",
+  "sigma_om":"1.79P-50",
+  "sigma_w":"2.49T-79",
+  "sigma_ma":"7.49H-90",
+  "sigma_ad":"5.64E-11",
+  "sigma_n":"2.71C-17",
+  "sigma_tp":"8.54M-28",
+  "sigma_per":"1.73S-17"
  },
- "rms":0.38579,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":63.0
+  "moid":0.1,
+  "moid_id":21.8088910452
  },
  "class_asteroid":"C-"
 }

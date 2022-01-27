@@ -1,63 +1,63 @@
 {
  "spk_id":2005178,
- "object_id":"w0000005177",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"359778930m/s",
+ "object_id":"t0000005177",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"190990179m/s",
  "object_fullname":{
-  "fullname":"2017 BA",
-  "prefix":"2017 ",
-  "name":"HUNGARIA"
+  "fullname":"2002 FA",
+  "prefix":"2002 ",
+  "name":"BEIJINGDAXUE"
  },
- "pdes":654,
+ "pdes":156,
  "diameter_full":{
-  "diameter":32.8734463,
-  "diameter_sigma":2.632
+  "diameter":45.95383436,
+  "diameter_sigma":6.51
  },
- "h":0.16666666666666666,
- "albedo":0.5435107,
- "orbit_id":"DUI 52",
+ "h":1.0,
+ "albedo":0.8,
+ "orbit_id":"AWS 21",
  "epoch_full":{
-  "epoch":8287283.0,
-  "epoch_mjd":32162,
-  "epoch_cal":20220222.0
+  "epoch":3377040.0,
+  "epoch_mjd":98788,
+  "epoch_cal":20220217.0
  },
- "equinox":"P5229",
- "om":40.796897491,
- "e":0.41,
- "a":35793240025674.0,
- "q":715612017877.88,
- "i":486.0,
- "w":95.5083,
- "ad":0.6,
- "ma":71.404548479,
- "n":7.68,
+ "equinox":"M1262",
+ "om":78.459690474685,
+ "e":0.0,
+ "a":516737510234503.0,
+ "q":20184.6,
+ "i":825830726040.67,
+ "w":42.179,
+ "ad":0.0,
+ "ma":33.2487,
+ "n":19.524520801,
  "tp_full":{
-  "tp_cal":66.13399773268684,
-  "tp":19.21553288278102
+  "tp_cal":74.0,
+  "tp":74.2915487424
  },
  "per_full":{
-  "per":58.0,
-  "per_y":81.6811420973878
+  "per":84.51661584,
+  "per_y":22.428559094523
  },
  "sigma_full":{
-  "sigma_e":"1.43S-43",
-  "sigma_a":"3.56A-12",
-  "sigma_q":"8.99P-88",
-  "sigma_i":"3.92R-21",
-  "sigma_om":"4.32R-30",
-  "sigma_w":"1.69M-58",
-  "sigma_ma":"8.38S-77",
-  "sigma_ad":"7.17M-48",
-  "sigma_n":"5.32H-98",
-  "sigma_tp":"4.60R-48",
-  "sigma_per":"8.50F-23"
+  "sigma_e":"2.58N-83",
+  "sigma_a":"5.85G-12",
+  "sigma_q":"2.46S-12",
+  "sigma_i":"5.86O-84",
+  "sigma_om":"7.34R-25",
+  "sigma_w":"3.63R-77",
+  "sigma_ma":"6.36W-96",
+  "sigma_ad":"1.80R-75",
+  "sigma_n":"8.74T-71",
+  "sigma_tp":"3.24S-11",
+  "sigma_per":"9.73Y-20"
  },
- "rms":0.0,
+ "rms":0.61279,
  "moid_full":{
-  "moid":0.9,
-  "moid_id":55.1829421735
+  "moid":0.32239815671569,
+  "moid_id":29.64476674
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

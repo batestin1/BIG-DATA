@@ -1,63 +1,63 @@
 {
  "spk_id":2002007,
- "object_id":"d0000002006",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"228419915m/s",
+ "object_id":"l0000002006",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"216481565m/s",
  "object_fullname":{
-  "fullname":"2014 LE",
-  "prefix":"2014 ",
-  "name":"DELUNA"
+  "fullname":"2021 WR",
+  "prefix":"2021 ",
+  "name":"EUROPAEUS"
  },
- "pdes":285,
+ "pdes":364,
  "diameter_full":{
-  "diameter":69.62628,
-  "diameter_sigma":7.6
+  "diameter":67.3,
+  "diameter_sigma":4.6681
  },
- "h":4.0,
- "albedo":0.8077,
- "orbit_id":"BAA 40",
+ "h":0.7368421052631579,
+ "albedo":0.514,
+ "orbit_id":"ITB 31",
  "epoch_full":{
-  "epoch":5458679.0,
-  "epoch_mjd":50264,
-  "epoch_cal":20220201.0
+  "epoch":5048654.0,
+  "epoch_mjd":61138,
+  "epoch_cal":20220207.0
  },
- "equinox":"T3120",
- "om":1.791218,
- "e":0.637076,
- "a":688746.190033853,
- "q":8314.35,
- "i":6063963381.6,
- "w":3.76118239,
- "ad":0.8308,
- "ma":49.6728,
- "n":27.45297,
+ "equinox":"Y2127",
+ "om":43.535,
+ "e":0.46,
+ "a":212905040123123.0,
+ "q":833837587943.792,
+ "i":848852391497891.0,
+ "w":42.1,
+ "ad":0.400580172,
+ "ma":49.537309,
+ "n":54.9674167608758,
  "tp_full":{
-  "tp_cal":79.37404203,
-  "tp":3.200777438
+  "tp_cal":44.5525,
+  "tp":32.49945364
  },
  "per_full":{
-  "per":37.42899902179,
-  "per_y":87.2507976084134
+  "per":33.35933847633354,
+  "per_y":71.331
  },
  "sigma_full":{
-  "sigma_e":"5.99C-13",
-  "sigma_a":"5.60N-97",
-  "sigma_q":"3.20P-74",
-  "sigma_i":"6.41H-99",
-  "sigma_om":"7.80P-75",
-  "sigma_w":"8.26E-76",
-  "sigma_ma":"4.96M-57",
-  "sigma_ad":"7.24W-39",
-  "sigma_n":"2.39U-76",
-  "sigma_tp":"9.92W-86",
-  "sigma_per":"9.77P-22"
+  "sigma_e":"6.15P-51",
+  "sigma_a":"3.46S-92",
+  "sigma_q":"4.52P-49",
+  "sigma_i":"8.68H-21",
+  "sigma_om":"4.86T-17",
+  "sigma_w":"6.75L-58",
+  "sigma_ma":"4.84A-76",
+  "sigma_ad":"2.59E-27",
+  "sigma_n":"6.41Y-84",
+  "sigma_tp":"5.60O-53",
+  "sigma_per":"7.47S-79"
  },
- "rms":0.9694287,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.4,
-  "moid_id":52.8429
+  "moid":0.94,
+  "moid_id":64.369905485
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2004097,
- "object_id":"k0000004096",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"802770102m/s",
+ "object_id":"l0000004096",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"460649067m/s",
  "object_fullname":{
-  "fullname":"2001 CH",
-  "prefix":"2001 ",
-  "name":"BENUA"
+  "fullname":"2008 FE",
+  "prefix":"2008 ",
+  "name":"IGORLAZBIN"
  },
- "pdes":445,
+ "pdes":676,
  "diameter_full":{
-  "diameter":28.60465,
-  "diameter_sigma":1.2001865424
+  "diameter":83.8125351,
+  "diameter_sigma":5.0
  },
- "h":0.75,
- "albedo":0.4110066290966,
- "orbit_id":"EDC 35",
+ "h":0.6842105263157895,
+ "albedo":0.4911073,
+ "orbit_id":"MMH 24",
  "epoch_full":{
-  "epoch":9094464.0,
-  "epoch_mjd":39358,
-  "epoch_cal":20220211.0
+  "epoch":4288547.0,
+  "epoch_mjd":91309,
+  "epoch_cal":20220212.0
  },
- "equinox":"I5538",
- "om":68.1577346,
- "e":0.5946,
- "a":11837.265946,
- "q":70589132118965.4,
- "i":7589647.9341789,
- "w":13.440645325,
- "ad":0.924,
- "ma":77.70095,
- "n":19.266,
+ "equinox":"C2492",
+ "om":65.2338,
+ "e":0.4230888692,
+ "a":465714274479966.0,
+ "q":24.0,
+ "i":848.48209,
+ "w":83.21,
+ "ad":0.683,
+ "ma":82.5006376974,
+ "n":75.8922505973,
  "tp_full":{
-  "tp_cal":72.573170347,
-  "tp":25.82158268070043
+  "tp_cal":36.853,
+  "tp":87.98757326
  },
  "per_full":{
-  "per":19.0,
-  "per_y":98.8672370049
+  "per":51.77,
+  "per_y":51.168
  },
  "sigma_full":{
-  "sigma_e":"4.55D-39",
-  "sigma_a":"4.87E-15",
-  "sigma_q":"2.74V-44",
-  "sigma_i":"9.17L-93",
-  "sigma_om":"8.37S-37",
-  "sigma_w":"6.69L-69",
-  "sigma_ma":"9.48P-71",
-  "sigma_ad":"1.11P-28",
-  "sigma_n":"3.83P-70",
-  "sigma_tp":"5.43T-75",
-  "sigma_per":"9.81S-37"
+  "sigma_e":"8.31I-45",
+  "sigma_a":"9.96E-59",
+  "sigma_q":"9.37A-89",
+  "sigma_i":"4.19C-22",
+  "sigma_om":"1.92L-10",
+  "sigma_w":"2.33A-43",
+  "sigma_ma":"1.68H-31",
+  "sigma_ad":"7.36L-79",
+  "sigma_n":"4.47S-88",
+  "sigma_tp":"8.20I-33",
+  "sigma_per":"9.25Q-78"
  },
- "rms":0.4,
+ "rms":0.1145,
  "moid_full":{
-  "moid":0.237,
-  "moid_id":13.12231192402929
+  "moid":0.1927512,
+  "moid_id":90.8499427
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

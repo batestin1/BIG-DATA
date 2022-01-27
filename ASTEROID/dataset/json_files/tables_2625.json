@@ -1,63 +1,63 @@
 {
  "spk_id":2002626,
- "object_id":"r0000002625",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"28564160m/s",
+ "object_id":"e0000002625",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"807804192m/s",
  "object_fullname":{
-  "fullname":"2012 CH",
-  "prefix":"2012 ",
-  "name":"CHESHIRECAT"
+  "fullname":"2003 CH",
+  "prefix":"2003 ",
+  "name":"KACIVELIA"
  },
- "pdes":544,
+ "pdes":442,
  "diameter_full":{
-  "diameter":75.1828134929141,
-  "diameter_sigma":8.68
+  "diameter":78.501283678,
+  "diameter_sigma":6.46962
  },
- "h":18.0,
- "albedo":0.0,
- "orbit_id":"LSS 25",
+ "h":4.333333333333333,
+ "albedo":0.35837,
+ "orbit_id":"TSC 95",
  "epoch_full":{
-  "epoch":7065248.0,
-  "epoch_mjd":96526,
-  "epoch_cal":20220207.0
+  "epoch":5243718.0,
+  "epoch_mjd":75865,
+  "epoch_cal":20220219.0
  },
- "equinox":"H9219",
- "om":34.4286792,
- "e":0.2619,
- "a":28006350.75582,
- "q":8.86424273,
- "i":493009.926,
- "w":64.95692441246625,
- "ad":0.314978545,
- "ma":62.9048192070833,
- "n":92.1385123235,
+ "equinox":"H2423",
+ "om":8.927330049326,
+ "e":0.60970608,
+ "a":46861.8002442,
+ "q":861030137776331.0,
+ "i":927023791421172.0,
+ "w":43.19445978,
+ "ad":0.6,
+ "ma":83.0,
+ "n":59.0,
  "tp_full":{
-  "tp_cal":26.5378631,
-  "tp":63.42260245
+  "tp_cal":29.0,
+  "tp":54.96336512937
  },
  "per_full":{
-  "per":65.0,
-  "per_y":13.81368
+  "per":55.50325053671521,
+  "per_y":85.49823717
  },
  "sigma_full":{
-  "sigma_e":"9.58R-67",
-  "sigma_a":"2.69T-17",
-  "sigma_q":"1.96A-42",
-  "sigma_i":"5.29A-58",
-  "sigma_om":"6.85W-83",
-  "sigma_w":"7.73R-29",
-  "sigma_ma":"5.99O-82",
-  "sigma_ad":"9.67C-88",
-  "sigma_n":"6.77O-36",
-  "sigma_tp":"7.75E-59",
-  "sigma_per":"2.21C-47"
+  "sigma_e":"8.25D-26",
+  "sigma_a":"8.17P-17",
+  "sigma_q":"9.21I-82",
+  "sigma_i":"2.59O-78",
+  "sigma_om":"9.44O-24",
+  "sigma_w":"7.38B-22",
+  "sigma_ma":"7.93N-42",
+  "sigma_ad":"2.91P-30",
+  "sigma_n":"3.37W-53",
+  "sigma_tp":"2.75I-89",
+  "sigma_per":"8.17C-21"
  },
- "rms":0.2115993574,
+ "rms":0.47860768,
  "moid_full":{
-  "moid":0.78,
-  "moid_id":36.7585663483334
+  "moid":0.18383069,
+  "moid_id":83.82
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

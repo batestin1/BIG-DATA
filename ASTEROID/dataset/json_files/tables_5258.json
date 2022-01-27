@@ -1,63 +1,63 @@
 {
  "spk_id":2005259,
- "object_id":"p0000005258",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"368281353m/s",
+ "object_id":"r0000005258",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"341145596m/s",
  "object_fullname":{
-  "fullname":"2009 AP",
-  "prefix":"2009 ",
-  "name":"ISTRIA"
+  "fullname":"2002 BO",
+  "prefix":"2002 ",
+  "name":"DALL"
  },
- "pdes":946,
+ "pdes":246,
  "diameter_full":{
-  "diameter":8.2,
-  "diameter_sigma":5.806372
+  "diameter":95.0,
+  "diameter_sigma":4.604
  },
- "h":1.0,
- "albedo":0.0,
- "orbit_id":"EYP 37",
+ "h":1.5384615384615385,
+ "albedo":0.639,
+ "orbit_id":"RPI 37",
  "epoch_full":{
-  "epoch":7699486.0,
-  "epoch_mjd":52563,
-  "epoch_cal":20220207.0
+  "epoch":4162215.0,
+  "epoch_mjd":82224,
+  "epoch_cal":20220210.0
  },
- "equinox":"M2949",
- "om":94.6211032292,
- "e":0.9079,
- "a":15179.3021,
- "q":25.46957767,
- "i":40.9,
- "w":91.480590849,
- "ad":0.2,
- "ma":41.926,
- "n":80.146195,
+ "equinox":"A5710",
+ "om":79.69209904,
+ "e":0.0,
+ "a":4464.650228217,
+ "q":6812589.19461849,
+ "i":817768592.4,
+ "w":1.210048,
+ "ad":0.2954642258,
+ "ma":22.1183,
+ "n":63.8064967496795,
  "tp_full":{
-  "tp_cal":4.968207,
-  "tp":19.49254647
+  "tp_cal":27.0,
+  "tp":33.576
  },
  "per_full":{
-  "per":5.668,
-  "per_y":66.674649393378
+  "per":34.0,
+  "per_y":24.7698290006
  },
  "sigma_full":{
-  "sigma_e":"4.79S-13",
-  "sigma_a":"6.59W-89",
-  "sigma_q":"7.99A-71",
-  "sigma_i":"8.77S-21",
-  "sigma_om":"3.69A-43",
-  "sigma_w":"3.39R-18",
-  "sigma_ma":"3.91C-68",
-  "sigma_ad":"2.84I-43",
-  "sigma_n":"8.21A-58",
-  "sigma_tp":"5.64M-35",
-  "sigma_per":"9.90O-15"
+  "sigma_e":"6.70M-79",
+  "sigma_a":"6.60O-35",
+  "sigma_q":"2.62Y-54",
+  "sigma_i":"2.91Q-37",
+  "sigma_om":"1.78D-69",
+  "sigma_w":"3.31P-39",
+  "sigma_ma":"4.91M-44",
+  "sigma_ad":"1.59W-85",
+  "sigma_n":"3.12B-14",
+  "sigma_tp":"2.75A-93",
+  "sigma_per":"5.31U-17"
  },
- "rms":0.16265836,
+ "rms":0.531,
  "moid_full":{
-  "moid":0.3,
-  "moid_id":96.446651691
+  "moid":0.727,
+  "moid_id":33.34138194
  },
  "class_asteroid":"M-types"
 }

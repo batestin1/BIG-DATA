@@ -1,63 +1,63 @@
 {
  "spk_id":2000139,
- "object_id":"e000000138",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"829030508m/s",
+ "object_id":"s000000138",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"359501553m/s",
  "object_fullname":{
-  "fullname":"2000 AN",
-  "prefix":"2000 ",
-  "name":"HERBIG"
+  "fullname":"2019 DO",
+  "prefix":"2019 ",
+  "name":"BORNGEN"
  },
- "pdes":400,
+ "pdes":262,
  "diameter_full":{
-  "diameter":88.20373,
-  "diameter_sigma":7.778336390378
+  "diameter":16.70927,
+  "diameter_sigma":2.70813373028
  },
- "h":0.875,
- "albedo":0.11,
- "orbit_id":"ASW 27",
+ "h":0.6153846153846154,
+ "albedo":0.0,
+ "orbit_id":"ACH 97",
  "epoch_full":{
-  "epoch":1103854.0,
-  "epoch_mjd":53741,
-  "epoch_cal":20220128.0
+  "epoch":6795912.0,
+  "epoch_mjd":38257,
+  "epoch_cal":20220220.0
  },
- "equinox":"C4078",
- "om":66.35,
- "e":0.771,
- "a":9048483217.9915,
- "q":5252808769.8992,
- "i":5065.6118466147,
- "w":49.3573535292,
+ "equinox":"P1807",
+ "om":46.920773425,
+ "e":0.0,
+ "a":64593994.7,
+ "q":3126553.779,
+ "i":8.1391784807,
+ "w":74.78,
  "ad":0.0,
- "ma":89.663297,
- "n":29.0,
+ "ma":59.176914599948,
+ "n":36.0,
  "tp_full":{
-  "tp_cal":3.35675419753,
-  "tp":37.194
+  "tp_cal":88.1804,
+  "tp":32.5
  },
  "per_full":{
-  "per":13.0,
-  "per_y":10.4289658
+  "per":39.69,
+  "per_y":55.938727736726
  },
  "sigma_full":{
-  "sigma_e":"7.13D-67",
-  "sigma_a":"8.51S-37",
-  "sigma_q":"6.57A-53",
-  "sigma_i":"6.91B-66",
-  "sigma_om":"4.76C-33",
-  "sigma_w":"6.49O-14",
-  "sigma_ma":"5.72S-45",
-  "sigma_ad":"6.96D-50",
-  "sigma_n":"6.33R-98",
-  "sigma_tp":"7.54C-85",
-  "sigma_per":"6.18E-56"
+  "sigma_e":"1.94K-93",
+  "sigma_a":"2.97F-22",
+  "sigma_q":"2.69W-91",
+  "sigma_i":"1.51I-55",
+  "sigma_om":"3.61S-44",
+  "sigma_w":"7.53E-59",
+  "sigma_ma":"3.48D-62",
+  "sigma_ad":"9.77D-54",
+  "sigma_n":"6.79S-69",
+  "sigma_tp":"7.31I-31",
+  "sigma_per":"4.56T-15"
  },
- "rms":0.11,
+ "rms":0.2322,
  "moid_full":{
-  "moid":0.97205,
-  "moid_id":65.68928
+  "moid":0.0,
+  "moid_id":48.40847525
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"C-"
 }

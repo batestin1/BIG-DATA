@@ -1,63 +1,63 @@
 {
  "spk_id":2005065,
- "object_id":"f0000005064",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"452983579m/s",
+ "object_id":"m0000005064",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"731959603m/s",
  "object_fullname":{
-  "fullname":"2002 EM",
+  "fullname":"2002 FO",
   "prefix":"2002 ",
-  "name":"COLGROVE"
+  "name":"BAKULEV"
  },
- "pdes":186,
+ "pdes":690,
  "diameter_full":{
-  "diameter":51.71779,
-  "diameter_sigma":5.20045
+  "diameter":86.30486053,
+  "diameter_sigma":5.86
  },
- "h":0.7058823529411765,
- "albedo":0.0,
- "orbit_id":"BMS 43",
+ "h":0.375,
+ "albedo":0.4506502,
+ "orbit_id":"PDP 30",
  "epoch_full":{
-  "epoch":8888292.0,
-  "epoch_mjd":64196,
-  "epoch_cal":20220206.0
+  "epoch":8158041.0,
+  "epoch_mjd":51500,
+  "epoch_cal":20220127.0
  },
- "equinox":"A3333",
- "om":28.69751,
- "e":0.0,
- "a":51916915349.45,
- "q":61655553893.1,
- "i":94380642982.0,
- "w":46.1,
- "ad":0.2,
- "ma":41.0,
- "n":65.68969,
+ "equinox":"T6727",
+ "om":1.388016,
+ "e":0.5,
+ "a":95254641466.732,
+ "q":68344.857283942,
+ "i":37807.3535783,
+ "w":2.7735834953478,
+ "ad":0.5238179279,
+ "ma":9.718998,
+ "n":88.5,
  "tp_full":{
-  "tp_cal":55.773127417435,
-  "tp":66.46
+  "tp_cal":51.25,
+  "tp":57.48347
  },
  "per_full":{
-  "per":61.449,
-  "per_y":14.619367
+  "per":30.306039,
+  "per_y":54.92907581
  },
  "sigma_full":{
-  "sigma_e":"2.26P-35",
-  "sigma_a":"6.13R-95",
-  "sigma_q":"7.36R-79",
-  "sigma_i":"6.14B-30",
-  "sigma_om":"5.12B-26",
-  "sigma_w":"3.54M-79",
-  "sigma_ma":"3.15Y-99",
-  "sigma_ad":"8.30S-39",
-  "sigma_n":"9.85G-35",
-  "sigma_tp":"8.17A-38",
-  "sigma_per":"7.84S-85"
+  "sigma_e":"9.35A-73",
+  "sigma_a":"8.83E-81",
+  "sigma_q":"7.68A-18",
+  "sigma_i":"4.75W-51",
+  "sigma_om":"6.53C-68",
+  "sigma_w":"6.71A-74",
+  "sigma_ma":"7.88C-70",
+  "sigma_ad":"3.14P-93",
+  "sigma_n":"5.82S-48",
+  "sigma_tp":"8.15G-95",
+  "sigma_per":"4.68R-34"
  },
- "rms":0.9,
+ "rms":0.79847,
  "moid_full":{
-  "moid":0.653,
-  "moid_id":78.89911562698403
+  "moid":0.379,
+  "moid_id":66.24326
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

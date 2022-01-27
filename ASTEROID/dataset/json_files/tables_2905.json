@@ -1,63 +1,63 @@
 {
  "spk_id":2002906,
- "object_id":"a0000002905",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"829321806m/s",
+ "object_id":"s0000002905",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"834685756m/s",
  "object_fullname":{
-  "fullname":"2002 PR",
-  "prefix":"2002 ",
-  "name":"HERERO"
+  "fullname":"2001 PO",
+  "prefix":"2001 ",
+  "name":"AMENOUZUME"
  },
- "pdes":551,
+ "pdes":826,
  "diameter_full":{
-  "diameter":60.2,
-  "diameter_sigma":6.9
+  "diameter":30.3820344662,
+  "diameter_sigma":7.23793121
  },
- "h":0.2631578947368421,
- "albedo":0.89,
- "orbit_id":"CCF 76",
+ "h":0.6,
+ "albedo":0.2,
+ "orbit_id":"DNS 35",
  "epoch_full":{
-  "epoch":1475996.0,
-  "epoch_mjd":46541,
-  "epoch_cal":20220130.0
+  "epoch":2591882.0,
+  "epoch_mjd":58165,
+  "epoch_cal":20220217.0
  },
- "equinox":"W5433",
- "om":81.71520865396919,
- "e":0.0,
- "a":7402995.3,
- "q":4.7,
- "i":8.21034,
- "w":26.728453651,
- "ad":0.62589,
- "ma":73.97158,
- "n":29.23709737,
+ "equinox":"E9215",
+ "om":21.332793,
+ "e":0.17,
+ "a":3831627581746.0,
+ "q":966027356784.724,
+ "i":7485490.75845181,
+ "w":78.2962,
+ "ad":0.0,
+ "ma":96.4851304515531,
+ "n":75.551526558,
  "tp_full":{
-  "tp_cal":78.821,
-  "tp":91.0
+  "tp_cal":13.803079598653,
+  "tp":2.868762
  },
  "per_full":{
-  "per":21.1914,
-  "per_y":25.61246247
+  "per":31.73042218226,
+  "per_y":79.4
  },
  "sigma_full":{
-  "sigma_e":"7.21P-34",
-  "sigma_a":"1.45B-66",
-  "sigma_q":"3.98P-58",
-  "sigma_i":"2.79P-16",
-  "sigma_om":"1.24P-16",
-  "sigma_w":"4.46V-97",
-  "sigma_ma":"6.18P-52",
-  "sigma_ad":"3.17A-47",
-  "sigma_n":"8.44N-86",
-  "sigma_tp":"7.31H-74",
-  "sigma_per":"9.39M-32"
+  "sigma_e":"4.73C-11",
+  "sigma_a":"6.60A-63",
+  "sigma_q":"3.70A-85",
+  "sigma_i":"1.90O-20",
+  "sigma_om":"7.99M-23",
+  "sigma_w":"5.18O-62",
+  "sigma_ma":"7.21M-27",
+  "sigma_ad":"3.36T-82",
+  "sigma_n":"8.20F-98",
+  "sigma_tp":"9.92R-46",
+  "sigma_per":"2.90O-69"
  },
- "rms":0.0,
+ "rms":0.7149,
  "moid_full":{
-  "moid":0.81,
-  "moid_id":6.18
+  "moid":0.80206,
+  "moid_id":34.9517262
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

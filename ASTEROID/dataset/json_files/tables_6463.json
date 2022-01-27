@@ -1,63 +1,63 @@
 {
  "spk_id":2006464,
- "object_id":"i0000006463",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"393781090m/s",
+ "object_id":"f0000006463",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"824279228m/s",
  "object_fullname":{
-  "fullname":"2021 DE",
-  "prefix":"2021 ",
-  "name":"DUPONTA"
+  "fullname":"2004 MO",
+  "prefix":"2004 ",
+  "name":"HUBERTA"
  },
- "pdes":498,
+ "pdes":784,
  "diameter_full":{
-  "diameter":22.66370334,
-  "diameter_sigma":7.518449
+  "diameter":98.0,
+  "diameter_sigma":6.5099867390205
  },
- "h":5.0,
- "albedo":0.57,
- "orbit_id":"ECM 91",
+ "h":2.142857142857143,
+ "albedo":0.3529099529,
+ "orbit_id":"TPS 13",
  "epoch_full":{
-  "epoch":5826060.0,
-  "epoch_mjd":85265,
-  "epoch_cal":20220212.0
+  "epoch":7453758.0,
+  "epoch_mjd":62191,
+  "epoch_cal":20220214.0
  },
- "equinox":"W9725",
- "om":2.41771,
- "e":0.33,
- "a":897540.8534839,
- "q":10.206097239,
- "i":9072790483661.8,
- "w":24.48414716054,
- "ad":0.2538934732,
- "ma":13.381818448441,
- "n":88.115,
+ "equinox":"S9835",
+ "om":20.95175,
+ "e":0.3,
+ "a":4.28919331629101,
+ "q":86.5631866,
+ "i":53833631166215.0,
+ "w":45.4202,
+ "ad":0.376,
+ "ma":73.45999364958438,
+ "n":25.507,
  "tp_full":{
-  "tp_cal":16.5941881974258,
-  "tp":87.0
+  "tp_cal":24.3,
+  "tp":49.685
  },
  "per_full":{
-  "per":30.4424542,
-  "per_y":4.2005986050995
+  "per":11.23693,
+  "per_y":24.4636863
  },
  "sigma_full":{
-  "sigma_e":"7.36H-36",
-  "sigma_a":"6.12S-68",
-  "sigma_q":"3.19S-86",
-  "sigma_i":"1.63V-53",
-  "sigma_om":"4.50I-54",
-  "sigma_w":"6.38E-74",
-  "sigma_ma":"2.56B-62",
-  "sigma_ad":"3.53E-89",
-  "sigma_n":"3.66C-19",
-  "sigma_tp":"4.82C-17",
-  "sigma_per":"5.46S-58"
+  "sigma_e":"8.87B-28",
+  "sigma_a":"5.60H-55",
+  "sigma_q":"7.58R-25",
+  "sigma_i":"8.28T-77",
+  "sigma_om":"8.15A-23",
+  "sigma_w":"6.17S-78",
+  "sigma_ma":"1.66R-82",
+  "sigma_ad":"8.91Y-63",
+  "sigma_n":"6.87R-29",
+  "sigma_tp":"8.18C-79",
+  "sigma_per":"5.14W-94"
  },
- "rms":0.147,
+ "rms":0.514,
  "moid_full":{
-  "moid":0.44,
-  "moid_id":20.28723
+  "moid":0.0,
+  "moid_id":71.819
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"M-types"
 }

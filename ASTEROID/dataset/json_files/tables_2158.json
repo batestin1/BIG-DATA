@@ -1,63 +1,63 @@
 {
  "spk_id":2002159,
- "object_id":"t0000002158",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"878586307m/s",
+ "object_id":"r0000002158",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"174176280m/s",
  "object_fullname":{
-  "fullname":"2015 TE",
-  "prefix":"2015 ",
-  "name":"DONSKOJ"
+  "fullname":"2003 NO",
+  "prefix":"2003 ",
+  "name":"HOLDEN"
  },
- "pdes":648,
+ "pdes":273,
  "diameter_full":{
-  "diameter":21.0,
-  "diameter_sigma":5.672
+  "diameter":58.8,
+  "diameter_sigma":3.57346063924
  },
- "h":1.3333333333333333,
- "albedo":0.34404,
- "orbit_id":"LKS 14",
+ "h":2.1666666666666665,
+ "albedo":0.746602,
+ "orbit_id":"DAE 14",
  "epoch_full":{
-  "epoch":3603256.0,
-  "epoch_mjd":85290,
-  "epoch_cal":20220222.0
+  "epoch":9522680.0,
+  "epoch_mjd":70381,
+  "epoch_cal":20220221.0
  },
- "equinox":"P6525",
- "om":12.53536684651,
- "e":0.6479305,
- "a":2.30416492799528,
- "q":523112.0,
- "i":24910325004708.0,
- "w":45.44090787,
- "ad":0.319773,
- "ma":85.9977913127515,
- "n":98.0,
+ "equinox":"K4829",
+ "om":69.61078,
+ "e":0.0,
+ "a":6146437946.568,
+ "q":51278514611.4073,
+ "i":77857140986384.2,
+ "w":2.0,
+ "ad":0.2,
+ "ma":62.2863055,
+ "n":26.80303,
  "tp_full":{
-  "tp_cal":65.864,
-  "tp":87.4518600855
+  "tp_cal":54.9718,
+  "tp":91.0
  },
  "per_full":{
-  "per":15.734073096605,
-  "per_y":82.2908942
+  "per":91.76962,
+  "per_y":29.6758
  },
  "sigma_full":{
-  "sigma_e":"3.87R-30",
-  "sigma_a":"3.48T-26",
-  "sigma_q":"6.61F-67",
-  "sigma_i":"2.73R-16",
-  "sigma_om":"7.42C-11",
-  "sigma_w":"3.88W-88",
-  "sigma_ma":"8.32R-55",
-  "sigma_ad":"7.95A-31",
-  "sigma_n":"3.76T-83",
-  "sigma_tp":"6.70A-37",
-  "sigma_per":"8.31N-73"
+  "sigma_e":"8.26M-66",
+  "sigma_a":"7.69A-65",
+  "sigma_q":"2.50T-59",
+  "sigma_i":"4.17W-46",
+  "sigma_om":"1.25M-57",
+  "sigma_w":"8.15B-41",
+  "sigma_ma":"7.33C-99",
+  "sigma_ad":"8.32E-49",
+  "sigma_n":"9.33P-23",
+  "sigma_tp":"1.38T-44",
+  "sigma_per":"7.54U-10"
  },
- "rms":0.1173,
+ "rms":0.119,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":41.88471677034
+  "moid":0.331565,
+  "moid_id":99.11094789645
  },
- "class_asteroid":"S-"
+ "class_asteroid":"Other Types"
 }

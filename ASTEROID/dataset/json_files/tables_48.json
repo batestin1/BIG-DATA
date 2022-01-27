@@ -1,63 +1,63 @@
 {
  "spk_id":2000049,
- "object_id":"a00000048",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"181168906m/s",
+ "object_id":"o00000048",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"795087502m/s",
  "object_fullname":{
-  "fullname":"2012 IN",
-  "prefix":"2012 ",
-  "name":"JOELLA"
+  "fullname":"2006 HU",
+  "prefix":"2006 ",
+  "name":"AZALEA"
  },
- "pdes":816,
+ "pdes":491,
  "diameter_full":{
-  "diameter":33.36148432277,
-  "diameter_sigma":7.5631736658027
+  "diameter":78.65551,
+  "diameter_sigma":7.45
  },
- "h":0.8,
- "albedo":0.7,
- "orbit_id":"TPD 16",
+ "h":2.1666666666666665,
+ "albedo":0.274,
+ "orbit_id":"VDI 79",
  "epoch_full":{
-  "epoch":3439986.0,
-  "epoch_mjd":46368,
-  "epoch_cal":20220207.0
+  "epoch":8073404.0,
+  "epoch_mjd":83617,
+  "epoch_cal":20220208.0
  },
- "equinox":"T3514",
- "om":3.41,
- "e":0.688,
- "a":7.5348267,
- "q":3.26032982806347,
- "i":45046647394451.0,
- "w":74.99874,
- "ad":0.597,
- "ma":53.181,
- "n":28.624,
+ "equinox":"S4772",
+ "om":61.5176307721225,
+ "e":0.68,
+ "a":813249166137.21,
+ "q":46.2604,
+ "i":60.3,
+ "w":76.79499782254479,
+ "ad":0.0,
+ "ma":12.1,
+ "n":85.13141078363,
  "tp_full":{
-  "tp_cal":39.0,
-  "tp":31.16
+  "tp_cal":7.82559124161,
+  "tp":7.54870701566
  },
  "per_full":{
-  "per":6.53051362,
-  "per_y":76.31
+  "per":37.41,
+  "per_y":78.124
  },
  "sigma_full":{
-  "sigma_e":"7.95T-52",
-  "sigma_a":"3.99B-81",
-  "sigma_q":"3.93T-21",
-  "sigma_i":"1.40A-61",
-  "sigma_om":"9.35B-87",
-  "sigma_w":"2.17S-15",
-  "sigma_ma":"8.67B-30",
-  "sigma_ad":"9.87P-19",
-  "sigma_n":"3.51A-22",
-  "sigma_tp":"5.51A-19",
-  "sigma_per":"2.49C-12"
+  "sigma_e":"7.36S-83",
+  "sigma_a":"8.89T-27",
+  "sigma_q":"1.30B-33",
+  "sigma_i":"6.60R-56",
+  "sigma_om":"6.88S-80",
+  "sigma_w":"2.97D-45",
+  "sigma_ma":"2.57A-96",
+  "sigma_ad":"9.83V-57",
+  "sigma_n":"8.90M-66",
+  "sigma_tp":"4.11C-31",
+  "sigma_per":"9.26P-22"
  },
- "rms":0.49181413951,
+ "rms":0.37,
  "moid_full":{
-  "moid":0.93268599094,
-  "moid_id":6.7297131805
+  "moid":0.0,
+  "moid_id":95.2578950757429
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

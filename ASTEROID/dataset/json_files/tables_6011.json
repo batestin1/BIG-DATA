@@ -1,63 +1,63 @@
 {
  "spk_id":2006012,
- "object_id":"s0000006011",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"112404593m/s",
+ "object_id":"m0000006011",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"251764459m/s",
  "object_fullname":{
-  "fullname":"2002 CO",
-  "prefix":"2002 ",
-  "name":"HRISTOBOTEV"
+  "fullname":"2008 TE",
+  "prefix":"2008 ",
+  "name":"HIROSE"
  },
- "pdes":415,
+ "pdes":115,
  "diameter_full":{
-  "diameter":21.542265,
-  "diameter_sigma":2.390942786
+  "diameter":43.24632,
+  "diameter_sigma":1.94216703
  },
  "h":2.0,
- "albedo":0.8798,
- "orbit_id":"QCS 60",
+ "albedo":0.263615831,
+ "orbit_id":"RDE 79",
  "epoch_full":{
-  "epoch":8594236.0,
-  "epoch_mjd":10473,
+  "epoch":8586225.0,
+  "epoch_mjd":41803,
   "epoch_cal":20220214.0
  },
- "equinox":"S4642",
- "om":20.38929663924,
- "e":0.3,
- "a":82.4175583,
- "q":595.4401075,
- "i":277.0,
- "w":87.617921252,
- "ad":0.4383977,
- "ma":1.797932,
- "n":78.543153,
+ "equinox":"P9161",
+ "om":41.710568984077,
+ "e":0.8,
+ "a":9255409705.627,
+ "q":71216652.745182,
+ "i":500272.2870626,
+ "w":29.226322,
+ "ad":0.31,
+ "ma":95.8212957,
+ "n":25.99456,
  "tp_full":{
-  "tp_cal":64.5428182,
-  "tp":38.6497736
+  "tp_cal":80.422,
+  "tp":98.3277161
  },
  "per_full":{
-  "per":9.3823014698171,
-  "per_y":27.3616223
+  "per":27.17,
+  "per_y":72.79773043
  },
  "sigma_full":{
-  "sigma_e":"3.41E-32",
-  "sigma_a":"4.20E-37",
-  "sigma_q":"6.38S-29",
-  "sigma_i":"1.12M-22",
-  "sigma_om":"5.71F-36",
-  "sigma_w":"8.22A-21",
-  "sigma_ma":"9.70P-92",
-  "sigma_ad":"4.72M-35",
-  "sigma_n":"1.12M-98",
-  "sigma_tp":"9.49P-67",
-  "sigma_per":"9.59P-17"
+  "sigma_e":"8.36C-24",
+  "sigma_a":"9.71T-37",
+  "sigma_q":"7.73W-77",
+  "sigma_i":"9.76D-14",
+  "sigma_om":"8.45H-20",
+  "sigma_w":"4.28M-19",
+  "sigma_ma":"7.55O-56",
+  "sigma_ad":"8.60C-25",
+  "sigma_n":"7.83O-66",
+  "sigma_tp":"9.64K-17",
+  "sigma_per":"9.20S-34"
  },
- "rms":0.318504736,
+ "rms":0.3654811338,
  "moid_full":{
-  "moid":0.9,
-  "moid_id":88.335
+  "moid":0.0,
+  "moid_id":36.64234
  },
  "class_asteroid":"S-"
 }

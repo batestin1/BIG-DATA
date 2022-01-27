@@ -1,63 +1,63 @@
 {
  "spk_id":2002592,
- "object_id":"r0000002591",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"509596859m/s",
+ "object_id":"p0000002591",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"847471509m/s",
  "object_fullname":{
-  "fullname":"2007 VA",
-  "prefix":"2007 ",
-  "name":"HERMIONE"
+  "fullname":"2020 PO",
+  "prefix":"2020 ",
+  "name":"IRMA"
  },
- "pdes":736,
+ "pdes":601,
  "diameter_full":{
-  "diameter":79.4,
-  "diameter_sigma":6.43
+  "diameter":15.0,
+  "diameter_sigma":7.2626
  },
- "h":0.7777777777777778,
- "albedo":0.18023,
- "orbit_id":"VSH 36",
+ "h":0.6666666666666666,
+ "albedo":0.0,
+ "orbit_id":"SMD 60",
  "epoch_full":{
-  "epoch":1548625.0,
-  "epoch_mjd":84845,
-  "epoch_cal":20220211.0
+  "epoch":1166271.0,
+  "epoch_mjd":47312,
+  "epoch_cal":20220203.0
  },
- "equinox":"C2232",
- "om":53.1052029934652,
- "e":0.9,
- "a":64662.8,
- "q":5.0,
- "i":9913877731.9,
- "w":46.50038874679564,
- "ad":0.0,
- "ma":98.59430750569,
- "n":33.7577,
+ "equinox":"T8003",
+ "om":22.418273,
+ "e":0.7,
+ "a":47325819.63,
+ "q":1519727.15709,
+ "i":951.98,
+ "w":7.545689,
+ "ad":0.96928895266352,
+ "ma":54.1647259,
+ "n":71.562342,
  "tp_full":{
-  "tp_cal":78.34,
-  "tp":64.915167094
+  "tp_cal":92.5,
+  "tp":12.544012009835
  },
  "per_full":{
-  "per":79.62033437,
-  "per_y":67.1289193404
+  "per":52.147024,
+  "per_y":9.528
  },
  "sigma_full":{
-  "sigma_e":"1.12W-43",
-  "sigma_a":"9.46T-94",
-  "sigma_q":"9.94U-66",
-  "sigma_i":"7.23A-96",
-  "sigma_om":"4.87G-97",
-  "sigma_w":"8.82R-62",
-  "sigma_ma":"7.52R-78",
-  "sigma_ad":"9.82A-34",
-  "sigma_n":"1.41E-41",
-  "sigma_tp":"8.21D-47",
-  "sigma_per":"3.99U-26"
+  "sigma_e":"7.95D-56",
+  "sigma_a":"2.39S-14",
+  "sigma_q":"4.12A-51",
+  "sigma_i":"9.74A-64",
+  "sigma_om":"2.38T-78",
+  "sigma_w":"1.80P-85",
+  "sigma_ma":"4.35F-18",
+  "sigma_ad":"9.99S-13",
+  "sigma_n":"9.69B-44",
+  "sigma_tp":"4.33R-98",
+  "sigma_per":"2.62D-43"
  },
- "rms":0.218799838,
+ "rms":0.10512841,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":67.996982068
+  "moid":0.831739704,
+  "moid_id":79.30306
  },
- "class_asteroid":"S-"
+ "class_asteroid":"M-types"
 }

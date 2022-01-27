@@ -1,63 +1,63 @@
 {
  "spk_id":2003387,
- "object_id":"i0000003386",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"519295165m/s",
+ "object_id":"h0000003386",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"81695232m/s",
  "object_fullname":{
-  "fullname":"2013 BA",
-  "prefix":"2013 ",
-  "name":"HOSHIKAWA"
+  "fullname":"2010 BA",
+  "prefix":"2010 ",
+  "name":"CELIAN"
  },
- "pdes":803,
+ "pdes":279,
  "diameter_full":{
-  "diameter":50.5,
-  "diameter_sigma":8.93
+  "diameter":83.324941411,
+  "diameter_sigma":2.987652
  },
- "h":1.3333333333333333,
+ "h":1.5,
  "albedo":0.4,
- "orbit_id":"TLT 90",
+ "orbit_id":"WTI 39",
  "epoch_full":{
-  "epoch":1557676.0,
-  "epoch_mjd":69364,
-  "epoch_cal":20220207.0
+  "epoch":8263370.0,
+  "epoch_mjd":78186,
+  "epoch_cal":20220220.0
  },
- "equinox":"Y1152",
- "om":15.5,
- "e":0.95,
- "a":43599.51,
- "q":8819777.44,
- "i":8.34348,
- "w":60.5831564493,
- "ad":0.232349,
- "ma":92.9267,
- "n":21.3861652658,
+ "equinox":"S2998",
+ "om":61.3719222,
+ "e":0.975135,
+ "a":828009844454614.0,
+ "q":85323882457.0,
+ "i":1.6743264,
+ "w":63.62142935189,
+ "ad":0.278,
+ "ma":7.7953757,
+ "n":30.2196943387827,
  "tp_full":{
-  "tp_cal":19.5,
-  "tp":2.6801781079071
+  "tp_cal":38.24259,
+  "tp":17.96300252246
  },
  "per_full":{
-  "per":2.0,
-  "per_y":34.79
+  "per":55.2,
+  "per_y":2.552822228903
  },
  "sigma_full":{
-  "sigma_e":"7.66I-32",
-  "sigma_a":"5.38O-29",
-  "sigma_q":"8.20W-27",
-  "sigma_i":"3.82M-27",
-  "sigma_om":"1.94B-89",
-  "sigma_w":"7.18M-58",
-  "sigma_ma":"8.32H-56",
-  "sigma_ad":"5.85O-52",
-  "sigma_n":"9.98D-67",
-  "sigma_tp":"2.93P-29",
-  "sigma_per":"2.82E-29"
+  "sigma_e":"6.97L-89",
+  "sigma_a":"5.33I-27",
+  "sigma_q":"4.71F-22",
+  "sigma_i":"3.85A-78",
+  "sigma_om":"1.74R-75",
+  "sigma_w":"9.15W-14",
+  "sigma_ma":"4.85W-81",
+  "sigma_ad":"8.49C-25",
+  "sigma_n":"2.75P-21",
+  "sigma_tp":"6.32T-64",
+  "sigma_per":"3.62J-75"
  },
- "rms":0.0,
+ "rms":0.49448,
  "moid_full":{
-  "moid":0.97,
-  "moid_id":76.80509743423704
+  "moid":0.362429,
+  "moid_id":28.8
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

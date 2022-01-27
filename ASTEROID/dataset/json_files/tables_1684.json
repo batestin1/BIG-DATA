@@ -1,63 +1,63 @@
 {
  "spk_id":2001685,
- "object_id":"s0000001684",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"236165934m/s",
+ "object_id":"t0000001684",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"625647438m/s",
  "object_fullname":{
-  "fullname":"2014 SC",
-  "prefix":"2014 ",
-  "name":"FLORENA"
+  "fullname":"2012 OK",
+  "prefix":"2012 ",
+  "name":"KAISERSTUHL"
  },
- "pdes":467,
+ "pdes":679,
  "diameter_full":{
-  "diameter":60.16753669967732,
-  "diameter_sigma":7.1
+  "diameter":88.7,
+  "diameter_sigma":7.8045110335084
  },
- "h":0.17647058823529413,
- "albedo":0.32962585533,
- "orbit_id":"TFT 71",
+ "h":2.0,
+ "albedo":0.234,
+ "orbit_id":"RPP 15",
  "epoch_full":{
-  "epoch":2473424.0,
-  "epoch_mjd":80167,
-  "epoch_cal":20220223.0
+  "epoch":2458161.0,
+  "epoch_mjd":84809,
+  "epoch_cal":20220221.0
  },
- "equinox":"C8622",
- "om":95.0,
- "e":0.8715,
- "a":916953345828.29,
- "q":46738570291465.0,
- "i":1840.1303,
- "w":60.48658066,
- "ad":0.0,
- "ma":70.42901340918,
- "n":9.2826720152526,
+ "equinox":"F9807",
+ "om":30.551,
+ "e":0.50140695483,
+ "a":6102202.42,
+ "q":1279142.580248,
+ "i":39712992209704.3,
+ "w":18.86156946904,
+ "ad":0.46,
+ "ma":72.7579409305,
+ "n":66.3,
  "tp_full":{
-  "tp_cal":5.5837,
-  "tp":72.60599
+  "tp_cal":29.531626,
+  "tp":19.84
  },
  "per_full":{
-  "per":26.1301679,
-  "per_y":16.7523972621
+  "per":73.62,
+  "per_y":70.4
  },
  "sigma_full":{
-  "sigma_e":"6.16P-60",
-  "sigma_a":"5.59I-39",
-  "sigma_q":"9.88O-59",
-  "sigma_i":"5.72P-97",
-  "sigma_om":"9.28R-54",
-  "sigma_w":"4.29W-40",
-  "sigma_ma":"5.99I-31",
-  "sigma_ad":"5.74T-43",
-  "sigma_n":"3.17O-79",
-  "sigma_tp":"2.82S-84",
-  "sigma_per":"3.66S-75"
+  "sigma_e":"6.49E-41",
+  "sigma_a":"1.10S-72",
+  "sigma_q":"1.62W-10",
+  "sigma_i":"9.12O-83",
+  "sigma_om":"6.45O-75",
+  "sigma_w":"9.63W-50",
+  "sigma_ma":"5.77H-19",
+  "sigma_ad":"3.13S-50",
+  "sigma_n":"8.68A-24",
+  "sigma_tp":"5.35F-14",
+  "sigma_per":"8.52S-45"
  },
- "rms":0.9,
+ "rms":0.709173,
  "moid_full":{
-  "moid":0.1472969,
-  "moid_id":66.10201506
+  "moid":0.606184154,
+  "moid_id":73.840541
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"C-"
 }

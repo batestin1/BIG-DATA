@@ -1,63 +1,63 @@
 {
  "spk_id":2001287,
- "object_id":"m0000001286",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"757773382m/s",
+ "object_id":"o0000001286",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"558764444m/s",
  "object_fullname":{
-  "fullname":"2014 AR",
-  "prefix":"2014 ",
-  "name":"FREDDIEMERCURY"
+  "fullname":"2013 PI",
+  "prefix":"2013 ",
+  "name":"BIRNFELD"
  },
- "pdes":739,
+ "pdes":408,
  "diameter_full":{
-  "diameter":85.67872375,
-  "diameter_sigma":6.21
+  "diameter":57.9708,
+  "diameter_sigma":3.7222659
  },
- "h":1.3571428571428572,
- "albedo":0.0,
- "orbit_id":"GTI 86",
+ "h":4.0,
+ "albedo":0.824,
+ "orbit_id":"BWS 90",
  "epoch_full":{
-  "epoch":1446556.0,
-  "epoch_mjd":29334,
-  "epoch_cal":20220207.0
+  "epoch":2807036.0,
+  "epoch_mjd":69097,
+  "epoch_cal":20220128.0
  },
- "equinox":"L5544",
- "om":70.0,
- "e":0.67613874552,
- "a":4.120749,
- "q":3438.66872812,
- "i":82276735.838,
- "w":53.2,
- "ad":0.3,
- "ma":90.0,
- "n":73.31,
+ "equinox":"P9678",
+ "om":38.8652682335,
+ "e":0.76027,
+ "a":2336711.0,
+ "q":53467.14538,
+ "i":5.95237186,
+ "w":96.0,
+ "ad":0.217474,
+ "ma":22.854,
+ "n":31.0,
  "tp_full":{
-  "tp_cal":29.53,
-  "tp":57.661923
+  "tp_cal":57.74791868667,
+  "tp":44.0
  },
  "per_full":{
-  "per":32.950258507,
-  "per_y":75.23299662
+  "per":38.89617837,
+  "per_y":15.9922665
  },
  "sigma_full":{
-  "sigma_e":"2.30P-50",
-  "sigma_a":"4.85S-22",
-  "sigma_q":"9.85M-86",
-  "sigma_i":"6.50P-16",
-  "sigma_om":"4.51T-85",
-  "sigma_w":"8.75R-66",
-  "sigma_ma":"7.88M-46",
-  "sigma_ad":"2.36N-81",
-  "sigma_n":"1.75T-42",
-  "sigma_tp":"6.60T-32",
-  "sigma_per":"2.53C-98"
+  "sigma_e":"9.36R-27",
+  "sigma_a":"8.74T-94",
+  "sigma_q":"5.32B-55",
+  "sigma_i":"4.82Y-32",
+  "sigma_om":"4.88L-32",
+  "sigma_w":"7.43H-26",
+  "sigma_ma":"6.98V-10",
+  "sigma_ad":"3.63P-76",
+  "sigma_n":"4.71O-33",
+  "sigma_tp":"7.84N-61",
+  "sigma_per":"8.58T-86"
  },
- "rms":0.609,
+ "rms":0.354671666,
  "moid_full":{
-  "moid":0.558588,
-  "moid_id":77.75872982144395
+  "moid":0.0,
+  "moid_id":92.44415288
  },
- "class_asteroid":"C-"
+ "class_asteroid":"M-types"
 }

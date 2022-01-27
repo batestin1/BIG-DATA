@@ -1,63 +1,63 @@
 {
  "spk_id":2003019,
- "object_id":"p0000003018",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"466727032m/s",
+ "object_id":"c0000003018",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"152950041m/s",
  "object_fullname":{
-  "fullname":"2000 MY",
-  "prefix":"2000 ",
-  "name":"GREGORIANA"
+  "fullname":"2001 TR",
+  "prefix":"2001 ",
+  "name":"CISNEROS"
  },
- "pdes":906,
+ "pdes":711,
  "diameter_full":{
-  "diameter":73.7329,
-  "diameter_sigma":3.95
+  "diameter":4.3025255,
+  "diameter_sigma":7.271680992174
  },
- "h":9.0,
- "albedo":0.3714,
- "orbit_id":"ENT 73",
+ "h":3.5,
+ "albedo":0.83,
+ "orbit_id":"CPR 63",
  "epoch_full":{
-  "epoch":1668463.0,
-  "epoch_mjd":38331,
-  "epoch_cal":20220222.0
+  "epoch":6365567.0,
+  "epoch_mjd":80994,
+  "epoch_cal":20220210.0
  },
- "equinox":"C1275",
- "om":32.0,
- "e":0.0,
- "a":96623449.8873,
- "q":588895189.2996,
- "i":65465.4583,
- "w":35.9,
- "ad":0.0,
- "ma":68.19597797534834,
- "n":49.44319616192287,
+ "equinox":"T6148",
+ "om":97.24471,
+ "e":0.7386,
+ "a":4488363332269.5,
+ "q":605217.85,
+ "i":3376316.669364,
+ "w":18.10819,
+ "ad":0.357526,
+ "ma":1.852157,
+ "n":19.79,
  "tp_full":{
-  "tp_cal":73.5096377504156,
-  "tp":83.0
+  "tp_cal":55.842461992,
+  "tp":5.2882011874925
  },
  "per_full":{
-  "per":12.448820088,
-  "per_y":27.3
+  "per":35.38684538125782,
+  "per_y":63.0
  },
  "sigma_full":{
-  "sigma_e":"3.20S-22",
-  "sigma_a":"4.83S-19",
-  "sigma_q":"3.14M-95",
-  "sigma_i":"2.34U-43",
-  "sigma_om":"6.43M-51",
-  "sigma_w":"9.27B-83",
-  "sigma_ma":"8.61S-34",
-  "sigma_ad":"4.28T-27",
-  "sigma_n":"6.38D-26",
-  "sigma_tp":"8.55A-37",
-  "sigma_per":"9.41F-62"
+  "sigma_e":"7.22D-99",
+  "sigma_a":"8.38C-94",
+  "sigma_q":"7.60M-94",
+  "sigma_i":"3.76A-95",
+  "sigma_om":"7.54S-54",
+  "sigma_w":"6.43E-89",
+  "sigma_ma":"3.65C-57",
+  "sigma_ad":"1.34D-67",
+  "sigma_n":"3.72D-42",
+  "sigma_tp":"7.93W-74",
+  "sigma_per":"7.32S-70"
  },
- "rms":0.202,
+ "rms":0.94,
  "moid_full":{
-  "moid":0.508918,
-  "moid_id":70.4579
+  "moid":0.48973,
+  "moid_id":53.829754897
  },
- "class_asteroid":"S-"
+ "class_asteroid":"Other Types"
 }

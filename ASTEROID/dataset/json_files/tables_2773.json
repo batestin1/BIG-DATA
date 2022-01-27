@@ -1,63 +1,63 @@
 {
  "spk_id":2002774,
- "object_id":"l0000002773",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"486480698m/s",
+ "object_id":"e0000002773",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"327031268m/s",
  "object_fullname":{
-  "fullname":"2019 DI",
-  "prefix":"2019 ",
-  "name":"KANBA"
+  "fullname":"2009 LI",
+  "prefix":"2009 ",
+  "name":"ISHIGAKI"
  },
- "pdes":945,
+ "pdes":190,
  "diameter_full":{
-  "diameter":3.657381,
-  "diameter_sigma":7.462142
+  "diameter":2.8939,
+  "diameter_sigma":1.42
  },
- "h":1.2666666666666666,
- "albedo":0.977,
- "orbit_id":"OAR 86",
+ "h":1.25,
+ "albedo":0.4,
+ "orbit_id":"CBN 69",
  "epoch_full":{
-  "epoch":9636353.0,
-  "epoch_mjd":32622,
-  "epoch_cal":20220202.0
+  "epoch":2862346.0,
+  "epoch_mjd":30360,
+  "epoch_cal":20220224.0
  },
- "equinox":"R8079",
- "om":5.7136986,
- "e":0.1,
- "a":67185.2451,
- "q":720.38178847222,
- "i":26.1649,
- "w":40.5967388511577,
- "ad":0.524,
- "ma":43.886495445722,
- "n":20.401672733,
+ "equinox":"A1263",
+ "om":16.2922725779,
+ "e":0.393356,
+ "a":1809966551892.99,
+ "q":68475584362.3795,
+ "i":7.56389052,
+ "w":73.3377,
+ "ad":0.1022,
+ "ma":10.989641907,
+ "n":84.101045143,
  "tp_full":{
-  "tp_cal":66.563172848198,
-  "tp":83.55564530115235
+  "tp_cal":13.732110259,
+  "tp":89.0
  },
  "per_full":{
-  "per":86.0,
-  "per_y":32.488
+  "per":42.8058021282,
+  "per_y":52.1751977014045
  },
  "sigma_full":{
-  "sigma_e":"7.91D-40",
-  "sigma_a":"1.32G-83",
-  "sigma_q":"7.33P-59",
-  "sigma_i":"3.60R-69",
-  "sigma_om":"9.47O-54",
-  "sigma_w":"7.43F-27",
-  "sigma_ma":"4.74W-95",
-  "sigma_ad":"8.30S-61",
-  "sigma_n":"9.68S-51",
-  "sigma_tp":"9.50B-40",
-  "sigma_per":"9.92H-54"
+  "sigma_e":"9.41E-48",
+  "sigma_a":"8.58B-99",
+  "sigma_q":"2.88V-60",
+  "sigma_i":"3.52C-82",
+  "sigma_om":"2.89F-95",
+  "sigma_w":"1.33S-62",
+  "sigma_ma":"8.52C-17",
+  "sigma_ad":"2.50T-94",
+  "sigma_n":"9.40C-16",
+  "sigma_tp":"3.52L-80",
+  "sigma_per":"6.54B-32"
  },
- "rms":0.29,
+ "rms":0.3,
  "moid_full":{
-  "moid":0.1,
-  "moid_id":56.7
+  "moid":0.0,
+  "moid_id":7.144
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"Other Types"
 }

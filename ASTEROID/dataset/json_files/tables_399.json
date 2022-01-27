@@ -1,63 +1,63 @@
 {
  "spk_id":2000400,
- "object_id":"i000000399",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"87739127m/s",
+ "object_id":"s000000399",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"326890012m/s",
  "object_fullname":{
-  "fullname":"2006 PR",
-  "prefix":"2006 ",
-  "name":"ATIRA"
+  "fullname":"2012 OF",
+  "prefix":"2012 ",
+  "name":"FREEMAN"
  },
- "pdes":391,
+ "pdes":638,
  "diameter_full":{
-  "diameter":39.9947581,
-  "diameter_sigma":5.8188
+  "diameter":56.641,
+  "diameter_sigma":9.34988628184293
  },
  "h":1.0,
- "albedo":0.746,
- "orbit_id":"FWW 84",
+ "albedo":0.7914405,
+ "orbit_id":"ELR 96",
  "epoch_full":{
-  "epoch":6891502.0,
-  "epoch_mjd":65221,
-  "epoch_cal":20220204.0
+  "epoch":5032185.0,
+  "epoch_mjd":77867,
+  "epoch_cal":20220205.0
  },
- "equinox":"I8550",
- "om":67.16,
- "e":0.56,
- "a":6634.130605,
- "q":1145.49017,
- "i":4862299300153.0,
- "w":91.0,
- "ad":0.759239,
- "ma":79.771159,
- "n":87.0,
+ "equinox":"S4891",
+ "om":11.2640185,
+ "e":0.5,
+ "a":6631281762538.4,
+ "q":6536019356117.73,
+ "i":9357063.57,
+ "w":26.654869,
+ "ad":0.0,
+ "ma":92.28499688076143,
+ "n":92.44,
  "tp_full":{
-  "tp_cal":6.277,
-  "tp":90.86217
+  "tp_cal":84.3743521247,
+  "tp":59.14546
  },
  "per_full":{
-  "per":8.903865335,
-  "per_y":50.401051171508
+  "per":46.0,
+  "per_y":40.7392472394
  },
  "sigma_full":{
-  "sigma_e":"4.45I-14",
-  "sigma_a":"2.31E-85",
-  "sigma_q":"5.68L-73",
-  "sigma_i":"9.80W-14",
-  "sigma_om":"5.88B-29",
-  "sigma_w":"4.22R-31",
-  "sigma_ma":"9.32P-55",
-  "sigma_ad":"9.50M-86",
-  "sigma_n":"5.38M-38",
-  "sigma_tp":"1.90C-15",
-  "sigma_per":"9.34S-36"
+  "sigma_e":"9.56T-26",
+  "sigma_a":"5.13V-77",
+  "sigma_q":"1.86C-49",
+  "sigma_i":"2.24W-94",
+  "sigma_om":"4.17T-35",
+  "sigma_w":"8.56B-67",
+  "sigma_ma":"3.46A-22",
+  "sigma_ad":"6.96T-59",
+  "sigma_n":"3.71P-52",
+  "sigma_tp":"9.94W-56",
+  "sigma_per":"5.13D-88"
  },
- "rms":0.136974144957,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":24.89855
+  "moid":0.15,
+  "moid_id":24.44843
  },
- "class_asteroid":"S-"
+ "class_asteroid":"C-"
 }

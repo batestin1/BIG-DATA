@@ -1,63 +1,63 @@
 {
  "spk_id":2004222,
- "object_id":"t0000004221",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"256881810m/s",
+ "object_id":"p0000004221",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"609822658m/s",
  "object_fullname":{
-  "fullname":"2017 LA",
-  "prefix":"2017 ",
-  "name":"COSETTE"
+  "fullname":"2006 ST",
+  "prefix":"2006 ",
+  "name":"DURDA"
  },
- "pdes":412,
+ "pdes":723,
  "diameter_full":{
-  "diameter":40.12959,
-  "diameter_sigma":1.0
+  "diameter":8.243495052,
+  "diameter_sigma":9.44062
  },
- "h":0.35714285714285715,
- "albedo":0.4,
- "orbit_id":"EFH 38",
+ "h":1.0,
+ "albedo":0.2,
+ "orbit_id":"OCH 74",
  "epoch_full":{
-  "epoch":7750260.0,
-  "epoch_mjd":37055,
+  "epoch":2872696.0,
+  "epoch_mjd":35595,
   "epoch_cal":20220217.0
  },
- "equinox":"S4339",
- "om":14.2442230155106,
- "e":0.6788,
- "a":39048623.9,
- "q":7301424215.5,
- "i":32.654889886979,
- "w":87.1567816,
- "ad":0.0,
- "ma":42.1625135,
- "n":30.30419921,
+ "equinox":"P6848",
+ "om":87.59,
+ "e":0.367142387,
+ "a":5698590830.6334,
+ "q":916969.7631981,
+ "i":505294266251.0,
+ "w":93.76,
+ "ad":0.2539,
+ "ma":69.536381,
+ "n":7.17347,
  "tp_full":{
-  "tp_cal":42.492057403,
-  "tp":52.180292351228
+  "tp_cal":42.5,
+  "tp":55.9732
  },
  "per_full":{
-  "per":34.8258926349924,
-  "per_y":31.95024924005885
+  "per":86.760496311,
+  "per_y":37.5630424866817
  },
  "sigma_full":{
-  "sigma_e":"8.70T-22",
-  "sigma_a":"3.70C-87",
-  "sigma_q":"6.56H-20",
-  "sigma_i":"9.67F-81",
-  "sigma_om":"7.90B-64",
-  "sigma_w":"1.53B-48",
-  "sigma_ma":"2.54W-90",
-  "sigma_ad":"3.37F-68",
-  "sigma_n":"5.42A-15",
-  "sigma_tp":"1.65M-17",
-  "sigma_per":"6.95N-53"
+  "sigma_e":"8.93E-69",
+  "sigma_a":"7.74S-29",
+  "sigma_q":"3.20T-84",
+  "sigma_i":"9.31R-89",
+  "sigma_om":"4.41B-74",
+  "sigma_w":"3.23I-73",
+  "sigma_ma":"2.11C-86",
+  "sigma_ad":"4.40P-20",
+  "sigma_n":"9.51O-36",
+  "sigma_tp":"2.64P-97",
+  "sigma_per":"4.23G-16"
  },
- "rms":0.30972898916,
+ "rms":0.0,
  "moid_full":{
-  "moid":0.7,
-  "moid_id":96.470168
+  "moid":0.3543,
+  "moid_id":43.95416
  },
- "class_asteroid":"M-types"
+ "class_asteroid":"S-"
 }

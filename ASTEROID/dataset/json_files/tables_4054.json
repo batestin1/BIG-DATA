@@ -1,63 +1,63 @@
 {
  "spk_id":2004055,
- "object_id":"d0000004054",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"275794902m/s",
+ "object_id":"s0000004054",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"668144291m/s",
  "object_fullname":{
-  "fullname":"2017 DE",
-  "prefix":"2017 ",
-  "name":"KALUGA"
+  "fullname":"2020 RA",
+  "prefix":"2020 ",
+  "name":"HUBBARD"
  },
- "pdes":198,
+ "pdes":504,
  "diameter_full":{
-  "diameter":49.420667926982,
-  "diameter_sigma":7.75679
+  "diameter":18.29816037941,
+  "diameter_sigma":1.87
  },
- "h":0.3125,
- "albedo":0.629,
- "orbit_id":"OCF 23",
+ "h":0.13333333333333333,
+ "albedo":0.7,
+ "orbit_id":"MDE 30",
  "epoch_full":{
-  "epoch":5427325.0,
-  "epoch_mjd":40792,
-  "epoch_cal":20220212.0
+  "epoch":4306528.0,
+  "epoch_mjd":63397,
+  "epoch_cal":20220204.0
  },
- "equinox":"D8610",
- "om":72.23074707597,
- "e":0.11409782866,
- "a":897678372.1,
- "q":13179.6431,
- "i":959747859.2,
- "w":43.462,
- "ad":0.0,
- "ma":28.3304199,
- "n":47.9075,
+ "equinox":"H4176",
+ "om":45.0,
+ "e":0.0,
+ "a":291405335774.0,
+ "q":132687.4524644,
+ "i":454.2391030754,
+ "w":40.6876252858,
+ "ad":0.69,
+ "ma":75.57,
+ "n":52.31976612206,
  "tp_full":{
-  "tp_cal":89.7105,
-  "tp":74.3856952
+  "tp_cal":38.159201,
+  "tp":35.58756
  },
  "per_full":{
-  "per":3.54004482007,
-  "per_y":70.3712001710184
+  "per":23.288004,
+  "per_y":68.648804848736
  },
  "sigma_full":{
-  "sigma_e":"4.25T-81",
-  "sigma_a":"4.64A-53",
-  "sigma_q":"7.90F-74",
-  "sigma_i":"9.25W-49",
-  "sigma_om":"1.38R-73",
-  "sigma_w":"5.35D-12",
-  "sigma_ma":"3.98M-37",
-  "sigma_ad":"4.70B-70",
-  "sigma_n":"8.66N-97",
-  "sigma_tp":"3.42K-39",
-  "sigma_per":"8.68W-96"
+  "sigma_e":"5.73E-41",
+  "sigma_a":"9.17K-35",
+  "sigma_q":"7.75B-61",
+  "sigma_i":"2.95N-93",
+  "sigma_om":"9.61W-60",
+  "sigma_w":"3.46T-21",
+  "sigma_ma":"5.10S-12",
+  "sigma_ad":"6.49C-59",
+  "sigma_n":"2.67S-47",
+  "sigma_tp":"2.37J-67",
+  "sigma_per":"7.74A-48"
  },
- "rms":0.0,
+ "rms":0.89467448868631,
  "moid_full":{
-  "moid":0.0,
-  "moid_id":36.225092
+  "moid":0.66860481,
+  "moid_id":15.7426
  },
- "class_asteroid":"Other Types"
+ "class_asteroid":"M-types"
 }

@@ -1,63 +1,63 @@
 {
  "spk_id":2006110,
- "object_id":"y0000006109",
- "data_of_first_obs":"20211809",
- "data_of_final_obs":"20220122",
- "observation days":8313,
- "speed":"493855614m/s",
+ "object_id":"m0000006109",
+ "data_of_first_obs":"20210101",
+ "data_of_final_obs":"20220126",
+ "observation days":10025,
+ "speed":"335245143m/s",
  "object_fullname":{
-  "fullname":"2008 EC",
-  "prefix":"2008 ",
-  "name":"ANGELALOUISE"
+  "fullname":"2013 AN",
+  "prefix":"2013 ",
+  "name":"KAROLINUM"
  },
- "pdes":418,
+ "pdes":260,
  "diameter_full":{
-  "diameter":83.833727742753,
-  "diameter_sigma":6.598846333493
+  "diameter":95.96,
+  "diameter_sigma":5.10837521
  },
- "h":0.2727272727272727,
- "albedo":0.1,
- "orbit_id":"RTN 10",
+ "h":5.5,
+ "albedo":0.95609,
+ "orbit_id":"SWE 38",
  "epoch_full":{
-  "epoch":5886120.0,
-  "epoch_mjd":43588,
-  "epoch_cal":20220210.0
+  "epoch":3625071.0,
+  "epoch_mjd":20265,
+  "epoch_cal":20220207.0
  },
- "equinox":"L8795",
- "om":43.535737,
- "e":0.6,
- "a":75402.18411,
- "q":7061817031.0,
- "i":17.0,
- "w":45.31781,
- "ad":0.86,
- "ma":94.37026,
- "n":91.5026424,
+ "equinox":"P9961",
+ "om":9.6802792458,
+ "e":0.2,
+ "a":3.9773666916758,
+ "q":96409904423924.2,
+ "i":9978.1491374256,
+ "w":85.72,
+ "ad":0.0,
+ "ma":83.475847,
+ "n":37.513,
  "tp_full":{
-  "tp_cal":84.2578,
-  "tp":32.3328
+  "tp_cal":52.71355063666,
+  "tp":12.6
  },
  "per_full":{
-  "per":45.867,
-  "per_y":17.482
+  "per":88.19687417645,
+  "per_y":58.4344666
  },
  "sigma_full":{
-  "sigma_e":"6.90F-97",
-  "sigma_a":"9.23S-49",
-  "sigma_q":"7.74F-60",
-  "sigma_i":"7.31D-65",
-  "sigma_om":"9.45L-24",
-  "sigma_w":"5.71E-16",
-  "sigma_ma":"1.87H-15",
-  "sigma_ad":"5.64M-70",
-  "sigma_n":"8.67H-37",
-  "sigma_tp":"9.24H-20",
-  "sigma_per":"5.80T-83"
+  "sigma_e":"6.49T-83",
+  "sigma_a":"4.74D-50",
+  "sigma_q":"8.17A-64",
+  "sigma_i":"6.81A-19",
+  "sigma_om":"5.15P-50",
+  "sigma_w":"3.12D-42",
+  "sigma_ma":"3.97W-97",
+  "sigma_ad":"7.31I-43",
+  "sigma_n":"8.85S-93",
+  "sigma_tp":"1.61S-99",
+  "sigma_per":"1.17D-12"
  },
- "rms":0.3174,
+ "rms":0.55,
  "moid_full":{
-  "moid":0.133577,
-  "moid_id":72.901
+  "moid":0.26,
+  "moid_id":62.6172428
  },
- "class_asteroid":"C-"
+ "class_asteroid":"Other Types"
 }
